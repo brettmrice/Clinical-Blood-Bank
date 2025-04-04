@@ -1,0 +1,107 @@
+# Kell {-}
+
+Clinically, **Kell blood group system (ISBT 006)** is a major player, right behind ABO and Rh, primarily because the **K antigen (KEL1)** is highly immunogenic and the resulting **anti-K** is relatively common and can cause significant transfusion reactions and Hemolytic Disease of the Fetus and Newborn (HDFN). Unlike systems like ABO or Lewis, Kell antigens are located on a specific **transmembrane protein** (a zinc endopeptidase) encoded by the *KEL* gene. The presence or absence of key amino acids on this protein defines the various Kell antigens, most notably the antithetical **K (KEL1)** and **k (Cellano, KEL2)** pair. Proper expression of Kell antigens also relies on its structural link to another protein, **Kx**, which has its own implications when absent (McLeod phenotype)
+
+## **Genetics: The *KEL* Gene** {-}
+
+*   The Kell system antigens are encoded by the ***KEL* gene**, located on **chromosome 7**
+*   This single gene is responsible for the main Kell protein that carries most of the common Kell antigens
+
+## **Biochemistry: The Kell Protein** {-}
+
+Unlike ABO, Lewis, P1PK, or Ii which involve carbohydrates, **Kell antigens are located on a protein**
+
+*   **Structure:** The *KEL* gene codes for a **Type II transmembrane glycoprotein** (approx. 93 kDa). It passes through the red cell membrane only once, with its short N-terminal end inside the cell and the large C-terminal end (carrying the antigenic sites) outside the cell
+*   **Function:** The Kell protein is a **zinc-dependent endopeptidase** (a metalloprotease). It's known to cleave a substance called endothelin-3, suggesting a role in vasoactive peptide metabolism, although its exact physiological role on RBCs isn't fully established
+*   **Crucial Linkage:** The Kell protein is **covalently linked** via a **disulfide bond** to another integral membrane protein called **Kx (XK protein)**. This linkage is vital for the proper expression and stability of Kell antigens in the membrane
+
+## **Major Kell Antigens: K and k (Kell and Cellano)** {-}
+
+These are the most commonly encountered antithetical pair in the Kell system:
+
+*   **K Antigen (KEL1)**
+    *   **Biochemistry:** Defined by the presence of **Threonine** at amino acid position 193 of the Kell protein
+    *   **Prevalence:** Relatively **low prevalence** antigen, found in about 9% of the Caucasian population, and even less frequent in individuals of African descent (around 2%)
+    *   **Immunogenicity:** **Highly immunogenic!** It's considered the third most potent antigen at stimulating antibody production after A, B, and D. This is why anti-K is one of the most common non-ABO antibodies encountered
+
+*   **k Antigen (Cellano, KEL2)**
+    *   **Biochemistry:** Defined by the presence of **Methionine** at amino acid position 193 (a single nucleotide polymorphism in the *KEL* gene causes this Thr -> Met swap)
+    *   **Prevalence:** Very **high prevalence** antigen, found in over 98% of most populations
+    *   **Immunogenicity:** Rarely encountered as an antibody (anti-k) because most people possess the k antigen and won't make antibodies against it
+
+*   **Inheritance:** An individual can be homozygous (*KK* - very rare, *kk* - common) or heterozygous (*Kk*)
+
+## **Other Important Kell Antigen Pairs** {-}
+
+There are over 30 antigens in the Kell system, but two other antithetical pairs are particularly noteworthy:
+
+*   **Kp Antigens**
+    *   **Kp<sup>a</sup> (KEL3) / Kp<sup>b</sup> (KEL4):** Result from an amino acid change at position 281 (Arg -> Trp)
+    *   **Kp<sup>a</sup>:** Low prevalence (~2% Caucasians)
+    *   **Kp<sup>b</sup>:** High prevalence (>99.9%)
+    *   Anti-Kp<sup>a</sup> is sometimes seen; anti-Kp<sup>b</sup> is rare
+
+*   **Js Antigens**
+    *   **Js<sup>a</sup> (KEL6) / Js<sup>b</sup> (KEL7):** Result from an amino acid change at position 597 (Leu -> Pro)
+    *   **Js<sup>a</sup>:** Low prevalence in Caucasians (<0.1%) but significantly higher prevalence in individuals of **African descent (~20%)**
+    *   **Js<sup>b</sup>:** High prevalence (>99.9% in Caucasians, ~99% in African descent)
+    *   Anti-Js<sup>a</sup> is sometimes seen, particularly in Caucasian populations; anti-Js<sup>b</sup> is rare
+
+## **The Kx Blood Group System (ISBT 019) and its Link to Kell** {-}
+
+The Kx system is intrinsically linked to Kell expression:
+
+*   **Kx Protein (XK protein):** Encoded by the ***XK* gene**, located on the **X chromosome** (important for inheritance pattern!)
+*   **Structure:** A multi-pass transmembrane protein, distinct from the Kell protein
+*   **Function:** Precise function unknown, but thought to be involved in membrane transport and structural integrity
+*   **Relationship:** As mentioned, Kx is disulfide-linked to the Kell protein. Proper Kx expression is necessary for normal Kell antigen expression. Absence or reduction of Kx protein leads to reduced Kell antigen density
+
+## **Kell System Null Phenotypes** {-}
+
+*   **K<sub>0</sub> (Kell Null)**
+    *   **Phenotype:** Individuals lack expression of *all* Kell system antigens (K, k, Kp<sup>a</sup>, Kp<sup>b</sup>, Js<sup>a</sup>, Js<sup>b</sup>, etc.) on their RBCs
+    *   **Genetics:** Usually due to inheriting two rare, non-functional (amorph) *KEL* alleles
+    *   **Kx Expression:** These individuals have **elevated levels of Kx antigen** on their RBCs (because it's not linked to/masked by the Kell protein)
+    *   **Antibodies:** If exposed to normal Kell-positive cells, K<sub>0</sub> individuals can produce a potent antibody called **anti-Ku (KEL5)**, which reacts with a "universal" Kell epitope present on all cells except K<sub>0</sub> cells. Finding compatible (K<sub>0</sub>) blood is extremely difficult
+
+*   **McLeod Phenotype**
+    *   **Genetics:** Caused by mutations or deletions in the ***XK* gene** on the X chromosome (X-linked recessive inheritance)
+    *   **Biochemistry:** Results in absent or severely deficient Kx protein
+    *   **Kell Expression:** Leads to a **marked depression** (weakening) of all Kell system antigens, as Kx is needed for proper Kell expression/stability
+    *   **RBC Morphology:** Associated with **acanthocytosis** (spiky red cells)
+    *   **Clinical Syndrome (McLeod Syndrome):** A multi-system disorder primarily affecting males, characterized by:
+        *   Late-onset neurological problems (chorea, psychiatric issues)
+        *   Skeletal myopathy (muscle weakness)
+        *   Cardiomyopathy
+        *   Compensated hemolytic anemia (due to the acanthocytosis)
+    *   **Antibodies:** McLeod individuals may produce **anti-Kx** and/or **anti-Km (KEL20)** (another high-prevalence Kell antigen). Transfusion requires rare McLeod phenotype or K<sub>0</sub> blood
+
+## **Effect of Reagents on Kell Antigens** {-}
+
+This is a key feature used in antibody identification!
+
+*   **Sulfhydryl Reagents (DTT, 2-ME, AET):** Reagents like Dithiothreitol (DTT), 2-mercaptoethanol (2-ME), or ZZAP (which contains DTT) **DESTROY** Kell system antigens. They work by breaking the disulfide bonds that are critical for maintaining the structure of the Kell protein and its link to Kx
+*   **Proteolytic Enzymes (Ficin, Papain):** Kell antigens are generally **RESISTANT** to treatment with common enzymes like ficin and papain
+
+## **Kell Antibodies** {-}
+
+*   **Type:** Usually **IgG** (primarily IgG1), reacting best at the **AHG (Coombs) phase**
+*   **Stimulation:** Typically **immune stimulated** (require exposure through transfusion or pregnancy)
+*   **Clinical Significance:** **Clinically significant!** Capable of causing:
+    *   **Hemolytic Transfusion Reactions (HTRs):** Often extravascular, can be severe
+    *   **Hemolytic Disease of the Fetus and Newborn (HDFN):** Anti-K is a notorious cause of severe HDFN, sometimes through suppression of fetal erythropoiesis in addition to hemolysis
+*   **Dosage:** Kell antibodies generally **do not show dosage** (react similarly with homozygous and heterozygous cells)
+
+## **Key Terms** {-}
+
+*   ***KEL* Gene:** Gene on chromosome 7 encoding the Kell glycoprotein
+*   **Kell Protein:** Transmembrane zinc endopeptidase carrying Kell antigens
+*   ***XK* Gene:** Gene on the X chromosome encoding the Kx protein
+*   **Kx Protein:** Membrane protein linked to Kell protein, essential for normal Kell expression
+*   **K/k (KEL1/KEL2):** Major antithetical Kell antigens resulting from Thr193Met substitution
+*   **Kp<sup>a</sup>/Kp<sup>b</sup> (KEL3/KEL4):** Antithetical Kell antigens (Arg281Trp)
+*   **Js<sup>a</sup>/Js<sup>b</sup> (KEL6/KEL7):** Antithetical Kell antigens (Leu597Pro), Js<sup>a</sup> more common in African descent
+*   **K<sub>0</sub> (Kell Null):** Phenotype lacking all Kell antigens but with increased Kx
+*   **McLeod Phenotype/Syndrome:** X-linked condition due to *XK* defect, causing absent Kx, weakened Kell antigens, acanthocytosis, and multi-system clinical features
+*   **Sulfhydryl Reagents (DTT, ZZAP):** Chemicals that destroy Kell antigens by breaking disulfide bonds
+*   **Immunogenicity:** Ability to provoke an immune response (K antigen is highly immunogenic)

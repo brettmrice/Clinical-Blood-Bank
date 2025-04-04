@@ -1,0 +1,70 @@
+# Biochemistry/Antigens {-}
+
+The surfaces of our red blood cells, white blood cells, and platelets are decorated with a vast array of molecules, primarily proteins and carbohydrates. Variations in these molecules, determined by our genes, create different **antigens**. These antigens define the various blood group systems and other cellular markers crucial in transfusion medicine and immunology. Understanding their basic biochemistry and characteristics is fundamental to predicting immune responses, ensuring compatibility, and diagnosing related disorders
+
+
+Here's an overview of the key players:
+
+##  **ABO System (ISBT 001)** {-}
+*   **Biochemistry:** **Carbohydrate** antigens (A, B, H). Built upon a common precursor substance on glycoproteins and glycolipids. Genes code for **glycosyltransferase enzymes** (A-transferase, B-transferase) that add specific sugars to the H antigen (which itself is built by the H-transferase, FUT1). The O allele usually codes for a non-functional enzyme
+*   **Key Antigens:** A, B, H. (Presence/absence defines groups A, B, AB, O). Subgroups exist (e.g., A1, A2)
+
+##  **Lewis System (ISBT 007)** {-}
+*   **Biochemistry:** **Carbohydrate** antigens (Le<sup>a</sup>, Le<sup>b</sup>) synthesized in tissues, present as **soluble antigens in plasma**, then **adsorb** onto the red cell surface. Synthesis depends on Lewis (FUT3) and Secretor (FUT2) enzymes acting on precursor chains similar to ABO/H
+*   **Key Antigens:** Le<sup>a</sup>, Le<sup>b</sup>. Phenotype depends on interaction of *Le* and *Se* genes
+
+##  **Rh System (ISBT 004)** {-}
+*   **Biochemistry:** **Proteins** (RhD and RhCE) that are non-glycosylated, transmembrane proteins forming a complex with Rh-associated glycoprotein (RhAG). Integral components of the RBC membrane. Encoded by highly homologous *RHD* and *RHCE* genes
+*   **Key Antigens:** D, C, c, E, e. (Presence/absence of D determines Rh Positive/Negative status). Numerous variants exist (Weak D, Partial D)
+
+##  **MNS System (ISBT 002)** {-}
+*   **Biochemistry:** Located on **Glycophorins A (GPA)** and **B (GPB)**, major sialic acid-rich glycoproteins on the RBC membrane. Encoded by linked genes *GYPA* and *GYPB*
+*   **Key Antigens:** M, N (on GPA); S, s, U (on GPB). Many variants exist due to gene rearrangements
+
+##  **P1PK / Globoside Systems (ISBT 003 / ISBT 028)** {-}
+*   **Biochemistry:** **Carbohydrate** antigens synthesized sequentially on **glycolipid** precursors on the RBC membrane
+*   **Key Antigens:** P1 (P1PK system); P, P<sup>k</sup> (Globoside system). The rare 'p' phenotype lacks all these antigens
+
+##  **Ii System (ISBT 027)** {-}
+*   **Biochemistry:** **Carbohydrate** antigens (I = branched, i = linear chains) present on precursor chains used for ABO/H synthesis. Found on glycoproteins and glycolipids
+*   **Key Antigens:** I, i. Expression changes with age (infants have high i, adults high I)
+
+##  **Kell System (ISBT 006)** {-}
+*   **Biochemistry:** Located on a **transmembrane glycoprotein (Kell protein)** linked by a single disulfide bond to the XK protein. Involved in membrane integrity
+*   **Key Antigens:** K (low prevalence), k (high prevalence). Also Kp<sup>a</sup>/Kp<sup>b</sup>, Js<sup>a</sup>/Js<sup>b</sup>. Over 30 antigens in the system. K<sub>0</sub> (Kell null) phenotype lacks all Kell antigens
+
+##  **Kidd System (ISBT 009)** {-}
+*   **Biochemistry:** Located on a multi-pass **transmembrane protein** that functions as a **urea transporter** (HUT11/SLC14A1)
+*   **Key Antigens:** Jk<sup>a</sup>, Jk<sup>b</sup>. Jk(a-b-) is the null phenotype
+
+##  **Duffy System (ISBT 008)** {-}
+*   **Biochemistry:** Located on the **Duffy Antigen Receptor for Chemokines (DARC)**, a multi-pass transmembrane glycoprotein that binds various inflammatory chemokines
+*   **Key Antigens:** Fy<sup>a</sup>, Fy<sup>b</sup>. Fy(a-b-) phenotype common in African ancestry (associated with malaria resistance)
+
+##  **Lutheran (LU)** {-}
+*   **Biochemistry:** Antigens (Lu<sup>a</sup>, Lu<sup>b</sup>) are on a **glycoprotein** (Basal Cell Adhesion Molecule - BCAM)
+*   **Significance:** Anti-Lu<sup>a</sup> often IgM/mixed, often naturally occurring, usually causes mild reactions. Anti-Lu<sup>b</sup> (rare Ab to high-prevalence Ag) usually IgG, causes mild-moderate HTR/HDFN. Often associated with mixed-field agglutination
+
+##  **Other Blood Group Systems** {-}
+*   **Biochemistry:** Diverse. Includes antigens on other proteins (e.g., Diego on Band 3/AE1; Colton on Aquaporin-1), GPI-anchored proteins (e.g., Cartwright on Acetylcholinesterase; Dombrock), etc
+*   **Key Antigens:** Numerous systems (Lutheran, Diego, Yt, Xg, Scianna, Dombrock, Colton, Landsteiner-Wiener, Gerbich, Vel, etc.) each with their own set of antigens
+
+##  **Antigens of High Prevalence ("Public")** {-}
+*   **Biochemistry:** Variable - can be protein or carbohydrate, part of many different systems
+*   **Key Feature:** Present on RBCs of >99% of the population (e.g., k, Kp<sup>b</sup>, Js<sup>b</sup>, Lu<sup>b</sup>, U, Vel, Emm, Ge3, Yt<sup>a</sup>). Antibodies are rare but cause significant compatibility problems
+
+##  **Antigens of Low Prevalence ("Private")** {-}
+*   **Biochemistry:** Variable - often the antithetical partner to a high-prevalence antigen
+*   **Key Feature:** Present on RBCs of <1-10% of the population (e.g., K, Kp<sup>a</sup>, Js<sup>a</sup>, Lu<sup>a</sup>, Wr<sup>a</sup>, Di<sup>a</sup>). Antibodies are often detected only via incompatible crossmatch, but compatible blood is usually easy to find
+
+##  **HLA (Human Leukocyte Antigens)** {-}
+*   **Biochemistry:** **Glycoproteins** encoded by the Major Histocompatibility Complex (MHC) on chromosome 6. Class I (HLA-A, -B, -C) on most nucleated cells and **platelets**. Class II (HLA-DR, -DQ, -DP) primarily on antigen-presenting cells. **Absent on mature RBCs.**
+*   **Key Feature:** Extremely polymorphic. Critical for immune recognition, transplantation, and implicated in platelet refractoriness, FNHTR, TRALI
+
+##  **Platelet-Specific Antigens (HPA - Human Platelet Antigens)** {-}
+*   **Biochemistry:** Located on **platelet membrane glycoproteins**, primarily GPIIb/IIIa, GPIb/IX/V, GPIa/IIa. Arise from SNPs in the genes encoding these proteins
+*   **Key Antigens:** HPA-1a/1b, HPA-2a/2b, HPA-3a/3b, HPA-5a/5b are most common clinically. Implicated in NAIT, PTP, platelet refractoriness
+
+##  **Granulocyte-Specific Antigens (HNA - Human Neutrophil Antigens)** {-}
+*   **Biochemistry:** Located on various **neutrophil membrane glycoproteins**, including FcγRIIIb (CD16b), CD177, CTL2, etc
+*   **Key Antigens:** HNA-1, HNA-2, HNA-3 systems are most studied. Antibodies primarily implicated in TRALI, neonatal alloimmune neutropenia (NAN), and autoimmune neutropenia (AIN)

@@ -5,7 +5,7 @@
 The entire donor process, from initial screening through collection and managing any reactions, is meticulously designed to ensure the integrity and safety of the blood supply, starting with the well-being and suitability of the volunteer donor. Each type of donation serves a purpose, guided by specific regulations and best practices
 
 ##  **Donor Qualification** {-}
-*   **Goal:** Protect both the **donor's health:** and the **recipient's safety**
+*   **Goal:** Protect both the **donor's health** and the **recipient's safety**
 *   **Process:** Involves thorough screening based on FDA regulations and AABB standards. Includes:
     *   **Registration/ID:** Linking the donor to their history and the unit
     *   **Education:** Informing donors about risks and the importance of honesty
@@ -15,8 +15,8 @@ The entire donor process, from initial screening through collection and managing
 *   **Outcome:** Donor is either accepted or deferred (temporarily, indefinitely, or permanently) based on eligibility criteria
 
 ##  **Collection Methods** {-}
-*   **Whole Blood Donation:** The standard method; collecting ~500 mL of blood into a bag with anticoagulant-preservative. This unit is later processed into components (RBCs, plasma, sometimes platelets). Requires strict **aseptic technique:** during venipuncture
-*   **Apheresis (Hemapheresis):** Uses a machine to draw blood, separate a specific component (platelets, plasma, double red cells, granulocytes, stem cells), and return the remaining parts to the donor. Allows for larger yields of specific components from one donor. Uses **citrate:** anticoagulant, which is returned to the donor
+*   **Whole Blood Donation:** The standard method; collecting ~500 mL of blood into a bag with anticoagulant-preservative. This unit is later processed into components (RBCs, plasma, sometimes platelets). Requires strict **aseptic technique** during venipuncture
+*   **Apheresis (Hemapheresis):** Uses a machine to draw blood, separate a specific component (platelets, plasma, double red cells, granulocytes, stem cells), and return the remaining parts to the donor. Allows for larger yields of specific components from one donor. Uses **citrate** anticoagulant, which is returned to the donor
 
 ##  **Adverse Reactions** {-}
 *   **Generally Safe:** Most donations occur without incident
@@ -24,12 +24,12 @@ The entire donor process, from initial screening through collection and managing
     *   **Vasovagal:** Fainting/near-fainting (most common), due to nerve response, not blood loss volume. Managed by positioning (legs up), cool compresses, reassurance
     *   **Hematoma:** Bruising at the needle site. Managed with pressure and cold packs
 *   **Less Common Reactions:** Nerve irritation (sharp pain), arterial puncture (rare), allergic reactions (to disinfectant, etc.)
-*   **Apheresis-Specific:** **Citrate reaction:** (tingling, chills due to temporary low calcium). Managed by slowing return or giving calcium
+*   **Apheresis-Specific:** **Citrate reaction** (tingling, chills due to temporary low calcium). Managed by slowing return or giving calcium
 *   **Key Management:** Recognize symptoms early, act quickly following protocol, prioritize donor safety, document everything
 
 ##  **Special Donations** {-}
-*   **Autologous:** Donating blood for **one's own:** future use (e.g., before surgery). Safer for the donor-recipient regarding disease/alloimmunization but has specific criteria (lower Hgb allowed) and strict labeling ("For Autologous Use Only")
-*   **Directed (Designated):** Donating for a **specific, named recipient**. Donor must meet *all* standard allogeneic criteria. No proven safety benefit over regular donations. Requires **irradiation:** if from a blood relative
+*   **Autologous:** Donating blood for **one's own** future use (e.g., before surgery). Safer for the donor-recipient regarding disease/alloimmunization but has specific criteria (lower Hgb allowed) and strict labeling ("For Autologous Use Only")
+*   **Directed (Designated):** Donating for a **specific, named recipient**. Donor must meet *all* standard allogeneic criteria. No proven safety benefit over regular donations. Requires **irradiation** if from a blood relative
 *   **Apheresis:** As described above, often considered 'special' due to the targeted component collection
 *   **Hematopoietic Progenitor Cells (HPCs):** Stem cell collection (marrow, peripheral blood via apheresis, cord blood) for transplantation. Requires extensive screening and HLA matching
-*   **Therapeutic Phlebotomy:** Blood removal as **medical treatment:** for the donor (e.g., hemochromatosis, polycythemia). Blood *might* be usable for transfusion if the donor meets all allogeneic criteria, otherwise discarded
+*   **Therapeutic Phlebotomy:** Blood removal as **medical treatment** for the donor (e.g., hemochromatosis, polycythemia). Blood *might* be usable for transfusion if the donor meets all allogeneic criteria, otherwise discarded

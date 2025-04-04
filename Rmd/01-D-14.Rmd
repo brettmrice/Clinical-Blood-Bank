@@ -1,0 +1,107 @@
+# Hematopoietic Progenitors {-}
+
+This section covers **Hematopoietic Progenitor Cells (HPCs)**, also commonly referred to as **stem cells**. While their infusion is technically a form of cellular therapy or *transplantation* rather than traditional transfusion, HPCs are collected, processed, stored, and often managed under protocols closely related to blood banking and transfusion medicine. They represent the very source of all blood cells
+
+## **What Are Hematopoietic Progenitor Cells (HPCs)?** {-}
+
+*   **Definition:** HPCs are multipotent stem cells found primarily in the bone marrow (and in smaller numbers in peripheral blood and umbilical cord blood) that have the remarkable ability to:
+    *  **Self-renew:** Make copies of themselves
+    *  **Differentiate:** Develop into all types of mature blood and immune cells (red blood cells, white blood cells including lymphocytes and granulocytes, and platelets)
+*   **Function in Therapy:** The goal of HPC transplantation is to replace a patient's diseased or damaged bone marrow with healthy stem cells, allowing for the restoration of normal hematopoiesis (blood cell production) and immune function
+
+## **Sources of HPCs** {-}
+
+HPCs for transplantation can be obtained from three primary sources:
+
+*  **Bone Marrow (HPC-M)**
+    *   **Collection Method:** Traditionally collected via **bone marrow harvest**, a surgical procedure performed under general or spinal anesthesia. Multiple aspirations are taken from the donor's posterior iliac crests (hip bones)
+    *   **Characteristics:** Rich source of HPCs and marrow stromal cells. Requires anesthesia for the donor
+*  **Peripheral Blood (PBSC / HPC-A)**
+    *   **Collection Method:** Collected via **apheresis (leukapheresis)** after the donor has undergone **mobilization**. Mobilization involves administering injections of **Granulocyte Colony-Stimulating Factor (G-CSF)**, sometimes with Plerixafor, for several days. G-CSF stimulates the bone marrow to produce large numbers of HPCs and release them into the peripheral bloodstream
+    *   **Characteristics:** Now the **most common source** for adult allogeneic and autologous transplants. Yields high numbers of HPCs. Donor avoids anesthesia but experiences side effects from G-CSF (bone pain, flu-like symptoms). Faster neutrophil and platelet engraftment post-transplant compared to marrow, but potentially higher rates of chronic Graft-versus-Host Disease (GVHD) in allogeneic settings
+*  **Umbilical Cord Blood (UCB / HPC-C)**
+    *   **Collection Method:** Collected from the umbilical cord and placenta **after** the birth of a baby. The blood remaining in the cord vessels is drained into a collection bag containing anticoagulant
+    *   **Characteristics:** Rich in primitive HPCs. Collected non-invasively. Lower risk of transmitting infections like CMV. Less stringent HLA matching may be acceptable. Lower risk/severity of GVHD. Main limitations are the **smaller cell dose** (often insufficient for larger adults unless using double cord units) and **slower engraftment** time (longer period of neutropenia post-transplant)
+
+## **Indications for HPC Transplantation** {-}
+
+HPC transplantation is a potentially curative therapy for a range of malignant and non-malignant conditions:
+
+*   **Malignant Diseases:** Acute and chronic leukemias, myelodysplastic syndromes (MDS), myeloproliferative neoplasms (MPN), multiple myeloma, lymphomas (Hodgkin and non-Hodgkin), neuroblastoma
+*   **Non-Malignant Diseases:** Aplastic anemia, Fanconi anemia, Sickle cell disease, Thalassemia, severe combined immunodeficiency (SCID) and other inherited immune disorders, inherited metabolic disorders
+
+## **Types of HPC Transplants** {-}
+
+*   **Allogeneic:** HPCs are collected from a **donor** (related or unrelated) and infused into the **recipient** (patient)
+*   **Autologous:** HPCs are collected from the **patient themselves** earlier in their treatment (e.g., when in remission), stored (usually cryopreserved), and then re-infused after the patient receives high-dose chemotherapy/radiotherapy intended to eradicate their underlying disease
+*   **Syngeneic:** HPCs are collected from an **identical twin** donor
+
+## **Donor Selection & Matching (Allogeneic)** {-}
+
+*   **HLA Matching:** This is **CRITICAL** for allogeneic transplantation. Human Leukocyte Antigens (HLA) are proteins on cell surfaces that the immune system uses to recognize "self" vs. "non-self." Close matching between donor and recipient at key HLA loci (HLA-A, -B, -C, -DRB1 are most important) is essential to minimize the risk of:
+    *   **Graft Rejection:** Recipient's immune system attacking the donor cells
+    *   **Graft-versus-Host Disease (GVHD):** Donor immune cells (T-lymphocytes) attacking the recipient's tissues
+*   **Donor Sources:** Matched related donor (MRD - sibling), matched unrelated donor (MUD - found through registries like NMDP/Be The Match), mismatched related/unrelated donor, haploidentical donor (usually parent/child, half-matched), umbilical cord blood
+
+## **Processing, Storage, and Expiration** {-}
+
+HPC products undergo specialized processing and storage:
+
+*   **Processing:** May include:
+    *   **Volume reduction:** Removing excess plasma or saline
+    *   **Red Blood Cell depletion:** Especially important if there is a major ABO incompatibility between donor and recipient (to prevent acute hemolysis upon infusion)
+    *   **Plasma reduction:** For minor ABO incompatibility
+    *   **Cell selection/depletion (less common):** E.g., CD34+ selection (to enrich for stem cells), T-cell depletion (to reduce GVHD risk, but may increase relapse/infection risk)
+    *   **Quality Control:** Includes cell counts (Total Nucleated Cells - TNC, CD34+ cell count - a key measure of stem cell dose), viability testing, sterility cultures
+*   **Cryopreservation:** Most HPC products (especially autologous and cord blood, and often PBSC/marrow intended for later use or transport) are cryopreserved using a cryoprotectant agent, most commonly **Dimethyl Sulfoxide (DMSO)**, sometimes with added agents like albumin or dextran. DMSO prevents intracellular ice crystal formation but has a distinct odor and can cause side effects during infusion
+*   **Storage**
+    *   **Frozen:** Stored at ultra-low temperatures, typically in the vapor phase of liquid nitrogen (**≤ -135°C**, often closer to -196°C)
+    *   **Fresh:** If not cryopreserved (e.g., some marrow harvests, PBSC for immediate infusion), stored under controlled conditions (often 4°C, but varies) for a very limited time (usually 24-72 hours)
+*   **Expiration**
+    *   **Frozen:** Very long-term stability (years) when stored correctly in liquid nitrogen. Practical expiration often guided by institutional policy and stability studies
+    *   **Fresh:** Very short, typically 24-72 hours, due to rapid loss of viability at non-frozen temperatures
+
+## **Administration (Infusion)** {-}
+
+*   **Thawing (if frozen):** Rapidly thawed at the bedside or in the lab using a 37°C water bath immediately before infusion
+*   **Infusion:** Administered intravenously, similar to a blood transfusion, but often more slowly. Specific infusion protocols vary
+*   **Filtration:** Usually infused through tubing **without** a standard leukocyte-reduction filter (which could trap HPCs). A standard blood filter (170-260 micron) may or may not be used, depending on institutional policy and visible clots/debris
+*   **Compatibility (ABO/Rh)**
+    *   ABO/Rh matching is **not required:** for engraftment, but incompatibility can cause complications:
+        *   **Major ABO Mismatch:** (e.g., Group A donor cells into Group O recipient). Requires RBC depletion of the HPC product before infusion to prevent severe hemolysis
+        *   **Minor ABO Mismatch:** (e.g., Group O donor cells into Group A recipient). Donor plasma contains anti-A/B which can hemolyze recipient RBCs. May require plasma reduction of the product or monitoring post-infusion
+        *   Rh incompatibility is managed based on RBC content and recipient Rh status (consider RhIG if needed)
+*   **Monitoring:** Close monitoring for infusion reactions (see below)
+
+## **Potential Risks / Adverse Events** {-}
+
+*   **Donor Risks:** Related to collection method (anesthesia for marrow harvest; G-CSF side effects and apheresis reactions for PBSC)
+*   **Recipient Infusion Reactions**
+    *   Volume overload
+    *   Allergic reactions
+    *   Febrile reactions
+    *   **DMSO Toxicity:** Nausea, vomiting, abdominal cramps, flushing, hypertension/hypotension, dyspnea, characteristic garlic-like odor/taste
+    *   Hemolytic reactions (if ABO incompatible and product not adequately processed)
+*   **Recipient Post-Transplant Complications**
+    *   **Graft Failure:** HPCs fail to engraft and produce blood cells
+    *   **Graft-versus-Host Disease (GVHD):** Major complication of allogeneic transplant where donor T-cells attack recipient tissues (acute or chronic)
+    *   **Infections:** High risk during the period of neutropenia before engraftment
+    *   **Organ Toxicity:** From the pre-transplant conditioning regimen (chemo/radiotherapy)
+    *   **Disease Relapse**
+
+## **Key Terms** {-}
+
+*   **HPC (Hematopoietic Progenitor Cell):** Stem cell that gives rise to all blood cells
+*   **Stem Cell:** Undifferentiated cell capable of self-renewal and differentiation
+*   **Mobilization:** Process of stimulating HPCs to move from bone marrow to peripheral blood (using G-CSF)
+*   **G-CSF (Granulocyte Colony-Stimulating Factor):** Cytokine used for mobilization
+*   **Apheresis (Leukapheresis):** Procedure used to collect PBSCs
+*   **HLA (Human Leukocyte Antigen):** Key immune markers for matching donors and recipients
+*   **GVHD (Graft-versus-Host Disease):** Complication where donor immune cells attack the recipient
+*   **Engraftment:** Process where transfused HPCs migrate to the marrow, begin dividing, and produce new blood cells
+*   **Cryopreservation:** Freezing cells with a cryoprotectant for long-term storage
+*   **DMSO (Dimethyl Sulfoxide):** Common cryoprotectant for HPCs
+*   **Conditioning Regimen:** High-dose chemotherapy and/or radiation given before transplant to eliminate underlying disease and suppress the recipient's immune system
+*   **Allogeneic:** From a donor
+*   **Autologous:** From the patient themselves
+*   **Syngeneic:** From an identical twin

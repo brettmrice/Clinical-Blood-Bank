@@ -1,0 +1,42 @@
+# Processing {-}
+
+Blood processing is a highly regulated and controlled sequence. It starts with adhering to **FDA/AABB rules** for every action taken. It incorporates rigorous **testing** to screen out infectious agents and determine compatibility. Finally, it culminates in precise **labeling** that clearly communicates the identity and characteristics of the finished component. Each step builds upon the last, ensuring that the final blood product reaching the hospital shelf is as safe and effective as possible for patient care. Think of this whole phase as the crucial transformation step where a collected unit of blood becomes a safe, identifiable, and ready-to-use component for transfusion. It's governed by strict rules, involves critical testing, and culminates in precise labeling
+
+Processing encompasses everything that happens to a unit of blood *after* collection and *before* it's placed into inventory for potential transfusion. It's meticulously controlled to ensure safety, quality, and efficacy
+
+## **FDA & AABB Requirements (The Rulebook)** {-}
+*   **Foundation:** Processing operates under a strict framework set by the **FDA** (Food and Drug Administration) through federal regulations (like **cGMP** - Current Good Manufacturing Practices in 21 CFR 606) and **AABB** (Association for the Advancement of Blood & Biotherapies) through its detailed **Standards**
+*   **Goal:** To ensure the safety, purity, potency, and identity of blood components
+*   **Key Elements:** These requirements mandate:
+    *   Robust **Quality Management Systems**
+    *   Qualified and trained **personnel**
+    *   Validated and maintained **equipment:** and suitable **facilities**
+    *   Detailed **Standard Operating Procedures (SOPs):** for every step
+    *   Meticulous **record-keeping:** ensuring **traceability** ("vein-to-vein")
+*   **Focus:** Consistency, control, and documentation are paramount throughout all processing activities, from centrifugation for component preparation to specialized modifications like leukoreduction or irradiation
+
+## **Testing (The Safety Check)** {-}
+*   **Purpose:** To prevent disease transmission and ensure immunological compatibility. This is a non-negotiable step for every donation
+*   **Infectious Disease Markers (TTIs)**
+    *   Uses FDA-licensed kits to screen for viruses and bacteria (HIV, HCV, HBV, HTLV, Syphilis, WNV, Zika, Chagas, Babesia)
+    *   Employs **serology:** (detecting antibodies/antigens) and highly sensitive **Nucleic Acid Testing (NAT)** (detecting viral genetic material, crucial for the "window period")
+    *   **Outcome:** Any reactive screening result leads to unit quarantine and discard, donor notification, and deferral
+*   **Immunohematology (Blood Typing)**
+    *   Determines **ABO group:** (forward and reverse typing must match) and **Rh type** (including **Weak D testing** on apparent Rh negatives)
+    *   Often includes an **antibody screen:** to detect unexpected red cell antibodies
+    *   **Outcome:** Confirms the blood type for labeling and identifies antibodies that might require special considerations for plasma components or unit labeling
+*   **Quarantine:** Units remain in quarantine, unavailable for use, until *all* required testing is complete and results are acceptable
+
+## **Labeling (The Final ID)** {-}
+*   **Purpose:** To accurately and uniquely identify the component, providing all critical information needed for safe storage, selection, and transfusion
+*   **Critical Timing:** The final transfusion-ready label is applied **only after** all testing is complete, reviewed, acceptable, and the unit is released from quarantine
+*   **Key Information (often using ISBT 128 standard)**
+    *   Unique Donation ID number
+    *   Component Name (Product Code)
+    *   ABO/Rh Type
+    *   Expiration Date/Time
+    *   Volume, Anticoagulant/Additive
+    *   Storage Temperature
+    *   Facility Information
+    *   Special Attributes (e.g., Irradiated, Leukocytes Reduced, CMV Neg, Antigen Neg, Autologous Use Only)
+*   **Accuracy is Paramount:** Labeling errors (e.g., wrong blood type) are extremely dangerous. Systems (like validated computer systems) and procedures focus heavily on preventing these errors. ISBT 128 barcoding helps reduce manual transcription mistakes

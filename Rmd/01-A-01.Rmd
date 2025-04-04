@@ -2,20 +2,20 @@
 
 This section discusses **Blood Product Donors** by looking at donor **Qualification**. Think of this as the essential first step in guaranteeing the safety and effectiveness of blood transfusions. It's a carefully designed process with two primary goals: protecting the health of the potential **recipient** by ensuring the donated blood is safe, and safeguarding the well-being of the **donor** throughout the donation process. This screening is guided by strict regulations from the FDA and standards set by organizations like AABB, involving a detailed health history review and a mini-physical exam before anyone can donate. The goal here is twofold:
 
-1.  **Protect the recipient:** We need to make sure the blood donated is safe and won't transmit diseases or cause harm
-2.  **Protect the donor:** We need to ensure the donation process itself is safe for the person giving blood and won't negatively impact their health
+1.  **Protect the recipient** We need to make sure the blood donated is safe and won't transmit diseases or cause harm
+2.  **Protect the donor** We need to ensure the donation process itself is safe for the person giving blood and won't negatively impact their health
 
 Eligibility is determined through a multi-step process:
 
-##  **Registration & Identification**
+##  **Registration & Identification** {-}
 *   This seems basic, but it's vital! We need to positively identify the donor and link them to their donation history and the collected unit
 *   We collect demographic information and check if they've donated before or have any existing deferrals. Photo ID is usually required
 
-##  **Educational Materials**
+##  **Educational Materials** {-}
 *   Before the nitty-gritty questions, donors receive information explaining the donation process, potential risks (like bruising or fainting), eligibility requirements, and *very importantly*, information about diseases transmitted by blood, like HIV/AIDS and hepatitis
-*   This material emphasizes the importance of **honesty:** and provides donors with an opportunity to **self-defer:** if they realize they might be at risk *before* going through the whole screening
+*   This material emphasizes the importance of **honesty:** and provides donors with an opportunity to **self-defer** if they realize they might be at risk *before* going through the whole screening
 
-##  **Donor Health History Questionnaire (DHQ)**
+##  **Donor Health History Questionnaire (DHQ)** {-}
 *   This is the core of the screening! It's a standardized set of questions designed to identify potential risks. While the exact wording might vary slightly between centers, the intent and scope are consistent. Key areas covered include:
     *   **General Health:** Are you feeling healthy and well *today*? Any colds, flu, sore throats?
     *   **Medical Conditions:** History of cancer, heart or lung disease, bleeding disorders, unexplained weight loss, certain infections (HIV, hepatitis B/C, syphilis, babesiosis, Chagas disease, etc.)
@@ -26,7 +26,7 @@ Eligibility is determined through a multi-step process:
     *   **Previous Transfusions/Donations:** Have they received blood, components, or grafts? When was their last donation? Any issues with previous donations?
     *   **Surgery, Tattoos, Piercings:** Recent procedures might require a waiting period due to potential infection risk
 
-##  **Physical Examination ("Mini-Physical")**
+##  **Physical Examination ("Mini-Physical")** {-}
 *   This is a quick check of the donor's vital signs and physical state *at the time of donation*
     *   **Hemoglobin/Hematocrit:** Must meet a minimum level to ensure the donor doesn't become anemic from donating. (Commonly: Allogeneic Hgb ≥ 12.5 g/dL for females, ≥ 13.0 g/dL for males)
     *   **Blood Pressure:** Must be within an acceptable range (e.g., Systolic ≤ 180 mmHg, Diastolic ≤ 100 mmHg). High BP might indicate risk to the donor
@@ -35,19 +35,19 @@ Eligibility is determined through a multi-step process:
     *   **Weight:** Minimum weight required (usually ≥ 110 lbs or 50 kg) to ensure a safe volume of blood can be drawn relative to total blood volume
     *   **Arm Check:** Examination of the antecubital area (where the needle goes) to check for rashes, lesions, or signs of IV drug use ("track marks")
 
-##  **Informed Consent**
+##  **Informed Consent** {-}
 *   After going through all the information and screening steps, the donor must formally consent to the donation. This confirms they understand the process, risks, and that their blood will be tested for infectious diseases. They also consent to the use of their blood for transfusion
 
-##  **Deferrals**
+##  **Deferrals** {-}
 *   If a donor doesn't meet the criteria at any stage, they are **deferred**. Deferrals can be:
     *   **Temporary:** Requires waiting a specific period (e.g., after taking certain medications, travel to a malaria zone, recent tattoo, low hemoglobin)
     *   **Indefinite:** No set end date, often due to high-risk factors (e.g., history of IV drug use, certain medical conditions like leukemia). The donor *might* become eligible later if criteria change
     *   **Permanent:** The donor will never be eligible (e.g., confirmed positive test for HIV, viral hepatitis B/C after certain dates, history of Chagas disease, vCJD risk)
 
-##  **Key Takeaway** 
+##  **Key Takeaway** {-}
 Donor qualification is a rigorous but essential process. It relies heavily on **donor honesty** and adherence to established **regulatory standards**. Every step is designed to maximize the safety of the blood product for the eventual recipient while also ensuring the well-being of the generous individual donating
 
-##  **Key Terms**
+##  **Key Terms** {-}
 
 *   **Allogeneic Donation:** Blood donated by an individual for transfusion into *another* person (the general blood supply). This is the most common type of donation and has strict qualification criteria
 *   **Autologous Donation:** Blood donated by an individual specifically for their *own* future use, typically before scheduled surgery. Qualification criteria might be slightly modified by the medical director, but basic safety checks still apply

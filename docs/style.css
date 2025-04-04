@@ -218,6 +218,15 @@ main p > a {
   }
 }
 
+@media (min-width: 992px) {
+  .sidebar-book {
+    position: sticky;
+    max-height: 100vh;
+    top: 0;
+    overflow-y: auto;
+  }
+}
+
 @media (max-width: 991.98px) {
   .collapse-lg {
     display: none;
