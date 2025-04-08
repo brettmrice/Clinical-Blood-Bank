@@ -19,9 +19,37 @@ You are recommend to use this information as a supplement to the "Reading List" 
 * <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#us-certifications" target="_blank">Technologist in Blood Bank, BB(ASCP)</a>
 * <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#us-certifications" target="_blank">Specialist in Blood Bank, SBB(ASCP)</a>
 
-## **Prerequisites**
+## **Certification Prerequisites** {-}
 
-### MLS & BB Certifications
+### MLS & BB Certifications {-}
 
-*   Concurrent enrollment in, or compeletion of, a NAACLS accredited Medical Laboratory Scientist program
-*   
+*   Concurrent enrollment in, or completion in the past 5 years of, a NAACLS accredited Medical Laboratory Scientist program
+
+### SBB Certification {-}
+
+*   **Route 1**
+    *   Baccalaureate degree from an accredited (regionally or nationally)* college/university including biology and chemistry courses,
+    *   AND successful completion of a CAAHEP accredited Specialist in Blood Bank Technology program within the last five years
+*   **Route 2**
+    *   Valid MLS(ASCP) or BB(ASCP) certification,
+    *   AND a baccalaureate degree from an accredited (regionally or nationally)* college/university,
+    *   AND three years of full time acceptable clinical** experience in blood banking in an acceptable laboratory within the last six years. These three years of experience must be acquired post baccalaureate degree
+*   **Route 3**
+    *   Master’s degree from an accredited (regionally or nationally)* college/university in chemistry, biology, immunology, immunohematology, microbiology, allied health, medical laboratory science, or an appropriately related field,
+    *   AND three years of full time acceptable clinical** experience in blood banking in an acceptable laboratory within the last six years. These three years of experience must be acquired post baccalaureate degree
+*   **Route 4**
+    *   Doctorate from an accredited (regionally or nationally)* college/university in chemistry, biology, immunology, immunohematology, microbiology, allied health, medical laboratory science, or an appropriately related field,
+    *   AND two years of post-doctoral fellowship*** in clinical** blood banking in the U.S. or Canada within the last five years OR two years of full time acceptable clinical** experience in blood banking in an acceptable laboratory within the last five years. These two years of experience must be acquired post baccalaureate degree
+*   **Route 5**
+    *   Valid MLS(ASCP) or BB(ASCP) certification,
+    *   AND a baccalaureate degree from an accredited (regionally or nationally)* college/university,
+    *   AND three years of full time acceptable experience as an academic educator in clinical blood banking at an accredited (regionally or nationally)* college/university or an acceptable laboratory** within the last six years. These three years of experience must be acquired post baccalaureate degree
+*   **Route 6**
+    *   Master’s degree from an accredited (regionally or nationally)* college/university in chemistry, biology, immunology, immunohematology, microbiology, allied health, medical laboratory science, or an appropriately related field,
+    *   AND three years of full time acceptable experience as an academic educator in clinical blood banking at an accredited (regionally or nationally)* college/university or an acceptable laboratory** within the last six years. These three years of experience must be acquired post baccalaureate degree
+*   **Route 7**
+    *   Valid MLS(ASCP) or BB(ASCP) certification,
+    *   AND a Doctorate from an accredited (regionally or nationally)* college/university in chemistry, biology, immunology, immunohematology, microbiology, allied health, medical laboratory science, or an appropriately related field,
+    *   AND one year of full time acceptable clinical** experience in blood banking in an acceptable laboratory within the last five years OR one year of full time acceptable research experience in blood banking in the U.S. or Canada within the last five years. This year of experience must be acquired post baccalaureate degree
+*   **Laboratory or Teaching Experience**
+    *   To fulfill the experience requirement for the Specialist in Blood Banking examination, you must have laboratory or teaching experience, within the time frame required, in all of the following procedures: Serologic Testing, Molecular Testing, Routine Problem Solving, Quality Control/Assurance, Laboratory Operations, Donor Collection, Processing, and Testing

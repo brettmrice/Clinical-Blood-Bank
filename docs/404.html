@@ -17,7 +17,8 @@
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><meta name="google-adsense-account" content="ca-pub-1344282930858290">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><link rel="icon" type="image/png" href="imgs/favicon.png">
+<meta name="google-adsense-account" content="ca-pub-1344282930858290">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JERRQQFPF4"></script><script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -220,40 +221,75 @@ the table of contents to find the page you are looking for.</p>
     document.getElementsByTagName('header')[0].scrollTo(0, toc_element_position - header_height, 'smooth');
   }
   window.onload = scroll_to_element();
-  
+
   // hide those labes that take up multiple lines
-  l = [];
+  sections = [];
+  topics = [];
   function hide_label() {
+    // sections
     document
       .querySelectorAll('.book-toc > li')
       .forEach(elem => {
         window
           .getComputedStyle(elem)
-          .textTransform === "uppercase" 
-          && 
+          .textTransform === "uppercase"
+          &&
+          elem.classList
+          .contains('book-part')
+          ? sections.push(elem)
+          : '';
+      });
+
+    // topics
+    document
+      .querySelectorAll('.book-toc > li')
+      .forEach(elem => {
+        window
+          .getComputedStyle(elem)
+          .textTransform === "uppercase"
+          &&
           !elem.classList
-          .contains('book-part') 
-          ? l.push(elem) 
+          .contains('book-part')
+          ? topics.push(elem)
           : '';
       });
   }
   hide_label();
   head = document.getElementsByTagName('header')[0];
   head.addEventListener('scroll', () => {
-    count = 0;
-    prev_elem = '';
-    l.forEach((elem) => {
-      if(count === 0) {
+    // sections
+    count_sections = 0;
+    prev_sections_elem = '';
+    sections
+      .forEach((elem) => {
+      if(count_sections === 0) {
         initial_y = elem.getBoundingClientRect().y + 20;
-        count = 1;
+        count_sections = 1;
       } else {
         if(elem.getBoundingClientRect().y < initial_y) {
-          prev_elem.classList.add('hide_label');
+          prev_sections_elem.classList.add('hide_label');
         } else {
-          prev_elem.classList.remove('hide_label');
+          prev_sections_elem.classList.remove('hide_label');
         }
       }
-      prev_elem = elem;
+      prev_sections_elem = elem;
+    });
+    // topics
+    count_topics = 0;
+    prev_topic_elem = '';
+    topics
+      .forEach((elem) => {
+      if(count_topics === 0) {
+        initial_y = elem.getBoundingClientRect().y + 20;
+        count_topics = 1;
+      } else {
+        if(elem.getBoundingClientRect().y < initial_y) {
+          prev_topic_elem.classList.add('hide_label');
+        } else {
+          prev_topic_elem.classList.remove('hide_label');
+        }
+      }
+      prev_topic_elem = elem;
     });
   });
 </script><div class="chapter-nav">
@@ -268,7 +304,7 @@ the table of contents to find the page you are looking for.</p>
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3" style="text-align: center; flex: 100%; max-width: 100%;">
-    <p>Written by Brett M. Rice | Updated 2025-04-07 | Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
+    <p>Written by Brett M. Rice | Updated 2025-04-08 | Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
   </div>
 
   <!--div class="col-12 col-md-6 mt-3">
