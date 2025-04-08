@@ -1,0 +1,46 @@
+# Reagents {-}
+
+Think of **Reagents** as the essential ingredients in our blood bank "recipes" – each one has a specific job to do to ensure we get accurate results and keep transfusions safe!
+
+*   We use **Blood Grouping Sera** (known antibodies) to find antigens on **Patient RBCs**
+*   We use **Reagent RBCs** (known antigens) to find antibodies in **Patient Plasma**
+*   We use **Antiglobulin Sera (AHG)** to detect the "invisible" binding of IgG/Complement to RBCs, either *in vitro* (IAT) or *in vivo* (DAT)
+
+Here's an overview of the Big Three reagent categories:
+
+## **Blood Grouping Sera (The "Detectors")** {-}
+
+*   **What They Are:** Reagents containing known **antibodies** (primarily Anti-A, Anti-B, and Anti-D)
+*   **Their Job:** To detect the corresponding **antigens** (A, B, D) on the surface of patient or donor **Red Blood Cells** during **Forward Typing**
+*   **How They Work:** The antibody in the reagent specifically binds to the antigen on the RBCs, causing visible **agglutination** (clumping)
+*   **Key Players**
+    *   **Anti-A (Blue):** Detects A antigen
+    *   **Anti-B (Yellow):** Detects B antigen
+    *   **Anti-D (Clear/Colorless):** Detects D antigen
+    *   **Rh Control (Clear/Colorless):** Crucial! Contains everything *except* the Anti-D antibody; must be negative to validate the Anti-D result
+*   **Source:** Mostly highly specific **monoclonal** antibodies now
+*   **Bottom Line:** These reagents establish the fundamental ABO/Rh type – the starting point for all compatibility testing
+
+## **Reagent Red Blood Cells (The "Bait")** {-}
+
+*   **What They Are:** Suspensions of human **Red Blood Cells** with known **antigen profiles**
+*   **Their Job:** To detect **antibodies** in patient or donor **Plasma/Serum**
+*   **How They Work:** If the patient's plasma contains an antibody, it will bind to the corresponding known antigen on the reagent RBCs, leading to agglutination or hemolysis (often requires the AHG phase for IgG antibodies)
+*   **Key Players**
+    *   **A1 Cells & B Cells:** Used for **ABO Reverse Typing** to confirm the presence of expected anti-A/anti-B
+    *   **Screening Cells (Set of 2 or 3, Group O):** Used for the **Antibody Screen** to detect *unexpected*, clinically significant antibodies. MUST be Group O to avoid ABO interference. Come with an **antigram** detailing their antigen profile
+    *   **Panel Cells (Set of 11-20+, Group O):** Used for **Antibody Identification** when the screen is positive. Provide a variety of antigen patterns (detailed on the antigram) to help pinpoint the antibody's specificity
+*   **Source:** Carefully selected human donors
+*   **Bottom Line:** These cells allow us to find and identify antibodies in the patient's plasma, which is critical for selecting compatible blood. Watch those expiration dates!
+
+## **Antiglobulin Sera (AHG / Coombs' Serum) (The "Bridge Builder")** {-}
+
+*   **What It Is:** Reagent containing **antibodies directed against human antibodies (Anti-IgG) and/or complement proteins (Anti-C3d)**
+*   **Its Job:** To detect red cells that have been **sensitized** (coated) with IgG or complement, especially when this coating doesn't cause direct agglutination on its own
+*   **How It Works:** The AHG antibodies bind to the IgG or C3d already attached to the RBCs, forming a "bridge" between adjacent coated cells, causing visible **agglutination**
+*   **Key Players**
+    *   **Polyspecific AHG:** Contains *both* Anti-IgG and Anti-C3d. Used for initial DAT screen
+    *   **Monospecific Anti-IgG:** Contains *only* Anti-IgG. Essential for IAT procedures (Screen, ID, XM, Weak D) and DAT follow-up
+    *   **Monospecific Anti-C3d:** Contains *only* Anti-C3d. Used for DAT follow-up to detect complement coating
+*   **Source:** Polyclonal (animal source) or monoclonal (hybridoma) antibodies, often blends
+*   **Bottom Line:** AHG is crucial for detecting most clinically significant IgG antibodies (IAT) and investigating potential *in vivo* red cell destruction (DAT). Remember: **Washing** cells before adding AHG is critical to avoid false negatives! **Check Cells** validate negative results

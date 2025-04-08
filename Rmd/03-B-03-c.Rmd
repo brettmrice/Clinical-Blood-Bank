@@ -1,0 +1,82 @@
+# Treatment {-}
+
+Treating Hemolytic Disease of the Fetus and Newborn (HDFN) requires addressing the core problems: destruction of fetal/newborn red blood cells by maternal IgG antibodies, the resulting anemia, and the dangerous buildup of bilirubin after birth. Treatment strategies vary depending on whether they are applied **antenatally** (during pregnancy) or **postnatally** (after birth)
+
+## **Antenatal Treatment: Managing the Fetus** {-}
+
+The primary goal during pregnancy is to **detect and manage fetal anemia** to prevent hydrops fetalis and fetal demise
+
+*   **Intrauterine Transfusion (IUT)**
+    *   **Goal:** The cornerstone of treating severe fetal anemia. Aims to directly provide compatible red blood cells to the fetus, increasing oxygen-carrying capacity and suppressing the fetus's own (ineffective and targeted) erythropoiesis
+    *   **Indications:** Evidence of significant fetal anemia, typically indicated by:
+        *   Middle Cerebral Artery Peak Systolic Velocity (MCA-PSV) Doppler values >1.5 MoM (Multiples of the Median)
+        *   Development of fetal hydrops (though ideally initiated *before* hydrops occurs)
+        *   Direct measurement of severe anemia via Fetal Blood Sampling (FBS/Cordocentesis)
+    *   **Procedure:** Ultrasound-guided procedure where compatible red blood cells are transfused directly into the fetal circulation. Most commonly performed via **intravascular transfusion** into the umbilical vein. Intraperitoneal transfusion is less common and less efficient now
+    *   **Blood Product Selection (CRITICAL):** The RBC unit must be carefully selected:
+        *   **Group O, RhD-negative:** Usually chosen to avoid reaction with any maternal anti-A, anti-B, or anti-D. If the mother has other antibodies, the unit must also be **antigen-negative** for the corresponding antigen(s) (e.g., if mom has anti-K, use K-negative blood)
+        *   **CMV-safe:** Either CMV-seronegative or leukocyte-reduced to prevent Cytomegalovirus transmission
+        *   **Irradiated:** To prevent Transfusion-Associated Graft-versus-Host Disease (TA-GVHD) in the fetus, whose immune system is immature
+        *   **Fresh:** Ideally less than 7 days old to ensure optimal oxygen delivery (higher 2,3-DPG) and post-transfusion survival
+        *   **High Hematocrit (70-85%):** To deliver the maximum number of RBCs in the smallest possible volume
+        *   **Crossmatch Compatible:** Must be compatible with the **mother's plasma** (as her antibodies are causing the problem)
+    *   **Frequency:** Repeated every 1-4 weeks, depending on the rate of hemolysis and fetal hematocrit, until the fetus reaches sufficient maturity for delivery
+
+*   **Timing of Delivery**
+    *   **Goal:** Balance the risks of continuing the pregnancy (ongoing hemolysis, potential IUT complications) against the risks of prematurity for the newborn
+    *   **Decision:** Based on gestational age, severity of HDFN, response to IUT, and assessment of fetal lung maturity (may require amniocentesis for lecithin/sphingomyelin ratio or other tests)
+    *   **General Approach:** Delivery is often induced between 35-38 weeks if HDFN is well-managed with IUTs. Earlier delivery might be necessary if severe HDFN is difficult to manage *in utero*
+
+*   **Maternal Therapies (Less Common/Adjunctive)**
+    *   **Intravenous Immune Globulin (IVIg):** High-dose IVIg given to the mother *may* reduce the severity of HDFN in selected cases, potentially by saturating placental FcRn receptors (reducing antibody transport) or modulating the maternal immune response. Its effectiveness is debated and often reserved for severe cases early in gestation or when IUT is problematic
+    *   **Plasma Exchange (Plasmapheresis):** Physically removes antibody from the mother's circulation. Rarely used due to the effectiveness of IUT, logistical challenges, and temporary effect. May be considered in extreme cases early in gestation before IUT is feasible
+
+## **Postnatal Treatment: Managing the Newborn** {-}
+
+The focus shifts immediately after birth to managing **hyperbilirubinemia** (to prevent kernicterus) and **anemia**
+
+*   **Phototherapy**
+    *   **Goal:** Primary treatment for neonatal jaundice. Converts toxic unconjugated bilirubin in the skin into water-soluble isomers that can be excreted by the infant's liver and kidneys without needing conjugation
+    *   **Mechanism:** Exposure of the infant's skin to specific wavelengths of light (blue-green spectrum, typically 460-490 nm) causes photoisomerization and photo-oxidation of bilirubin
+    *   **Indications:** Initiated based on total serum bilirubin levels, adjusted for gestational age, postnatal age (in hours), and risk factors (including HDFN itself). Nomograms (e.g., Bhutani nomogram) guide initiation thresholds
+    *   **Administration:** Infant is placed under special lights or on a fiberoptic blanket with maximum skin exposure (eyes shielded)
+
+*   **Exchange Transfusion**
+    *   **Goal:** Rapidly remove bilirubin from the circulation, remove circulating maternal antibodies, remove antibody-coated neonatal RBCs, provide compatible antigen-negative RBCs, and correct severe anemia
+    *   **Indications:** Reserved for severe hyperbilirubinemia unresponsive to intensive phototherapy, bilirubin levels reaching critical thresholds associated with kernicterus risk, or signs of acute bilirubin encephalopathy. Also indicated for severe anemia with signs of cardiac decompensation at birth
+    *   **Procedure:** A catheter is usually placed in the umbilical vein. Small volumes of the infant's blood are withdrawn and replaced sequentially with aliquots of compatible donor blood. A "double volume" exchange (approx. 160-180 mL/kg) replaces about 85% of the infant's blood volume
+    *   **Blood Product Selection:** Similar principles as IUT:
+        *   **Group O RBCs:** (often RhD-negative unless ABO HDFN is excluded and infant/mother type allows otherwise), **antigen-negative** for maternal antibody(ies)
+        *   RBCs suspended in **Group AB plasma** (contains no anti-A or anti-B) to create reconstituted whole blood, or compatible plasma type. Albumin may be added to enhance bilirubin binding
+        *   **CMV-safe, Irradiated, Fresh (< 7 days), High Hematocrit:** (unit adjusted to desired Hct for exchange)
+        *   **Crossmatch Compatible:** With **maternal plasma** OR an **eluate** prepared from the infant's RBCs (to ensure compatibility against the antibody causing hemolysis)
+    *   **Risks:** Invasive procedure with potential complications (cardiac arrhythmias, electrolyte imbalance, infection, thrombosis, air embolism, hypothermia, thrombocytopenia, NEC)
+
+*   **Simple Red Blood Cell Transfusion**
+    *   **Goal:** Correct anemia that persists or develops after the initial hyperbilirubinemia phase is managed
+    *   **Indications:** Significant anemia (Hgb/Hct below threshold for age) occurring later in the neonatal period (weeks to months) due to continued destruction of RBCs by residual maternal IgG or suppressed erythropoiesis
+    *   **Blood Product Selection:** Compatible RBC unit, **antigen-negative** for the implicated maternal antibody(ies). CMV-safe and irradiated policies for neonates apply
+
+*   **Intravenous Immune Globulin (IVIg) - Neonatal**
+    *   **Goal:** Reduce the rate of hemolysis, potentially decreasing peak bilirubin levels and the need for exchange transfusion
+    *   **Mechanism:** Thought to block Fc receptors on macrophages in the infant's reticuloendothelial system, preventing them from clearing antibody-coated RBCs
+    *   **Indications:** Often used adjunctively with phototherapy in newborns with significant ongoing hemolysis (isoimmune HDFN with positive DAT) and rapidly rising bilirubin levels approaching exchange transfusion thresholds
+    *   **Administration:** Given intravenously over several hours
+
+*   **Supportive Care**
+    *   Maintaining adequate hydration and nutrition
+    *   Monitoring electrolytes, glucose, and vital signs, especially during exchange transfusion
+    *   Correcting any associated complications (e.g., thrombocytopenia if present)
+
+## **Key Terms** {-}
+
+*   **Intrauterine Transfusion (IUT):** Transfusion of red blood cells directly into the fetal circulation (usually umbilical vein) during pregnancy to treat severe fetal anemia
+*   **Hydrops Fetalis:** Severe fetal condition characterized by abnormal fluid accumulation in tissues and body cavities, often due to severe anemia
+*   **Middle Cerebral Artery Peak Systolic Velocity (MCA-PSV):** Ultrasound measurement used to non-invasively assess the degree of fetal anemia
+*   **Phototherapy:** Treatment using specific wavelengths of light to convert unconjugated bilirubin in the skin into excretable isomers, used for neonatal jaundice
+*   **Exchange Transfusion:** Procedure where the infant's blood is removed in small volumes and replaced with compatible donor blood to rapidly lower bilirubin levels, remove antibodies, and correct anemia
+*   **Kernicterus:** Permanent neurological damage caused by deposition of unconjugated bilirubin in the brain tissue of newborns
+*   **Intravenous Immune Globulin (IVIg):** A preparation of concentrated human antibodies used therapeutically; in HDFN, it may reduce hemolysis by blocking Fc receptors or modulating immune responses
+*   **Plasma Exchange (Plasmapheresis):** Procedure to remove plasma (containing antibodies) from the blood and replace it with a replacement fluid
+*   **Irradiation (Blood Products):** Treatment of cellular blood components with gamma rays or X-rays to inactivate donor T-lymphocytes and prevent TA-GVHD
+*   **CMV-Safe:** Blood products processed (leukocyte reduced) or tested (seronegative) to minimize the risk of transmitting Cytomegalovirus

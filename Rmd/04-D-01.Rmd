@@ -1,0 +1,89 @@
+# Blood Samples {-}
+
+It might seem basic, but getting the **blood sample** part right is the bedrock of patient safety and accurate results. Think of it this way: if the sample isn't good, or isn't properly identified, everything we do afterward could be meaningless, or worse, dangerous!
+
+Quality Assurance (QA) for blood samples covers the entire journey, from the moment the test is ordered until the sample is resulted and stored or discarded. Let's break down the critical checkpoints:
+
+## **Pre-Collection: Getting Ready** {-}
+
+*   **Correct Test Order:** Ensuring the right tests are ordered for the right patient in the Laboratory Information System (LIS) or on the requisition
+*   **Patient Preparation:** Usually minimal for blood bank samples, but ensuring the patient hasn't just received certain IV fluids that could interfere is good practice where applicable
+
+## **Collection: The CRITICAL Interface** {-}
+
+This is where **most serious errors** can occur, so vigilance is paramount!
+
+*   **Patient Identification (THE MOST IMPORTANT STEP!)**
+    *   **Positive Patient Identification:** This cannot be stressed enough! Use at least **two unique patient identifiers** (e.g., full name, date of birth, medical record number)
+    *   **Compare, Compare, Compare:** Actively compare the information on the patient's wristband (if inpatient) directly against the requisition or labels *before* drawing the blood. For outpatients, confirm verbally and check photo ID if available/policy
+    *   **Resolve Discrepancies:** Any mismatch MUST be resolved *before* collecting the sample. No exceptions!
+*   **Sample Labeling (Equally Critical!)**
+    *   **Label at the Bedside/Chairside:** Tubes MUST be labeled immediately *after* collection, *in the presence of the patient*, before leaving their side. **Never pre-label tubes!**
+    *   **Required Information:** Labels must contain:
+        *   Patient's full name
+        *   Second unique identifier (DOB, MRN)
+        *   Date of collection
+        *   Time of collection
+        *   Phlebotomist's identification (initials, ID number)
+    *   **Legibility & Security:** Labels must be legible (barcodes are ideal and standard) and securely affixed to the tube
+*   **Tube Selection**
+    *   **Correct Anticoagulant:** For most routine blood bank serologic testing (ABO/Rh, antibody screen, crossmatch) and molecular testing, **EDTA (lavender/pink top)** is preferred
+        *   **Why EDTA?:** It chelates calcium, preventing *in vitro* complement activation (which can interfere with DATs and cause confusing results) and clotting, providing both plasma and intact red cells
+    *   **Serum (Red top/Gold top):** Can be used, but plasma is generally preferred for stability and preventing *in vitro* complement issues. Required for some specific tests, but less common for routine pre-transfusion workups now
+*   **Collection Technique**
+    *   **Aseptic Technique:** Standard precautions to prevent infection and sample contamination
+    *   **Avoiding Hemolysis:** Hemolysis (rupture of red blood cells) can significantly interfere with interpretation (especially grading agglutination). Avoid:
+        *   Using too small a needle
+        *   Excessive "probing"
+        *   Pulling plunger back too forcefully (if using syringe)
+        *   Vigorous shaking of tubes (mix EDTA gently by inversion)
+        *   Contamination with alcohol (allow site to dry)
+        *   Extreme temperatures
+    *   **Proper Fill Volume:** Ensure vacuum tubes fill correctly
+    *   **Mixing:** Gently invert EDTA tubes 8-10 times immediately after collection to ensure proper anticoagulation and prevent clots
+
+## **Post-Collection: Transport, Receipt, and Storage** {-}
+
+*   **Transport:** Samples should be transported to the lab promptly. Avoid extreme temperatures (don't leave in hot cars or on ice unless specifically required for a test like cold agglutinin studies). Ensure they are protected from breakage
+*   **Laboratory Receipt (Accessioning)**
+    *   **Verification:** Lab staff MUST verify the label information matches the requisition/LIS order and that all required information is present and legible
+    *   **Integrity Check:** Inspect the sample for:
+        *   **Hemolysis:** Note degree of hemolysis (may require redraw)
+        *   **Clots:** Clotted EDTA samples are unacceptable
+        *   **Quantity Not Sufficient (QNS):** Ensure adequate volume for testing
+        *   **Correct Tube Type:** Verify it's the appropriate tube
+        *   **Age of Sample:** Note collection time. Samples for pre-transfusion testing have specific age limits (often 72 hours or based on institutional policy), especially critical if the patient has been recently transfused or pregnant (within the last 3 months)
+    *   **Documentation:** Record date and time of receipt
+*   **Processing:** Proper centrifugation techniques to separate plasma/serum if needed. Careful aliquoting if required, ensuring aliquots are also meticulously labeled
+*   **Storage**
+    *   Store samples (whole blood, plasma, serum, cells) at the correct temperature (usually refrigerated at 1-6°C after processing/testing)
+    *   Store in a manner that prevents mix-ups and allows easy retrieval
+    *   Adhere to sample retention policies (how long samples must be kept post-transfusion)
+
+## **Sample Acceptance and Rejection Criteria** {-}
+
+Clear criteria MUST be in place. Samples may be rejected (requiring a redraw) for:
+
+*   **Inadequate/Incorrect Patient Identification:** Mismatched info, missing identifiers
+*   **Improper Labeling:** Missing info, illegible label, evidence of tampering, tube not labeled at bedside
+*   **Wrong Tube Type:** Collected in incorrect anticoagulant/additive
+*   **Hemolysis:** Moderate to severe hemolysis often requires rejection
+*   **Presence of Clots:** In an anticoagulated tube (EDTA)
+*   **Quantity Not Sufficient (QNS).**
+*   **Compromised Integrity:** Broken tube, suspected contamination
+*   **Age of Sample:** Exceeds stability limits for required testing
+
+**Documentation is key throughout this entire process!** Every step, especially patient ID verification and sample receipt/rejection, needs to be documented according to lab policy
+
+## **Key Terms** {-}
+
+*   **Positive Patient Identification:** The process of correctly matching a patient to their sample and documentation using at least two unique identifiers
+*   **Bedside Labeling:** The mandatory practice of labeling blood tubes immediately after collection, in the patient's presence, before leaving the collection site
+*   **EDTA (Ethylenediaminetetraacetic acid):** The preferred anticoagulant for most blood bank testing, preventing clotting and *in vitro* complement activation
+*   **Hemolysis:** The rupture of red blood cells, releasing hemoglobin, which can interfere with test interpretation
+*   **Anticoagulant:** A substance that prevents blood from clotting
+*   **Serum:** The liquid portion of blood remaining after clotting
+*   **Plasma:** The liquid portion of anticoagulated blood
+*   **Accessioning:** The process of receiving a sample in the laboratory, verifying its identity and integrity, and assigning it a unique laboratory number
+*   **QNS (Quantity Not Sufficient):** An inadequate sample volume for the requested testing
+*   **Sample Integrity:** The state of a sample being suitable for testing (e.g., free from hemolysis, clots, contamination)

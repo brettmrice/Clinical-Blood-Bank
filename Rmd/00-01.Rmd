@@ -1,0 +1,42 @@
+# Content Areas {-}
+
+Major content areas covered:
+
+## **Blood Products** {-}
+
+*   [Donors](donors.html)
+*   [Processing](processing-1.html)
+*   [Storage](storage.html)
+*   [Blood Components](blood-components.html)
+*   [Blood Component Quality Control](blood-components-qc.html)
+
+## **Blood Group Systems** {-}
+
+*   [Genetics](genetics.html)
+*   [Biochemistry/Antigens](biochemistryantigens.html)
+*   [Role of Blood Groups in Transfusion](role-of-blood-groups-in-transfusion.html)
+
+## **Immunology and Physiology** {-}
+
+*   [Immunology](immunology.html)
+*   [Physiology and Pathophysiology](physiology-pathophysiology.html)
+
+## **Serologic and Molecular Testing** {-}
+
+*   [Routine Tests](routine-tests.html)
+*   [Reagents](reagents.html)
+*   [Special Tests and Reagents](special-tests-reagents.html)
+*   [Quality Assurance](quality-assurance.html)
+
+## **Transfusion Practice** {-}
+
+*   [Indications for Transfusion](indications.html)
+*   [Component Therapy](component-therapy.html)
+*   [Adverse Effects of Transfusion](adverse-effects.html)
+*   [Apheresis and Extracorporeal Circulation](apheresis-extracorporeal-circulation.html)
+*   [Blood Administration and Patient Blood Management](blood-administration-patient-blood-management.html)
+
+## Last Updated {-}
+
+Last edit pushed to this site was on <span id="last_updated">`r Sys.Date()`</span>
+

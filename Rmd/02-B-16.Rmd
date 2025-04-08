@@ -1,0 +1,99 @@
+# Granulocyte-Specific {-}
+
+This section focuss attention on the surface markers of another critical blood cell: the granulocyte, particularly the neutrophil. Just as red cells and platelets have their unique antigen systems, neutrophils possess their own set of polymorphic surface proteins known as **Human Neutrophil Antigens (HNA)**. Distinct from HLA, HPA, or traditional red cell antigens, these HNAs play roles in neutrophil function. While not routinely typed in the blood bank, understanding HNAs is vital because antibodies directed against them are significant causes of serious conditions like Transfusion-Related Acute Lung Injury (TRALI) and immune-mediated neutropenias
+
+## **HNA: Markers on the Immune System's First Responders** {-}
+
+*   **What are they?:** HNAs are polymorphic (variable between individuals) antigens expressed on the surface membranes of neutrophils and sometimes other granulocytes (eosinophils, basophils) or monocytes
+*   **Distinction from HLA/HPA/RBC Antigens:** HNAs are distinct molecular structures located on different proteins compared to HLA (found on almost all nucleated cells + platelets), HPA (platelets), or RBC antigens. However, neutrophils *also* express HLA Class I antigens
+*   **Primary Clinical Relevance:** Antibodies to HNAs are primarily implicated in:
+    *   **Transfusion-Related Acute Lung Injury (TRALI)**
+    *   **Neonatal Alloimmune Neutropenia (NAN)**
+    *   **Autoimmune Neutropenia (AIN)**
+    *   Febrile Non-Hemolytic Transfusion Reactions (FNHTR - less common now with universal leukoreduction)
+    *   Immune-mediated refractoriness to granulocyte transfusions (rarely used)
+
+## **Biochemistry: Where HNAs Live** {-}
+
+HNA antigens are located on various neutrophil membrane glycoproteins, many involved in immune function like adhesion, phagocytosis, and signaling:
+
+*   **Fcγ Receptor IIIb (FcγRIIIb or CD16b):** This receptor binds the Fc portion of IgG antibodies, playing a role in antibody-dependent cell-mediated cytotoxicity (ADCC) and phagocytosis. It's attached to the membrane via a **GPI anchor**
+    *   Carries the **HNA-1** system antigens (HNA-1a, HNA-1b, HNA-1c)
+*   **CD177:** A GPI-anchored protein whose function is not fully elucidated but seems involved in neutrophil migration and adhesion. Expression is variable among individuals – some people have neutrophils that lack CD177 entirely
+    *   Carries the **HNA-2** system antigen (HNA-2a). Individuals lacking CD177 are HNA-2 null
+*   **Choline Transporter-Like Protein 2 (CTL2):** A transmembrane protein
+    *   Carries the **HNA-3** system antigens (HNA-3a, HNA-3b). The HNA-3a polymorphism causes a significant structural change
+*   **Other Glycoproteins:** HNA-4 and HNA-5 systems are located on other glycoproteins (integrin αM/CD11b for HNA-4a, and integrin αL/CD11a for HNA-5a)
+
+## **Genetics and Nomenclature** {-}
+
+*   **Nomenclature:** Uses "HNA" followed by a number for the system/locus and a letter (a, b, c) for the specific allele/antigen (e.g., HNA-1a, HNA-1b)
+*   **Inheritance:** Inherited as Mendelian codominant traits
+*   **Polymorphism:** Arise from SNPs in the genes encoding the carrier glycoproteins, leading to amino acid changes
+
+## **Major Clinically Significant HNA Systems** {-}
+
+| System  | Carrier Molecule (Protein) | Alleles/Antigens        | Approx. Caucasian Freq. (Highly Variable) | Key Clinical Significance (Antibody)                                                                 |
+| :------ | :------------------------- | :---------------------- | :---------------------------------------- | :--------------------------------------------------------------------------------------------------- |
+| **HNA-1** | FcγRIIIb (CD16b)           | HNA-1a, HNA-1b, HNA-1c  | 1a (~35-45%), 1b (~55-65%), 1c (rare)     | Anti-HNA-1a, -1b implicated in TRALI, NAN, AIN, FNHTR.                                                 |
+| **HNA-2** | CD177                      | HNA-2a (NB1)          | Present (~95-97%), Null (~3-5%)           | Anti-HNA-2a implicated in severe TRALI, NAN, AIN. Can only be formed by HNA-2 null individuals.         |
+| **HNA-3** | CTL2                       | HNA-3a, HNA-3b          | 3a (~75-85%), 3b (~15-25%)                | **Anti-HNA-3a** strongly associated with **severe, often fatal TRALI**. Anti-HNA-3b less common/severe. |
+| **HNA-4** | CD11b (Integrin αM)        | HNA-4a                  | >99%                                      | Anti-HNA-4a implicated in AIN, rare TRALI/NAN.                                                     |
+| **HNA-5** | CD11a (Integrin αL)        | HNA-5a                  | ~98%                                      | Anti-HNA-5a implicated in TRALI, AIN.                                                              |
+
+*Note: Frequencies vary significantly across ethnic groups. HNA-1c is primarily found in individuals of African descent*
+
+## **Clinical Significance: The Impact of HNA Antibodies** {-}
+
+### **TRALI (Transfusion-Related Acute Lung Injury)** {-}
+*   **Mechanism:** This is where HNAs have their biggest transfusion medicine impact today. Donor plasma containing **high-titer HNA antibodies** (or HLA Class II antibodies) transfused to a recipient whose neutrophils express the corresponding antigen. The antibodies activate the recipient's neutrophils, particularly in the lung vasculature, leading to capillary damage, fluid leakage into the alveoli, and acute respiratory distress. **Anti-HNA-3a** is particularly notorious for causing severe TRALI
+*   **Mitigation:** Identifying implicated donors and deferring them from donating plasma-rich components. TRALI risk reduction strategies (e.g., using plasma from males, never-pregnant females, or tested females). *Leukoreduction of components does NOT prevent antibody-mediated TRALI*
+
+### **Neonatal Alloimmune Neutropenia (NAN)** {-}
+*   **Mechanism:** Analogous to HDFN and NAIT. Mother lacks an HNA antigen that the fetus inherits from the father. Maternal IgG anti-HNA antibodies cross the placenta and destroy fetal neutrophils
+*   **Consequences:** Causes neutropenia (low neutrophil count) in the newborn, increasing susceptibility to bacterial infections, often presenting as delayed cord separation, skin infections, or sepsis. Usually less severe than NAIT
+*   **Management:** Supportive care, antibiotics for infections. Sometimes G-CSF (Granulocyte Colony-Stimulating Factor) to boost neutrophil production. Rarely requires granulocyte transfusion (which would need to be antigen-negative)
+
+### **Autoimmune Neutropenia (AIN)** {-}
+*   **Mechanism:** Patients develop **autoantibodies** against their own HNA antigens, leading to neutrophil destruction. Can be primary (idiopathic) or secondary to other conditions (e.g., autoimmune diseases, infections, drugs)
+*   **Consequences:** Increased risk of infections
+*   **Management:** Often resolves spontaneously in children (AIN of infancy). May require antibiotics, G-CSF in severe cases
+
+### **Febrile Non-Hemolytic Transfusion Reactions (FNHTR)** {-}
+*   **Mechanism:** Recipient antibodies reacting with HNA (or HLA) antigens on donor leukocytes in the transfused component, or cytokines released from leukocytes during storage
+*   **Mitigation:** Largely prevented by universal **leukoreduction** of blood components
+
+## **HNA Antibodies** {-}
+
+*   **Formation:** Alloimmunization occurs via pregnancy or transfusion. Autoantibodies occur in AIN
+*   **Type:** Primarily **IgG**
+*   **Detection:** Challenging! Requires specialized tests not performed in routine blood banks
+
+## **HNA Testing** {-}
+
+*   Performed in specialized reference laboratories (e.g., Platelet & Neutrophil Immunology labs)
+*   **Methods**
+    *   **Serological:** Granulocyte Agglutination Test (GAT), Granulocyte Immunofluorescence Test (GIFT) using flow cytometry. Requires viable neutrophils
+    *   **Molecular (Genotyping):** DNA-based methods to determine HNA types. Increasingly used due to difficulty of serology
+*   **Challenges:** Neutrophils are fragile, assays can be complex and less standardized than RBC or platelet testing
+
+## **Key Takeaways** {-}
+
+*   HNAs are antigens primarily on neutrophils
+*   Antibodies to HNAs are key players in **TRALI** (especially anti-HNA-3a), **Neonatal Alloimmune Neutropenia (NAN)**, and Autoimmune Neutropenia (AIN)
+*   Testing is specialized and complex
+*   Understanding HNAs helps explain specific transfusion reactions and immune cytopenias not attributable to RBC, platelet, or HLA antibodies alone
+
+## **Key Terms** {-}
+
+*   **HNA (Human Neutrophil Antigen):** Polymorphic antigens located primarily on the surface of neutrophils (granulocytes)
+*   **Neutrophil:** A type of granulocyte (white blood cell) that is a primary component of the innate immune system, crucial for fighting bacterial infections
+*   **TRALI (Transfusion-Related Acute Lung Injury):** A serious transfusion reaction characterized by acute respiratory distress, often caused by donor antibodies (HNA or HLA) activating recipient neutrophils in the lungs
+*   **NAN (Neonatal Alloimmune Neutropenia):** A condition where maternal IgG anti-HNA antibodies cross the placenta and destroy fetal neutrophils, leading to neutropenia and infection risk in the newborn
+*   **AIN (Autoimmune Neutropenia):** A condition where an individual produces autoantibodies against their own neutrophils, leading to neutrophil destruction and increased infection risk
+*   **Fcγ Receptor IIIb (FcγRIIIb / CD16b):** An IgG receptor on neutrophils that carries HNA-1 antigens
+*   **CD177:** A neutrophil glycoprotein that carries the HNA-2a antigen
+*   **CTL2 (Choline Transporter-Like Protein 2):** A transmembrane protein carrying HNA-3 antigens
+*   **GPI Anchor (Glycosylphosphatidylinositol anchor):** A glycolipid structure attaching certain proteins (like FcγRIIIb and CD177) to the cell membrane
+*   **Leukoreduction:** The process of removing white blood cells from blood components, effective in reducing FNHTR risk but not antibody-mediated TRALI
+*   **G-CSF (Granulocyte Colony-Stimulating Factor):** A medication used to stimulate the bone marrow to produce more neutrophils, sometimes used to treat NAN or severe AIN

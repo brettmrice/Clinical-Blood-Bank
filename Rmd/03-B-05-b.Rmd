@@ -1,0 +1,114 @@
+# HPC {-}
+
+**Hematopoietic Progenitor Cell (HPC) Transplantation**, often called stem cell transplant or bone marrow transplant, shares some principles with solid organ transplantation (like HLA matching), the immunology is fascinatingly different, with unique challenges like Graft-versus-Host Disease (GVHD) being a major focus
+
+## **The Goal: Rebuilding the Blood and Immune System** {-}
+
+*   **Why Transplant?:** HPC transplantation aims to replace a patient's diseased or damaged hematopoietic system (the bone marrow and the blood/immune cells it produces) with healthy progenitor cells. It's used to treat:
+    *   **Malignant Diseases:** Leukemias (AML, ALL, CML, CLL), Lymphomas (Hodgkin, Non-Hodgkin), Multiple Myeloma. The goal is often to allow for high-dose chemotherapy/radiation to kill cancer cells (which also destroys the patient's marrow) and then "rescue" the patient with new stem cells. Sometimes, the donor cells also exert a **Graft-versus-Tumor (GvT)** or **Graft-versus-Leukemia (GvL)** effect, where donor immune cells help eliminate residual cancer cells
+    *   **Bone Marrow Failure Syndromes:** Aplastic Anemia, Fanconi Anemia
+    *   **Inherited Immune Deficiencies:** Severe Combined Immunodeficiency (SCID), Wiskott-Aldrich Syndrome
+    *   **Hemoglobinopathies:** Severe Sickle Cell Disease, Thalassemia Major
+    *   **Inherited Metabolic Disorders:** Certain storage diseases
+*   **The Cells:** **Hematopoietic Progenitor Cells (HPCs)** are multipotent stem cells residing primarily in the bone marrow. They have the remarkable ability to self-renew and differentiate into all lineages of blood and immune cells (red cells, white cells of all types, platelets). They are often identified and quantified by the presence of the **CD34** surface marker
+
+## **Sources of HPCs** {-}
+
+*   **Bone Marrow (BM):** The traditional source. Collected via multiple aspirations from the donor's posterior iliac crests under general or spinal anesthesia. Rich in stem cells but requires anesthesia and has some donor discomfort
+*   **Peripheral Blood Stem Cells (PBSC):** **Most common source now.** Donors receive injections of **Granulocyte Colony-Stimulating Factor (G-CSF)** +/- Plerixafor for several days. G-CSF "mobilizes" HPCs from the bone marrow into the peripheral circulation. The donor then undergoes **apheresis** (similar to platelet donation), where blood is drawn, passed through a machine to collect the CD34+ cells, and the remaining blood components are returned to the donor. Provides a higher yield of HPCs and usually faster engraftment than BM, with less donor discomfort than BM harvest
+*   **Umbilical Cord Blood (UCB):** Collected from the umbilical cord and placenta after birth. Contains a rich source of HPCs. Advantages include readily available (stored in cord blood banks), lower risk of transmitting infections, and **less stringent HLA matching required** due to the immunological naivety of cord blood T cells (leading to **less Graft-versus-Host Disease**). Disadvantages include lower cell dose (may be insufficient for larger adults), slower engraftment time, and inability to recall the donor for additional cells if needed
+
+## **Types of HPC Transplants (Based on Donor)** {-}
+
+*   **Autologous Transplant ("Auto"):** The patient's *own* HPCs are collected (usually PBSC) during a period of remission, stored (often cryopreserved), and then re-infused after the patient receives high-dose chemotherapy/radiation
+    *   **Advantage:** No risk of rejection or GVHD
+    *   **Disadvantage:** No Graft-versus-Tumor effect; higher risk of relapse if cancer cells were inadvertently collected with the stem cells
+*   **Allogeneic Transplant ("Allo"):** HPCs are collected from a **donor** other than the patient
+    *   **Syngeneic:** Donor is an identical twin (genetically identical). No GVHD risk, but also no GvT effect
+    *   **Related Donor:** Donor is usually an HLA-matched sibling. Historically the preferred donor type
+    *   **Unrelated Donor (MUD - Matched Unrelated Donor):** Donor found through international registries (like NMDP/Be The Match). Requires extensive HLA typing to find the best match
+    *   **Haploidentical Donor ("Haplo"):** Donor shares exactly one HLA haplotype (usually a parent, child, or half-matched sibling). Requires special techniques (like T-cell depletion or post-transplant cyclophosphamide) to manage the high risk of rejection and GVHD due to the significant HLA mismatch. Becoming more common due to donor availability
+    *   **Cord Blood Donor:** Uses unrelated UCB units
+*   **Key Difference from "Auto":** Allogeneic transplants introduce a *new* immune system from the donor. This allows for the beneficial **Graft-versus-Tumor** effect but carries the major risk of **Graft-versus-Host Disease (GVHD)** and **rejection**
+
+## **The Transplant Process** {-}
+
+1.  **Conditioning Regimen** Before receiving the HPC infusion, the patient undergoes intensive therapy
+    *   **Goals**
+        *   Eradicate the underlying disease (e.g., leukemia)
+        *   Provide sufficient **immunosuppression** to prevent the recipient's immune system from rejecting the donor stem cells (critical for allogeneic)
+        *   Create physical "space" in the bone marrow for the new stem cells to engraft
+    *   **Methods:** High-dose chemotherapy, Total Body Irradiation (TBI), or a combination. **Reduced-Intensity Conditioning (RIC)** regimens use lower doses, relying more on the GvT effect, allowing older or less fit patients to undergo transplant
+    *   **Consequence:** Profound **pancytopenia** (low RBCs, WBCs, Platelets) and **immunosuppression**, making the patient highly vulnerable to infection and bleeding. Significant organ toxicities (mucositis, nausea, liver/kidney/lung damage) are common
+2.  **HPC Infusion** The collected HPC product (fresh or thawed cryopreserved) is infused intravenously into the recipient, much like a standard blood transfusion. This is often referred to as "Day 0"
+3.  **Engraftment** The infused HPCs travel ("home") to the bone marrow niches, begin to proliferate, and differentiate. Engraftment is defined by the sustained recovery of blood counts, typically:
+    *   Neutrophil engraftment: ANC > 500/µL for 3 consecutive days (usually occurs ~10-21 days post-infusion, slower for cord blood)
+    *   Platelet engraftment: Platelet count > 20,000/µL without transfusion support (often takes longer than neutrophils)
+
+## **Immune Complications: The Major Challenges of Allogeneic HCT** {-}
+
+*   **Graft Rejection (Graft Failure):** The recipient's residual immune cells (especially T cells or NK cells) recognize the donor HPCs as foreign and destroy them. The graft fails to engraft, or engraftment is lost after initially occurring. More common with reduced-intensity conditioning, T-cell depleted grafts, or significant HLA mismatch. Leads to persistent pancytopenia
+*   **Graft-versus-Host Disease (GVHD):** **The hallmark complication of allogeneic HCT.** Occurs when mature, immunocompetent **donor T lymphocytes** (present in the HPC graft) recognize the **recipient's tissues** as foreign (due to differences in HLA and minor histocompatibility antigens) and mount an immune attack against them
+    *   **Acute GVHD (aGVHD):** Typically occurs within the first 100 days post-transplant. Primarily affects:
+        *   **Skin:** Rash (maculopapular)
+        *   **Liver:** Jaundice, elevated liver enzymes
+        *   **Gastrointestinal Tract:** Diarrhea (often profuse, watery, or bloody), nausea, vomiting, abdominal pain
+        *   Severity is graded (I-IV). Can be life-threatening
+    *   **Chronic GVHD (cGVHD):** Usually occurs >100 days post-transplant (can occur earlier or evolve from acute GVHD). Can affect almost any organ system, often resembling autoimmune/collagen vascular diseases. Common features include skin changes (sclerosis, pigment changes), dry eyes/mouth (sicca syndrome), lung problems (bronchiolitis obliterans), liver dysfunction, joint contractures, GI issues. Major cause of late morbidity and mortality
+    *   **Prevention/Treatment:** Prophylactic immunosuppression (similar drugs to SOT: calcineurin inhibitors, methotrexate, mycophenolate, etc.) is standard. Treatment involves increasing immunosuppression (steroids first-line), potentially adding other agents (Rituximab, IVIg, ECP - extracorporeal photopheresis)
+
+## **HLA Matching: Critical for Success** {-}
+
+*   **Importance:** Minimizing HLA differences between donor and recipient is paramount for **allogeneic** HCT to reduce the risk and severity of both **GVHD** and **graft rejection**
+*   **Required Typing:** High-resolution typing (identifying specific alleles) for **HLA-A, -B, -C, and -DRB1** is considered essential. Matching at other loci (DQB1, DPB1) is increasingly considered
+*   **Donor Hierarchy**
+    1.  HLA-matched sibling (identical twin is perfect but rare)
+    2.  HLA-matched unrelated donor (MUD) (8/8 or 10/10 match preferred)
+    3.  HLA-mismatched unrelated donor
+    4.  Umbilical Cord Blood unit(s) (less stringent matching acceptable)
+    5.  Haploidentical relative
+
+## **ABO Compatibility: Secondary but Important** {-}
+
+*   ABO antigens are **not** expressed strongly on HPCs themselves, so ABO incompatibility is **not** a barrier to performing the transplant (unlike SOT). However, it has significant implications for **transfusion support** and potential **immune hemolysis** during and after transplant
+*   **Types of ABO Incompatibility**
+    *   **Major:** Donor has ABO antigens recipient lacks (e.g., Group A donor -> Group O recipient). Recipient has pre-formed anti-A/anti-B (isohemagglutinins) that can attack donor RBCs produced *after* engraftment OR passenger lymphocytes in the graft making antibody. Risk of immediate or delayed hemolysis. HPC product may be plasma-reduced or RBC-depleted before infusion
+    *   **Minor:** Recipient has ABO antigens donor lacks (e.g., Group O donor -> Group A recipient). Donor graft contains plasma with anti-A/anti-B (isohemagglutinins) from the donor OR donor B cells that will produce anti-A/anti-B after engraftment. Risk of hemolysis of *recipient* RBCs shortly after infusion ("passenger lymphocyte syndrome") or later as donor immune system takes over. HPC product may be plasma-reduced
+    *   **Bidirectional:** Both major and minor incompatibility exist (e.g., Group A donor -> Group B recipient). Risks of both scenarios
+*   **Blood Bank Management:** Requires careful planning for transfusion support around the time of transplant, often needing specific ABO group products depending on the incompatibility and phase of engraftment (e.g., using Group O RBCs and Group AB plasma initially for major incompatibility). Monitoring for hemolysis is crucial. Recipient's blood type may eventually change to the donor's type after full engraftment
+
+## **Other Complications** {-}
+
+*   **Infections:** Profound and prolonged immunosuppression leads to high risk of bacterial, fungal, viral (CMV, EBV, Adenovirus, BK virus), and protozoal infections. Requires intensive monitoring and prophylactic/pre-emptive therapies
+*   **Organ Toxicity:** From conditioning regimens (mucositis, VOD/SOS - hepatic veno-occlusive disease/sinusoidal obstruction syndrome, lung injury, kidney injury, cardiotoxicity)
+*   **Secondary Malignancies:** Increased long-term risk due to radiation, chemotherapy, and chronic immunosuppression/GVHD
+*   **Endocrine Issues:** Hypothyroidism, hypogonadism, infertility, growth impairment in children
+*   **Relapse:** Return of the original underlying disease remains a major cause of treatment failure
+
+## **Blood Bank Role: Essential Support** {-}
+
+*   **HLA Typing Coordination:** Working with specialized HLA laboratories
+*   **Blood Product Support:** Providing necessary RBCs and Platelets during the period of marrow aplasia post-conditioning. **CRITICAL Requirements**
+    *   **Irradiation:** **Mandatory** for all cellular components to prevent Transfusion-Associated GVHD (TA-GVHD) caused by viable donor lymphocytes in the blood product attacking the immunocompromised recipient
+    *   **CMV-Safe:** Leukocyte reduction or CMV-seronegative products are essential to prevent CMV transmission
+    *   **Leukocyte Reduction:** Standard practice
+    *   **Managing ABO Incompatibility:** Providing appropriate ABO group components pre- and post-engraftment based on the type of incompatibility (see above)
+*   **Therapeutic Apheresis:** Plasma exchange for TTP post-transplant, ECP for GVHD treatment
+*   **HPC Collection/Processing/Cryopreservation:** In centers where the Blood Bank/Transfusion Service manages the HPC laboratory. Includes CD34+ cell enumeration, processing (e.g., plasma reduction, RBC depletion), adding cryoprotectant (DMSO), controlled-rate freezing, and storage in liquid nitrogen. Thawing at the bedside prior to infusion
+
+## **Key Terms** {-}
+
+*   **Hematopoietic Progenitor Cells (HPCs):** Multipotent stem cells that give rise to all blood cell lineages
+*   **CD34:** Surface marker commonly used to identify and quantify HPCs
+*   **Mobilization:** Process of stimulating HPCs to move from bone marrow into peripheral blood (using G-CSF)
+*   **Apheresis:** Procedure to collect specific blood components (like PBSCs) while returning the rest to the donor
+*   **Conditioning Regimen:** High-dose chemotherapy and/or radiation given before HPC infusion to eradicate disease and suppress the recipient's immune system
+*   **Engraftment:** The process where infused HPCs establish themselves in the bone marrow and begin producing new blood cells
+*   **Autologous Transplant:** Using the patient's own HPCs
+*   **Allogeneic Transplant:** Using HPCs from a donor
+*   **Graft-versus-Host Disease (GVHD):** Immune attack by donor T cells against recipient tissues; major complication of allogeneic HCT
+*   **Graft-versus-Tumor (GvT) / Graft-versus-Leukemia (GvL):** Beneficial effect where donor immune cells eliminate residual cancer cells in the recipient
+*   **HLA Matching:** Assessing compatibility of Human Leukocyte Antigens between donor and recipient; crucial for allogeneic HCT success
+*   **Chimerism:** The presence of cells from two genetically distinct individuals (donor and recipient) in one person after transplant
+*   **Irradiation (Blood Products):** Treatment to inactivate T lymphocytes in cellular blood components to prevent TA-GVHD
+*   **Veno-occlusive Disease (VOD) / Sinusoidal Obstruction Syndrome (SOS):** Serious liver complication, often related to conditioning toxicity

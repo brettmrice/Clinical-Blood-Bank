@@ -1,0 +1,80 @@
+# Nonimmunologic {-}
+
+**Non-Immunologic Adverse Effects** are problems caused by the physical, chemical, or infectious properties of the blood component itself, or the process of transfusion, rather than an antibody-antigen showdown
+
+These reactions are just as important to recognize and manage! Some are immediate, others develop over time, but all require our vigilance
+
+## **Infectious Complications** {-}
+
+Despite rigorous donor screening and testing, the risk of transmitting infections, while very low in developed countries, is never zero
+
+*   **Bacterial Contamination (Transfusion-Associated Sepsis)**
+    *   **Cause:** Bacteria introduced into the blood component, usually during donor phlebotomy (skin contaminants like *Staphylococcus*) or, less commonly, during processing. Platelets stored at room temperature are at highest risk
+    *   **Signs & Symptoms:** **Rapid onset** (often during or shortly after transfusion) of high fever, severe chills (rigors), profound hypotension (shock), nausea/vomiting, shortness of breath, DIC
+    *   **Severity:** **Life-threatening emergency!** High mortality rate
+    *   **Prevention/Management:** Strict aseptic technique during collection, diversion of the first few mLs of collection, bacterial detection testing (culture or surrogate markers) for platelets. If suspected: **STOP transfusion immediately**, draw blood cultures from patient and component bag, administer broad-spectrum antibiotics, provide aggressive supportive care
+*   **Viral Transmission**
+    *   **Cause:** Transmission of viruses present in donor blood, often during the "window period" before the donor develops detectable antibodies or viral load. Examples include HIV, Hepatitis B (HBV), Hepatitis C (HCV), West Nile Virus (WNV), Zika, CMV (Cytomegalovirus), HTLV-I/II
+    *   **Signs & Symptoms:** Highly variable depending on the virus. May be asymptomatic initially or cause flu-like illness, jaundice, or specific disease manifestations weeks, months, or even years later
+    *   **Severity:** Ranges from asymptomatic/mild to chronic illness or fatal disease
+    *   **Prevention:** Extensive donor screening questionnaires (risk factors), highly sensitive laboratory testing (serology - ELISA, and **Nucleic Acid Testing - NAT** which significantly shortens the window period for HIV, HCV, HBV, WNV). Pathogen reduction technologies are also emerging for plasma and platelets
+*   **Parasitic Transmission**
+    *   **Cause:** Transmission of parasites endemic to certain regions. Examples include *Plasmodium* species (Malaria), *Babesia microti* (Babesiosis - tick-borne, northeastern US), *Trypanosoma cruzi* (Chagas disease - Central/South America)
+    *   **Signs & Symptoms:** Variable; fever, chills, hemolysis (malaria, babesiosis), cardiac/gastrointestinal issues (Chagas)
+    *   **Severity:** Can be significant, especially in immunocompromised individuals
+    *   **Prevention:** Donor screening questionnaires (travel history), specific laboratory testing in endemic areas or for at-risk donors (e.g., Chagas testing is routine now in the US)
+
+## **Volume/Circulatory Issues** {-}
+
+*   **Transfusion-Associated Circulatory Overload (TACO)**
+    *   **Cause:** Transfusing fluid volume faster or in greater quantity than the patient's circulatory system can handle, leading to fluid overload and hydrostatic pulmonary edema. Risk factors include elderly age, underlying cardiac or renal disease, chronic anemia (where plasma volume may already be expanded), small body size
+    *   **Signs & Symptoms:** Acute respiratory distress (shortness of breath, difficulty breathing when lying flat - orthopnea, cough), **hypertension**, tachycardia, headache, **jugular venous distension (JVD)**, bilateral pulmonary edema on chest X-ray, often a positive fluid balance
+    *   **Severity:** Can range from mild respiratory symptoms to severe heart failure and respiratory compromise
+    *   **Prevention/Management:** Careful patient assessment pre-transfusion, slower infusion rates (especially for RBCs), consider splitting units or using smaller volume components, judicious use of diuretics before, during, or after transfusion. If suspected: **STOP or slow transfusion**, sit patient upright, administer oxygen and diuretics
+
+## **Metabolic and Electrolyte Complications** {-}
+
+These are more common with rapid or massive transfusions
+
+*   **Hypothermia**
+    *   **Cause:** Rapid infusion of large volumes of cold (1-6°C) blood components
+    *   **Signs & Symptoms:** Shivering, decrease in core body temperature
+    *   **Severity:** Can worsen acidosis, impair coagulation (enzyme function is temperature-dependent), and induce cardiac arrhythmias
+    *   **Prevention/Management:** Use an approved **blood warmer** for rapid or massive transfusions, especially for RBCs
+*   **Citrate Toxicity (leading to Hypocalcemia)**
+    *   **Cause:** Citrate is the anticoagulant used in blood components. It binds (chelates) ionized calcium. Normally, the liver rapidly metabolizes citrate. However, during rapid/massive transfusion, or in patients with severe liver dysfunction or neonates (immature liver), citrate levels can rise faster than it can be cleared. This leads to a decrease in physiologically active **ionized calcium**
+    *   **Signs & Symptoms:** Paresthesias (tingling, especially around mouth and fingertips), muscle tremors or cramps, tetany, hypotension (calcium needed for cardiac contractility), prolonged QT interval on EKG, potential arrhythmias
+    *   **Severity:** Can cause significant cardiovascular compromise if severe
+    *   **Prevention/Management:** Slower infusion rates allow the liver to keep up. Monitor ionized calcium levels during massive transfusion. Administer calcium (e.g., calcium gluconate or chloride) prophylactically or therapeutically based on levels and clinical signs
+*   **Hyperkalemia**
+    *   **Cause:** Potassium gradually leaks out of red blood cells during storage (the longer the storage, the higher the extracellular potassium in the unit). Rapid infusion of older RBC units can deliver a significant potassium load
+    *   **Signs & Symptoms:** Muscle weakness, paresthesias, cardiac arrhythmias (peaked T waves on EKG, bradycardia, ventricular fibrillation, asystole)
+    *   **Severity:** Can be **life-threatening**, especially in neonates, patients with renal failure, or those receiving massive transfusions
+    *   **Prevention/Management:** Use fresher RBC units (<7-14 days old) for large-volume or neonatal transfusions. Consider **washing** RBCs for high-risk patients to remove the potassium-rich supernatant. Monitor potassium levels
+
+## **Physical/Storage-Related Complications** {-}
+
+*   **Transfusion of Physically Damaged/Hemolyzed Units**
+    *   **Cause:** Non-immune hemolysis due to improper handling or storage: exposure to extreme temperatures (freezing/overheating), mechanical trauma (e.g., pressure infusion through small needle), mixing with incompatible IV solutions (hypotonic solutions like D5W cause lysis; solutions with calcium like Lactated Ringer's can cause clotting in citrated blood), bacterial contamination
+    *   **Signs & Symptoms:** Can mimic a mild hemolytic reaction (fever, chills, back pain), hemoglobinuria. **DAT will be negative.** Can potentially cause renal dysfunction if free hemoglobin load is high
+    *   **Severity:** Variable
+    *   **Prevention:** Strict adherence to storage temperatures, proper handling, visual inspection of units for discoloration/clots/hemolysis before issue, **never add medications or non-isotonic IV fluids to blood components**, use appropriate infusion equipment
+
+## **Iron Overload (Transfusional Hemosiderosis)** {-}
+
+*   **Cause:** A **chronic** complication seen in patients requiring long-term RBC transfusion support (e.g., thalassemia, sickle cell disease, myelodysplastic syndromes). Each unit of RBCs contains approx. 200-250 mg of iron. The body lacks an efficient mechanism to excrete excess iron, leading to accumulation
+*   **Signs & Symptoms:** Develops **over years**. Iron deposition damages vital organs: liver (fibrosis, cirrhosis, hepatocellular carcinoma), heart (cardiomyopathy, arrhythmias, heart failure), endocrine glands (diabetes, hypothyroidism, hypogonadism), joints (arthritis)
+*   **Severity:** Significant cause of morbidity and mortality in chronically transfused patients
+*   **Prevention/Management:** Judicious use of transfusions, exploring alternatives. Primary management involves **iron chelation therapy** (using drugs like deferoxamine, deferasirox, deferiprone) to bind excess iron and promote its excretion
+
+## **Key Terms** {-}
+
+*   **Transfusion-Associated Circulatory Overload (TACO):** Pulmonary edema due to inability of the circulatory system to handle the transfused volume, characterized by respiratory distress, hypertension, and signs of fluid overload
+*   **Citrate Toxicity:** Metabolic complication caused by the accumulation of citrate anticoagulant during rapid/massive transfusion, leading to chelation of ionized calcium (hypocalcemia)
+*   **Hypocalcemia (Ionized):** Abnormally low level of physiologically active calcium in the blood, often resulting from citrate toxicity during transfusion
+*   **Hyperkalemia:** Abnormally high level of potassium in the blood, can occur with rapid transfusion of older stored red blood cells due to potassium leakage during storage
+*   **Blood Warmer:** A medical device used to warm blood components from refrigerator temperature towards body temperature before rapid or massive infusion to prevent hypothermia
+*   **Iron Overload (Transfusional Hemosiderosis):** Pathological accumulation of excess iron in the body tissues due to chronic red blood cell transfusions
+*   **Iron Chelation Therapy:** Treatment using medications that bind to excess iron, promoting its excretion from the body, used to manage iron overload
+*   **Nucleic Acid Testing (NAT):** Highly sensitive molecular tests used in donor screening to detect the genetic material (RNA or DNA) of viruses like HIV, HCV, HBV, and WNV, significantly reducing the infectious window period compared to antibody tests
+*   **Pathogen Reduction Technology (PRT):** Methods applied to plasma and platelet components to inactivate a broad range of viruses, bacteria, and parasites, further enhancing safety (not universally available or used for RBCs yet)

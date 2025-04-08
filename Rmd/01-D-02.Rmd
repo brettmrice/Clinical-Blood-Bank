@@ -1,0 +1,90 @@
+# Cryoprecipitated AHF {-}
+
+**Cryoprecipitated Antihemophilic Factor (AHF)**, often simply called "Cryo." While it sounds complex, think of it as a highly concentrated "super-glue" kit derived from plasma, packed with specific clotting factors
+
+## **What is Cryoprecipitated AHF?** {-}
+
+*   **Definition:** Cryoprecipitated AHF is the cold-insoluble protein fraction that precipitates out when a unit of Fresh Frozen Plasma (FFP) is thawed slowly under controlled refrigerated conditions (1°C to 6°C)
+*   **Composition:** It's a *concentrate*, not whole plasma. Each small unit (typically 10-20 mL) contains a significant portion of specific coagulation factors derived from the original ~250 mL unit of FFP. The key components concentrated in Cryo are:
+    *   **Fibrinogen (Factor I):** Essential for forming the fibrin meshwork of a blood clot. **This is the most important component and the primary reason Cryo is used today.**
+    *   **Factor VIII (Antihemophilic Factor):** A key factor in the intrinsic coagulation cascade. Deficiency causes Hemophilia A
+    *   **von Willebrand Factor (vWF):** Important for platelet adhesion to injured vessel walls and acts as a carrier protein for Factor VIII
+    *   **Factor XIII:** Stabilizes the fibrin clot by cross-linking fibrin strands
+    *   **Fibronectin:** Involved in cell adhesion and wound healing
+
+## **Preparation Method** {-}
+
+The process is quite specific:
+
+1.  Start with a unit of **Fresh Frozen Plasma (FFP)**
+2.  Thaw the FFP slowly in a controlled refrigerator (**1°C to 6°C**) over several hours
+3.  As it thaws, a white, gelatinous precipitate forms (this is the cryoprecipitate)
+4.  Once thawing is complete but the precipitate remains, the unit (now containing slushy plasma and the precipitate) is centrifuged heavily ("hard spin")
+5.  The supernatant plasma (now called **Cryoprecipitate-Reduced Plasma**) is expressed off into another bag, leaving behind the concentrated precipitate in a small volume (10-20 mL) of residual plasma
+6.  This remaining concentrate is **Cryoprecipitated AHF**, which is then refrozen rapidly at ≤ -18°C for storage
+
+## **Indications for Transfusion** {-}
+
+Cryo is used primarily to replace the specific factors it contains, particularly fibrinogen:
+
+*   **Primary Indication:** Treatment of bleeding associated with **low fibrinogen levels (hypofibrinogenemia)** or functionally abnormal fibrinogen (**dysfibrinogenemia**). This is common in situations like:
+    *   Disseminated Intravascular Coagulation (DIC)
+    *   Severe liver disease
+    *   Massive transfusion protocols (where fibrinogen is consumed or diluted)
+    *   Congenital fibrinogen deficiency
+*   **Secondary Indications (Less Common Now due to specific factor concentrates)**
+    *   **Hemophilia A (Factor VIII deficiency):** *Only* if Factor VIII concentrates are unavailable
+    *   **von Willebrand Disease (vWD):** *Only* if vWF-containing concentrates are unavailable
+    *   **Factor XIII deficiency:** (Rare)
+*   **Other Use:** As a source for **Fibrin Sealant** (often prepared by pharmacy or used commercially) for topical application to control surgical bleeding
+
+**Important Note** Cryo is **NOT** indicated for general volume replacement or as a source of coagulation factors other than those listed above (e.g., it's a poor source of Factor V, Factor II, etc., compared to FFP)
+
+## **Storage and Expiration** {-}
+
+*   **Frozen State**
+    *   Storage Temperature: **≤ -18°C**
+    *   Expiration: **1 year** from the date of the original whole blood collection
+*   **Thawed State**
+    *   Thawing: Done rapidly in a 30-37°C water bath or approved thawing device
+    *   Storage Temperature: **20°C to 24°C (Room Temperature)** - **Do NOT refrigerate after thawing!**
+    *   Expiration (Critical):
+        *   **Single Units:** Expire **6 hours** after thawing
+        *   **Pooled Units (Open System):** If multiple units are pooled together using needles/syringes (an open system), the pool expires **4 hours** after pooling begins
+
+## **Quality Control / Specifications** {-}
+
+Regulatory requirements (e.g., AABB Standards) mandate minimum levels of key factors in QC testing of manufactured units:
+
+*   **Fibrinogen:** ≥ 150 mg per individual unit
+*   **Factor VIII:** ≥ 80 International Units (IU) per individual unit
+
+## **Administration** {-}
+
+*   **Pooling:** Because a single unit contains a relatively small amount of factors, multiple units (often 5-10, sometimes more) are typically **pooled** together into one bag to provide a therapeutic dose for an adult. The number of units pooled depends on the clinical indication and patient size
+*   **Compatibility:** ABO compatibility is **preferred** but not strictly required due to the small volume of plasma and antibodies. Hospital policies often require ABO-compatible Cryo. Rh type is generally not considered relevant for Cryo transfusion
+*   **Filtration:** Must be administered through a standard blood filter (170-260 microns)
+*   **Infusion:** Usually infused rapidly, as quickly as the patient can tolerate, often over 10-30 minutes. Must be completed before the 4-hour (pooled) or 6-hour (single unit) expiration time
+*   **Dosage:** Calculated based on the patient's weight, clinical situation, and the desired increase in factor levels (especially fibrinogen)
+
+## **Potential Risks / Adverse Reactions** {-}
+
+Risks are similar to those associated with other plasma components, although the small volume per unit reduces some risks unless large numbers are pooled and transfused:
+
+*   Febrile Non-Hemolytic Reactions
+*   Allergic Reactions (Urticaria to Anaphylaxis)
+*   Transfusion-Transmitted Infections (TTIs) - very low risk
+*   Transfusion-Related Acute Lung Injury (TRALI) - risk associated with plasma
+*   Circulatory Overload (less common unless many units given rapidly)
+
+## **Key Terms** {-}
+
+*   **Cryoprecipitate (Cryo):** The cold-insoluble protein fraction precipitated from thawed FFP
+*   **Fibrinogen (Factor I):** The primary protein in Cryo, essential for clot formation; most common reason for transfusion
+*   **Factor VIII (AHF):** Antihemophilic Factor, concentrated in Cryo; deficiency causes Hemophilia A
+*   **von Willebrand Factor (vWF):** Aids platelet adhesion, carries Factor VIII; concentrated in Cryo
+*   **Factor XIII:** Stabilizes fibrin clots; concentrated in Cryo
+*   **Pooling:** Combining multiple single units of Cryo into one container for transfusion
+*   **Hypofibrinogenemia:** Low level of fibrinogen in the blood
+*   **Labile Factors:** Coagulation factors (like V and VIII) that degrade relatively quickly, especially when not frozen
+*   **Fibrin Sealant:** A topical hemostatic agent made from fibrinogen (often from Cryo) and thrombin

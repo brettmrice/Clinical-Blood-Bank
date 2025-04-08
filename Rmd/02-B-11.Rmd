@@ -1,0 +1,104 @@
+# Other Blood Groups {-}
+
+Beyond the commonly encountered ABO, Rh, Kell, Duffy, Kidd, and MNS systems, the red blood cell surface hosts a vast array of antigens belonging to numerous other blood group systems, currently numbering **45 human blood group systems recognized by the ISBT** and containing over 360 different red cell antigens
+
+These systems exhibit diverse biochemistry, with antigens residing on various membrane proteins, glycoproteins, or even adsorbed plasma components. While many are less frequently involved in routine testing, understanding their characteristics and potential clinical significance is crucial for resolving complex antibody investigations, managing transfusion reactions, addressing HDFN, and sourcing compatible blood for patients with antibodies to either very common or very rare antigens
+
+It is unnessary to cover *all* of them in detail, but understanding that they exist, knowing a few key examples, and recognizing their general characteristics is important. These systems often come into play when:
+
+1.  Resolving complex antibody identification problems
+2.  Investigating transfusion reactions or HDFN when common antibodies are ruled out
+3.  Dealing with antibodies to high-prevalence antigens (present on almost everyone's cells) or finding blood for patients with antibodies to low-prevalence antigens (present on very few people's cells)
+
+Here's a look at some representative "other" systems, focusing on their biochemistry and antigens:
+
+
+##  **Diego System (DI) - ISBT System 010** {-}
+
+*   **Biochemistry/Antigen Carrier:** The antigens are part of the **Band 3 protein** (also known as Anion Exchanger 1 or AE1), a major structural and transport protein that spans the red cell membrane multiple times
+*   **Key Antigens:** Primarily **Di<sup>a</sup>** / **Di<sup>b</sup>**. Also includes Wright (**Wr<sup>a</sup>** / **Wr<sup>b</sup>**) and several other less common antigens now assigned to this system
+    *   Di<sup>a</sup>: Low prevalence in most populations but significantly higher in people of **Native American and East Asian descent** (up to 36% or more)
+    *   Di<sup>b</sup>: High prevalence antigen (nearly 100% in most populations)
+    *   Wr<sup>a</sup>: Low prevalence antigen
+    *   Wr<sup>b</sup>: High prevalence antigen (associated with a specific conformation of Band 3 and Glycophorin A)
+*   **Antibodies:** Usually **IgG**, reactive in the IAT phase. Can be stimulated by pregnancy or transfusion
+*   **Clinical Significance:** **Anti-Di<sup>a</sup>, Anti-Di<sup>b</sup>, and Anti-Wr<sup>a</sup> CAN cause moderate to severe Hemolytic Transfusion Reactions (HTR) and Hemolytic Disease of the Fetus and Newborn (HDFN).** Anti-Wr<sup>b</sup> is extremely rare as Wr<sup>b</sup> is high prevalence
+
+##  **Cartwright System (YT) - ISBT System 011** {-}
+
+*   **Biochemistry/Antigen Carrier:** The antigens reside on **Acetylcholinesterase (AChE)**, an enzyme found on the red cell surface anchored by a GPI-link (Glycosylphosphatidylinositol anchor)
+*   **Key Antigens:** **Yt<sup>a</sup>** / **Yt<sup>b</sup>**
+    *   Yt<sup>a</sup>: High prevalence antigen (>99% in most populations)
+    *   Yt<sup>b</sup>: Lower prevalence (around 8% in Caucasians)
+*   **Antigen Characteristics:** AChE (and thus Yt antigens) can be **destroyed by treatment with DTT** (dithiothreitol), which cleaves GPI-linked proteins
+*   **Antibodies:** Usually **IgG**, reactive in IAT. Anti-Yt<sup>a</sup> is most common
+*   **Clinical Significance:** Generally considered **clinically insignificant** or only causing mild, delayed HTRs. HDFN is rare and usually mild if it occurs. However, crossmatch compatible blood is typically provided
+
+##  **Xg System (XG) - ISBT System 012** {-}
+
+*   **Biochemistry/Antigen Carrier:** The **Xg<sup>a</sup>** antigen is located on a glycoprotein encoded by the *XG* gene on the **X chromosome**. A related gene, *MIC2*, encodes the CD99 antigen
+*   **Key Antigens:** Only one well-established antigen: **Xg<sup>a</sup>**. There is no antithetical "Xg<sup>b</sup>". Individuals are either Xg(a+) or Xg(a-)
+*   **Inheritance:** Unique **X-linked dominant** inheritance pattern. Females (XX) can be homozygous or heterozygous; males (XY) are hemizygous (either have it or don't). Frequencies differ between sexes (higher in females)
+*   **Antigen Characteristics:** Susceptible to **ficin and papain** enzyme treatment
+*   **Antibodies:** Usually **IgM**, sometimes IgG. Often naturally occurring, reactive best at room temperature or colder, but can react weakly at IAT
+*   **Clinical Significance:** **Anti-Xg<sup>a</sup> is considered clinically insignificant.** It has not been clearly implicated in HTR or HDFN
+
+##  **Scianna System (SC) - ISBT System 013** {-}
+
+*   **Biochemistry/Antigen Carrier:** Antigens are located on the **ERMAP** (Erythroid Membrane-Associated Protein), a transmembrane glycoprotein
+*   **Key Antigens:** Include **Sc1** (high prevalence, >99%), **Sc2** (low prevalence, ~1%), and **Sc3** (present on all cells except rare Sc:-1,-2 null phenotype)
+*   **Antibodies:** Usually **IgG**, reactive at IAT
+*   **Clinical Significance:** Antibodies (especially anti-Sc1) **CAN cause delayed HTR and mild to moderate HDFN.** The Sc null phenotype can make anti-Sc3, which reacts with almost all cells
+
+##  **Dombrock System (DO) - ISBT System 014** {-}
+
+*   **Biochemistry/Antigen Carrier:** Antigens are carried on a **GPI-anchored glycoprotein** encoded by the *ART4* gene
+*   **Key Antigens:** Includes **Do<sup>a</sup>** and **Do<sup>b</sup>** (common, antithetical), plus high-prevalence antigens **Gy<sup>a</sup>**, **Hy**, and **Jo<sup>a</sup>**. The absence of all Dombrock antigens (Gy(a-), Hy-, Jo(a-)) defines the Do(null) phenotype
+*   **Antigen Characteristics:** Destroyed by **DTT** treatment (due to GPI anchor). Expression can weaken upon storage
+*   **Antibodies:** Usually **IgG**, reactive at IAT, often **weak and difficult to detect**, may show **dosage**. Notorious for appearing in delayed reactions
+*   **Clinical Significance:** Antibodies (especially anti-Do<sup>a</sup>, anti-Do<sup>b</sup>, anti-Gy<sup>a</sup>) **CAN cause delayed HTRs**, sometimes severe. Mild HDFN has also been reported. Finding compatible blood for patients with antibodies to the high-prevalence antigens (like Gy<sup>a</sup>) is challenging
+
+##  **Colton System (CO) - ISBT System 015** {-}
+
+*   **Biochemistry/Antigen Carrier:** Antigens are located on **Aquaporin-1 (AQP1)**, the red cell water channel protein
+*   **Key Antigens:** **Co<sup>a</sup>** (very high prevalence, >99.7%) and **Co<sup>b</sup>** (low prevalence, ~10%). Co3 is present on all cells except the rare Co(a-b-) null phenotype
+*   **Antibodies:** Usually **IgG**, reactive at IAT
+*   **Clinical Significance:** Antibodies (especially anti-Co<sup>a</sup> and anti-Co<sup>b</sup>) **CAN cause significant acute and delayed HTRs and moderate to severe HDFN.** Anti-Co3 can be made by Co(a-b-) individuals
+
+##  **Chido/Rodgers System (CH/RG) - ISBT System 901 (Collection 214)** {-}
+*(Note: Technically a "Collection" now, not a full System, as the antigens aren't intrinsic RBC structures)*
+
+*   **Biochemistry/Antigen Carrier:** These are **NOT intrinsic red cell antigens**. They are determinants located on the **C4 complement components (C4b and C4d)** in plasma, which adsorb onto the red cell surface. Ch antigens are associated with C4B isotype, Rg antigens with C4A isotype
+*   **Key Antigens:** Multiple Ch and Rg antigens (e.g., Ch1-6, Rg1-2). Most are **very high prevalence**
+*   **Antigen Characteristics:** Presence/absence depends on inherited C4 genes and plasma levels. Can be **neutralized by plasma** containing C4. Often give **weak, fuzzy, variable reactions** in the IAT
+*   **Antibodies:** Almost always **IgG**, usually weak, non-hemolytic, non-complement binding
+*   **Clinical Significance:** **Clinically insignificant.** Often called "nuisance antibodies" because they can mask the presence of significant underlying antibodies. Identifying them correctly (e.g., via plasma neutralization) avoids unnecessary searches for rare antigen-negative blood
+
+##  **Gerbich System (GE) - ISBT System 020** {-}
+
+*   **Biochemistry/Antigen Carrier:** Antigens are located on **Glycophorin C (GPC)** and **Glycophorin D (GPD)**, minor sialoglycoproteins involved in maintaining RBC shape and membrane integrity. They interact with Protein 4.1
+*   **Key Antigens:** Complex system including high-prevalence antigens **Ge2, Ge3, Ge4** and lower prevalence antigens (**Wb, Ls<sup>a</sup>, An<sup>a</sup>, Dh<sup>a</sup>**). There are several "null" phenotypes associated with deletions in the *GYPC* gene (e.g., Yus type, Gerbich type, Leach type), often resulting in elliptocytosis. Ge3 is absent in all null types
+*   **Antigen Characteristics:** Antigens can be destroyed by **ficin/papain**
+*   **Antibodies:** Usually **IgG**, reactive at IAT
+*   **Clinical Significance:** Antibodies (especially anti-Ge2, anti-Ge3) **CAN cause HTRs and HDFN**, sometimes severe. Some phenotypes (e.g., Leach null) are associated with specific populations (e.g., Melanesia)
+
+##  **General Themes for "Other" Systems** {-}
+
+*   **Biochemical Diversity:** Antigens can be proteins, glycoproteins (transmembrane or GPI-linked), or even adsorbed plasma components
+*   **Clinical Variability:** Significance ranges from completely insignificant (Xg<sup>a</sup>, Ch/Rg) to potentially life-threatening (Diego, Colton, Dombrock). **Never assume an antibody is insignificant without proper investigation or consulting references.**
+*   **Prevalence Matters:** Antibodies to high-prevalence antigens (e.g., Yt<sup>a</sup>, Co<sup>a</sup>, Ge3, Vel, J MH) pose a significant challenge for finding compatible blood. Antibodies to low-prevalence antigens (e.g., Di<sup>a</sup>, Wr<sup>a</sup>, Co<sup>b</sup>, Kp<sup>a</sup>, Js<sup>a</sup>) are less common but usually easier to find compatible blood for (though the antibody itself might be potent)
+*   **Role of Reference Labs:** Identifying antibodies outside the common systems often requires specialized reagents (rare antisera, enzyme/chemical treated cells) and expertise found in immunohematology reference laboratories (IRLs)
+*   **Molecular Methods:** DNA-based genotyping is increasingly valuable for predicting phenotypes in these systems, especially when antisera are rare or unavailable, or when dealing with recently transfused patients
+
+## **Key Terms** {-}
+
+*   **ISBT (International Society of Blood Transfusion):** The organization responsible for standardizing nomenclature and classifying human blood group systems
+*   **High-Prevalence Antigen:** An antigen found on the red blood cells of a very large percentage (typically >99%) of a given population. Antibodies to these antigens are problematic because finding compatible (antigen-negative) blood is very difficult. Examples include k, Kp<sup>b</sup>, Js<sup>b</sup>, Lu<sup>b</sup>, Vel, J MH, Yt<sup>a</sup>, Ge3
+*   **Low-Prevalence Antigen:** An antigen found on the red blood cells of a small percentage (often <1-10%) of a given population. Antibodies are less common, but compatible (antigen-negative) blood is usually easy to find. Examples include K, Kp<sup>a</sup>, Js<sup>a</sup>, Lu<sup>a</sup>, Di<sup>a</sup>, Wr<sup>a</sup>, Co<sup>b</sup>
+*   **GPI Anchor (Glycosylphosphatidylinositol anchor):** A glycolipid structure that attaches certain proteins (like Acetylcholinesterase [Yt antigens] and Dombrock antigens) to the outer surface of the cell membrane. Proteins attached this way can often be cleaved off by treatment with reagents like DTT or specific enzymes (PI-PLC)
+*   **Band 3 Protein (Anion Exchanger 1, AE1):** A major transmembrane protein in red blood cells, crucial for CO2 transport (as bicarbonate) and maintaining cell structure. It carries the antigens of the Diego (DI) blood group system
+*   **Aquaporin-1 (AQP1):** A protein forming water channels in the red blood cell membrane, allowing rapid water movement. It carries the antigens of the Colton (CO) blood group system
+*   **Glycophorins (e.g., GPC, GPD):** Sialoglycoproteins (proteins with attached sialic acid-rich carbohydrates) on the red cell surface. GPC and GPD carry Gerbich (GE) system antigens and play roles in membrane stability. (GPA and GPB carry MNS system antigens)
+*   **Clinically Significant (Antibody):** An antibody capable of causing adverse reactions to transfusion (Hemolytic Transfusion Reactions - HTR) or causing Hemolytic Disease of the Fetus and Newborn (HDFN). Significance can range from mild to severe
+*   **Neutralization:** A technique used in antibody identification, typically for antibodies against soluble antigens (like Lewis or Chido/Rodgers). Incubating patient plasma with a substance containing the soluble antigen can inhibit the antibody's reactivity with test cells, helping to confirm its specificity
+*   **DTT (Dithiothreitol):** A reducing agent used in blood banking primarily to denature IgM antibodies (by breaking disulfide bonds) and to destroy certain red cell antigens, particularly those on proteins sensitive to disulfide bond reduction or attached via GPI-anchors (like Kell, Lutheran, Dombrock, Cartwright)

@@ -1,0 +1,69 @@
+# Solid Phase {-}
+
+**Solid Phase Red Cell Adherence (SPRCA)** is a really neat method that you'll see used quite a bit, often in automated or semi-automated systems. Instead of looking for agglutination in a tube or gel card, we're looking at whether red blood cells form a layer across the bottom of a tiny well
+
+Think of it like this: In traditional tube testing, everything's floating around and we see if they clump. In solid phase, we anchor either the "bait" (antigen) or the "hook" (antibody) to the bottom of the well first, and then see what sticks!
+
+## **The Core Purpose: Detecting Antibody-Antigen Reactions on a Fixed Surface** {-}
+
+Solid phase assays are used for many of the same purposes as tube or gel testing, but with some distinct advantages and differences in principle:
+
+*   **Antibody Screening:** Detecting unexpected antibodies in patient plasma/serum
+*   **Antibody Identification:** Determining the specificity of those antibodies using panel wells
+*   **Crossmatching:** Assessing compatibility between patient serum and donor red cells
+*   **Direct Antiglobulin Test (DAT):** Detecting IgG or complement coating the patient's red cells *in vivo*
+*   **Antigen Typing:** Determining the presence of specific antigens on red cells (less commonly used for RBCs this way compared to antibody detection)
+
+## **The Basic Principle: Immobilization is Key** {-}
+
+The defining feature of solid phase is that one component of the reaction (either antigen or antibody) is **immobilized** (bound) onto the surface of a microplate well
+
+There are two main ways this is set up, depending on what you're trying to detect:
+
+### **Detecting Antibodies in Plasma/Serum (Antibody Screen, ID, Crossmatch)** {-}
+*   **What's Stuck to the Well?:** Red Blood Cell **Antigens**. Manufacturers lyse known reagent red blood cells (screening cells, panel cells, or donor cells) and bind their membrane fragments (containing the antigens) to the bottom of the microplate wells
+*   **The Procedure (Simplified)**
+    1.  **Add Patient Plasma/Serum** Patient plasma/serum is added to the antigen-coated well. LISS is often added or incorporated to enhance reactivity
+    2.  **Incubation (Sensitization)** If the patient's plasma contains an antibody corresponding to an antigen coated on the well, the antibody will bind during incubation (usually 37°C)
+    3.  **WASHING (CRITICAL!)** The wells are washed thoroughly to remove unbound plasma proteins (including unbound antibodies). This is crucial!
+    4.  **Add Indicator Red Cells** **IgG-coated** reagent red blood cells are added to the well. These are key!
+    5.  **Centrifugation** The microplate is centrifuged
+*   **Interpretation (This is often the opposite of what you expect initially!)**
+    *   **POSITIVE Reaction:** If the patient's antibody *did* bind to the coated antigens, it forms a layer covering the bottom of the well. When the IgG-coated indicator cells are added, the bound patient antibody **blocks** them from reaching the bottom (or sometimes AHG coated on the well binds them). The indicator cells form a **diffuse layer** across the bottom and sides of the well. **Diffuse Layer = Positive.**
+    *   **NEGATIVE Reaction:** If the patient's plasma did *not* contain an antibody to the coated antigens, nothing binds during incubation. When the IgG-coated indicator cells are added, they are free to sink to the bottom during centrifugation, forming a tight **pellet or button** in the center. **Button = Negative.**
+
+### **Detecting Antibody/Complement Coating Patient Cells (DAT)** {-}
+*   **What's Stuck to the Well?:** **Anti-Human Globulin (AHG)** - specifically Anti-IgG and/or Anti-C3d
+*   **The Procedure (Simplified)**
+    1.  **Add Patient Red Blood Cells** The patient's **washed** red blood cells are added to the AHG-coated wells
+    2.  **Centrifugation** The microplate is centrifuged
+*   **Interpretation (More intuitive here)**
+    *   **POSITIVE Reaction:** If the patient's red blood cells were already coated *in vivo* with IgG or C3d, they will bind to the Anti-IgG or Anti-C3d coated on the well surface. This binding causes the cells to form a **diffuse layer** across the well. **Diffuse Layer = Positive.**
+    *   **NEGATIVE Reaction:** If the patient's red blood cells were *not* coated with IgG or C3d, they have nothing to bind to on the well surface. During centrifugation, they slide down and form a tight **pellet or button** at the bottom. **Button = Negative.**
+
+## **Advantages of Solid Phase Technology** {-}
+
+*   **Sensitivity:** Often considered more sensitive than traditional tube testing (especially tube LISS), potentially detecting weaker antibodies
+*   **Standardization:** Reading the results (diffuse layer vs. button) is generally less subjective than grading agglutination in tubes. Amenable to automated reading with cameras/plate readers
+*   **Automation Friendly:** The microplate format is ideal for high-throughput automated testing platforms
+*   **Stability:** Reagent-coated plates often have a good shelf life
+*   **Reduced Sample Volume:** Can sometimes require smaller volumes of patient sample compared to tube methods
+
+## **Disadvantages and Considerations** {-}
+
+*   **Cost:** Requires specialized equipment (microplate centrifuges, potentially washers and readers) and the reagent plates can be more expensive than tubes/gel cards
+*   **Interpretation Nuances:** Getting used to "diffuse = positive" for antibody screening/ID takes practice. Distinguishing weak positives from negatives requires care
+*   **Prozone Potential:** Very high concentrations of antibody could theoretically saturate sites and interfere with indicator cell binding, potentially causing a false negative (less common with well-designed modern assays)
+*   **Interference:** Fibrin strands or particulate matter in the sample can sometimes interfere with cell settling and cause reading difficulties
+*   **Washing:** Like all tests using AHG, thorough washing is critical to prevent false results
+
+## **Key Terms** {-}
+
+*   **Solid Phase Red Cell Adherence (SPRCA):** Immunoassay technique used in blood banking where either antigens or antibodies are immobilized on a solid surface (microplate well)
+*   **Microplate (Microtiter Plate):** Plastic plate containing multiple small wells (commonly 96) used as the reaction vessel
+*   **Immobilization:** The process of attaching antigens or antibodies to the surface of the microplate well
+*   **Indicator Red Cells:** IgG-coated red blood cells used in solid phase antibody detection methods. Their adherence pattern indicates the test result
+*   **Diffuse Layer:** The pattern seen in a positive solid phase reaction, where red cells spread out across the bottom of the well due to binding
+*   **Button / Pellet:** The pattern seen in a negative solid phase reaction, where red cells settle into a tight clump at the bottom of the well
+*   **Capture Antigen:** Red cell membrane antigens bound to the well surface to detect antibodies in plasma/serum
+*   **Capture Antibody:** Anti-IgG or Anti-C3d bound to the well surface to detect sensitization of patient red blood cells (DAT)

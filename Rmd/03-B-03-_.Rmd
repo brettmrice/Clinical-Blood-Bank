@@ -1,0 +1,55 @@
+# HDFN {-}
+
+Hemolytic Disease of the Fetus and Newborn (HDFN) is a condition where maternal antibodies destroy fetal/newborn red blood cells (RBCs). We'll look at how it happens (**Pathophysiology**), how we find it (**Detection**), how we fix it (**Treatment**), and how we stop it before it starts (**Prevention**)
+
+## **Pathophysiology: How HDFN Happens** {-}
+
+*   **Incompatibility & Sensitization:** The mother lacks an RBC antigen (e.g., D, K, c) that the fetus inherits from the father. During pregnancy or delivery, fetal RBCs can enter the maternal circulation (Fetal-Maternal Hemorrhage - FMH). The mother's immune system sees the fetal antigen as foreign and becomes **sensitized**, producing antibodies (initially IgM, then IgG) and memory cells
+*   **Subsequent Pregnancy & Anamnestic Response:** In a later pregnancy with a fetus positive for the same antigen, even a small FMH triggers a rapid secondary immune response, producing large amounts of high-affinity **IgG** antibodies
+*   **Placental Transfer:** Maternal **IgG** (the only Ig class that does this) actively crosses the placenta into the fetal circulation
+*   **Fetal Hemolysis:** Maternal IgG binds to fetal RBCs possessing the target antigen. These antibody-coated cells are destroyed primarily by macrophages in the fetal spleen (**Extravascular Hemolysis**)
+*   **Fetal Consequences**
+    *   **Anemia:** Leads to increased fetal RBC production (erythropoiesis), including in the liver/spleen (extramedullary hematopoiesis -> hepatosplenomegaly) and release of immature RBCs (erythroblastosis fetalis)
+    *   **Bilirubin:** Increased RBC breakdown produces bilirubin, but it's cleared by the mother's liver *in utero*
+    *   **Hydrops Fetalis:** In severe cases, profound anemia leads to heart failure, liver damage (low albumin), and massive fluid accumulation (edema, effusions) – often fatal if untreated
+*   **Neonatal Consequences**
+    *   **Hyperbilirubinemia:** After birth, the immature newborn liver cannot cope with the ongoing bilirubin load from continued hemolysis (maternal IgG persists for weeks). Unconjugated bilirubin accumulates
+    *   **Kernicterus:** If bilirubin levels get too high, it crosses the blood-brain barrier, causing permanent brain damage
+    *   **Anemia:** Can persist for weeks/months after birth
+
+## **Detection: Finding the Problem** {-}
+
+*   **Antenatal (During Pregnancy)**
+    *   **Screening (All Mothers):** ABO/RhD typing, **Antibody Screen (IAT)** at first visit & ~28 weeks
+    *   **If Screen Positive:** Antibody Identification, Titers (for significant IgG)
+    *   **Monitoring (If Clinically Significant Antibody)**
+        *   Assess Fetal Antigen Status (Paternal testing, Fetal DNA from maternal plasma - cffDNA)
+        *   Monitor for Fetal Anemia: **Middle Cerebral Artery Peak Systolic Velocity (MCA-PSV) Doppler** (key non-invasive tool). Values >1.5 MoM suggest significant anemia
+        *   Selective Use: Amniotic fluid ΔOD 450, Fetal Blood Sampling (Cordocentesis)
+*   **Postnatal (After Birth)**
+    *   **Cord/Neonatal Blood:** ABO/RhD typing, **Direct Antiglobulin Test (DAT)** (key diagnostic test - detects IgG/complement on newborn RBCs)
+    *   **Monitoring:** Hemoglobin/Hematocrit, **Bilirubin** levels (total & unconjugated), Reticulocyte count
+    *   **Confirmation (If needed):** Antibody elution from infant RBCs to identify coating antibody
+
+## **Treatment: Managing the Condition** {-}
+
+*   **Antenatal**
+    *   **Intrauterine Transfusion (IUT):** Mainstay for severe fetal anemia. Transfusion of compatible RBCs (O neg, Ag-neg for maternal Ab, irradiated, fresh, high Hct, CMV-safe, compatible with *maternal* plasma) directly into fetal circulation (umbilical vein)
+    *   **Timing of Delivery:** Balancing risks of prematurity vs. ongoing hemolysis
+    *   **Adjunctive:** Maternal IVIg or plasmapheresis (rarely used)
+*   **Postnatal**
+    *   **Hyperbilirubinemia Management**
+        *   **Phototherapy:** Primary treatment; uses light to make bilirubin excretable
+        *   **Exchange Transfusion:** For severe cases; removes bilirubin, maternal antibody, and coated cells, while providing compatible blood
+    *   **Anemia Management:** Simple RBC transfusion if needed later; IVIg may reduce hemolysis
+
+## **Prevention: Stopping Sensitization (Primarily for Anti-D)** {-}
+
+*   **Rh Immune Globulin (RhIG):** The cornerstone! Concentrated IgG anti-D given to RhD-negative, unsensitized mothers
+    *   **Mechanism:** Passive anti-D clears fetal RhD+ cells from maternal circulation before the mother mounts her own active immune response
+    *   **Administration**
+        *   Routine **antenatal** dose (~28 weeks)
+        *   Routine **postnatal** dose (within 72 hrs of delivering an RhD+ infant)
+        *   After any potential sensitizing event (miscarriage, amnio, trauma, etc.)
+    *   **Large FMH:** Screen (Rosette test) and quantify (KB stain/Flow Cytometry) post-delivery to determine if >1 standard dose of RhIG is needed
+*   **Other Antibodies:** No specific immune globulin exists. Prevention relies on judicious transfusion policies for women of childbearing potential (avoiding unnecessary transfusion, providing antigen-negative blood like K-negative when feasible)

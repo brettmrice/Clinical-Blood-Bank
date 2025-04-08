@@ -1,0 +1,92 @@
+# (PART\*) Transfusion Practice {-}
+
+# Indications {-}
+
+One of the most practical and important topics in transfusion medicine: **Why do we actually give blood components?** It's not just about replacing volume; it's about replacing specific *functions* that the patient is lacking. Understanding the **Indications for Transfusion** is absolutely key to safe and effective patient care
+
+Remember, transfusion is essentially a liquid tissue transplant! It carries risks (infectious, immunologic, volume overload, etc.), so the decision to transfuse should *always* weigh the potential benefits against these risks. We aim to treat the *patient* and their *symptoms*, not just a number on a lab report, although lab values certainly guide our decisions!
+
+Here’s a breakdown of the indications for the major blood components:
+
+## **Red Blood Cells (RBCs)** {-}
+
+*   **What they do:** Carry oxygen from the lungs to the tissues
+*   **Primary Goal of Transfusion:** To improve oxygen-carrying capacity and alleviate symptoms of tissue hypoxia (oxygen deprivation)
+*   **Key Indications**
+    *   **Acute Blood Loss (Hemorrhage):** Replacing lost red cell mass and oxygen-carrying capacity in actively bleeding patients (e.g., trauma, surgery, gastrointestinal bleeding). The decision here is often based on the estimated volume of blood loss, vital signs (hypotension, tachycardia), and evidence of poor tissue perfusion, *not just* the initial hemoglobin/hematocrit (which may take time to drop)
+    *   **Symptomatic Anemia:** When anemia (low hemoglobin/hematocrit) causes clinical signs and symptoms like:
+        *   Shortness of breath (dyspnea), especially at rest or with minimal exertion
+        *   Chest pain (angina), particularly in patients with underlying coronary artery disease
+        *   Significant fatigue impacting daily function
+        *   Dizziness, fainting (syncope)
+        *   Tachycardia (rapid heart rate) or heart failure symptoms
+        *   **Important Note:** The specific hemoglobin "trigger" for transfusion is controversial and highly patient-dependent. Historically, a hemoglobin < 7 g/dL (or hematocrit < 21%) was often used as a general guideline for stable, hospitalized patients. However, **clinical judgment is paramount.** A patient with chronic, well-compensated anemia might tolerate a hemoglobin of 6.5 g/dL well, while a patient with severe cardiac disease might become symptomatic at 8.5 g/dL. We treat the *symptoms* related to reduced oxygen delivery
+    *   **Perioperative Anemia:** To optimize oxygen delivery during and after major surgery, especially in patients who cannot tolerate lower hemoglobin levels due to other health issues. Again, focus is on preventing tissue hypoxia
+    *   **Specific Conditions:** Patients with conditions like sickle cell disease or thalassemia may require RBC transfusions (often specialized, like exchange transfusions) for specific indications beyond just anemia (e.g., preventing stroke, managing acute chest syndrome)
+*   **NOT Typically Indicated For:** Volume expansion alone, nutritional supplement (iron, B12 deficiency – treat the underlying cause!), "feeling tired" without significant symptomatic anemia, or simply to make a lab number look better
+
+## **Platelets (PLTs)** {-}
+
+*   **What they do:** Form the primary hemostatic plug to stop bleeding from injured blood vessels
+*   **Primary Goal of Transfusion:** To prevent or treat bleeding due to low platelet count (thrombocytopenia) or platelet dysfunction
+*   **Key Indications**
+    *   **Therapeutic Transfusion (Active Bleeding):** Given to patients who are actively bleeding and have thrombocytopenia or suspected platelet dysfunction (e.g., massive hemorrhage, surgery, DIC with bleeding)
+    *   **Prophylactic Transfusion (Preventative):** Given to patients with severe thrombocytopenia *without* active bleeding to reduce the risk of spontaneous hemorrhage, particularly when platelet counts are very low. Common scenarios include:
+        *   Patients undergoing chemotherapy or stem cell transplant leading to bone marrow suppression (often transfused when platelet count drops below 10,000/µL)
+        *   Patients needing invasive procedures (e.g., lumbar puncture, major surgery) may have a higher target threshold (e.g., < 50,000/µL or higher depending on the procedure's bleeding risk)
+    *   **Platelet Dysfunction:** Patients with normal platelet counts but whose platelets don't function correctly (e.g., due to certain medications like aspirin/clopidogrel *if bleeding*, inherited platelet disorders, uremia) might receive platelets if actively bleeding or undergoing high-risk surgery
+*   **NOT Typically Indicated For**
+    *   **Thrombotic Thrombocytopenic Purpura (TTP) or Heparin-Induced Thrombocytopenia (HIT):** Platelet transfusion is generally **contraindicated** in these conditions as it can worsen the thrombotic process ("add fuel to the fire")
+    *   Immune Thrombocytopenic Purpura (ITP): Transfused platelets are rapidly destroyed by autoantibodies; transfusion is usually reserved only for life-threatening hemorrhage
+
+## **Plasma (FFP, PF24, Thawed Plasma)** {-}
+
+*   **What it contains:** All coagulation factors (both stable and labile), albumin, immunoglobulins
+*   **Primary Goal of Transfusion:** To replace multiple coagulation factors in patients who are actively bleeding or at high risk of bleeding before an invasive procedure
+*   **Key Indications**
+    *   **Multiple Coagulation Factor Deficiencies**
+        *   **Liver Disease:** Patients with severe liver disease may not synthesize factors adequately and may need plasma if bleeding or prior to procedures
+        *   **Disseminated Intravascular Coagulation (DIC):** If associated with bleeding and factor consumption
+        *   **Massive Transfusion:** Replacing factors diluted or consumed during massive hemorrhage (often given in a ratio with RBCs and platelets)
+    *   **Warfarin Reversal:** For urgent reversal of warfarin anticoagulation when Vitamin K is too slow and specific factor concentrates (like Prothrombin Complex Concentrates - PCCs) are unavailable or contraindicated
+    *   **Plasma Exchange Procedures:** Used as the replacement fluid in therapeutic plasma exchange (TPE) for conditions like TTP
+    *   **Rare Specific Factor Deficiencies:** When specific factor concentrates (like Factor XI concentrate) are not available
+*   **NOT Typically Indicated For**
+    *   **Volume Expansion:** Use crystalloids (saline) or colloids (albumin) instead
+    *   **Nutritional Support:** Plasma contains protein, but not enough for nutritional purposes
+    *   **Reversing Heparin:** Protamine sulfate is the antidote for heparin
+    *   Correcting mildly prolonged INR/PTT *without* bleeding or planned procedure
+
+## **Cryoprecipitate (Cryo)** {-}
+
+*   **What it is:** The cold-insoluble precipitate that forms when FFP is thawed slowly at 1-6°C. It's a concentrated source of specific plasma proteins
+*   **What it contains (Concentrated):** Fibrinogen (Factor I), Factor VIII, von Willebrand Factor (vWF), Factor XIII, Fibronectin
+*   **Primary Goal of Transfusion:** To provide a concentrated source of fibrinogen, Factor VIII, vWF, or Factor XIII
+*   **Key Indications**
+    *   **Hypofibrinogenemia (Low Fibrinogen):** The **most common indication!** Used to treat bleeding associated with low fibrinogen levels (<100-150 mg/dL, varies by lab/situation) seen in:
+        *   DIC
+        *   Massive Transfusion
+        *   Congenital fibrinogen deficiency
+        *   Severe liver disease
+    *   **Factor XIII Deficiency:** Cryo is a good source
+    *   **Hemophilia A (Factor VIII Deficiency) or von Willebrand Disease:** **Only** if specific factor concentrates (Factor VIII concentrate, vWF concentrate) are unavailable. Concentrates are preferred due to viral safety and standardization
+    *   **Uremic Bleeding:** Sometimes used empirically if bleeding persists despite dialysis and DDAVP treatment (mechanism less clear, possibly related to vWF/Factor VIII)
+*   **NOT Typically Indicated For:** Conditions where FFP would suffice and fibrinogen levels are adequate
+
+## **General Principles** {-}
+
+*   **Patient Blood Management (PBM):** A proactive, patient-centered approach to minimize blood loss, optimize red cell mass, and harness the patient's tolerance to anemia, often reducing the need for transfusion. Consider alternatives first (iron, EPO, antifibrinolytics, cell salvage)
+*   **Single Unit Transfusions:** For stable, non-bleeding anemic patients, transfusing one unit of RBCs at a time followed by reassessment of symptoms and hemoglobin is often appropriate
+
+##  **Key Terms** {-}
+
+*  **Red Blood Cells (RBCs):** The blood component containing hemoglobin, responsible for transporting oxygen from the lungs to the tissues. Transfusions are indicated primarily to increase oxygen-carrying capacity and alleviate symptoms of tissue hypoxia due to anemia or acute blood loss
+*  **Platelets (PLTs):** Small blood cells essential for primary hemostasis (forming the initial plug at sites of injury). Transfusions are indicated to prevent or treat bleeding caused by low platelet counts (thrombocytopenia) or platelet dysfunction
+*  **Plasma (e.g., FFP, PF24):** The liquid component of blood containing water, proteins, and all coagulation factors. Transfusions are indicated primarily to replace multiple coagulation factors in patients with active bleeding or needing invasive procedures, often due to liver disease, DIC, or massive transfusion
+*  **Cryoprecipitate (Cryo):** A plasma derivative prepared by thawing FFP, providing a concentrated source of specific clotting factors including Fibrinogen (Factor I), Factor VIII, von Willebrand Factor, and Factor XIII. Primarily indicated to treat hypofibrinogenemia
+*  **Symptomatic Anemia:** A condition where a low red blood cell count (anemia) results in clinical signs and symptoms of inadequate oxygen delivery (e.g., shortness of breath, chest pain, severe fatigue, dizziness), serving as a key indication for RBC transfusion rather than relying solely on a specific hemoglobin level
+*  **Hemoglobin Trigger:** A specific hemoglobin level (e.g., < 7 g/dL) often used as a guideline or threshold to consider red blood cell transfusion, although clinical symptoms and patient context are paramount in the final decision
+*  **Thrombocytopenia:** A condition characterized by an abnormally low platelet count in the blood, which increases the risk of bleeding and is a primary indication for platelet transfusion (either prophylactically or therapeutically)
+*  **Prophylactic Transfusion:** A transfusion given to prevent a potential complication, such as administering platelets to a severely thrombocytopenic patient without active bleeding to reduce the risk of spontaneous hemorrhage
+*  **Hypofibrinogenemia:** A condition characterized by abnormally low levels of fibrinogen (Factor I) in the blood, impairing clot formation. It is the most common indication for transfusing Cryoprecipitate
+*  **Patient Blood Management (PBM):** A patient-centered, systematic, evidence-based approach to transfusion that aims to minimize blood loss, optimize patient red cell mass, manage anemia, and rationalize transfusion decisions, often reducing the need for allogeneic blood transfusions

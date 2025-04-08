@@ -1,0 +1,41 @@
+# Physiology & Pathophysiology {-}
+
+This broad section explores how blood normally functions and what goes wrong in various disease states, underpinning why blood components are needed and the potential complications involved
+
+## **Physiology of Blood** {-}
+
+Blood is a complex fluid tissue composed of **plasma** (water, proteins like albumin, globulins/antibodies, fibrinogen) and **formed elements** (RBCs for O2 transport, WBCs for immunity, platelets for clotting). It circulates throughout the body, driven by the heart, within a specific **blood volume**, delivering oxygen/nutrients, removing waste, regulating pH/temperature, and providing protection. Red blood cells have a unique **metabolism** (anaerobic glycolysis for ATP, HMP shunt for NADPH/oxidative protection) allowing them to survive ~120 days before removal by the spleen (extravascular hemolysis)
+
+*   **Pathophysiology:** Imbalances include **hypo/hypervolemia** (affecting circulation), **anemia** (reduced O2 capacity due to production failure, hemolysis, or loss), and disruptions in plasma components (e.g., low albumin, clotting factor deficiencies). RBC survival can be shortened by intrinsic defects (membranopathies, enzymopathies, hemoglobinopathies) or extrinsic factors (immune attack, mechanical damage)
+
+## **Hemostasis and Coagulation** {-}
+
+This is the process of stopping bleeding. It involves:
+
+1.  **Platelets** Adhering to injury sites (via vWF), activating, releasing granules, and aggregating to form a primary plug
+2.  **Coagulation Factors** A cascade of plasma proteins activated sequentially (Extrinsic, Intrinsic, Common pathways) leading to **thrombin** generation. Thrombin converts **fibrinogen** to **fibrin**, which stabilizes the platelet plug. Vitamin K is crucial for factors II, VII, IX, X
+*   **Pathophysiology:** Disorders lead to bleeding or thrombosis. Includes **thrombocytopenia** (low platelet count), **thrombocytopathy** (platelet dysfunction), and deficiencies or inhibition of **coagulation factors** (e.g., Hemophilia A/B, vWD, liver disease, DIC, Vit K deficiency). Detected via PT, aPTT, platelet count/function tests, mixing studies, factor assays
+
+## **Hemolytic Disease of the Fetus and Newborn (HDFN)** {-}
+
+Occurs when maternal **IgG antibodies** (formed via sensitization from previous pregnancy/transfusion) cross the placenta and destroy fetal RBCs possessing the corresponding antigen (e.g., D, K, c)
+
+*   **Pathophysiology:** Fetal **extravascular hemolysis** leads to anemia, compensatory erythropoiesis (erythroblastosis), hepatosplenomegaly, and potentially **hydrops fetalis**. Postnatally, the main issue is **hyperbilirubinemia** (due to ongoing hemolysis and immature liver) leading to jaundice and risk of **kernicterus**
+*   **Detection:** Antenatal (maternal Ab screen/ID/titer, MCA Doppler for fetal anemia), Postnatal (infant ABO/Rh, **DAT**, bilirubin)
+*   **Treatment:** Antenatal (Intrauterine Transfusion - IUT), Postnatal (Phototherapy, Exchange Transfusion)
+*   **Prevention:** **Rh Immune Globulin (RhIG)** for RhD incompatibility is highly effective
+
+## **Cytopenias** {-}
+
+Deficiency in one or more blood cell lines
+
+*   **Anemia:** Low RBCs/Hgb -> tissue hypoxia. Causes: decreased production (nutritional, marrow failure), increased destruction (hemolysis - immune or non-immune), blood loss. Detected via CBC, retic count, smear, iron/B12/folate, hemolysis markers, **DAT** (for immune causes). Treated by addressing cause +/- RBC transfusion
+*   **Thrombocytopenia:** Low platelets -> bleeding risk. Causes: decreased production (marrow failure, chemo), increased destruction/consumption (immune - ITP, HIT; non-immune - DIC, TTP), sequestration (splenomegaly). Detected via CBC, smear, coagulation tests (for DIC), HIT assays. Treated by addressing cause, immunosuppression (ITP), PEX (TTP), +/- platelet transfusion
+*   **Neutropenia:** Low neutrophils (ANC) -> infection risk. Causes: decreased production (congenital, chemo, drugs, marrow failure), increased destruction (sepsis, immune - AIN, NAN). Detected via CBC/ANC, marrow exam, neutrophil Ab tests. Treated by addressing cause, G-CSF, prompt antibiotics for fever
+
+## **Transplantation** {-}
+
+Replacing failing organs (**Solid Organ - SOT**) or hematopoietic systems (**HPC Transplant**). Immune system interaction is key
+
+*   **SOT:** Main challenge is **rejection** (recipient attacks graft). Requires **ABO compatibility**, HLA matching, pre-transplant crossmatch, lifelong recipient immunosuppression
+*   **HPC Transplant:** Replaces marrow/immune system. Allogeneic transplants risk **rejection** (recipient attacks graft) AND **Graft-versus-Host Disease (GVHD)** (donor T-cells attack recipient). Requires strict **HLA matching**, pre-transplant conditioning, GVHD prophylaxis/treatment. **Irradiated** blood products essential for recipients. ABO compatibility not required for transplant itself but complicates transfusion support

@@ -1,0 +1,83 @@
+# Apheresis & Extracorporeal Circulation {-}
+
+**Apheresis** and **Extracorporeal Circulation (ECC)** are fascinating areas where we interact with blood *outside* the body for specific therapeutic or collection purposes. They represent advanced applications within transfusion medicine and critical care
+
+Think of **Extracorporeal Circulation** as the broad umbrella term for any procedure where blood is taken out of the body, circulated through a device for some purpose, and then returned to the patient. **Apheresis** is a *specific type* of ECC focused on separating and selectively removing or collecting certain blood components
+
+## **Apheresis: Selective Separation and Collection/Removal** {-}
+
+Apheresis (from the Greek word meaning "to take away" or "to separate") involves withdrawing whole blood from an individual (donor or patient), passing it through a medical device (apheresis machine) that separates it into components, collecting the desired component(s) or removing the undesired one(s), and returning the remaining elements to the individual
+
+**Basic Principle** Most apheresis machines use **centrifugation** to separate blood components based on differences in their density (RBCs are heaviest, then WBCs, then platelets, then plasma is lightest). Some specialized procedures might use **filtration** based on size
+
+##  **Why Use Apheresis?** {-}
+
+1.  **Component Collection (Donation)** To obtain a larger quantity or purer concentration of a specific blood component from a single, healthy donor
+2.  **Therapeutic Apheresis (Patient Treatment)** To remove a harmful substance or cellular element from a patient's blood to treat a specific disease
+
+### **Apheresis for Component Collection (Donors)** {-}
+*   **Plateletpheresis:** Collects a large dose of platelets (equivalent to 4-6 whole blood-derived units) from a single donor. This is the preferred source for platelet transfusions, reducing recipient exposure to multiple donors
+*   **Plasmapheresis:** Collects plasma. Used for obtaining Source Plasma (further manufactured into derivatives like albumin, IVIG, coagulation factors) or for collecting specific types like Convalescent Plasma or ABO-compatible plasma for transfusion
+*   **Erythrocytapheresis (Red Cell Apheresis):** Collects two units of RBCs ("double reds") from a single qualifying donor. More efficient RBC collection
+*   **Leukapheresis:** Collects leukocytes, primarily granulocytes (Granulocytapheresis). Used infrequently to provide granulocyte transfusions for severely neutropenic patients with specific infections unresponsive to antibiotics. Requires donor stimulation (G-CSF, steroids)
+*   **Hematopoietic Progenitor Cell (HPC) Collection (Stem Cell Collection):** Collects peripheral blood stem cells (PBSCs) after the donor has been mobilized (usually with G-CSF) to release stem cells from the bone marrow into the circulation. Used for stem cell transplantation
+
+### **Therapeutic Apheresis (Patients)** {-}
+*   **Plasma Exchange (PEX) / Therapeutic Plasmapheresis (TPE)**
+    *   *Goal:* Remove harmful substances circulating in the patient's plasma (e.g., autoantibodies, immune complexes, toxins, abnormal proteins)
+    *   *Procedure:* Patient's plasma is separated and removed; replacement fluid (usually Albumin 5%, sometimes FFP if coagulation factors are also needed, or a combination) is returned with the patient's own cells
+    *   *Indications:* Thrombotic Thrombocytopenic Purpura (TTP - **life-saving!**), Guillain-Barré Syndrome, Myasthenia Gravis crisis, Hyperviscosity Syndrome (e.g., Waldenström's), certain autoimmune or neurologic disorders
+*   **Cytapheresis (Selective Cell Removal)**
+    *   *Red Cell Exchange:* Remove a large volume of the patient's abnormal RBCs and replace them with donor RBCs
+        *   *Indications:* Sickle Cell Disease (acute stroke prevention/treatment, acute chest syndrome, preoperative preparation), severe Babesiosis or Malaria infections
+    *   *Leukocytapheresis (Therapeutic):* Remove excessively high numbers of abnormal white blood cells (leukocytes)
+        *   *Indications:* Hyperleukocytosis in Acute Myeloid Leukemia (AML) to prevent leukostasis (sludging of blasts in small vessels)
+    *   *Thrombocytapheresis (Therapeutic):* Remove excessively high numbers of platelets
+        *   *Indications:* Symptomatic extreme thrombocytosis (e.g., Essential Thrombocythemia) to reduce risk of thrombosis or bleeding
+*   **Extracorporeal Photopheresis (ECP)**
+    *   *Goal:* Treat certain T-cell mediated disorders
+    *   *Procedure:* Leukocytes (primarily lymphocytes) are collected via apheresis, treated *ex vivo* with a photosensitizing agent (8-methoxypsoralen), exposed to UVA light, and then returned to the patient. This induces apoptosis (cell death) in the treated T-cells and modulates the immune response
+    *   *Indications:* Cutaneous T-Cell Lymphoma (CTCL), Graft-versus-Host Disease (GVHD) prophylaxis/treatment after stem cell transplant, some autoimmune disorders, organ transplant rejection
+*   **LDL Apheresis**
+    *   *Goal:* Remove Low-Density Lipoprotein (LDL) cholesterol
+    *   *Procedure:* Uses specific adsorption columns or filtration to remove LDL from plasma
+    *   *Indications:* Severe Familial Hypercholesterolemia unresponsive to medication
+
+## **Key Considerations in Apheresis** {-}
+
+*   **Anticoagulation:** Citrate is typically used; monitoring for and managing citrate toxicity (hypocalcemia) is essential
+*   **Vascular Access:** Requires good venous access (often large-bore peripheral IVs or central venous catheter)
+*   **Fluid Shifts:** Especially important in therapeutic procedures; careful monitoring of fluid balance is needed
+*   **Cell Counts:** Monitoring counts pre- and post-procedure
+*   **Donor Reactions:** Vasovagal reactions, citrate toxicity symptoms
+
+## **Extracorporeal Circulation (ECC): Beyond Apheresis** {-}
+
+ECC refers to any procedure where blood circulates outside the body through a machine. Therapeutic apheresis *is* a form of ECC, but ECC also includes other critical care techniques:
+
+*   **Cardiopulmonary Bypass (CPB):** The "heart-lung machine" used during open-heart surgery. Takes over the function of both the heart (pumping) and the lungs (oxygenation/CO2 removal) allowing the surgeon to operate on a still, bloodless heart. Requires systemic anticoagulation (heparin), hemodilution (priming the circuit), and often significant blood product support
+*   **Extracorporeal Membrane Oxygenation (ECMO):** Provides prolonged cardiac and/or respiratory support when the heart and/or lungs are failing severely. Blood is drained, oxygenated by an artificial lung, CO2 removed, and returned. Can be Veno-Venous (VV-ECMO, lung support only) or Veno-Arterial (VA-ECMO, heart and lung support). Also requires anticoagulation and careful hematologic management
+*   **Hemodialysis:** Used for patients with kidney failure. Blood circulates through a dialyzer (artificial kidney) where waste products and excess fluid are removed via diffusion and ultrafiltration across a semipermeable membrane
+*   **Continuous Renal Replacement Therapy (CRRT):** A slower, continuous form of dialysis used for critically ill patients with acute kidney injury who may not tolerate conventional hemodialysis
+
+##  **Common Challenges of ECC Circuits (Relevant to Transfusion Practice)** {-}
+
+*   **Hemodilution:** The circuit is often primed with crystalloid solution, diluting the patient's blood components (RBCs, platelets, factors)
+*   **Coagulation Activation/Consumption:** Contact of blood with artificial surfaces activates platelets and the coagulation cascade, necessitating anticoagulation (usually heparin) but also leading to potential consumption of factors and platelets (DIC-like picture)
+*   **Hemolysis:** Mechanical shear stress from pumps and tubing can damage RBCs
+*   **Inflammatory Response:** Contact with artificial surfaces triggers a systemic inflammatory response
+*   **Temperature Changes:** Blood cools as it passes through the circuit; warming is often necessary
+
+## **Key Terms** {-}
+
+*   **Apheresis:** Procedure separating whole blood into components *ex vivo*, collecting desired components (donation) or removing harmful ones (therapeutic)
+*   **Extracorporeal Circulation (ECC):** Any procedure where blood circulates outside the body through a device for therapeutic purposes
+*   **Plasmapheresis / Plasma Exchange (PEX/TPE):** Apheresis procedure removing patient plasma and replacing it with fluid (albumin/FFP) to eliminate harmful plasma constituents
+*   **Cytapheresis:** Apheresis procedure removing specific cellular components (RBCs, WBCs, platelets)
+*   **Red Cell Exchange:** Cytapheresis removing patient RBCs and replacing them with donor RBCs (common in Sickle Cell Disease)
+*   **Extracorporeal Photopheresis (ECP):** Apheresis procedure where collected leukocytes are treated with a photosensitizer and UVA light before reinfusion to modulate immune responses
+*   **Cardiopulmonary Bypass (CPB):** ECC circuit taking over heart and lung function during cardiac surgery
+*   **ECMO (Extracorporeal Membrane Oxygenation):** ECC circuit providing prolonged cardiac and/or respiratory support
+*   **Hemodialysis:** ECC procedure filtering waste products from blood for patients with kidney failure
+*   **Citrate Toxicity:** Hypocalcemia resulting from the anticoagulant citrate binding ionized calcium, a risk during apheresis
+*   **Leukostasis:** Sludging of excessive white blood cells in small blood vessels, a complication of hyperleukocytosis sometimes treated with leukocytapheresis

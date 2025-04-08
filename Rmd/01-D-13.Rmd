@@ -1,0 +1,102 @@
+# Irradiated Components {-}
+
+This section covers **Irradiated Blood Components**, a critical modification performed to prevent a rare but devastating complication of transfusion: Transfusion-Associated Graft-versus-Host Disease (TA-GVHD)
+
+## **What is Irradiation of Blood Components?** {-}
+
+*   **Definition:** The process of exposing cellular blood components (Red Blood Cells, Platelets, Granulocytes, Whole Blood) to a measured dose of ionizing radiation (gamma rays or X-rays) before transfusion
+*   **Mechanism:** The radiation damages the DNA of **donor T-lymphocytes** present within the blood component. This renders these lymphocytes incapable of proliferating (dividing and multiplying) after being transfused into the recipient
+*   **Goal:** To prevent viable donor T-lymphocytes from engrafting in the recipient, multiplying, and attacking the recipient's tissues (TA-GVHD)
+*   **Important Distinction:** Irradiation does **NOT** sterilize the blood product; it does not kill bacteria, viruses, or parasites. Its sole purpose is to inactivate donor T-lymphocytes
+
+## **Why Irradiate? The Threat of TA-GVHD** {-}
+
+*   **Transfusion-Associated Graft-versus-Host Disease (TA-GVHD):** This is a rare but usually **fatal** complication of transfusion
+    *   **Pathophysiology:** It occurs when viable donor T-lymphocytes are transfused into a recipient who cannot recognize or eliminate them. These donor lymphocytes engraft, proliferate, and mount an immune attack against the recipient's "foreign" tissues (skin, liver, gut, bone marrow)
+    *   **Risk Factors:** TA-GVHD is more likely when:
+        1.  The recipient is significantly **immunocompromised** (e.g., congenital immunodeficiencies, hematopoietic stem cell transplant recipients, patients receiving intense chemotherapy/immunosuppression)
+        2.  The donor and recipient share **HLA haplotypes** (genetic markers for the immune system), making it harder for the recipient's immune system to recognize the donor lymphocytes as foreign. This is particularly relevant in **directed donations from blood relatives** (parents, siblings, children)
+*   **Prevention:** Since TA-GVHD is difficult to treat and often fatal, prevention through irradiation of cellular components for at-risk recipients is the standard of care
+
+## **Indications for Irradiation (Who Needs Irradiated Blood?)** {-}
+
+Irradiation is indicated for patients whose immune systems may be unable to eliminate transfused donor lymphocytes or when there's an increased risk of shared HLA types:
+
+*   **Severely Immunocompromised Patients**
+    *   Congenital immunodeficiency syndromes (e.g., SCID)
+    *   Hematopoietic Progenitor Cell (HPC) / Stem Cell Transplant recipients (both autologous and allogeneic)
+    *   Patients receiving intense immunosuppressive therapy (e.g., certain chemotherapy regimens, anti-thymocyte globulin)
+    *   Patients with Hodgkin lymphoma
+*   **Fetal and Neonatal Transfusions**
+    *   Intrauterine transfusions
+    *   Neonatal exchange transfusions
+    *   Premature infants (especially low birth weight) - policies vary, but often irradiated
+*   **Directed Donations from Blood Relatives:** **Mandatory** for first- or second-degree relatives due to the increased likelihood of shared HLA haplotypes
+*   **HLA-Matched Components:** If components (especially platelets) are specifically selected to be HLA-matched for a recipient, irradiation is required because the recipient's immune system may not recognize the donor lymphocytes as foreign
+*   **Granulocyte Transfusions:** **Mandatory** due to the high number of viable lymphocytes present
+
+**Note** Policies may vary slightly between institutions, but these represent the core indications
+
+## **The Irradiation Process** {-}
+
+*   **Equipment:** Performed using a dedicated **blood irradiator**. These devices contain either:
+    *   A radioactive source (commonly Cesium-137 or Cobalt-60) emitting gamma rays
+    *   An X-ray generating system
+*   **Dose:** The standard required dose is:
+    *   **25 Gray (Gy):** delivered to the central portion of the unit
+    *   A minimum dose of **15 Gy** delivered to any other part of the unit
+*   **Verification:** An **irradiation indicator label** is usually affixed to the unit before irradiation. This label undergoes a visible color change upon exposure to the required radiation dose, providing visual confirmation that the process was performed
+
+## **Which Components Are Irradiated?** {-}
+
+Irradiation is necessary only for components containing significant numbers of viable T-lymphocytes:
+
+*   **Red Blood Cells (RBCs)**
+*   **Platelets:** (Whole Blood Derived and Apheresis)
+*   **Granulocytes:** (Mandatory for all units)
+*   **Whole Blood**
+
+**Components NOT Requiring Irradiation**
+
+These components are essentially acellular or contain non-viable lymphocytes:
+
+*   Fresh Frozen Plasma (FFP)
+*   Plasma Frozen within 24 hours (PF24)
+*   Cryoprecipitated AHF
+*   Cryoprecipitate-Reduced Plasma
+*   Plasma Fractionation Products (Albumin, IVIG, Factor Concentrates)
+
+## **Impact of Irradiation on Components (Especially RBCs)** {-}
+
+While necessary for safety, irradiation does have effects, particularly on Red Blood Cells:
+
+*   **RBC Membrane Damage:** The radiation causes some damage to the RBC membrane
+*   **Increased Potassium Leakage:** This membrane damage leads to an accelerated rate of potassium (K+) leaking from the RBCs into the supernatant plasma/additive solution
+*   **Potentially Reduced Viability:** May slightly decrease the 24-hour post-transfusion survival of RBCs, though usually still well above the acceptable minimum
+*   **Impact on Expiration Date (CRITICAL):** Due to the increased potassium leak and potential impact on viability, the expiration date of **irradiated Red Blood Cells** is changed:
+    *   The unit expires on the **original expiration date** OR **28 days from the date of irradiation**, **WHICHEVER COMES FIRST**
+    *   *Example 1:* An RBC unit with a 42-day original expiry is irradiated on Day 10. Its new expiry date is Day 10 + 28 days = Day 38 (sooner than the original Day 42)
+    *   *Example 2:* An RBC unit with a 42-day original expiry is irradiated on Day 30. Its new expiry date is Day 30 + 28 days = Day 58, BUT the original expiry is Day 42. So, the unit expires on Day 42 (whichever is sooner)
+*   **Platelets:** Irradiation has minimal impact on platelet function or storage. The **original 5-day (or 7-day) expiration date is retained** for irradiated platelets
+
+## **Storage and Expiration (Post-Irradiation)** {-}
+
+*   **RBCs:** Store at 1-6°C. Expiry is original date OR 28 days post-irradiation, whichever is sooner. Must check the label carefully!
+*   **Platelets:** Store at 20-24°C with agitation. Original 5- or 7-day expiry applies
+*   **Granulocytes:** Store at 20-24°C without agitation. Original 24-hour expiry applies
+
+## **Administration** {-}
+
+*   No special administration procedures are required specifically *because* a unit is irradiated
+*   Standard procedures apply: ABO/Rh compatibility, crossmatch (for RBCs/Granulocytes), standard blood filter, infusion within 4 hours
+
+## **Key Terms** {-}
+
+*   **Irradiation:** Treatment with ionizing radiation (gamma or X-rays)
+*   **TA-GVHD (Transfusion-Associated Graft-versus-Host Disease):** Complication where donor T-lymphocytes attack recipient tissues
+*   **T-Lymphocyte:** Type of white blood cell responsible for cell-mediated immunity; inactivated by irradiation
+*   **Immunocompromised:** Having a weakened immune system
+*   **HLA (Human Leukocyte Antigen):** Immune system markers on cells; shared haplotypes increase TA-GVHD risk in related donors
+*   **Gray (Gy):** Unit of absorbed radiation dose
+*   **Blood Irradiator:** Device used to irradiate blood components
+*   **Irradiation Indicator:** Label that changes color to visually confirm irradiation

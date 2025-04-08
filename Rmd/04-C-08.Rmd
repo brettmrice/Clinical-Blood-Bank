@@ -1,0 +1,72 @@
+# ELISA {-}
+
+While we often associate blood bank with agglutination tests (mixing cells and serum), **ELISA**, which stands for **Enzyme-Linked Immunosorbent Assay**, is a powerhouse technique used extensively behind the scenes, especially for ensuring the safety of the blood supply
+
+Think of ELISA as a highly sensitive detection method, often performed in microtiter plates (those plastic plates with lots of little wells), that uses the specificity of antibody-antigen interactions coupled with an enzyme reaction to generate a measurable signal (usually a color change)
+
+## **The Core Purpose: Detecting Specific Molecules** {-}
+
+In the context relevant to blood banking and transfusion medicine, ELISA is primarily used for:
+
+*   **Infectious Disease Marker Screening:** This is its **BIGGEST role** by far. Donor blood units are mandatorily screened for various transfusion-transmissible infections (TTIs) using highly sensitive methods, and ELISA is a workhorse here. We look for either:
+    *   **Antigens:** produced by the infectious agent (e.g., Hepatitis B surface antigen - HBsAg; HIV p24 antigen)
+    *   **Antibodies:** produced by the donor's immune system in response to infection (e.g., antibodies to HIV-1/2, Hepatitis C virus - HCV, Hepatitis B core antigen - HBc, HTLV-I/II, *Treponema pallidum* - Syphilis, *Trypanosoma cruzi* - Chagas disease)
+*   **Detecting Certain Antigens or Antibodies (Less Common for Routine RBC Serology):** While not the primary method for identifying red cell alloantibodies (we use agglutination for that), ELISA principles *can* be adapted for detecting specific protein antigens or certain types of antibodies (e.g., platelet antibodies, though flow cytometry is often preferred there)
+
+## **The Basic Principle (Illustrated by Sandwich ELISA for Antigen Detection)** {-}
+
+There are several variations, but the "Sandwich" ELISA for detecting an antigen (like HBsAg) is a great example:
+
+1.  **Coating** The wells of the microtiter plate are coated with a specific **"capture" antibody** that recognizes the target antigen (HBsAg)
+2.  **Blocking** Any remaining unbound sites on the plastic well surface are blocked using an irrelevant protein (like Bovine Serum Albumin - BSA or casein). This prevents non-specific binding later on, which could cause false positives
+3.  **Sample Addition** The donor's serum or plasma sample is added to the well. If the target antigen (HBsAg) is present, it binds to the capture antibody stuck to the well
+4.  **Washing** The well is washed thoroughly to remove unbound components from the sample (everything *except* the captured HBsAg)
+5.  **Detection Antibody** A *second* antibody, which also recognizes the target antigen (HBsAg) but at a *different* site, is added. This detection antibody is **linked (conjugated) to an enzyme** (e.g., Horseradish Peroxidase - HRP, or Alkaline Phosphatase - AP)
+6.  **Washing** The well is washed again to remove any unbound enzyme-linked detection antibody
+7.  **Substrate Addition** A chemical **substrate** specific for the enzyme is added. The enzyme acts on the substrate, converting it into a detectable product – usually causing a **color change**
+8.  **Reading** The intensity of the color is measured using a specialized spectrophotometer called a microplate reader. **The amount of color produced is directly proportional to the amount of target antigen** (HBsAg) present in the original sample
+
+## **Other Common ELISA Formats** {-}
+
+*   **Indirect ELISA:** Used to detect **antibodies** in a sample (like anti-HIV). Here, the well is coated with the target *antigen*. Patient serum is added (patient antibodies bind). After washing, an enzyme-linked *anti-human immunoglobulin* antibody is added, which binds to the patient antibodies. Washing and substrate addition follow as above
+*   **Competitive ELISA:** The target molecule in the sample *competes* with a labeled version of the target for binding sites on a limited amount of capture antibody. More target in the sample = less labeled target binds = weaker signal
+
+## **Why ELISA is So Important in Blood Safety** {-}
+
+*   **High Sensitivity:** ELISAs can detect very low concentrations of antigens or antibodies, which is crucial for identifying potentially infectious units early in the infection process
+*   **High Specificity:** When designed correctly, they are very specific for the target molecule, minimizing (but not eliminating) reactions with unrelated substances
+*   **High Throughput & Automation:** The microtiter plate format lends itself well to automation, allowing donor centers to screen thousands of samples efficiently using robotic systems
+*   **Quantitative/Semi-Quantitative Potential:** While often used qualitatively (positive/negative) for screening, ELISA results (signal intensity) can correlate with the amount of target present
+
+## **Limitations and Considerations** {-}
+
+*   **Window Period:** Even highly sensitive ELISAs can miss very early infections before antigens or antibodies reach detectable levels (this is why Nucleic Acid Testing - NAT - is also used for viruses like HIV and HCV)
+*   **False Positives:** Non-specific binding or cross-reactivity can occur, leading to initially reactive results that need further investigation with more specific **confirmatory tests** (e.g., Western Blot, Immunoblot, NAT)
+*   **False Negatives:** Possible due to very low levels of target, specific viral strains not detected by the assay, or technical error
+*   **Requires Specific Equipment:** Microplate readers, washers, precision pipettes are necessary
+*   **Turnaround Time:** While automatable, the multiple incubation and wash steps mean results typically take a few hours
+
+## **Quality Control is Key** {-}
+
+Every ELISA run includes multiple controls:
+
+*   **Negative Controls:** Ensure no significant background signal
+*   **Positive Controls:** Ensure the assay system is working and can detect the target
+*   **Calibrators (Optional):** Used to establish a cutoff value for determining positivity or for quantification
+*   **Kit Controls:** Monitor specific steps or reagent integrity
+
+## **Key Terms** {-}
+
+*   **ELISA (Enzyme-Linked Immunosorbent Assay):** An immunoassay technique using an enzyme linked to an antibody or antigen to detect a specific substance, usually resulting in a color change measured in a microtiter plate
+*   **Immunoassay:** A test that uses antibody-antigen interactions to detect a substance
+*   **Antigen:** A molecule that can be bound by an antibody
+*   **Antibody:** A protein produced by the immune system that binds specifically to an antigen
+*   **Microtiter Plate:** A flat plastic plate with multiple small wells (commonly 96) used for running assays
+*   **Enzyme Conjugate:** An antibody or antigen that has been chemically linked to an enzyme (like HRP or AP)
+*   **Substrate:** A molecule acted upon by an enzyme to produce a detectable signal
+*   **Capture Antibody:** An antibody immobilized on the solid phase (well surface) to bind the target antigen from the sample (in Sandwich ELISA)
+*   **Detection Antibody:** An enzyme-linked antibody used to detect the captured antigen (in Sandwich ELISA) or the primary antibody (in Indirect ELISA)
+*   **Sensitivity:** The ability of a test to correctly identify individuals who *have* the condition or marker being tested (low rate of false negatives)
+*   **Specificity:** The ability of a test to correctly identify individuals who *do not* have the condition or marker being tested (low rate of false positives)
+*   **Window Period:** The time between infection and when a test can reliably detect markers of that infection
+*   **Confirmatory Test:** A second, usually more specific, test used to verify an initially reactive (positive) screening test result

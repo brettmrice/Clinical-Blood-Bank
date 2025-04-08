@@ -1,0 +1,87 @@
+# Detection {-}
+
+Finding HDFN early is crucial for managing it effectively and preventing severe outcomes like hydrops fetalis or kernicterus. Detection involves a combination of **antenatal (during pregnancy)** and **postnatal (after birth)** testing, aimed at identifying at-risk mothers, assessing the degree of fetal jeopardy, and diagnosing the condition in the newborn
+
+## **Antenatal Detection: Screening and Monitoring During Pregnancy** {-}
+
+The goal here is to identify mothers whose fetuses are *at risk* for HDFN and monitor them appropriately
+
+### **Identifying At-Risk Mothers** {-}
+
+*   **ABO/RhD Typing:** **Essential first step for ALL pregnant women** at the first prenatal visit
+    *   Determines the mother's ABO group and RhD type (positive or negative)
+*   **Antibody Screen (Indirect Antiglobulin Test - IAT):** **Essential for ALL pregnant women**, regardless of RhD type, performed at the first prenatal visit
+    *   **Purpose:** Detects the presence of unexpected, clinically significant **IgG red cell alloantibodies** in the mother's plasma that could potentially cross the placenta and cause HDFN (e.g., anti-D, anti-K, anti-c, anti-E, anti-Fy<sup>a</sup>, anti-Jk<sup>a</sup>, etc.)
+    *   **Interpretation**
+        *   **Negative Screen:** Routine care. Repeat screen typically done around 28 weeks gestation, especially for RhD-negative women before administering Rh Immune Globulin (RhIG), and sometimes again at delivery
+        *   **Positive Screen:** Requires **Antibody Identification**
+
+*   **Antibody Identification:** If the screen is positive, the specific antibody(ies) must be identified using a panel of reagent red cells with known antigen profiles
+    *   **Determining Clinical Significance:** Once identified, the antibody's potential to cause HDFN must be assessed. Anti-D, anti-K, anti-c, anti-E, anti-Fy<sup>a</sup>, anti-Jk<sup>a</sup>, anti-S, anti-s are commonly implicated. Antibodies that are typically IgM (like anti-Le<sup>a</sup>, anti-Le<sup>b</sup>, anti-I, anti-P1) or rarely cause HDFN are noted but usually don't require intensive monitoring
+*   **Antibody Titer:** For clinically significant IgG antibodies (especially anti-D, anti-K, etc.), serial titrations are performed to quantify the amount of antibody present
+    *   **Method:** Two-fold serial dilutions of the mother's plasma are tested against reagent red cells positive for the corresponding antigen (using the IAT technique). The titer is the reciprocal of the highest dilution showing a 1+ macroscopic reaction
+    *   **Monitoring:** Titers are performed regularly throughout the pregnancy (e.g., every 2-4 weeks after 18-20 weeks gestation). A **rising titer** (increase of two dilutions or more, e.g., from 16 to 64) or reaching a pre-determined **critical titer** (often 16 or 32 for anti-D, may be lower for anti-K) indicates a higher risk of significant fetal hemolysis and triggers more invasive monitoring
+    *   **Limitations:** Titer levels don't always perfectly correlate with the severity of HDFN, especially for antibodies other than anti-D or in subsequent affected pregnancies
+
+### **Assessing Fetal Status (When a Clinically Significant Antibody is Present)** {-}
+
+If a mother has a potentially harmful antibody, especially if the titer is rising or critical, further steps are needed to assess the fetus directly or indirectly
+
+*   **Determining Fetal Antigen Status (If Possible & Necessary):** Knowing if the fetus actually *has* the antigen targeted by the maternal antibody is key. If the fetus is antigen-negative, HDFN due to that antibody cannot occur
+    *   **Paternal Phenotyping/Genotyping:** Testing the father can help predict the likelihood of the fetus inheriting the antigen (e.g., if the father is homozygous DD, the fetus *will* be D-positive; if heterozygous Dd, there's a 50% chance)
+    *   **Fetal DNA Testing (Non-Invasive):** Cell-free fetal DNA (cffDNA) circulating in maternal plasma can be tested for certain fetal blood group genes (like *RHD*). Highly accurate for determining fetal RhD status in RhD-negative mothers. Increasingly available for other antigens like K, c, E, Fy<sup>a</sup>
+    *   **Amniocentesis/CVS (Invasive):** Fetal cells obtained via amniocentesis or CVS can be genotyped, but these procedures carry a small risk of complications and can worsen sensitization by causing FMH. Generally reserved for situations where cffDNA testing is unavailable or inconclusive
+
+*   **Monitoring for Fetal Anemia (Non-Invasive):** The primary goal is to detect fetal anemia *before* hydrops develops
+    *   **Middle Cerebral Artery Peak Systolic Velocity (MCA-PSV) Doppler Ultrasound:** **This is the cornerstone of modern non-invasive monitoring.** Increased blood flow velocity in the fetal MCA correlates strongly with the severity of fetal anemia. As the fetus becomes anemic, blood viscosity decreases, and cardiac output increases to compensate, leading to faster flow velocity. Regular MCA-PSV measurements (e.g., every 1-2 weeks) are performed when titers are critical or rising. Values above a certain threshold (typically >1.5 Multiples of the Median - MoM) indicate significant fetal anemia and may warrant fetal blood sampling or intrauterine transfusion
+
+*   **Monitoring for Fetal Anemia (Invasive - Historical/Selective Use)**
+    *   **Amniotic Fluid Spectrophotometry (ΔOD 450):** Historically important. Measures bilirubin pigment levels in amniotic fluid obtained via amniocentesis. Bilirubin absorbs light at 450 nm. Plotted on a Liley chart (or modified Queenan chart) to predict HDFN severity. Largely replaced by MCA-PSV Doppler due to its non-invasive nature and better correlation with anemia, but may still be used in specific circumstances or when Doppler is unavailable/unreliable
+
+*   **Fetal Blood Sampling (FBS) / Cordocentesis:** The definitive test for fetal anemia
+    *   **Method:** Ultrasound-guided needle aspiration of blood from the umbilical cord vein
+    *   **Measurements:** Directly measures fetal hemoglobin/hematocrit, bilirubin, blood type, and DAT
+    *   **Use:** Reserved for cases with high suspicion of severe anemia based on MCA-PSV or other findings, often performed immediately prior to a planned intrauterine transfusion (IUT)
+
+## **Postnatal Detection: Diagnosing HDFN in the Newborn** {-}
+
+Testing is performed on cord blood collected at delivery or on neonatal samples soon after birth
+
+*   **Essential Tests on Cord Blood (Especially if Mother is RhD-Negative or Has Known Antibodies)**
+    *   **ABO/RhD Typing:** Determines the infant's blood group and RhD type
+    *   **Direct Antiglobulin Test (DAT):** **Key diagnostic test!** Detects IgG antibodies (and/or complement) coating the newborn's RBCs *in vivo*
+        *   **Positive DAT:** Strongly suggests HDFN if maternal antibody corresponding to a fetal antigen is known or suspected. The strength of the DAT reaction does not always correlate with clinical severity
+        *   **Negative DAT:** Makes classical HDFN less likely, although mild ABO HDFN can sometimes present with a weakly positive or even negative DAT
+*   **Other Important Neonatal Tests (Depending on Clinical Picture)**
+    *   **Hemoglobin (Hgb) / Hematocrit (Hct):** Assesses the degree of anemia at birth
+    *   **Bilirubin Levels (Total and Direct/Unconjugated):** Monitors hyperbilirubinemia. Serial measurements are crucial in the first days of life
+    *   **Reticulocyte Count:** Usually elevated due to compensatory erythropoiesis
+    *   **Peripheral Blood Smear:** May show increased nucleated RBCs (erythroblastosis), spherocytes (especially in ABO HDFN), polychromasia (immature RBCs)
+    *   **Antibody Elution (from Infant RBCs):** If the DAT is positive and the maternal antibody specificity is unknown or complex, an elution can be performed to remove the coating antibody from the infant's RBCs and identify its specificity in the eluate. This confirms the antibody causing the hemolysis
+    *   **Maternal Serum Testing:** Confirms presence and specificity of maternal antibody if not fully worked up antenatally
+
+## **Summary of Detection Strategies** {-}
+
+*   **Antenatal**
+    *   **Screen ALL mothers:** ABO/RhD type, Antibody Screen (IAT)
+    *   **If screen positive:** Antibody ID, Titers (if significant IgG)
+    *   **If antibody significant/titer critical:** Fetal antigen prediction (paternal/cffDNA), **MCA-PSV Doppler** to monitor for anemia, FBS/IUT if indicated
+*   **Postnatal**
+    *   **Test Newborn (esp. if at risk):** ABO/RhD type, **DAT**
+    *   **Monitor:** Hgb/Hct, **Bilirubin**, Reticulocytes
+    *   **Confirm (if needed):** Elution from infant RBCs
+
+## **Key Terms** {-}
+
+*   **Antibody Screen (IAT):** Test performed on maternal serum/plasma to detect unexpected IgG red cell alloantibodies
+*   **Antibody Identification:** Determining the specificity of an antibody detected by the screen using a panel of reagent cells
+*   **Antibody Titer:** Semi-quantitative measure of antibody concentration, determined by serial dilution
+*   **Critical Titer:** A predefined antibody titer level above which there is a significant risk of severe HDFN, warranting closer fetal monitoring
+*   **Fetal DNA Testing (cffDNA):** Non-invasive method using maternal plasma to determine fetal genotype for specific blood group antigens (like RHD)
+*   **Middle Cerebral Artery Peak Systolic Velocity (MCA-PSV):** Ultrasound Doppler measurement of blood flow speed in a fetal brain artery; increased velocity indicates fetal anemia
+*   **Multiples of the Median (MoM):** Unit used to report MCA-PSV results relative to the expected median velocity for gestational age
+*   **Fetal Blood Sampling (FBS) / Cordocentesis:** Invasive procedure to obtain a fetal blood sample directly from the umbilical cord
+*   **Direct Antiglobulin Test (DAT):** Test performed on newborn (or patient) red blood cells to detect *in vivo* coating with IgG or complement
+*   **Elution:** A procedure to remove antibodies bound to red blood cells so the antibody specificity can be determined
+*   **Hyperbilirubinemia:** Elevated levels of bilirubin in the blood
+*   **Cord Blood:** Blood collected from the umbilical cord immediately after delivery

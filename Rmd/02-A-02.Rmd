@@ -1,0 +1,93 @@
+# Molecular {-}
+
+Molecular genetics provides the underlying explanation for the blood group polymorphisms we observe serologically. By analyzing DNA, we can directly determine an individual's genetic potential to express specific antigens, overcoming many limitations of traditional serology and allowing for more precise and comprehensive blood group analysis, ultimately contributing to safer transfusions
+
+At its core, molecular genetics in blood banking focuses on how the sequence of nucleotides (A, T, C, G) in our DNA dictates the blood group antigens expressed on our cells
+
+##  **The Central Dogma Revisited** {-}
+*   **DNA:** Contains the genetic code, organized into genes
+*   **Transcription:** The DNA sequence of a gene is copied into messenger RNA (mRNA)
+*   **Translation:** The mRNA sequence is read by ribosomes, which assemble amino acids into a specific protein
+*   **Protein/Enzyme Function:** This resulting protein might *be* the blood group antigen itself, or it might be an *enzyme* (like a glycosyltransferase) that modifies a precursor substance on the cell surface to create the antigen
+
+##  **From DNA Sequence to Antigen** {-}
+*   **Codons:** The mRNA sequence is read in groups of three bases called codons. Each codon specifies a particular amino acid (or a stop signal)
+*   **Amino Acid Sequence:** The sequence of codons dictates the sequence of amino acids in the protein
+*   **Protein Structure & Function:** The amino acid sequence determines how the protein folds into its 3D shape, which is critical for its function (e.g., enzymatic activity, structural integrity, or acting as an antigen recognized by antibodies)
+
+##  **Genetic Variations: The Source of Blood Group Polymorphism** {-}
+
+The differences between blood group alleles (like *A* vs. *B*, or *K* vs. *k*) arise from variations in the DNA sequence of the corresponding genes. Common types include:
+
+*   **Single Nucleotide Polymorphisms (SNPs):** The most common type. A change in a single DNA base pair at a specific locus (e.g., a G changes to an A)
+    *   *Impact:* Can change the codon, leading to a different amino acid in the protein (missense mutation), potentially altering antigen structure or enzyme activity. Can create a stop codon (nonsense mutation), leading to a shortened, often non-functional protein. Can occur in non-coding regions (promoters, introns) and affect how much protein is made or how mRNA is processed
+*   **Insertions/Deletions (Indels):** Addition or removal of one or more DNA base pairs
+    *   *Impact:* If the number of bases inserted/deleted is not a multiple of three, it causes a **frameshift mutation**. This changes the entire downstream codon reading frame, usually leading to a completely different and often non-functional protein, frequently ending prematurely with a stop codon. Small in-frame indels (multiples of 3) might add or remove amino acids but preserve the rest of the protein sequence. Large deletions can remove entire exons or even the whole gene
+*   **Gene Rearrangements/Fusions:** More complex changes where parts of different genes might swap places (recombination) or fuse together
+    *   *Impact:* Can create hybrid genes encoding novel proteins with altered antigenic properties. Important in systems like MNS (creating variant glycophorins) and Rh (creating partial D antigens)
+
+##  **How Genes Produce Antigens - Two Main Routes** {-}
+
+*   **Route 1: Direct Gene Product is the Antigen:** The gene directly codes for a protein that is itself, or part of, the blood group antigen embedded in the red cell membrane. Changes (like SNPs) in the gene directly alter the antigen's structure
+    *   *Examples:* **Rh** (RhD and RhCE proteins), **MNS** (Glycophorin A and B proteins), **Kell** (Kell protein), **Duffy** (Duffy protein/DARC), **Kidd** (Kidd urea transporter protein)
+*   **Route 2: Gene Product is an Enzyme (Glycosyltransferase):** The gene codes for an enzyme, typically a glycosyltransferase. This enzyme then adds specific sugar molecules onto precursor carbohydrate chains already present on the red cell surface (or on glycoproteins/glycolipids). The *resulting sugar structure* is the antigen
+    *   *Examples:* **ABO**, **H**, **Lewis**, **P1PK**, **I**. The difference between A and B antigens isn't the protein backbone, but the specific sugar added by the A or B transferase enzyme. The *O* allele often results from a frameshift deletion producing a non-functional enzyme, so no extra sugar is added to the H antigen precursor
+
+##  **Molecular Basis Examples** {-}
+
+*   **ABO System**
+    *   The *ABO* gene encodes a glycosyltransferase
+    *   The *A* allele and *B* allele differ by a few key SNPs, resulting in enzymes that add different sugars (N-acetylgalactosamine for A, D-galactose for B) to the H antigen precursor
+    *   The most common *O* allele (*O01*) has a single base deletion near the start, causing a frameshift and a non-functional enzyme. Other *O* alleles exist with different mutations
+    *   Subgroups like *A2* result from SNPs that make the A-transferase slightly less efficient than the *A1* enzyme
+*   **Rh System**
+    *   Two highly homologous (similar) and closely linked genes: *RHD* and *RHCE*
+    *   **RhD Positive:** Have a functional *RHD* gene
+    *   **RhD Negative:** Most commonly caused by a complete deletion of the *RHD* gene (common in Caucasians). Other mechanisms include inactivating mutations or rearrangements within *RHD* (more common in individuals of African or Asian descent)
+    *   **C/c and E/e Antigens:** Determined by SNPs within the *RHCE* gene. For example, a single SNP determines C vs c expression (encoding serine vs proline at position 103), and another SNP largely determines E vs e (proline vs alanine at position 226)
+    *   **Weak D/Partial D:** Result from various *RHD* gene alterations: missense mutations (SNPs) changing amino acids (often affecting antigen density - Weak D, or antigen structure - Partial D), or gene rearrangements creating hybrid RHD-RHCE genes
+*   **Kell System**
+    *   The *KEL* gene encodes the Kell glycoprotein
+    *   The major K (K1) vs. k (K2, Cellano) polymorphism is due to a single SNP (C to T) changing one amino acid (Threonine to Methionine)
+*   **Duffy System**
+    *   The *DARC* gene encodes the Duffy Antigen Receptor for Chemokines (DARC protein), which carries the Fy<sup>a</sup> and Fy<sup>b</sup> antigens
+    *   Fy<sup>a</sup> vs. Fy<sup>b</sup> is determined by a single SNP changing an amino acid
+    *   The common Fy(a-b-) phenotype in individuals of African descent is usually caused by an SNP in the *promoter* region (GATA box) of the *DARC* gene. This SNP prevents transcription (making mRNA) *only* in red blood cell precursors, so the Duffy protein isn't made on RBCs, but it *is* still present on other tissues
+*   **MNS System**
+    *   Two linked genes, *GYPA* and *GYPB*, encoding Glycophorin A (GPA) and Glycophorin B (GPB) respectively
+    *   **M/N antigens:** Located on GPA. Determined by SNPs in *GYPA* causing amino acid changes at positions 1 and 5
+    *   **S/s antigens:** Located on GPB. Determined by a single SNP in *GYPB* causing an amino acid change at position 29
+    *   **U antigen:** High-prevalence antigen associated with GPB. U-negative individuals often have deletions or rearrangements involving the *GYPB* gene
+
+##  **Molecular Techniques in the Reference Lab** {-}
+
+Understanding the molecular basis allows for DNA-based testing (genotyping):
+
+*   **PCR (Polymerase Chain Reaction):** Amplifies specific DNA regions of interest
+*   **Methods based on PCR**
+    *   **SSP (Sequence-Specific Priming):** Uses primers designed to only bind and amplify specific alleles
+    *   **RFLP (Restriction Fragment Length Polymorphism):** Uses restriction enzymes to cut DNA at specific sequences; different alleles may have different cutting patterns if the mutation affects a restriction site
+    *   **Sequencing:** Directly determines the exact nucleotide sequence of a gene segment
+    *   **Bead Chip Arrays/Microarrays:** Simultaneously test for numerous SNPs across multiple blood group genes using probes attached to beads or a chip
+
+##  **Why is Molecular Genetics Important in Blood Bank?** {-}
+*   **Resolving Serologic Problems:** When routine antibody-antigen tests give unclear, weak, or conflicting results
+*   **Testing Recently Transfused Patients:** Serology detects antigens on both patient and donor cells. Genotyping looks at the patient's *own* DNA, unaffected by transfusion
+*   **Testing DAT Positive Patients:** Strong positive DAT can interfere with serological typing, especially for weaker antigens. Genotyping is unaffected
+*   **Predicting Antigen Phenotype When Antisera Are Unavailable:** Especially for rare antigens or when commercial antisera are weak/limited
+*   **Fetal Genotyping:** Can determine fetal RhD type (and other antigens) from maternal plasma (using cell-free fetal DNA) or amniotic fluid to assess risk for Hemolytic Disease of the Fetus and Newborn (HDFN)
+*   **Screening Donors:** Identifying donors negative for multiple antigens or with rare blood types needed for specific patients
+*   **Understanding Weak/Variant Phenotypes:** Differentiating between weak D types that can safely receive D+ blood vs. partial D types that should receive D- blood
+
+##  **Key Terms** {-}
+
+*  **Single Nucleotide Polymorphism (SNP):** A variation at a single position in a DNA sequence among individuals. For example, at a specific base position, most people might have a 'G', but a minority might have an 'A'. SNPs are the most common type of genetic variation and are responsible for many blood group antigen polymorphisms (e.g., K vs. k, C vs. c)
+*  **Codon:** A sequence of three consecutive nucleotides in a DNA or RNA molecule that specifies a particular amino acid or signals the termination of translation (stop codon). The sequence of codons determines the amino acid sequence of a protein
+*  **Missense Mutation:** A type of SNP where the change in a single nucleotide results in a codon that codes for a *different* amino acid than the original codon. This change in the amino acid sequence can alter the structure and function of the resulting protein, potentially changing its antigenic properties (e.g., creating a different blood group antigen)
+*  **Frameshift Mutation:** A genetic mutation caused by an insertion or deletion (indel) of a number of nucleotides in a DNA sequence that is *not* divisible by three. This shifts the grouping of bases into codons, changing the entire amino acid sequence downstream from the mutation site and often leading to a premature stop codon and a truncated, non-functional protein (e.g., the common *O* allele in the ABO system)
+*  **Glycosyltransferase:** An enzyme that catalyzes the transfer of sugar molecules (glycosyl groups) from an activated donor molecule onto an acceptor molecule, typically a carbohydrate, protein, or lipid. Genes encoding these enzymes are responsible for creating carbohydrate-based blood group antigens like ABO, H, and Lewis
+*  **Polymerase Chain Reaction (PCR):** A laboratory technique used to amplify (make many copies of) a specific segment of DNA. It's a fundamental tool in molecular diagnostics, allowing for the detection and analysis of genes associated with blood groups even from small DNA samples
+*  **Genotyping:** The process of determining the specific allele composition (the genotype) of an individual at particular DNA loci. In blood banking, this refers to DNA-based methods used to predict blood group phenotypes, especially when serological testing is difficult or inconclusive
+*  **Allele:** At the molecular level, an allele represents one of several different DNA sequence variations possible at a particular gene locus. These sequence differences (like SNPs or indels) lead to the different versions of blood group genes (e.g., the *A*, *B*, and *O* alleles of the *ABO* gene)
+*  **Promoter:** A region of DNA located upstream (near the start) of a gene that initiates transcription of that particular gene. Mutations within the promoter region can affect how much, when, or in which tissues a gene is expressed, without altering the coding sequence itself (e.g., the GATA box mutation associated with the Fy(a-b-) phenotype)
+*  **Gene Deletion:** A type of mutation where a segment of DNA, ranging from a single base pair to an entire gene or chromosome region, is lost. Complete gene deletions are a common cause of null phenotypes, where no antigen product is made (e.g., the most common cause of the RhD-negative phenotype in Caucasians is the deletion of the *RHD* gene)

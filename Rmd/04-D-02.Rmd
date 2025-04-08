@@ -1,0 +1,78 @@
+# Reagents {-}
+
+Just like having a properly identified patient sample is crucial, ensuring the **Reagents** we use to *test* that sample are working perfectly is absolutely fundamental. Faulty reagents lead to faulty results, and that's something we absolutely cannot afford in the blood bank!
+
+Think of reagents as our highly specialized tools – our Anti-A, Anti-D, Screening Cells, AHG, etc. QA ensures these tools are sharp, accurate, and reliable every single time we use them. It's a continuous process governed by strict standards (like those from AABB, CAP, FDA)
+
+Here's a breakdown of the key QA aspects for blood bank reagents:
+
+## **Receiving, Inspection, and New Lot Validation** {-}
+
+*   **Verification Upon Arrival**
+    *   Check the shipping conditions. Were temperature-sensitive reagents shipped appropriately (e.g., refrigerated)?
+    *   Verify the shipment against the packing slip and purchase order. Did we get what we ordered? Correct reagent, correct number of vials?
+    *   Inspect packaging for damage, leakage, or compromised seals
+    *   Check **Lot Numbers** and **Expiration Dates**. Ensure adequate shelf life remains
+*   **Documentation:** Log the date received, reagent name, manufacturer, lot number, expiration date, and condition upon arrival
+*   **New Lot / New Shipment Validation (CRITICAL!):** Before a new lot number (or sometimes even a new shipment of an existing lot) can be put into routine use, it MUST be tested in parallel with the current, in-use lot number
+    *   **Purpose:** To confirm the new lot performs comparably to the old lot and meets sensitivity/specificity requirements. Catches potential manufacturing issues or damage during shipping
+    *   **How:** Test both new and old lots against known positive and negative control cells/sera. Results should be consistent and meet expected reactivity criteria. Document this validation thoroughly
+
+## **Storage: Maintaining Stability** {-}
+
+*   **Temperature is Key:** Most blood bank reagents require **refrigeration (1-6°C)**. Some may need freezing or room temperature storage
+    *   **Monitoring:** Refrigerators/freezers MUST be continuously monitored with calibrated thermometers and alarm systems. Temperatures must be checked and recorded daily (manually or via electronic system)
+    *   **Placement:** Store reagents according to manufacturer's instructions (e.g., upright, protected from light if necessary). Don't overcrowd shelves (allow air circulation). Don't store in doors where temperatures fluctuate more
+*   **Organization:** Store reagents logically to prevent mix-ups (e.g., separate different antisera clearly). Be mindful of look-alike/sound-alike vials
+*   **Prevent Contamination:** Use aseptic technique when opening and handling vials. Don't interchange dropper caps
+
+## **Daily Quality Control (QC): The Routine Check-Up** {-}
+
+This is the cornerstone of daily reagent QA – confirming that reagents are performing as expected *on the day of use*
+
+*   **Purpose:** Detects any deterioration, contamination, or loss of potency that may have occurred since the last use or validation
+*   **Frequency:** Performed **each day of use** before any patient testing. Some methods might require QC per run
+*   **Method:** Test the reagent against cells or plasma with known antigen/antibody profiles (positive and negative controls)
+*   **Specific QC Examples**
+    *   **Blood Grouping Sera (Anti-A, Anti-B, Anti-D, etc.):** Test against known A, B, O, Rh(D)+, and Rh(D)- cells. Must show expected positive reactions (with appropriate strength) and clear negative reactions. Specificity and potency are checked. The Rh control reagent must always be tested alongside Anti-D and must be negative
+    *   **Reagent Red Blood Cells (Screening Cells, Panel Cells, A1/B Cells):** Test with known positive sera (e.g., weak anti-D for screening cells) and negative sera/saline. Must show expected reactivity and lack of spontaneous agglutination or hemolysis. Visual inspection for hemolysis in the vial is also important
+    *   **Antiglobulin Sera (AHG - Polyspecific, Anti-IgG, Anti-C3d):** Test against known IgG-sensitized cells (like commercial Check Cells or lab-prepared sensitized cells) and unsensitized cells. Must agglutinate the sensitized cells and show no reaction with unsensitized cells. Check Cells are also used to validate *negative* IAT/DAT results
+    *   **Lectins (Anti-A1, Anti-H):** Test against known positive (e.g., A1 cells for Anti-A1) and negative (e.g., A2 cells for Anti-A1) cells
+*   **Interpretation:** Results MUST fall within the laboratory's established acceptance criteria (e.g., minimum reaction grade for positives, clear negative for negatives)
+*   **Documentation:** Record all QC results, interpretations (Pass/Fail), date, time, technologist initials, and reagent lot numbers/expiration dates
+
+## **Documentation and Record Keeping** {-}
+
+*   **Comprehensive Logs:** Maintain detailed records for everything: reagent receipt, validation, daily QC (including actual results, not just Pass/Fail), temperature monitoring, corrective actions, and disposal
+*   **Accessibility & Retention:** Records must be organized, easily retrievable, and kept for the duration required by accrediting agencies (often years). Use standardized forms or LIS modules
+
+## **Inventory Management** {-}
+
+*   **Track Usage:** Monitor reagent usage to ensure adequate stock levels
+*   **Rotate Stock (FIFO):** Use the "First-In, First-Out" principle. Place newer shipments behind older ones to use reagents with shorter expiration dates first
+*   **Discard Expired Reagents:** Regularly check expiration dates and promptly discard any expired reagents according to safe disposal procedures. Never use expired reagents for clinical testing!
+
+## **Troubleshooting QC Failures** {-}
+
+*   **STOP!:** If any QC result fails, the reagent **cannot** be used for patient testing until the issue is resolved
+*   **Investigate:** Follow a systematic approach:
+    *   Was it a procedural error? (Wrong sample, wrong reagent added?) Repeat the QC
+    *   Are the control cells/plasma suspect? Try different control materials
+    *   Is the equipment functioning correctly? (Centrifuge speed/timer, incubator temp?)
+    *   Try a new vial of the *same* reagent lot. Could be contamination/degradation of that specific vial
+    *   If still failing, try a vial from a *different*, validated lot number
+*   **Document:** Record all troubleshooting steps, findings, and corrective actions taken
+*   **Notify:** Inform supervisor/QA coordinator
+
+## **Key Terms** {-}
+
+*   **Quality Control (QC):** Procedures performed routinely (e.g., daily) to monitor the performance of reagents, equipment, and methods, ensuring they meet established criteria
+*   **Lot Number:** A unique identifier assigned by the manufacturer to a specific batch of reagent produced at the same time under the same conditions
+*   **Expiration Date:** The date after which a reagent should no longer be used, as its stability and reactivity cannot be guaranteed
+*   **Validation:** The process of confirming that a new reagent lot, method, or piece of equipment performs as expected before being put into routine clinical use
+*   **Potency:** The strength or reactivity level of a reagent (e.g., how strongly Anti-A agglutinates A cells)
+*   **Specificity:** The ability of a reagent (e.g., antiserum) to react only with its intended target antigen and not with others
+*   **Positive Control:** A material known to contain the substance being tested for, used to confirm that the test system can detect a positive result
+*   **Negative Control:** A material known to lack the substance being tested for, used to confirm the specificity of the test system and rule out false positives
+*   **Parallel Testing:** Testing a new reagent lot or method simultaneously with the current, established lot or method using the same control materials for comparison
+*   **FIFO (First-In, First-Out):** Inventory management principle ensuring that older stock is used before newer stock to minimize waste due to expiration

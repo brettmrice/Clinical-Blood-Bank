@@ -1,0 +1,86 @@
+# Blood Grouping {-}
+
+Routine blood grouping involves determining the patient's ABO group (using forward and reverse typing) and Rh(D) type (including Weak D testing when appropriate). Accuracy is paramount to prevent potentially life-threatening transfusion reactions and alloimmunization. Always ensure your forward and reverse ABO results match!
+
+So, what are we talking about when we say "blood grouping"? Primarily, we're determining the patient's **ABO group** and their **Rh(D) type**
+
+Let's break it down:
+
+## **The ABO Blood Group System** {-}
+
+This system is arguably the MOST important in transfusion medicine because we have **naturally occurring antibodies** in our plasma against the ABO antigens we *lack* on our red blood cells. This is known as **Landsteiner's Rule**. Messing this up can cause a severe, potentially fatal, acute hemolytic transfusion reaction
+
+*   **Antigens:** These are specific carbohydrate structures found on the surface of red blood cells. The main ones are A and B antigens. The H antigen is a precursor structure
+*   **Antibodies:** These are proteins (immunoglobulins, mostly IgM for ABO) found in the plasma/serum. They are "naturally occurring" or "expected" because they develop early in life, likely from exposure to environmental substances (like bacteria) that have similar structures to A and B antigens
+    *   If you have A antigen, you have anti-B antibodies
+    *   If you have B antigen, you have anti-A antibodies
+    *   If you have both A and B antigens (Group AB), you have *neither* anti-A nor anti-B
+    *   If you have neither A nor B antigens (Group O), you have *both* anti-A and anti-B
+
+### **How do we test for ABO?** {-}
+
+We perform TWO tests concurrently, and they MUST match:
+
+*   **Forward Grouping (or Cell Typing)**
+    *   **What it tests:** Patient's Red Blood Cells (RBCs) for the presence of A and B antigens
+    *   **How:** We mix the patient's RBCs with known commercial **reagent anti-sera** (anti-A and anti-B)
+    *   **Principle:** If the antigen is present on the RBCs, the corresponding antibody in the reagent will bind to it, causing **agglutination** (clumping) or sometimes hemolysis
+    *   **Interpretation**
+        *   Agglutination with Anti-A only = **Group A**
+        *   Agglutination with Anti-B only = **Group B**
+        *   Agglutination with BOTH Anti-A and Anti-B = **Group AB**
+        *   NO agglutination with EITHER Anti-A or Anti-B = **Group O**
+
+*   **Reverse Grouping (or Serum/Plasma Typing)**
+    *   **What it tests:** Patient's Plasma or Serum for the presence of anti-A and anti-B antibodies
+    *   **How:** We mix the patient's plasma/serum with known commercial **reagent RBCs** (A1 cells and B cells)
+    *   **Principle:** If the antibody is present in the plasma/serum, it will bind to the corresponding antigen on the reagent RBCs, causing agglutination
+    *   **Interpretation (Based on Landsteiner's Rule - should confirm the Forward Group)**
+        *   Agglutination with B cells only (means anti-B is present) = Confirms **Group A**
+        *   Agglutination with A1 cells only (means anti-A is present) = Confirms **Group B**
+        *   NO agglutination with EITHER A1 or B cells (neither antibody is present) = Confirms **Group AB**
+        *   Agglutination with BOTH A1 and B cells (both antibodies are present) = Confirms **Group O**
+
+*   **The Crucial Check:** The results of the forward and reverse grouping **MUST** be **concordant** (match). If they don't match, we have an **ABO discrepancy**, which needs to be investigated and resolved before a final blood type can be reported and blood components issued
+
+## **The Rh Blood Group System (Focus on Rh(D))** {-}
+
+The Rh system is much more complex than ABO (lots of antigens!), but the most clinically significant antigen by far is the **D antigen**. It's highly immunogenic, meaning exposure to it can easily stimulate antibody production (anti-D) in individuals who lack it
+
+*   **Antigen:** The D antigen is a protein found on the RBC surface
+*   **Antibodies:** Unlike ABO, anti-D antibodies are generally **NOT** naturally occurring. They are typically "immune" antibodies, formed only after exposure to the D antigen through pregnancy (an Rh(D)-negative mother carrying an Rh(D)-positive fetus) or transfusion (an Rh(D)-negative recipient receiving Rh(D)-positive blood). Anti-D is usually IgG
+
+### **How do we test for Rh(D)?** {-}
+
+*   **Rh(D) Typing (Cell Typing)**
+    *   **What it tests:** Patient's RBCs for the presence of the D antigen
+    *   **How:** We mix the patient's RBCs with known commercial **reagent anti-D**
+    *   **Control:** A **control** test is run concurrently. This ensures the positive reaction with anti-D isn't due to spontaneous agglutination or other factors. The type of control depends on the anti-D reagent used (e.g., Rh control reagent, or using the reagent diluent)
+    *   **Principle:** If the D antigen is present, anti-D will bind, causing agglutination
+    *   **Interpretation**
+        *   Agglutination with Anti-D (and a negative control) = **Rh(D) Positive**
+        *   NO agglutination with Anti-D (and a negative control) = **Rh(D) Negative** (at least initially - see Weak D)
+
+*   **Weak D Testing**
+    *   **What it is:** Some individuals have a weaker expression of the D antigen (fewer D antigen sites or altered forms of the antigen). These used to be called Du
+    *   **Why test for it:** It's important because these individuals *can* sometimes make anti-D if exposed to "normal" D-positive cells, BUT more importantly, their RBCs *can* immunize an Rh(D)-negative recipient
+    *   **Who gets tested:** Primarily **blood donors** who initially type as Rh(D) negative. This ensures their blood is labeled correctly (as Rh(D) Positive if Weak D is detected) to prevent immunizing Rh(D)-negative recipients. Testing policies for recipients vary, but often Weak D testing isn't routinely performed on them (they are usually transfused as Rh(D) negative if they type negative initially). Weak D testing is also often done on newborns
+    *   **How:** If the initial Rh(D) test is negative, the test is incubated at 37°C and then converted to an **Indirect Antiglobulin Test (IAT)** by adding Anti-Human Globulin (AHG)
+    *   **Interpretation**
+        *   Agglutination after adding AHG = **Weak D Positive** (Reported as Rh(D) Positive)
+        *   NO agglutination after adding AHG = **Rh(D) Negative**
+
+**Methodologies** While traditional **tube testing** is still common, many labs now use **gel/column agglutination** technology or **solid-phase** methods, which can be semi-automated or fully automated. Molecular genotyping can also determine ABO and Rh types, especially in complex cases, but serology remains the primary routine method
+
+##  **Key Terms** {-}
+
+*  **Antigen:** A molecule (usually a protein or carbohydrate) located on the surface of red blood cells that can elicit an immune response. In ABO grouping, these are the A and B antigens; for Rh, the most important is the D antigen
+*  **Antibody:** A protein (immunoglobulin) found in plasma or serum that is produced by the immune system in response to an antigen. In ABO grouping, these are Anti-A and Anti-B; Anti-D is the key antibody in the Rh system
+*  **Agglutination:** The visible clumping of red blood cells that occurs when antibodies bind to corresponding antigens on adjacent cells, forming a lattice structure. This is the endpoint reaction we look for in many tube and slide tests
+*  **Forward Grouping (Cell Typing):** The part of ABO testing where *patient red blood cells* are tested against known *commercial Anti-A and Anti-B reagents* to determine which ABO antigens are present
+*  **Reverse Grouping (Serum/Plasma Typing):** The part of ABO testing where *patient plasma or serum* is tested against known *commercial A1 and B reagent red blood cells* to detect the expected ABO antibodies (Anti-A, Anti-B)
+*  **Landsteiner's Rule:** The fundamental principle of ABO grouping stating that healthy individuals possess ABO antibodies in their plasma directed against the ABO antigens *lacking* on their own red blood cells. (e.g., Group A person has Anti-B)
+*  **ABO Discrepancy:** An inconsistency or disagreement between the results obtained from the forward grouping and the reverse grouping, requiring resolution before the blood type can be finalized
+*  **Rh(D) Positive:** Indicates the presence of the D antigen on an individual's red blood cells, as detected by testing with Anti-D reagent
+*  **Rh(D) Negative:** Indicates the absence of the D antigen on an individual's red blood cells, as detected by testing with Anti-D reagent (may require Weak D testing for confirmation, especially in donors)
+*  **Weak D (formerly D<sup>u</sup>):** A phenotype where the D antigen is expressed weakly or in fewer numbers on the red blood cell surface, often requiring an indirect antiglobulin test (IAT) phase for detection. Individuals with a Weak D phenotype are typically considered Rh(D) positive, especially for donation purposes

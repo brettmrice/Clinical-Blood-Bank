@@ -1,0 +1,98 @@
+# Whole Blood {-}
+
+While **Whole Blood (WB)** was the original product used for transfusion, its use for direct infusion has become relatively uncommon in most developed countries, largely replaced by **component therapy**. However, understanding Whole Blood is essential for historical context and because it remains the starting material for most blood components and still has niche applications, particularly in massive hemorrhage situations
+
+## **What is Whole Blood?** {-}
+
+*   **Definition:** Whole Blood is essentially blood as it is collected from the donor, containing all its primary constituents: Red Blood Cells (RBCs), Plasma, Platelets, and White Blood Cells (WBCs), suspended in an anticoagulant-preservative solution
+*   **Composition:** A standard unit contains approximately:
+    *   ~450-500 mL of donor blood
+    *   ~63-70 mL of anticoagulant-preservative solution (e.g., CPD, CPDA-1)
+    *   Total Volume: ~513-570 mL
+*   **Key Point:** It contains all components in roughly physiological proportions *at the time of collection*
+
+## **Historical Context & The Shift to Component Therapy** {-}
+
+*   Historically, WB was the only transfusion option available
+*   The development of plastic bags with satellite containers and advances in centrifugation techniques allowed for the separation of WB into its constituent parts (RBCs, Platelets, Plasma, Cryoprecipitate)
+*   **Reasons for the Shift**
+    *   **Targeted Therapy:** Allows clinicians to transfuse only the specific component the patient needs, avoiding unnecessary volume and constituents
+    *   **Optimal Storage:** Different components require different storage conditions for maximum viability and function (e.g., RBCs at 1-6°C, Platelets at 20-24°C, Plasma frozen)
+    *   **Reduced Wastage:** Prevents discarding functional components when only one part of the WB unit is needed
+    *   **Concentration:** Allows for concentrated doses (e.g., apheresis platelets, cryoprecipitate)
+    *   **Reduced Adverse Reactions:** Giving fewer unnecessary plasma proteins or WBCs can reduce allergic and febrile reactions
+
+## **Preparation (Collection)** {-}
+
+*   Collected via standard venipuncture into a primary collection bag containing anticoagulant-preservative solution (CPD, CPDA-1)
+*   **Crucial Distinction:** While most blood donations *start* as Whole Blood collection, the vast majority are processed into components within hours. Units intended for transfusion *as* Whole Blood are specifically designated and stored as such
+
+## **Indications for Transfusion** {-}
+
+The use of Whole Blood for direct transfusion is now limited primarily to:
+
+*   **Massive Hemorrhage / Trauma Resuscitation:** Especially in military settings or trauma centers adopting "balanced resuscitation" strategies. The rationale is to replace lost blood with a product containing oxygen-carrying capacity (RBCs), volume and clotting factors (plasma), and some platelets, potentially closer to physiological ratios than combining separate components. Often, "fresh" whole blood (collected <24 hours prior) is desired in these settings to maximize platelet and factor function, though this presents significant logistical challenges
+*   **Neonatal Exchange Transfusion:** Sometimes used, though often reconstituted WB (RBCs + FFP) or RBCs alone are used
+*   **Resource-Limited Settings:** May be used more commonly where the capacity for component preparation is limited
+
+## **Storage and Expiration** {-}
+
+This is a key limitation of Whole Blood:
+
+*   **Storage Temperature:** **1°C to 6°C** (same as RBCs)
+*   **Expiration:** Determined by the anticoagulant-preservative solution:
+    *   CPD or CP2D: **21 days**
+    *   CPDA-1: **35 days**
+*   **Critical Limitations due to Storage Temperature**
+    *   **Platelet Function:** Platelets rapidly lose viability and function when stored at 1-6°C. After 24-48 hours, stored WB contains very few functional platelets
+    *   **Labile Coagulation Factors:** Factors V and VIII degrade significantly at refrigerated temperatures over time. Stored WB is a poor source of these factors compared to FFP
+    *   **WBC Viability:** Leukocytes also lose function, though their presence contributes to risks like alloimmunization and FNHTRs
+
+## **Advantages (in Specific Contexts)** {-}
+
+*   **Balanced Resuscitation:** In massive hemorrhage, potentially provides a more physiologically balanced replacement fluid compared to crystalloids or just RBCs initially
+*   **Logistical Simplicity:** One product to store and transfuse instead of coordinating three (RBCs, plasma, platelets) – relevant in emergencies or remote settings
+*   **Reduced Donor Exposure (Potentially):** Receiving one WB unit exposes the recipient to one donor, whereas receiving individual components *might* involve multiple donors (though apheresis components mitigate this)
+
+## **Disadvantages (Why Component Therapy is Preferred)** {-}
+
+*   **Suboptimal Component Viability:** Platelets and labile factors (V, VIII) are poorly preserved at 1-6°C
+*   **Component Wastage:** Transfusing unnecessary components (e.g., giving plasma and non-functional platelets to a patient who only needs RBCs)
+*   **Circulatory Overload Risk:** Larger infusion volume compared to packed RBCs, potentially problematic for patients sensitive to volume (e.g., cardiac or renal patients)
+*   **Increased Risk of Certain Reactions:** Contains more plasma proteins (higher risk of allergic reactions) and non-functional leukocytes (higher risk of FNHTRs, alloimmunization, CMV transmission) compared to leukoreduced, plasma-reduced components
+*   **Storage Incompatibility:** No single temperature optimally preserves all components simultaneously
+
+## **Modifications** {-}
+
+*   **Leukoreduction:** Whole Blood *can* be leukoreduced using appropriate filters, though this is less common than LR for components
+*   **Irradiation:** Can be irradiated for the same indications as RBCs/Platelets (preventing TA-GVHD). Irradiation imposes the same expiration constraint (original outdate or 28 days post-irradiation, whichever is sooner)
+
+## **Administration** {-}
+
+*   **Compatibility:** **MUST be ABO identical** with the recipient. This means the donor's red cells must be compatible with the recipient's plasma, *and* the donor's plasma must be compatible with the recipient's red cells. Rh compatibility is also required
+*   **Crossmatch:** A crossmatch is required before transfusion
+*   **Filtration:** Administered through a standard blood filter (170-260 microns)
+*   **Infusion Time:** Must be completed within **4 hours** of removal from controlled storage
+
+## **Potential Risks / Adverse Reactions** {-}
+
+Includes the risks associated with all components:
+
+*   Hemolytic Transfusion Reactions (Acute and Delayed)
+*   Febrile Non-Hemolytic Transfusion Reactions (FNHTRs)
+*   Allergic Reactions (Mild to Anaphylaxis)
+*   Transfusion-Associated Circulatory Overload (TACO)
+*   Transfusion-Related Acute Lung Injury (TRALI)
+*   Septic Reactions (Bacterial Contamination)
+*   Alloimmunization (RBC, HLA, Platelet antigens)
+*   Disease Transmission
+*   TA-GVHD (if not irradiated when indicated)
+
+## **Key Terms** {-}
+
+*   **Component Therapy:** The practice of transfusing specific blood components (RBCs, Platelets, Plasma) rather than Whole Blood
+*   **Anticoagulant-Preservative Solution:** Solutions like CPD, CPDA-1 used in collection bags
+*   **Massive Hemorrhage:** Acute, severe blood loss requiring large-volume transfusion
+*   **Balanced Resuscitation:** Transfusion strategy aiming to replace lost blood with components (or WB) in a ratio approximating physiological levels
+*   **Labile Factors:** Coagulation Factors V and VIII, which degrade relatively quickly at refrigerated temperatures
+*   **ABO Identical:** Donor and recipient have the same ABO group (required for WB transfusion)

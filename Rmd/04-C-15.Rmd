@@ -1,0 +1,62 @@
+# Chloroquine Diphosphate {-}
+
+**Chloroquine Diphosphate (CDP)** is another one of those specialized reagents we pull out when facing a particular challenge, specifically when we need to figure out a patient's red cell phenotype but their cells are coated with IgG antibody (a positive DAT)!
+
+Think of CDP as a gentle chemical "key" that tries to unlock IgG antibodies from the red cell surface, hopefully without damaging the red cell's own antigen "doors."
+
+## **The Core Purpose: Removing IgG to Allow Phenotyping** {-}
+
+The **primary and most important use** of Chloroquine Diphosphate is to **remove bound IgG antibodies from red blood cells *in vitro***, rendering the cells DAT-negative (or at least significantly weaker for IgG), so that they can be accurately **phenotyped** using standard serologic methods
+
+Why is this needed?
+
+*   **Positive DAT Interference:** When a patient has IgG coating their red cells (positive DAT), this bound antibody can interfere with antigen typing in two main ways:
+    1.  **False Positives** The bound IgG can cause spontaneous agglutination when mixed with high-protein reagents (like some older Rh typing sera) or during AHG testing if the typing method requires it
+    2.  **Blocked Antigen Sites** The bound antibody might physically cover up the antigen sites we're trying to detect, potentially leading to false-negative typing results
+*   **CDP Solution:** By removing the interfering IgG, CDP treatment allows us to test the "naked" red cell for its actual antigens
+
+## **Mechanism of Action: Gently Dissociating IgG** {-}
+
+The exact mechanism isn't perfectly understood, but CDP is believed to work by disrupting the non-covalent bonds (like hydrogen bonds and electrostatic interactions) that hold the IgG antibody to the red cell antigen. It effectively weakens the "grip" of the antibody, causing it to dissociate from the cell surface
+
+*   **Key Advantage:** CDP is relatively **gentle** compared to other methods like ZZAP (which uses enzymes + thiol reagents). It removes IgG **without significantly damaging most common blood group antigens**, including those in the Rh, Kell, Duffy, Kidd, and MNS systems
+*   **Exception:** CDP *can* weaken or denature **Bg antigens** (which are related to HLA class I antigens found on red cells). So, if you're specifically interested in Bg typing, CDP treatment isn't ideal
+
+## **The Procedure (Simplified)** {-}
+
+1.  **Wash Patient Cells** Thoroughly wash the patient's EDTA red blood cells with saline to remove all unbound plasma proteins. This is critical!
+2.  **Incubation with CDP** Mix the washed packed cells with the CDP reagent solution (typically at a specific concentration, like 0.2 M)
+3.  **Incubation** Incubate the mixture, often at room temperature or 37°C, for a period (e.g., 30 minutes to 2 hours, depending on the protocol and strength of the DAT)
+4.  **WASH Patient Cells (Again!)** After incubation, wash the CDP-treated cells extensively with saline (e.g., 4-6 times) to remove the CDP solution and any dissociated antibody
+5.  **Quality Control (ESSENTIAL!)** Before proceeding with phenotyping:
+    *   **Check the DAT:** Perform a DAT (using Anti-IgG) on the treated cells. The goal is a **negative DAT**. If it's still strongly positive, the treatment may need to be repeated or wasn't effective. If it's weakly positive, typing might still be possible but requires caution
+    *   **Check Antigen Integrity:** Test the treated cells with known antisera for antigens the patient *should* have (if known) or common antigens, to ensure the CDP treatment didn't inadvertently damage them
+6.  **Phenotyping** Use the washed, DAT-negative (or weakly positive), QC-passed treated cells for antigen typing using standard serologic methods (usually low-protein reagents or methods not requiring AHG are preferred if DAT is not completely negative)
+
+## **When is CDP the Go-To Method?** {-}
+
+*   When you need to determine the **full RBC phenotype** of a patient with a **positive DAT due to IgG** (e.g., patient with Warm Autoimmune Hemolytic Anemia - WAIHA)
+*   When you need to preserve Kell, Duffy, MNS, Kidd, and most Rh antigens for typing (unlike ZZAP which destroys Kell, Duffy, MNS)
+
+## **Limitations and Disadvantages** {-}
+
+*   **Time-Consuming:** The incubation and extensive washing steps take time
+*   **Incomplete Antibody Removal:** May not effectively remove very strongly bound IgG antibodies. The DAT might remain weakly positive, requiring careful selection of typing reagents and interpretation
+*   **Potential Antigen Weakening:** While generally good at preserving antigens, it can weaken Bg antigens and potentially others with prolonged treatment or certain specificities
+*   **Requires Careful QC:** Validating IgG removal and antigen integrity is crucial before reporting phenotype results
+*   **Less Effective for Complement:** Primarily targets IgG dissociation; less effective if the DAT is positive due to complement coating alone
+
+## **Comparison to ZZAP** {-}
+
+*   **CDP:** Gentler, preserves most antigens (except Bg), primarily removes IgG
+*   **ZZAP:** Harsher (enzyme + thiol), removes IgG/Complement more effectively, but **destroys Kell, MNS, Duffy antigens**, making it unsuitable if you need to type for those systems
+
+## **Key Terms** {-}
+
+*   **Chloroquine Diphosphate (CDP):** A chemical reagent used primarily to dissociate IgG antibodies from sensitized red blood cells *in vitro*
+*   **Positive Direct Antiglobulin Test (DAT):** Indicates red blood cells are coated *in vivo* with IgG and/or complement
+*   **Phenotyping:** Determining the specific blood group antigens present on an individual's red blood cells using known antisera
+*   **IgG Dissociation:** The process of breaking the bonds holding IgG antibodies to red cell antigens, causing the antibody to detach
+*   **Antigen Preservation:** The ability of a treatment (like CDP) to leave red cell antigens intact and detectable by typing reagents
+*   **Bg Antigens:** Red blood cell antigens related to HLA class I antigens, known to be potentially weakened or denatured by CDP treatment
+*   **ZZAP Reagent:** A combination of proteolytic enzyme (papain/ficin) and thiol reagent (DTT/2-ME) that removes bound antibody/complement but also destroys Kell, MNS, and Duffy antigens

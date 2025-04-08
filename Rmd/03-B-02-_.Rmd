@@ -1,0 +1,40 @@
+# Hemostasis & Coagulation {-}
+
+Hemostasis is the body's essential mechanism to stop bleeding, relying on a coordinated effort between **platelets** (forming an initial plug) and **coagulation factors** (creating a reinforcing fibrin clot)
+
+## **The Players & Processes** {-}
+
+*  **Platelets: The First Responders**
+    *   **Function:** Tiny cell fragments that circulate passively until injury exposes subendothelial structures (like collagen)
+        *   **Adhesion:** Stick to the injury site, primarily via **von Willebrand Factor (vWF)** binding to platelet **GPIb/IX/V**
+        *   **Activation:** Triggered by adhesion and agonists (thrombin, ADP, collagen), they change shape, release granule contents (ADP, Ca++, Factor V, vWF), and synthesize **Thromboxane A2**
+        *   **Aggregation:** Activated platelets link together via **fibrinogen** binding to **GPIIb/IIIa** receptors, forming the **primary platelet plug**
+    *   **Disorders**
+        *   **Thrombocytopenia (Low Count):** Due to decreased production, increased destruction (immune - ITP, HIT; non-immune - DIC, TTP), or sequestration. Leads to mucocutaneous bleeding (petechiae, purpura)
+        *   **Thrombocytopathy (Dysfunction):** Platelets don't work properly. Inherited (rare - Glanzmann, Bernard-Soulier) or Acquired (common - Aspirin, NSAIDs, uremia). Also causes mucocutaneous bleeding
+
+*  **Coagulation Factors: The Reinforcement Crew**
+    *   **Function:** Mostly inactive plasma proteins (zymogens, mainly from liver), designated by Roman numerals. Act in a cascade (Intrinsic, Extrinsic, Common pathways) triggered by injury
+        *   **Key Steps:** Activation leads to generation of **Thrombin (Factor IIa)**. Thrombin converts **Fibrinogen (Factor I)** to **Fibrin**, which polymerizes. **Factor XIIIa** cross-links fibrin to stabilize the clot
+        *   **Vitamin K:** Essential for synthesizing functional Factors **II, VII, IX, X**
+        *   **Platelet Surface:** The activated platelet membrane provides the crucial phospholipid surface for key factor complexes (tenase, prothrombinase) to assemble efficiently
+    *   **Disorders**
+        *   **Deficiencies:** Often lead to bleeding. Inherited (Hemophilia A - FVIII, Hemophilia B - FIX, vWD - affects FVIII also, others rarer) or Acquired (Liver disease, Vit K deficiency, DIC - consumption)
+        *   **Inhibitors:** Antibodies against factors (e.g., FVIII inhibitor) or interfering antibodies (Lupus Anticoagulant - associated with thrombosis despite prolonged aPTT)
+
+## **Laboratory Assessment** {-}
+
+*   **Platelets:** Platelet count (CBC), Platelet Function Analyzer (PFA), Platelet Aggregometry
+*   **Coagulation**
+    *   **PT (Prothrombin Time):** Screens Extrinsic/Common pathways (Factors VII, X, V, II, I). Monitors Warfarin (as INR)
+    *   **aPTT (Activated Partial Thromboplastin Time):** Screens Intrinsic/Common pathways (Factors XII, XI, IX, VIII, X, V, II, I). Monitors Heparin
+    *   **TT (Thrombin Time):** Assesses fibrinogen conversion. Sensitive to heparin
+    *   **Fibrinogen Assay:** Quantifies Factor I
+    *   **Mixing Studies:** Differentiate factor deficiency (corrects) from inhibitor (doesn't correct)
+    *   **Factor Assays:** Measure specific factor activity (%)
+
+## **Interplay & Clinical Significance** {-}
+
+*   Platelets and coagulation factors work **together**. Platelets provide the surface and initial plug; coagulation stabilizes it with fibrin
+*   Defects in either system lead to **bleeding**, though the *type* of bleeding often differs (platelet issues -> mucocutaneous; severe factor issues -> deep tissue/joint bleeds)
+*   Understanding these pathways and disorders is crucial for diagnosing bleeding causes and guiding therapy, including the appropriate use of blood components like **platelets, Fresh Frozen Plasma (FFP), and Cryoprecipitate**

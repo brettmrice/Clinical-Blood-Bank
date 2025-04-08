@@ -1,0 +1,113 @@
+# Red Blood Cells {-}
+
+Red Blood Cells (sometimes just called "packed cells") are a vital component for treating symptomatic anemia and acute blood loss by improving oxygen-carrying capacity. Their preparation, storage, and modification are carefully controlled to ensure safety and efficacy. Understanding the specific properties and potential modifications of RBC units allows us to provide the best possible product for each patient's unique needs
+
+## **What Are Red Blood Cells?** {-}
+
+*   **Definition:** Red Blood Cells (erythrocytes) are the component obtained after removing most of the plasma from whole blood. Their primary function is to transport **oxygen** from the lungs to the body's tissues and carry **carbon dioxide** back to the lungs, thanks to the **hemoglobin** packed inside them
+*   **Composition:** A standard unit of packed RBCs consists mainly of red cells suspended in a small amount of residual plasma, plus the anticoagulant-preservative or additive solution. The hematocrit (percentage of volume occupied by red cells) typically ranges from 55-80%, depending on the collection/additive solution used (units with additive solutions generally have a lower hematocrit, around 55-65%)
+
+## **Preparation Methods** {-}
+
+RBCs are primarily prepared in two ways:
+
+*  **From Whole Blood Donation**
+    *   A standard unit of whole blood (~500 mL) is collected into a bag containing anticoagulant (e.g., CPD) and potentially satellite bags with additive solutions (e.g., AS-1, AS-3)
+    *   The unit undergoes centrifugation ("hard spin") to separate the components by density
+    *   The majority of the plasma is expressed off into a satellite bag (to make plasma components)
+    *   If an additive solution system is used, the AS solution (~100-110 mL) is added back to the concentrated red cells
+    *   The final RBC component usually has a volume of around 250-350 mL
+*  **By Apheresis (Red Cell Apheresis / Double Red Cell Donation)**
+    *   An apheresis machine selectively collects red blood cells from the donor while returning the plasma and platelets
+    *   This method allows for the collection of **two** standard doses of RBCs from a single donor during one session ("double unit"). Requires donors to meet higher hemoglobin/hematocrit and weight criteria
+    *   Units collected this way are often already leukoreduced by the apheresis process itself
+
+## **Indications for Transfusion** {-}
+
+The primary goal of RBC transfusion is to **increase the oxygen-carrying capacity** of the blood. Indications include:
+
+*   **Symptomatic Anemia:** Transfusion is indicated when anemia (low RBC count/hemoglobin) causes symptoms like shortness of breath (dyspnea), weakness, fatigue, chest pain (angina), or dizziness *that are not manageable by other means*. **Important** Transfusion decisions should **not** be based solely on a hemoglobin number ("transfusion trigger") but on the patient's overall clinical picture, symptoms, and underlying condition
+*   **Acute Blood Loss:** Significant hemorrhage (e.g., from trauma or surgery) requires RBC transfusion to restore blood volume and oxygen-carrying capacity
+*   **Chronic Anemias:** Patients with conditions like sickle cell disease, thalassemia, kidney failure, or myelodysplastic syndromes may require chronic transfusion support
+*   **Perioperative Anemia:** To support oxygen delivery during and after major surgery
+
+## **Storage and Expiration** {-}
+
+(As we've covered in detail previously!)
+
+*   **Storage Temperature:** **1°C to 6°C** in monitored blood bank refrigerators
+*   **Expiration:** Depends on the anticoagulant/additive solution used:
+    *   ACD/CPD/CP2D: 21 days
+    *   CPDA-1: 35 days
+    *   Additive Solutions (AS-1, AS-3, AS-5, AS-7): **42 days** (most common now)
+*   **Storage Lesion:** Remember that stored RBCs undergo changes (↓ATP, ↓2,3-DPG, ↑K+ leak, shape changes) which impact their function and survival post-transfusion
+
+## **Quality Control / Specifications** {-}
+
+*   **Volume:** Varies but typically 250-350 mL
+*   **Hematocrit:** Usually 55-80% (lower end with additive solutions)
+*   **Hemolysis:** Must be minimal (<1% of total RBC mass at expiration by FDA standards)
+*   **Viability:** ≥75% of transfused cells must remain in the recipient's circulation 24 hours post-transfusion
+
+## **Modifications to Red Blood Cell Units** {-}
+
+Standard RBC units can be modified to meet specific patient needs:
+
+*   **Leukoreduced RBCs**
+    *   *Why:* To reduce the number of white blood cells (WBCs). This minimizes the risk of febrile non-hemolytic transfusion reactions (FNHTRs), transmission of cell-associated viruses like CMV, and HLA alloimmunization
+    *   *How:* Filtration (either pre-storage or at the bedside, though pre-storage is preferred)
+    *   *Standard:* Must contain < 5 x 10⁶ residual WBCs per unit (US standard). *This is standard practice for almost all RBCs in many countries now*
+*   **Washed RBCs**
+    *   *Why:* To remove plasma proteins. Indicated for patients with a history of severe allergic reactions (anaphylaxis) to plasma components, especially those with IgA deficiency who have anti-IgA antibodies. Can also be used to reduce accumulated potassium in older units for neonatal transfusions
+    *   *How:* Washing the RBCs multiple times with sterile saline using automated cell processors
+    *   *Impact:* This is an **open system** procedure, so the expiration date is shortened to **24 hours** when stored at 1-6°C. Washing also causes some loss of RBCs
+*   **Irradiated RBCs**
+    *   *Why:* To prevent Transfusion-Associated Graft-versus-Host Disease (TA-GVHD) by inactivating donor T-lymphocytes. TA-GVHD is rare but often fatal
+    *   *Indications:* Immunocompromised patients (e.g., congenital immunodeficiencies, stem cell transplant recipients, patients on certain immunosuppressive drugs), recipients of directed donations from blood relatives, intrauterine transfusions, and sometimes premature neonates
+    *   *How:* Exposing the unit to a specific dose of gamma irradiation or X-rays (typically 25-50 Gy)
+    *   *Impact:* Irradiation damages the RBC membrane slightly, increasing potassium leakage. The expiration date becomes the **original outdate OR 28 days from the date of irradiation, whichever is sooner**
+*   **Volume-Reduced RBCs**
+    *   *Why:* To reduce the total volume infused, important for patients at risk of circulatory overload (TACO), especially infants and small children
+    *   *How:* Removing a portion of the supernatant (plasma/additive solution) after gentle centrifugation
+    *   *Impact:* Often performed as an **open system**, shortening expiration to **24 hours** at 1-6°C unless a sterile docking device is used
+*   **Frozen / Deglycerolized RBCs**
+    *   *Why:* For long-term storage (up to 10 years) of rare blood types, autologous units, or special inventories
+    *   *How:* Adding a cryoprotective agent (glycerol), freezing at ultra-low temperatures (≤ -65°C). Before transfusion, the unit must be thawed and the glycerol removed through a washing process (**deglycerolization**)
+    *   *Impact:* Expiration after thawing/deglycerolization is typically **24 hours** if performed in an open system, but can be longer (up to 14 days) with validated closed systems. The process is complex and results in some RBC loss
+*   **Antigen-Negative RBCs**
+    *   *Why:* For patients who have developed clinically significant red cell alloantibodies (antibodies against antigens they lack) or to prevent alloimmunization in chronically transfused patients (e.g., sickle cell disease)
+    *   *How:* Selecting units from donors who have been phenotyped and are known to lack the specific antigen(s) required by the patient (e.g., Kell negative, Fy(a) negative, Jk(b) negative)
+
+## **Administration** {-}
+
+*   **Compatibility:** MUST be ABO and Rh compatible with the recipient. A crossmatch is required before transfusion
+*   **Filtration:** Administered through a standard blood filter (170-260 microns) to remove clots and debris
+*   **Infusion Time:** Typically infused over 1.5 to 2 hours, but **must be completed within 4 hours** from removal from controlled storage to minimize bacterial risk at room temperature
+*   **Monitoring:** Patients must be monitored closely for signs of transfusion reactions, especially during the first 15 minutes
+
+## **Potential Risks / Adverse Reactions** {-}
+
+Transfusion is generally safe but carries potential risks:
+
+*   Hemolytic Transfusion Reactions (Acute and Delayed)
+*   Febrile Non-Hemolytic Transfusion Reactions (FNHTRs)
+*   Allergic Reactions (Mild Urticaria to Anaphylaxis)
+*   Transfusion-Associated Circulatory Overload (TACO)
+*   Transfusion-Related Acute Lung Injury (TRALI)
+*   Septic Reactions (Bacterial Contamination)
+*   Iron Overload (with chronic transfusion)
+*   Alloimmunization (development of antibodies to RBC antigens)
+*   Disease Transmission (extremely low risk now due to rigorous testing)
+
+## **Key Terms** {-}
+
+*   **Hemoglobin (Hgb):** The protein within RBCs that binds and transports oxygen
+*   **Hematocrit (Hct):** The proportion of blood volume occupied by red blood cells, expressed as a percentage
+*   **Additive Solution (AS):** Solution added to packed RBCs after plasma removal to extend shelf life to 42 days
+*   **Leukoreduction:** Removal of white blood cells to prevent adverse reactions
+*   **Irradiation:** Treatment with radiation to inactivate T-lymphocytes and prevent TA-GVHD
+*   **Washing:** Removal of plasma proteins using saline washes to prevent severe allergic reactions
+*   **Storage Lesion:** The collection of biochemical and morphological changes occurring in RBCs during storage
+*   **Antigen-Negative:** RBC units lacking specific red cell antigens, selected for patients with corresponding antibodies
+*   **TA-GVHD (Transfusion-Associated Graft-versus-Host Disease):** A rare but serious complication where donor lymphocytes attack recipient tissues
+*   **Deglycerolization:** The process of removing glycerol from thawed frozen RBCs before transfusion

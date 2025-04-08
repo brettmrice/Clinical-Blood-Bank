@@ -1,0 +1,82 @@
+# Lectins {-}
+
+**Lectins** aren't antibodies, but they act *like* highly specific antibodies in certain situations. They are proteins, usually derived from plants (like seeds) or sometimes invertebrates, that have a remarkable ability to bind specifically to certain **carbohydrate** (sugar) structures on the red blood cell surface
+
+Think of them as very picky eaters – they only bind to one specific type of sugar arrangement. Because blood group antigens often involve specific sugar structures, we can use lectins as specialized reagents to help us identify or differentiate certain blood types or resolve discrepancies
+
+## **Purpose: Why Use Lectins?** {-}
+
+Lectins aren't used in everyday ABO/Rh typing, but they become valuable tools in specific situations:
+
+*  **Resolving ABO Discrepancies:** Especially useful for differentiating ABO subgroups (like A1 vs A2)
+*  **Identifying Rare Phenotypes:** Critical for identifying the Bombay phenotype (Oh)
+*  **Confirming Antigen Presence/Absence:** Can be used to confirm the presence of certain antigens when antisera might be unavailable or results are unclear (though less common now with monoclonal antisera)
+*  **Investigating Polyagglutination:** Some lectins react with hidden "T" antigens exposed on RBCs by bacterial enzymes (more of a reference lab investigation)
+
+## **The Key Players in Blood Bank** {-}
+
+While many lectins exist in nature, only a few are routinely important in the blood bank setting:
+
+### **Anti-A1 Lectin (from *Dolichos biflorus* seeds)** {-}
+*   **Specificity:** Binds strongly and specifically to the **A1 antigen**
+*   **Mechanism:** The A1 antigen has a slightly different terminal carbohydrate structure compared to other A subgroups (like A2). This lectin recognizes the specific A1 structure
+*   **Primary Use:** **Differentiating A1 and A2 red blood cells.** About 80% of Group A (or AB) individuals are A1 subtype; the remaining 20% are A2 or weaker subgroups
+*   **Why Differentiate A1/A2?**
+    *   Some A2 (or A2B) individuals can produce a naturally occurring **anti-A1** antibody in their plasma. This causes a discrepancy: Forward type looks Group A, but Reverse type shows reactivity with A1 cells (because of the patient's anti-A1)
+    *   Testing the patient's *red cells* with Anti-A1 lectin helps resolve this. If the lectin is *negative*, the patient is likely A2 (or weaker), explaining the presence of anti-A1 in their plasma
+*   **Interpretation**
+    *   Patient RBCs + Anti-A1 Lectin = **Agglutination** --> **A1 Positive**
+    *   Patient RBCs + Anti-A1 Lectin = **No Agglutination** --> **A1 Negative** (likely A2 or weaker subgroup if forward typing indicates A or AB)
+
+### **Anti-H Lectin (from *Ulex europaeus* seeds - Gorse)** {-}
+*   **Specificity:** Binds specifically to the **H antigen**
+*   **Mechanism:** The H antigen is the carbohydrate precursor structure upon which A and B antigens are built. The amount of *unconverted* H antigen varies depending on the ABO group
+    *   **Most H:** Group O
+    *   **Intermediate H:** A2 > B > A2B
+    *   **Least H:** A1 > A1B
+    *   **NO H:** Bombay phenotype (Oh)
+*   **Primary Uses**
+    *   **Confirming Group O status:** Group O cells should react strongly with Anti-H lectin
+    *   **Identifying weak A or B subgroups:** These often have *more* H antigen than expected for typical A or B types, so they might react strongly with Anti-H
+    *   **Identifying the rare Bombay phenotype (Oh):** This is critical! Bombay individuals genetically lack the ability to make H antigen. Therefore, their red cells **WILL NOT** react with Anti-H lectin, despite potentially having genes for A or B. They also have potent anti-A, anti-B, *and* anti-H in their plasma
+*   **Interpretation**
+    *   Patient RBCs + Anti-H Lectin = **Agglutination** --> **H antigen present** (strength varies with ABO type)
+    *   Patient RBCs + Anti-H Lectin = **No Agglutination** --> **H antigen absent or severely deficient** (Strongly suggests Bombay phenotype - requires confirmation!)
+
+### **Others (Less Commonly Used in Routine Special Testing Now)** {-}
+*   **Anti-N Lectin (from *Vicia graminea*):** Specific for N antigen. Largely replaced by monoclonal Anti-N antisera
+*   **Anti-M Lectin (from *Iberis amara*):** Specific for M antigen. Also largely replaced by monoclonal Anti-M
+*   **Anti-T Lectin (from *Arachis hypogaea* - Peanut Agglutinin):** Used in polyagglutination workups to detect exposure of the T antigen
+
+## **How Lectins Are Used** {-}
+
+*   **Methodology:** Usually simple, direct agglutination tests performed in tubes or on slides at room temperature
+*   **Procedure:** A drop of lectin reagent is mixed with a suspension of washed patient red blood cells
+*   **Observation:** Checked for agglutination after brief incubation/centrifugation according to manufacturer's instructions
+*   **Controls are ESSENTIAL:** Always run known positive and known negative control cells concurrently to ensure the lectin reagent is working correctly (e.g., A1 and A2 cells with *Dolichos*; O and A1B cells with *Ulex*)
+
+## **Advantages** {-}
+
+*   Provide high specificity for certain carbohydrate structures
+*   Readily available and stable reagents
+*   Invaluable for resolving specific ABO typing issues (subgroups, Bombay)
+
+## **Disadvantages/Cautions** {-}
+
+*   They are **not antibodies** – don't confuse their mechanism or interpretation entirely with antibody-antigen reactions
+*   Their reactivity is solely based on **carbohydrate structures**, which (rarely) might be altered by disease states
+*   Limited range – only useful for the specific structures they recognize
+*   Require strict adherence to QC procedures
+
+Lectins are fantastic specialized tools! Knowing when and how to use Anti-A1 and Anti-H lectins, in particular, can help you unravel some perplexing ABO discrepancies and identify rare, important phenotypes like Bombay
+
+## **Key Terms** {-}
+
+*   **Lectins:** Proteins (usually plant-derived) that bind specifically to carbohydrate structures
+*   **Carbohydrate:** Sugar molecules; form the basis of many blood group antigens (like ABO, H, Lewis, P, I)
+*   **Anti-A1 Lectin (*Dolichos biflorus*):** Reagent used to differentiate A1 from non-A1 (A2, etc.) red blood cells by binding specifically to the A1 antigen
+*   **Anti-H Lectin (*Ulex europaeus*):** Reagent used to detect the presence and relative strength of the H antigen. Crucial for identifying the Bombay phenotype (which lacks H)
+*   **A1/A2 Subgroups:** Common subtypes of the A blood group, differing slightly in the structure and amount of A antigen expressed. A2 individuals can sometimes make anti-A1
+*   **H Antigen:** The carbohydrate precursor structure required for the expression of A and B blood group antigens
+*   **Bombay Phenotype (Oh):** Rare phenotype where individuals lack the H antigen (genotype hh) and therefore cannot express A or B antigens, even if they have A or B genes. Their red cells lack H, A, and B antigens, and their plasma contains anti-A, anti-B, and anti-H
+*   **Polyagglutination:** A state where red blood cells are agglutinated by most normal adult human sera, often due to exposure of hidden antigens (like T) on the RBC surface

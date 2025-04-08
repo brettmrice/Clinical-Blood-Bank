@@ -1,0 +1,77 @@
+# Adsorptions {-}
+
+**Adsorption** techniques are a super important tool in the immunohematology reference lab (and sometimes in routine blood banks) when we're faced with tricky antibody situations, especially when autoantibodies are interfering
+
+Think of adsorption as using red blood cells like specific **sponges** to soak up certain antibodies out of a patient's serum or plasma, leaving other antibodies behind for us to identify
+
+## **The Core Purpose: Removing Interfering Antibodies** {-}
+
+The primary goal of adsorption is usually to **remove unwanted antibodies** (most commonly autoantibodies) from a patient's serum/plasma so that clinically significant **alloantibodies** (antibodies to foreign red cell antigens) can be detected and identified
+
+Other uses include:
+
+*   Separating multiple alloantibodies present in a sample
+*   Confirming the specificity of an antibody by showing it can be removed by cells possessing the corresponding antigen
+*   Preparing single-specificity antibody reagents (less common now with monoclonals)
+
+## **The Basic Principle** {-}
+
+1.  **Incubation** Patient serum/plasma (containing the antibody mixture) is incubated with red blood cells that possess the antigen(s) corresponding to the antibody(ies) you want to remove
+2.  **Binding** During incubation, the target antibody(ies) bind to the antigens on the red blood cell surface (sensitization)
+3.  **Separation** The mixture is centrifuged, packing the red cells (now coated with the adsorbed antibody) to the bottom
+4.  **Harvesting** The supernatant plasma/serum (the **adsorbed serum**) is carefully removed. This adsorbed serum should now be free (or have significantly reduced levels) of the antibody that stuck to the red cells
+5.  **Testing** The adsorbed serum is then tested against antibody screening or panel cells to see what antibodies *remain*
+
+## **Types of Adsorption Techniques: Choosing Your "Sponge"** {-}
+
+The type of red cells used for adsorption is critical and defines the technique:
+
+### **Autologous Adsorption ("Auto-adsorption")** {-}
+*   **What it is:** Using the **patient's own** red blood cells to adsorb antibodies from their own serum/plasma
+*   **When it's Used:** This is the **preferred method** when possible, especially for removing **warm autoantibodies**
+*   **Why it's Preferred:** Since the patient's cells lack any foreign antigens (by definition), they will only adsorb *autoantibodies*. Any alloantibodies present in the serum will *not* bind to the patient's own cells and will remain in the adsorbed serum, ready for detection and identification
+*   **Major Limitation:** **Cannot be reliably performed if the patient has been recently transfused** (typically within the last 3 months). Why? Because circulating donor red cells (which *are* foreign) would be mixed in with the patient's cells. These donor cells could potentially adsorb clinically significant *alloantibodies* from the patient's serum, causing them to be missed in the adsorbed serum (a dangerous false-negative situation!)
+*   **Challenge:** Often, patients needing auto-adsorption have a **positive Direct Antiglobulin Test (DAT)**, meaning their cells are already coated *in vivo* with autoantibody. This coating can block antigen sites needed for further adsorption *in vitro*. Therefore, patient cells often need **pre-treatment** before adsorption:
+    *   **ZZAP Treatment:** A reagent mixture containing a proteolytic enzyme (papain or ficin) and a thiol reagent (like DTT or 2-ME). It removes bound antibody (especially IgG) from the RBC surface and also treats the cells enzymatically. *Caution:* ZZAP destroys Kell system antigens and M, N, S, Fya, Fyb antigens, so you wouldn't be able to detect alloantibodies to these specificities if they were also present and adsorbed onto ZZAP-treated cells (though this is less of a concern in *auto*-adsorption where alloantibodies *shouldn't* adsorb)
+    *   **Chloroquine Diphosphate (CDP) Treatment:** Gently dissociates IgG from the red cell surface, often without significantly damaging most antigens (except possibly Bg antigens). Less harsh than ZZAP but might be less effective at removing strongly bound antibody
+*   **Procedure:** Patient cells (potentially pre-treated) are washed, packed, mixed with patient serum/plasma, incubated (often at 37°C for warm autoantibodies, or 4°C for cold), centrifuged, and the adsorbed serum is harvested. Often requires multiple rounds of adsorption for complete removal
+
+### **Allogeneic Adsorption (Homologous or Differential Adsorption)** {-}
+*   **What it is:** Using **red blood cells from other individuals (donor cells)** with known antigen phenotypes to adsorb antibodies from the patient's serum/plasma
+*   **When it's Used:** Necessary when autologous adsorption cannot be performed (e.g., **recent transfusion**, patient severely anemic with insufficient RBCs)
+*   **The Big Challenge:** Selecting donor cells carefully! The goal is to remove the interfering antibody (usually a broadly reactive autoantibody) **WITHOUT** removing any clinically significant alloantibodies the patient might also have
+*   **How it's Done (Often Differential Adsorption):** Requires careful planning. Typically uses three different donor cell samples with specific Rh phenotypes to maximize the chance of leaving common alloantibodies behind:
+    *   **R1R1 cells:** (e.g., CDe/CDe) - Lack c and E antigens
+    *   **R2R2 cells:** (e.g., cDE/cDE) - Lack C and e antigens
+    *   **rr cells:** (e.g., cde/cde) - Lack C, D, and E antigens
+    *   These cells should also ideally cover other common antigens like K, Fya, Fyb, Jka, Jkb, S, s
+*   **Procedure:** Patient serum is adsorbed separately with each of the selected donor cell types. The adsorbed serum aliquots are then tested against panel cells. By comparing results from the different aliquots and the untreated serum, underlying alloantibodies can often be identified (e.g., if an anti-E is present, it should remain in the serum adsorbed with R1R1 and rr cells, but be adsorbed out by the R2R2 cells)
+*   **Risk:** There's always a risk, especially with broadly reactive autoantibodies, that a co-existing alloantibody might react with an antigen present on the chosen donor cells and be inadvertently adsorbed out
+
+### **Rabbit Erythrocyte Stroma (RESt) Adsorption** {-}
+*   **What it is:** Using rabbit red blood cell membranes (stroma) which are rich in structures similar to human I, H, and IH antigens
+*   **When it's Used:** Primarily to remove interfering **cold autoantibodies** (often anti-I) that are causing problems at room temperature or immediate spin phases, potentially masking IgM alloantibodies
+*   **Caution:** RESt can sometimes adsorb other antibodies, including anti-B and clinically significant antibodies like anti-Vel
+
+## **Interpretation & Next Steps** {-}
+
+After adsorption, the **adsorbed serum** is tested using standard antibody identification panel procedures (e.g., LISS or PEG IAT)
+
+*   Compare the results of the adsorbed serum panel to the results obtained with the *unadsorbed* serum
+*   Any clinically significant alloantibodies should remain in the adsorbed serum (especially after autoadsorption) and their specificity can now be determined without the interference of the removed antibody
+*   If all reactivity disappears after adsorption, it suggests only the adsorbed antibody (e.g., the autoantibody) was present
+
+Adsorption techniques are powerful but require careful planning, execution, and interpretation. They are essential for ensuring patient safety when autoantibodies complicate the serologic picture!
+
+## **Key Terms** {-}
+
+*   **Adsorption:** The process of removing antibodies from serum/plasma by allowing them to bind to specific antigens on red blood cells, followed by separation of the serum from the antibody-coated cells
+*   **Adsorbed Serum:** The supernatant serum/plasma remaining *after* the adsorption procedure, ideally depleted of the targeted antibody(ies)
+*   **Autologous Adsorption:** Adsorption using the patient's own red blood cells (preferred method for removing autoantibodies if not recently transfused)
+*   **Allogeneic Adsorption:** Adsorption using red blood cells from donor individuals with known phenotypes (used when autologous adsorption is not feasible)
+*   **Differential Adsorption:** A type of allogeneic adsorption using multiple cell samples with carefully selected phenotypes (e.g., R1R1, R2R2, rr) to help separate multiple antibodies or remove autoantibodies while preserving common alloantibodies
+*   **ZZAP:** A reagent combining enzyme (ficin/papain) and a thiol reagent (DTT/2-ME), used to remove bound IgG from RBCs before autoadsorption (destroys Kell, MNS, Duffy antigens)
+*   **Chloroquine Diphosphate (CDP):** A chemical reagent used to gently remove bound IgG from RBCs before autoadsorption, typically preserving most RBC antigens
+*   **RESt (Rabbit Erythrocyte Stroma):** Used primarily to adsorb cold autoantibodies (like anti-I)
+*   **Alloantibody:** An antibody directed against a red blood cell antigen that is foreign to the individual (usually stimulated by transfusion or pregnancy)
+*   **Autoantibody:** An antibody directed against the individual's own red blood cell antigens

@@ -1,0 +1,38 @@
+# Immunoglobulins {-}
+
+The section covers the key aspects of immunoglobulins (antibodies) – their different types (classes/subclasses), how they're built (structure), and what they actually do based on that structure (biologic/physical properties)
+
+Think of immunoglobulins as the highly specialized security force of your adaptive immune system. They are proteins made by plasma cells (mature B cells) designed to recognize and neutralize specific foreign targets (antigens). Their brilliance lies in their structure, which perfectly equips them for this dual role
+
+##  **The Basic Design (Structure): The "Y" Shape** {-}
+*   At its core, an immunoglobulin is a Y-shaped molecule built from four protein chains: two identical **Heavy (H) chains** forming the stem and inner arms, and two identical **Light (L) chains** forming the outer arms. These are held together by **disulfide bonds**
+*   Each arm tip contains the **Variable (V) region**, which is unique to that antibody and forms the **antigen-binding site (Fab fragment)**. This is where the antibody specifically latches onto its target (like the D antigen on a red cell). The incredible diversity here comes from **gene rearrangement (V(D)J)**
+*   The stem and lower arms make up the **Constant (C) region (Fc fragment)**. This part is more consistent within an antibody class and determines the antibody's **effector functions** – how it interacts with other parts of the immune system (like complement or phagocytic cells) and its general physical properties
+
+##  **The Different Models (Classes & Subclasses): Variations on the Theme** {-}
+*   The type of **Heavy chain** constant region dictates the antibody's **class** (isotype). There are five main classes (Remember **GAMED**):
+    *   **IgG (Gamma heavy chain):** The most abundant Ig in serum. A **monomer**. The workhorse for fighting infections in blood/tissues and the star of the **secondary immune response**. Crucially, it **crosses the placenta**. Comes in 4 subclasses (IgG1, IgG2, IgG3, IgG4) with differing abilities (esp. complement activation: IgG3 > IgG1 >> IgG2)
+    *   **IgM (Mu heavy chain):** Usually a large **pentamer** (5 Y-units joined by a J-chain). The first responder in a **primary immune response**. Excellent at **activating complement** and **agglutinating** cells due to its size and multiple binding sites. Stays mainly in the **bloodstream** and does **NOT** cross the placenta
+    *   **IgA (Alpha heavy chain):** A monomer in serum, but a **dimer** (with J-chain and Secretory Component) in **mucosal secretions** (gut, lungs, tears, saliva). The guardian of body surfaces. Does **NOT** typically activate complement or cross the placenta
+    *   **IgE (Epsilon heavy chain):** A **monomer** found in very low serum levels, mostly bound to **mast cells/basophils**. Triggers **allergic reactions**
+    *   **IgD (Delta heavy chain):** A **monomer** primarily found on the surface of **naive B cells** as a receptor
+
+##  **Form Dictates Function (Biologic & Physical Properties)** {-}
+*   **Size & Structure:** Monomeric IgG is small enough to move into tissues and cross the placenta. Pentameric IgM is large, stays in the blood, and is great at clumping things together (agglutination)
+*   **Antigen Binding (Fab):** Specificity determined by Variable regions. IgM has high *avidity* (overall binding strength) due to multiple sites; IgG often develops high *affinity* (single site strength) during immune responses
+*   **Effector Functions (Fc)**
+    *   *Complement Activation:* IgM is the champ. IgG (esp. IgG3/IgG1) can also do it. Leads to potential cell lysis (intravascular hemolysis)
+    *   *Opsonization:* IgG's Fc region binds well to macrophage receptors, tagging cells for destruction (extravascular hemolysis)
+    *   *Placental Transfer:* Only IgG has the Fc structure recognized for active transport across the placenta
+*   **Location:** IgG is systemic (blood/tissues); IgM is mainly blood; IgA is mucosal; IgE is on mast cells
+*   **Half-life:** IgG lasts longest (~3 weeks), IgM much shorter (~5 days)
+
+## **Blood Bank Relevance - Why We Care** {-}
+
+*   **HDFN:** Caused by maternal **IgG** crossing the placenta and attacking fetal red cells. IgM cannot do this
+*   **HTRs**
+    *   **IgM:** (like ABO antibodies) often causes rapid *intravascular* hemolysis due to potent complement activation. Usually detected by immediate spin/RT agglutination
+    *   **IgG:** (like Rh, Kell, Duffy antibodies) often causes *extravascular* hemolysis via macrophage uptake in spleen/liver (opsonization). Complement activation can contribute. Usually requires the **Antiglobulin Test (IAT/DAT)** for detection as they are poor agglutinators ("incomplete"). Often react best at 37°C
+*   **Antibody Identification:** Knowing the likely class helps interpret reaction phases (e.g., cold reaction likely IgM, AHG reaction likely IgG). Treating plasma with DTT can destroy IgM activity, helping differentiate
+*   **Anaphylactic Reactions:** Usually due to **anti-IgA** (often IgG class) in IgA-deficient patients reacting with IgA in transfused products
+*   **Allergic Reactions:** Mediated by **IgE** causing histamine release from mast cells (hives)

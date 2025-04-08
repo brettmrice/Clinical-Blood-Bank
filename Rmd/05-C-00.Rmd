@@ -1,0 +1,43 @@
+# Adverse Effects {-}
+
+Vigilance in patient ID, sample handling, compatibility testing, component selection, patient monitoring, and prompt reaction investigation are essential for minimizing all adverse effects. These effects fall into three broad categories: Immunologic reactions, Non-immunologic reactions, and Transfusion-Transmitted Diseases
+
+Here’s a comprehensive overview:
+
+## **Immunologic Reactions: The Immune System Responds** {-}
+
+These occur when the recipient's immune system reacts against donor blood components (or vice-versa). Timing is key (Acute: <24h; Delayed: >24h)
+
+*   **Acute Reactions (<24h)**
+    *   **Acute Hemolytic (AHTR):** Most feared, often ABO incompatibility (clerical error!). Rapid intravascular hemolysis via complement. *Symptoms:* Fever, chills, back/flank pain, hemoglobinuria, hypotension, shock, DIC. Potentially fatal
+    *   **Febrile Non-Hemolytic (FNHTR):** Most common. Due to recipient antibodies vs. donor WBCs, or cytokines in stored unit. *Symptoms:* Fever (≥1°C rise), chills, malaise. No hemolysis. Reduced by leukoreduction
+    *   **Allergic (Urticarial):** Common, mild. Reaction to donor plasma proteins (histamine release). *Symptoms:* Hives, itching. No fever
+    *   **Anaphylactic:** Rare, severe. Often in IgA-deficient patients with anti-IgA. *Symptoms:* Rapid onset shock, respiratory distress, angioedema, NO fever. Requires washed components for prevention
+    *   **TRALI (Transfusion-Related Acute Lung Injury):** Leading cause of transfusion death. Donor antibodies vs. recipient neutrophils -> lung capillary damage. *Symptoms:* Acute respiratory distress, hypoxia, bilateral pulmonary edema *without* circulatory overload, within 6 hours
+*   **Delayed Reactions (>24h)**
+    *   **Delayed Hemolytic (DHTR):** Anamnestic response to RBC antigens (Kidd, Duffy, Kell, Rh). Extravascular hemolysis days/weeks later. *Symptoms:* Falling Hgb, jaundice, fever, positive DAT. History check is key!
+    *   **TA-GVHD (Transfusion-Associated Graft-vs-Host Disease):** Rare, highly fatal. Donor T-cells attack recipient tissues (immunocompromised or related donor). *Symptoms:* Rash, fever, diarrhea, liver dysfunction, pancytopenia (1-2 weeks post). Prevented by **irradiation**
+    *   **Post-Transfusion Purpura (PTP):** Rare. Abrupt severe thrombocytopenia (~1 week post) due to platelet alloantibody destroying donor *and* patient platelets
+    *   **Alloimmunization:** Development of antibodies to RBC, platelet, or HLA antigens. Risks future DHTR, HDFN, platelet refractoriness
+
+## **Non-Immunologic Reactions: Physical, Chemical, or Volume Issues** {-}
+
+Caused by the component's properties or the infusion process itself
+
+*   **Transfusion-Associated Circulatory Overload (TACO):** Common, especially in susceptible patients (elderly, cardiac/renal disease). Infused volume exceeds capacity. *Symptoms:* Respiratory distress, hypertension, tachycardia, jugular venous distension, pulmonary edema. Manage with slower infusion, diuretics
+*   **Bacterial Contamination (Sepsis):** Most common *infectious* risk now, esp. with room-temp stored platelets. Rapid onset fever, chills, shock. Life-threatening. Requires immediate stop, cultures, antibiotics
+*   **Hypothermia:** From rapid infusion of cold blood. Can worsen acidosis, coagulopathy. Prevent with blood warmers for massive/rapid infusions
+*   **Citrate Toxicity / Hypocalcemia:** Citrate anticoagulant binds ionized calcium. Risk with massive/rapid transfusion or liver failure. *Symptoms:* Paresthesias, tetany, hypotension. Monitor ionized Ca++, give calcium PRN
+*   **Hyperkalemia:** Potassium leaks from RBCs during storage. Risk with rapid infusion of older units, neonates, renal failure. *Symptoms:* Muscle weakness, cardiac arrhythmias. Use fresh/washed cells for high-risk patients
+*   **Physical Hemolysis:** RBC damage from improper storage (temp), handling (pressure), or mixing with non-isotonic IV fluids. Can mimic hemolytic reaction (DAT negative)
+*   **Iron Overload (Hemosiderosis):** Chronic complication in long-term transfused patients. Iron deposition damages organs (heart, liver, endocrine). Requires iron chelation therapy
+
+## **Transfusion-Transmitted Diseases (TTDs): Infectious Agents** {-}
+
+Risk is extremely low due to rigorous donor screening and testing, but not zero ("window period")
+
+*   **Viruses:** HIV, HCV, HBV (risk minimized by NAT), HTLV, CMV (risk for immunocompromised; use CMV-neg or leukoreduced), WNV, Zika
+*   **Bacteria:** See Sepsis above
+*   **Parasites:** Malaria, Babesia, Chagas (risk depends on geography/travel; screening/testing helps)
+*   **Prions:** vCJD (extremely rare; risk based on geographic deferral)
+*   **Prevention:** Multi-layered approach: donor screening questionnaires, deferrals, lab testing (serology + NAT), bacterial detection (platelets), pathogen reduction (plasma/platelets)

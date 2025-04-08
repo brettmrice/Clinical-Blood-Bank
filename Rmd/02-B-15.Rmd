@@ -1,0 +1,82 @@
+# Platelet-Specific {-}
+
+Moving beyond red cells and the broadly expressed HLA system, we now focus specifically on antigens primarily found on the **platelet surface**, known as **Human Platelet Antigens (HPA)**. These antigens reside on critical platelet glycoproteins involved in adhesion and aggregation. While less numerous than red cell antigens, polymorphisms within HPA systems lead to the formation of platelet-specific antibodies implicated in significant clinical conditions such as Neonatal Alloimmune Thrombocytopenia (NAIT), Post-Transfusion Purpura (PTP), and some instances of platelet refractoriness, making their understanding vital in transfusion medicine
+
+## **HPA: Antigens Unique to Platelets** {-}
+
+*   **What are they?:** HPAs are polymorphic (variable between individuals) antigens expressed on platelet surface glycoproteins. They arise from single nucleotide polymorphisms (SNPs) in the genes encoding these glycoproteins, leading to amino acid substitutions that create different antigenic forms
+*   **Distinction from HLA:** While platelets *do* express HLA Class I antigens, HPAs are different molecules located on different glycoproteins specific to the platelet lineage. A patient can have antibodies to HLA, HPA, or both
+*   **Distinction from RBC Antigens:** These antigens are generally absent from red blood cells
+
+## **Biochemistry: The Platelet Glycoproteins** {-}
+
+Most clinically relevant HPAs are located on the major platelet membrane glycoproteins, which are crucial for platelet function (adhesion and aggregation):
+
+*   **GPIIb/IIIa Complex (Integrin αIIbβ3):** This is the most abundant glycoprotein complex on the platelet surface and acts as the receptor for fibrinogen, von Willebrand factor (vWF), and fibronectin, mediating platelet aggregation
+    *   **HPA-1:** antigens (formerly Pl<sup>A</sup>) are located on **GPIIIa (β3)**
+    *   **HPA-3:** antigens (formerly Bak) are located on **GPIIb (αIIb)**
+    *   **HPA-4:** antigens (formerly Pen/Yuk) are located on **GPIIIa (β3)**
+*   **GPIb/IX/V Complex:** This complex acts as the primary receptor for vWF, mediating platelet adhesion to injured vessel walls under high shear stress
+    *   **HPA-2:** antigens (formerly Ko) are located on **GPIbα**
+*   **GPIa/IIa Complex (Integrin α2β1):** This complex acts as a major receptor for collagen, mediating platelet adhesion and activation at sites of vascular injury
+    *   **HPA-5:** antigens (formerly Br) are located on **GPIa (α2)**
+
+## **Genetics and Nomenclature** {-}
+
+*   **Inheritance:** HPAs are inherited in a simple Mendelian codominant fashion
+*   **Nomenclature:** The official system uses "HPA" followed by a number representing the system (locus) and a letter ("a" or "b") representing the specific allele/antigen. The "a" allele generally encodes the higher frequency antigen, and "b" the lower frequency one
+    *   Example: **HPA-1a / HPA-1b**. An individual can be homozygous HPA-1a/1a, homozygous HPA-1b/1b (very rare), or heterozygous HPA-1a/1b
+*   **Polymorphism:** While numerous HPA systems exist (HPA-1 through HPA-39 are currently recognized by ISBT), only a few are frequently involved in clinical problems, largely due to the frequency of the alleles in the population and the immunogenicity of the antigens
+
+## **Major Clinically Significant HPA Systems** {-}
+
+| System  | Former Name | Glycoprotein Location | Common Phenotypes & Approx. Caucasian Freq. | Key Clinical Significance (Antibody)      |
+| :------ | :---------- | :-------------------- | :------------------------------------------ | :---------------------------------------- |
+| **HPA-1** | Pl<sup>A</sup>    | **GPIIIa (β3)**       | HPA-1a/1a (~75%), HPA-1a/1b (~24%), HPA-1b/1b (~1-2%) | **Anti-HPA-1a** is the *most common* cause of severe **NAIT** and **PTP**. Anti-HPA-1b is rare. |
+| **HPA-2** | Ko          | GPIbα                 | HPA-2a/2a (>99%), HPA-2a/2b (<1%), HPA-2b/2b (rare) | Anti-HPA-2b can cause NAIT, PTP, Refractoriness. |
+| **HPA-3** | Bak         | **GPIIb (αIIb)**      | HPA-3a/3a (~40%), HPA-3a/3b (~48%), HPA-3b/3b (~12%) | Anti-HPA-3a and Anti-HPA-3b can cause NAIT, PTP, Refractoriness. |
+| **HPA-4** | Pen/Yuk     | GPIIIa (β3)           | HPA-4a/4a (>99.9%), HPA-4a/4b (<0.1%)       | Anti-HPA-4b can cause NAIT. More frequent in Asian populations. |
+| **HPA-5** | Br          | GPIa (α2)             | HPA-5a/5a (~80%), HPA-5a/5b (~19%), HPA-5b/5b (~1%) | Anti-HPA-5b is a common cause of NAIT (often milder). Anti-HPA-5a rare. |
+
+*Note: Frequencies can vary significantly between different ethnic populations*
+
+## **Clinical Significance: When HPA Matters** {-}
+
+Antibodies against HPA systems are primarily implicated in three conditions:
+
+*   **Neonatal Alloimmune Thrombocytopenia (NAIT)**
+    *   **Mechanism:** Analogous to HDFN, but involving platelets. A mother (usually HPA-1a negative, i.e., HPA-1b/1b) becomes alloimmunized to a platelet antigen (usually HPA-1a) inherited by the fetus from the father. Maternal **IgG anti-HPA antibodies cross the placenta** and destroy fetal platelets
+    *   **Consequences:** Can cause severe thrombocytopenia (low platelet count) in the fetus/newborn, leading to bleeding, including potentially devastating **intracranial hemorrhage (ICH)**, even *in utero*. Can occur during the *first* pregnancy
+    *   **Management:** Requires identification of the maternal antibody and prediction/monitoring of fetal status. Treatment may involve maternal IVIG during pregnancy, early delivery, and transfusion of the infant with **antigen-negative platelets** (often washed maternal platelets or HPA-selected donor platelets) and/or IVIG
+
+*   **Post-Transfusion Purpura (PTP)**
+    *   **Mechanism:** A rare but serious delayed transfusion reaction occurring ~5-12 days post-transfusion. Typically seen in previously sensitized individuals (usually multiparous women) who are negative for a high-prevalence HPA (like HPA-1a negative). Upon re-exposure to the antigen via transfusion of RBCs or platelets containing residual platelet material, they produce a strong **anamnestic antibody response**. Paradoxically, this response destroys **both** the transfused antigen-positive platelets **and** the patient's *own* antigen-negative platelets (mechanism not fully understood but may involve immune complexes)
+    *   **Consequences:** Leads to sudden, profound thrombocytopenia and severe bleeding risk
+    *   **Management:** Primarily supportive care and **IVIG**. Future transfusions must use **antigen-negative** cellular components
+
+*   ***Platelet Refractoriness**
+    *   **Mechanism:** While less common than HLA antibodies as a cause, HPA antibodies can also lead to poor platelet count increments after transfusion by destroying transfused platelets carrying the cognate HPA
+    *   **Management:** Requires identifying the specific HPA antibody and providing **antigen-negative** platelets. Platelet crossmatching may also be helpful
+
+## **HPA Antibodies** {-}
+
+*   **Formation:** Alloimmunization occurs through pregnancy or transfusion
+*   **Type:** Primarily **IgG**
+
+## **HPA Testing** {-}
+
+*   Performed in specialized reference laboratories (Platelet Immunology labs, IRLs)
+*   **Antigen Typing (Genotyping):** Molecular (DNA-based) methods are now standard for determining a patient's or donor's HPA type. Crucial for NAIT workups and finding compatible donors
+*   **Antibody Detection/Identification:** Serological techniques like ELISA (Enzyme-Linked Immunosorbent Assay) or flow cytometry-based assays are used to detect and identify specific HPA antibodies in patient serum/plasma
+*   **Platelet Crossmatching:** Similar in principle to RBC crossmatching, patient serum is tested against donor platelets to predict compatibility
+
+## **Key Terms** {-}
+
+*   **HPA (Human Platelet Antigen):** Polymorphic antigens expressed specifically on platelet surface glycoproteins, distinct from HLA or RBC antigens
+*   **Platelet Glycoproteins (e.g., GPIIb/IIIa, GPIb/IX/V):** Membrane proteins crucial for platelet function (adhesion, aggregation) that carry the HPA determinants
+*   **SNP (Single Nucleotide Polymorphism):** A variation in a single DNA base pair that commonly underlies the difference between HPA alleles (e.g., HPA-1a vs. HPA-1b)
+*   **NAIT (Neonatal Alloimmune Thrombocytopenia):** A condition where maternal IgG antibodies against fetal HPA (inherited from the father) cross the placenta and destroy fetal platelets, leading to thrombocytopenia and bleeding risk in the newborn
+*   **PTP (Post-Transfusion Purpura):** A rare, delayed transfusion reaction causing severe thrombocytopenia due to an anamnestic HPA antibody response that destroys both transfused and autologous platelets
+*   **Platelet Refractoriness:** Failure to achieve the expected increase in platelet count after transfusion, which can be caused by HPA antibodies (though HLA antibodies are more common)
+*   **Antigen-Negative Platelets:** Platelets collected from donors specifically selected because they lack the HPA against which the recipient has formed an antibody. Crucial for managing NAIT, PTP, and HPA-mediated refractoriness
+*   **IVIG (Intravenous Immunoglobulin):** A treatment used for NAIT and PTP, thought to work by blocking antibody-mediated destruction and modulating the immune response

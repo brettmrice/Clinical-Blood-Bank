@@ -1,0 +1,110 @@
+# TTDs {-}
+
+While modern blood banking practices have made the blood supply incredibly safe, especially in developed countries, the risk of **Transfusion-Transmitted Diseases (TTDs)**, although very low, can never be completely eliminated. Understanding these risks is crucial for both blood bankers and clinicians
+
+##  **The Core Concept: Infection via Transfusion** {-}
+
+A TTD occurs when an infectious agent (virus, bacteria, parasite, or prion) present in a donor's blood is transmitted to a recipient through the transfusion of a blood component
+
+##  **Why Risk Still Exists (Despite Rigorous Testing)** {-}
+
+*   **The "Window Period":** This is the critical time between when a donor becomes infected and when laboratory tests can reliably detect the infection (either the organism's genetic material or the donor's antibody response). Modern tests, especially Nucleic Acid Testing (NAT), have dramatically shortened window periods, but they haven't eliminated them entirely
+*   **Test Limitations:** No test is 100% sensitive or specific
+*   **Emerging Pathogens:** New infectious agents may arise for which testing is not yet available
+*   **Donor Honesty/Recall:** Screening relies on donors accurately reporting potential risk factors
+*   **Bacterial Contamination:** Can occur during collection or processing, especially for components stored at room temperature (platelets)
+*   **Human Error:** Although rare, errors in testing or processing could occur
+
+##  **Major Categories of Transfusion-Transmitted Agents** {-}
+
+### **Viruses** {-}
+
+This group has historically received the most attention and has driven many advances in testing
+
+*   **Human Immunodeficiency Virus (HIV-1/2)**
+    *   *Causes:* Acquired Immunodeficiency Syndrome (AIDS)
+    *   *Risk:* Extremely low now (<1 in 2 million in the US) due to donor screening, antibody/antigen testing, and mandatory NAT
+    *   *Prevention:* Donor questionnaires, deferrals, serologic testing (anti-HIV 1/2 Ab and p24 Ag), and **NAT**
+*   **Hepatitis C Virus (HCV)**
+    *   *Causes:* Hepatitis C, leading to chronic liver disease, cirrhosis, and liver cancer
+    *   *Risk:* Extremely low (<1 in 1.5-2 million)
+    *   *Prevention:* Donor questionnaires, deferrals, serologic testing (anti-HCV Ab), and **NAT**
+*   **Hepatitis B Virus (HBV)**
+    *   *Causes:* Hepatitis B, acute or chronic liver disease, cirrhosis, liver cancer
+    *   *Risk:* Remains slightly higher than HIV/HCV (~1 in 1 million), partly due to different infection dynamics (e.g., occult HBV)
+    *   *Prevention:* Donor questionnaires, deferrals, serologic testing (HBsAg - surface antigen, anti-HBc - core antibody), and **NAT**
+*   **Human T-Lymphotropic Virus (HTLV-I/II)**
+    *   *Causes:* HTLV-I associated Myelopathy/Tropical Spastic Paraparesis (HAM/TSP), Adult T-cell Leukemia/Lymphoma (ATL). HTLV-II less clearly linked to disease
+    *   *Risk:* Low
+    *   *Prevention:* Donor questionnaires, serologic testing (anti-HTLV-I/II Ab)
+*   **Cytomegalovirus (CMV)**
+    *   *Causes:* Usually asymptomatic in healthy individuals but can cause severe disease (pneumonitis, hepatitis, retinitis) in **immunocompromised recipients** (e.g., transplant patients, premature infants)
+    *   *Risk:* High prevalence in donors (~50-80% are positive). Transmission occurs via leukocytes in cellular components
+    *   *Prevention:* Providing **CMV-seronegative** units OR **leukoreduced** components (considered CMV-safe equivalent) for at-risk recipients
+*   **West Nile Virus (WNV)**
+    *   *Causes:* Febrile illness, sometimes neuroinvasive disease (meningitis, encephalitis)
+    *   *Risk:* Seasonal and geographic variation (mosquito-borne)
+    *   *Prevention:* **NAT** screening of all donations, especially during peak season
+*   **Zika Virus**
+    *   *Causes:* Usually mild illness, but significant risk of severe birth defects (microcephaly) if transmitted to pregnant women
+    *   *Risk:* Geographic variation (mosquito-borne)
+    *   *Prevention:* Donor questionnaires (travel), deferrals, **NAT** screening (investigational or regional implementation based on risk)
+*   **Parvovirus B19**
+    *   *Causes:* Fifth disease in children, transient aplastic crisis in patients with hemolytic anemias, potential fetal hydrops in pregnancy
+    *   *Risk:* Very common virus; high donor prevalence. Not routinely screened. Plasma derivatives undergo viral inactivation steps
+    *   *Prevention:* Not specifically screened in whole blood/RBCs. Risk mitigation via plasma derivative processing
+
+### **Bacteria** {-}
+
+*   **Agent:** Various bacteria, often skin contaminants (*Staphylococcus epidermidis, Staphylococcus aureus*) or sometimes gut bacteria (*Yersinia enterocolitica* - associated with RBCs, rare; Gram-negatives in platelets)
+*   **Disease:** **Transfusion-Associated Sepsis**
+*   **Risk:** The **most common infectious risk** in transfusion today, primarily associated with **platelets** stored at room temperature (which supports bacterial growth)
+*   **Symptoms:** Rapid onset fever, chills/rigors, hypotension/shock during or shortly after transfusion
+*   **Prevention:** Meticulous arm scrub technique during donation, diversion of initial collection volume, visual inspection of units, **bacterial detection strategies for platelets** (culture, rapid tests)
+
+### **Parasites** {-}
+
+Risk is often geographically dependent
+
+*   ***Plasmodium* species**
+    *   *Causes:* Malaria
+    *   *Risk:* Low in non-endemic areas like the US/Canada
+    *   *Prevention:* Donor screening questionnaires regarding travel to or residence in malaria-endemic areas -> deferral
+*   ***Babesia microti***
+    *   *Causes:* Babesiosis (tick-borne illness)
+    *   *Risk:* Increasing, particularly in the Northeastern and Upper Midwestern US
+    *   *Prevention:* Donor screening questions (history of babesiosis). Laboratory testing (antibody and/or NAT) implemented in endemic areas/states
+*   ***Trypanosoma cruzi***
+    *   *Causes:* Chagas disease (can lead to chronic heart and GI problems)
+    *   *Risk:* Primarily donors who lived in endemic areas (Mexico, Central/South America)
+    *   *Prevention:* Donor screening questions. Routine laboratory testing (antibody) for first-time donors who lived in endemic areas or have other risk factors is standard in the US
+
+### **Prions** {-}
+
+*   **Agent:** Abnormal prion protein
+*   **Disease:** Variant Creutzfeldt-Jakob Disease (vCJD) - related to Bovine Spongiform Encephalopathy ("Mad Cow Disease")
+*   **Risk:** Extremely low, historically linked to exposure in the UK/Europe
+*   **Prevention:** **No laboratory screening test.** Prevention relies solely on **donor deferral** based on geographic risk factors (time spent in specific countries during defined periods)
+
+## **Multi-Layered Safety Approach** {-}
+
+The safety of the blood supply relies on overlapping strategies:
+
+*   **Strict Donor Eligibility Criteria:** Based on medical history, travel, and risk behaviors (questionnaire)
+*   **Donor Deferral Lists:** Maintaining records of ineligible donors
+*   **Stringent Laboratory Testing:** Using highly sensitive serologic and NAT assays for a panel of required infectious agents
+*   **Bacterial Detection:** Specific measures for platelet components
+*   **Component Processing:** Leukoreduction reduces CMV risk
+*   **Pathogen Reduction Technologies (PRT):** Applied to some plasma and platelet products to inactivate a broad range of pathogens (not yet feasible for RBCs)
+*   **Appropriate Clinical Use:** Transfusing only when necessary
+
+## **Key Terms** {-}
+
+*   **Transfusion-Transmitted Disease (TTD):** An infection transmitted from a donor to a recipient via blood component transfusion
+*   **Window Period:** The time between initial infection of a donor and when laboratory tests can reliably detect that infection
+*   **Nucleic Acid Testing (NAT):** Highly sensitive molecular tests that detect the genetic material (DNA or RNA) of viruses, significantly shortening the window period compared to antibody tests
+*   **Serologic Testing:** Laboratory tests that detect antibodies produced by the donor in response to infection or antigens produced by the infectious agent itself
+*   **Bacterial Contamination / Sepsis:** Presence of bacteria in a blood component leading to a severe systemic infection in the recipient, most commonly associated with room-temperature stored platelets
+*   **Pathogen Reduction Technology (PRT):** Processes applied to some blood components (plasma, platelets) to inactivate a wide range of viruses, bacteria, and parasites
+*   **Leukoreduction:** Removal of white blood cells, primarily used to reduce CMV transmission risk (among other benefits)
+*   **Donor Deferral:** Temporarily or permanently excluding individuals from donating blood based on risk factors identified through screening questionnaires or test results

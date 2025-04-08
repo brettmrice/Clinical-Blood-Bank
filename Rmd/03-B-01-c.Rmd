@@ -1,0 +1,96 @@
+# Cell Survival {-}
+
+This section covers cell survival, focusing specifically on the **Red Blood Cell (RBC)** or **Erythrocyte**. Why? Because its survival is absolutely central to transfusion medicine! We need transfused RBCs to survive long enough in the recipient to do their job (carry oxygen), and understanding why RBCs die – both normally and prematurely – is key to understanding hemolytic anemias and transfusion reactions
+
+## **The Normal Lifespan of a Red Blood Cell: A Finite Journey** {-}
+
+*   **The Clock:** In a healthy individual, a mature red blood cell circulates for approximately **120 days** after being released from the bone marrow
+*   **Why the Limit? The Anucleate Factor:** The defining feature limiting RBC survival is that mature mammalian RBCs are **anucleated** – they lack a nucleus. This means:
+    *   No DNA blueprint for making new proteins
+    *   No ability to synthesize RNA or proteins
+    *   No capacity for self-repair or replacing damaged components
+*   **The Consequences:** Over its 120-day journey, the RBC undergoes progressive "wear and tear" it cannot fix:
+    *   **Metabolic Decline:** Key enzymes involved in energy production (primarily anaerobic glycolysis) degrade over time. This leads to decreased production of **ATP**, which is vital for:
+        *   Maintaining ion gradients across the cell membrane (e.g., via the Na+/K+ pump). Failure leads to electrolyte imbalance, cell swelling, and loss of shape
+        *   Maintaining membrane flexibility and the characteristic biconcave shape
+        *   Keeping hemoglobin iron in its functional reduced state (Fe<sup>2+</sup>)
+    *   **Membrane Damage:** The RBC membrane loses lipids and proteins (like spectrin, which provides cytoskeletal support), becoming less flexible and more fragile. Deformability decreases significantly
+    *   **Oxidative Damage:** Continuous exposure to oxygen creates reactive oxygen species (ROS). While RBCs have protective mechanisms (like the glutathione pathway fueled by NADPH from the Hexose Monophosphate Shunt), these systems also decline over time, allowing damage to accumulate
+
+## **Normal Removal: The End of the Line** {-}
+
+*   **The Mechanism: Extravascular Hemolysis:** As RBCs age and become less deformable and display subtle changes on their surface, they are recognized and removed from circulation primarily by macrophages of the **Mononuclear Phagocyte System (MPS)** (formerly Reticuloendothelial System - RES)
+*   **The Location:** This process occurs mainly in the **spleen**, whose narrow sinusoids act as a filter, trapping rigid, older cells. Liver macrophages also play a role
+*   **The Process:** Macrophages engulf (phagocytose) the senescent RBCs. Inside the macrophage, hemoglobin is broken down:
+    *   **Globin:** Broken into amino acids, which are recycled
+    *   **Heme:** Iron (Fe<sup>2+</sup>) is released, bound to transferrin, and transported for reuse (mostly in new RBC production). The remaining porphyrin ring is converted to **bilirubin**, processed by the liver, and eventually excreted in bile
+*   **Key Point:** This normal removal process is orderly and efficient, recycling valuable components like iron
+
+## **Factors Essential for Normal RBC Survival** {-}
+
+For an RBC to reach its full 120-day potential, several things need to be right:
+
+1.  **Intact and Functional Cell Membrane** Needs the correct lipid composition and a healthy cytoskeleton (spectrin, ankyrin, etc.) to maintain the biconcave shape, provide deformability (to squeeze through capillaries), and control permeability
+2.  **Functional Hemoglobin** Must be able to bind, transport, and release oxygen effectively. This requires the correct globin chain structure and iron in the reduced ferrous (Fe<sup>2+</sup>) state
+3.  **Adequate Metabolic Machinery** Needs sufficient ATP (from glycolysis) for membrane function and ion transport, and sufficient NADPH (from the Hexose Monophosphate/Pentose Phosphate Shunt) to protect against oxidative damage
+
+## **Pathophysiology: Shortened RBC Survival (Hemolysis)** {-}
+
+When RBCs are destroyed *before* their normal 120-day lifespan, it leads to **hemolytic anemia**. The causes of shortened survival (hemolysis) can be broadly divided into intrinsic problems (defects *within* the RBC) and extrinsic factors (something *outside* attacking the RBC)
+
+### **Intrinsic RBC Defects (Often Inherited)** {-}
+
+*   **Membrane Abnormalities (Membranopathies)**
+    *   *Hereditary Spherocytosis:* Defects in membrane proteins (spectrin, ankyrin) cause the cell to lose membrane surface area, become spherical, rigid, and easily trapped/destroyed in the spleen
+    *   *Hereditary Elliptocytosis:* Similar protein defects lead to elliptical-shaped, less deformable cells
+*   **Enzyme Deficiencies (Enzymopathies)**
+    *   *G6PD Deficiency:* Deficiency in Glucose-6-Phosphate Dehydrogenase (first enzyme in HMP shunt) -> insufficient NADPH -> poor protection against oxidative stress. Hemolysis occurs when exposed to certain drugs, infections, or fava beans
+    *   *Pyruvate Kinase Deficiency:* Defect in a key glycolytic enzyme -> reduced ATP production -> membrane instability and hemolysis
+*   **Hemoglobin Abnormalities (Hemoglobinopathies)**
+    *   *Sickle Cell Disease:* Abnormal hemoglobin (HbS) polymerizes when deoxygenated, causing RBCs to become rigid and sickle-shaped. Leads to membrane damage, hemolysis, and vaso-occlusion
+    *   *Thalassemias:* Reduced or absent synthesis of normal globin chains -> unbalanced chain production, ineffective erythropoiesis, and fragile RBCs prone to hemolysis
+
+### **Extrinsic Factors (Often Acquired)** {-}
+
+*   **Immune-Mediated Hemolysis:** **(Core Blood Bank Area!)** Antibodies +/- complement bind to RBCs, leading to their destruction
+    *   *Alloimmune:* Antibodies against foreign RBC antigens
+        *   **Hemolytic Transfusion Reactions (HTRs):** Recipient antibodies destroy transfused donor RBCs
+        *   **Hemolytic Disease of the Fetus and Newborn (HDFN):** Maternal IgG antibodies cross the placenta and destroy fetal RBCs
+    *   *Autoimmune:* Antibodies against self RBC antigens
+        *   **Autoimmune Hemolytic Anemia (AIHA):** Warm AIHA (usually IgG), Cold Agglutinin Disease (usually IgM)
+    *   *Drug-Induced:* Drugs trigger antibody production that targets RBCs
+    *   *Mechanism:* Destruction occurs via **Extravascular Hemolysis** (opsonization by IgG/C3b -> phagocytosis by MPS) or **Intravascular Hemolysis** (complement activation to MAC -> direct lysis in circulation)
+*   **Non-Immune Extrinsic Factors**
+    *   *Mechanical Trauma:* Physical shearing of RBCs (Microangiopathic Hemolytic Anemias like TTP, HUS, DIC; malfunctioning prosthetic heart valves)
+    *   *Infections:* Malaria parasites invade and destroy RBCs; certain bacterial toxins (e.g., Clostridium perfringens) damage membranes
+    *   *Chemicals/Drugs/Toxins:* Oxidative drugs (in G6PD deficiency), lead poisoning, snake/spider venoms
+    *   *Physical Agents:* Severe burns (thermal damage)
+
+## **Blood Storage and Survival: The "Storage Lesion"** {-}
+
+Even outside the body, RBC survival is limited. When stored in blood bags, RBCs undergo changes collectively known as the **storage lesion**:
+
+*   Decrease in ATP and 2,3-Diphosphoglycerate (2,3-DPG, affects oxygen release)
+*   Loss of membrane lipids, increased fragility, shape changes (spheroechinocytes)
+*   Leakage of intracellular potassium (K+) into the supernatant
+*   Accumulation of lactic acid, decreased pH
+*   Oxidative damage
+
+These changes reduce the **post-transfusion survival** and function of stored RBCs. Regulatory limits on storage time (e.g., up to 42 days with certain additive solutions) are based on ensuring that at least 75% of transfused cells are still circulating 24 hours after transfusion
+
+## **Key Terms** {-}
+
+*   **Erythrocyte (RBC):** Red blood cell, responsible for oxygen transport
+*   **Anucleated:** Lacking a nucleus
+*   **ATP (Adenosine Triphosphate):** The main energy currency of the cell
+*   **NADPH (Nicotinamide Adenine Dinucleotide Phosphate):** An essential cofactor, particularly for protecting against oxidative stress via the glutathione pathway
+*   **Glycolysis:** The metabolic pathway that breaks down glucose to produce ATP (anaerobic in mature RBCs)
+*   **Hexose Monophosphate Shunt (Pentose Phosphate Pathway):** Metabolic pathway that produces NADPH
+*   **Deformability:** The ability of the RBC to change shape to pass through narrow capillaries and splenic sinusoids
+*   **Mononuclear Phagocyte System (MPS) / Reticuloendothelial System (RES):** Network of phagocytic cells (mainly macrophages) in tissues like the spleen, liver, and lymph nodes, responsible for removing old/damaged cells and pathogens
+*   **Extravascular Hemolysis:** Destruction of RBCs outside the blood vessels, primarily by macrophages in the spleen and liver
+*   **Intravascular Hemolysis:** Destruction of RBCs within the blood vessels, usually by complement activation (MAC) or severe mechanical trauma
+*   **Hemolysis:** The breakdown or destruction of red blood cells
+*   **Hemolytic Anemia:** Anemia resulting from excessive destruction of red blood cells
+*   **Opsonization:** Coating of a cell with antibodies or complement fragments (like C3b) to enhance phagocytosis
+*   **Storage Lesion:** The collection of biochemical and morphological changes that occur in red blood cells during storage

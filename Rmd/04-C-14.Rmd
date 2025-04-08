@@ -1,0 +1,83 @@
+# Column Agglutination {-}
+
+**Column Agglutination Technology (CAT)**, often called the **Gel Test™** (which is actually a specific brand name, but frequently used generically) is a really popular and visually elegant alternative to traditional tube testing for many routine and special blood bank procedures!
+
+Think of it as a sophisticated sieve in a tiny tube. Instead of looking for clumps floating in liquid, we see if clumps get trapped in a special gel or bead matrix during centrifugation
+
+## **The Core Purpose: Detecting Agglutination in a Column** {-}
+
+CAT provides a standardized and stable method for performing many common immunohematology tests, including:
+
+*   **ABO Forward and Reverse Grouping**
+*   **Rh(D) Typing (including Weak D testing)**
+*   **Antibody Screening**
+*   **Antibody Identification**
+*   **Direct Antiglobulin Test (DAT)**
+*   **Compatibility Testing (Crossmatching)**
+*   **Red Blood Cell Antigen Typing**
+
+## **The Principle: Sieving Through Gel/Beads** {-}
+
+The magic happens inside specially designed **microtubes** (or "columns") embedded in plastic cards (often 6 microtubes per card)
+
+*   **The Microtube:** The top part is a reaction chamber. Below this, the microtube contains a matrix of either **Sephadex gel** or **glass beads** suspended in a buffered solution. This solution often contains pre-dispensed reagents depending on the test card type (e.g., Anti-A, Anti-B, Anti-D, AHG)
+*   **The Process**
+    1.  Patient/donor red cells and/or plasma/serum are added to the reaction chamber at the top of the microtube, according to the specific test protocol
+    2.  The card is incubated (if required, e.g., for IAT methods at 37°C)
+    3.  The card is then **centrifuged** in a special centrifuge designed to hold the cards
+*   **The Separation:** During centrifugation:
+    *   **Unagglutinated Red Blood Cells:** Are small enough to pass *through* the spaces in the gel/bead matrix and form a compact pellet at the **bottom** of the microtube
+    *   **Agglutinated Red Blood Cells:** Form larger clumps that are too big to pass through the matrix. They get **trapped** within the gel/beads at various levels depending on the size and strength of the agglutinates
+
+## **Types of Gel Cards** {-}
+
+Different cards are pre-filled for specific tests:
+
+*   **Neutral/Saline Cards:** Contain only the buffered gel/bead matrix. Used for ABO reverse grouping, autocontrols, or situations where no specific reagent is needed in the column itself
+*   **Antisera Cards:** Contain specific blood grouping antisera (like Anti-A, Anti-B, Anti-D) within the gel/matrix. Used for forward ABO/Rh typing
+*   **AHG Cards (Anti-Human Globulin):** Contain Anti-IgG (and sometimes Anti-C3d or polyspecific AHG) within the gel/matrix. These are crucial for:
+    *   **Indirect Antiglobulin Tests (IAT):** Antibody screen, antibody ID, Weak D, crossmatch. Plasma/serum and cells are incubated *before* being added to the AHG card for centrifugation
+    *   **Direct Antiglobulin Test (DAT):** Patient's washed red cells are added directly to the AHG card and centrifuged
+
+## **Reading and Interpreting Results** {-}
+
+This is where CAT really shines due to its clarity and stability:
+
+*   **Negative Reaction (0):** All red blood cells pass through the matrix and form a sharp, compact **pellet at the very bottom** of the microtube. There are no agglutinates trapped in the column
+*   **Positive Reaction (1+ to 4+):** Agglutinated cells are trapped within the gel/bead matrix. The **strength** of the reaction correlates with **how high up** the cells are trapped:
+    *   **4+:** A solid band of agglutinated cells trapped at the **top** of the gel/bead column
+    *   **3+:** Agglutinated cells primarily in the **upper half** of the column
+    *   **2+:** Agglutinated cells dispersed throughout the **length** of the column
+    *   **1+:** Agglutinated cells mainly in the **lower half** of the column, with some cells possibly reaching the bottom
+*   **Mixed Field Reaction:** Characterized by a layer of agglutinated cells trapped at the top or dispersed in the column *and* a pellet of unagglutinated cells at the bottom. Often seen post-transfusion or with certain weak subgroups
+*   **Hemolysis:** Hemolysis (due to complement activation, etc.) occurring *before or during* centrifugation is also considered a **positive** result if it's antibody-mediated. The supernatant above the gel/beads may appear pink or red, and there may be fewer intact cells to pellet or get trapped
+
+*(Visualizing this helps! Imagine a clear tube filled with gel/beads. Negative = red dot at bottom. Positive = red line/smear trapped in the gel, higher up = stronger reaction.)*
+
+## **Advantages of Column Agglutination Technology** {-}
+
+*   **Standardization:** Reduces variability associated with tube testing techniques (e.g., inconsistent shaking/resuspension)
+*   **Objectivity & Stability:** Results are stable for hours (sometimes days), easy to read, photograph, or review. Grading is generally more consistent between technologists
+*   **Sensitivity:** Often considered as sensitive as, or slightly more sensitive than, traditional LISS tube testing for detecting weak IgG antibodies
+*   **Reduced Sample Volume:** Can often use smaller amounts of sample/reagents
+*   **Automation:** Easily incorporated into semi-automated and fully automated blood bank testing platforms
+*   **Safety:** Reduced aerosol production compared to tube methods
+
+## **Disadvantages and Considerations** {-}
+
+*   **Cost:** Cards and specialized centrifuges/incubators can be more expensive than basic tube testing supplies
+*   **Specialized Equipment:** Requires dedicated centrifuges and sometimes incubators designed for the cards
+*   **Hemolysis Detection:** Detecting *in vitro* hemolysis within the opaque gel column itself can sometimes be harder than seeing it in the supernatant of a tube, though hemolysis above the column is visible
+*   **Fibrin/Particulate Interference:** Fibrin strands or other debris in a sample can sometimes get trapped nonspecifically at the top of the gel, potentially mimicking a weak positive reaction. Clean samples are important
+*   **Training:** Requires familiarity with the specific reading and grading criteria
+
+## **Key Terms** {-}
+
+*   **Column Agglutination Technology (CAT) / Gel Test™:** Method using microtubes containing a gel or glass bead matrix to trap agglutinated red blood cells during centrifugation
+*   **Microtube/Column:** The individual reaction vessel within the card containing the gel/bead matrix
+*   **Gel Matrix / Glass Beads:** The sieving medium within the microtube that separates agglutinated from unagglutinated cells
+*   **Agglutinates:** Clumps of red blood cells formed by antibody binding
+*   **Pellet:** Compact button of unagglutinated red blood cells at the bottom of the microtube (negative result)
+*   **Trapped Cells:** Agglutinated cells caught within the gel/bead matrix (positive result)
+*   **Mixed Field:** Reaction pattern showing both trapped agglutinates and a pellet of free cells at the bottom
+*   **AHG Card:** Gel card containing Anti-Human Globulin (Anti-IgG +/- Anti-C3d) pre-dispensed in the matrix, used for IAT and DAT

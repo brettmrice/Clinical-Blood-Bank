@@ -1,0 +1,104 @@
+# Platelets {-}
+
+**Platelets (Thrombocytes)** are tiny cell fragments that are the unsung heroes of hemostasis, rushing to the scene of vessel injury to form the initial plug that stops bleeding. Providing functional platelets is crucial for patients who can't make enough or whose platelets aren't working correctly
+
+## **What Are Platelets?** {-}
+
+*   **Definition:** Platelets are small, irregular-shaped, anucleated (no nucleus) cell fragments derived from megakaryocytes in the bone marrow
+*   **Function:** Their primary role is **primary hemostasis** – adhering to injured blood vessel walls, aggregating together to form a platelet plug, and releasing substances that promote further platelet recruitment and initiate the coagulation cascade (secondary hemostasis)
+
+## **Preparation Methods** {-}
+
+Platelets for transfusion are prepared in two main ways, resulting in slightly different products:
+
+*   **Whole Blood Derived Platelets (WBD) / Platelet Concentrates**
+    *   **Process**
+        1.  A unit of whole blood is centrifuged at a *low speed* ("light spin") to separate Platelet-Rich Plasma (PRP) from the red cells
+        2.  The PRP is expressed into a satellite bag
+        3.  The PRP is then centrifuged at a *high speed* ("hard spin") to pellet the platelets
+        4.  Most of the supernatant plasma (Platelet-Poor Plasma) is expressed off, leaving the platelets suspended in a small volume (approx. 50-70 mL) of residual plasma
+    *   **Key Feature:** A single WBD unit does **not** contain enough platelets for a therapeutic dose in an adult. Therefore, **multiple units (typically 4-6) must be pooled together** before transfusion
+    *   **Pooling:** This increases the recipient's exposure to multiple donors
+
+*   **Apheresis Platelets (Single Donor Platelets - SDP)**
+    *   **Process:** An apheresis machine draws whole blood from a donor, selectively separates and collects platelets using centrifugation, and returns the remaining components (red cells, plasma) to the donor
+    *   **Key Feature:** A single apheresis procedure collects a **full therapeutic dose** of platelets from **one donor**. This is the preferred method in many institutions
+    *   **Advantages:** Reduces donor exposure for the recipient, potentially lowering risks of alloimmunization and disease transmission. Units are often leukoreduced during the collection process
+
+## **Indications for Transfusion** {-}
+
+Platelet transfusions are given to prevent or treat bleeding due to:
+
+*   **Thrombocytopenia (Low Platelet Count)**
+    *   **Prophylactic Transfusion:** Given to prevent spontaneous bleeding when counts are very low, typically <10,000/µL (or <20,000/µL in some cases, like fever/infection) in patients with bone marrow failure (e.g., due to chemotherapy, leukemia, aplastic anemia)
+    *   **Pre-Procedure:** Given to raise the count before invasive procedures or surgery (target count depends on the procedure's bleeding risk, e.g., >50,000/µL for many surgeries, >80,000-100,000/µL for neurosurgery)
+    *   **Therapeutic Transfusion:** Given to actively bleeding patients with thrombocytopenia
+*   **Platelet Dysfunction (Thrombocytopathia)**
+    *   Patients whose platelets don't function normally (due to inherited disorders like Glanzmann's thrombasthenia or Bernard-Soulier syndrome, or acquired dysfunction like post-cardiopulmonary bypass or due to certain medications like aspirin/clopidogrel) may require transfusion if actively bleeding or undergoing high-risk surgery
+*   **Massive Transfusion Protocols:** Included along with RBCs and plasma to address the dilutional and consumptive coagulopathy seen in massive hemorrhage
+
+**Important Note** Platelet transfusions are generally **contraindicated** or used with extreme caution in conditions like Thrombotic Thrombocytopenic Purpura (TTP) and Heparin-Induced Thrombocytopenia (HIT), as transfused platelets can worsen the thrombotic process
+
+## **Storage and Expiration** {-}
+
+This is unique and critical for platelets:
+
+*   **Storage Temperature:** **20°C to 24°C (Controlled Room Temperature)**
+    *   *Rationale:* Cold temperatures cause irreversible activation and shape change, destroying platelet function
+*   **Agitation:** Requires **continuous, gentle agitation** (on specialized rotators or flatbed agitators)
+    *   *Rationale:* Prevents platelets from clumping together and facilitates gas exchange (O₂ in, CO₂ out) across the bag, which is crucial for maintaining pH
+*   **Expiration:** Typically **5 days** from collection
+    *   *Rationale:* The room temperature storage significantly increases the risk of bacterial proliferation. This is the primary limiting factor for shelf life
+    *   *Extension:* Can sometimes be extended to **7 days** if specific FDA-approved bacterial detection systems or pathogen reduction technology (PRT) are used
+
+## **Quality Control / Specifications** {-}
+
+Units must meet specific quality standards:
+
+*   **Volume:** ~50-70 mL for single WBD units; ~200-400 mL for apheresis units
+*   **Platelet Content**
+    *   WBD units: ≥ 5.5 x 10¹⁰ platelets per unit (average expected before pooling)
+    *   Apheresis units: ≥ 3.0 x 10¹¹ platelets per unit (equivalent to 4-6 WBD units)
+*   **pH:** Must be ≥ 6.2 at the end of the storage period (critical for viability)
+*   **Residual WBCs (if Leukoreduced):** < 8.3 x 10⁵ (for pooled WBD) or < 5 x 10⁶ (for apheresis) per AABB standards – ensures reduction of WBC-related risks
+*   **Bacterial Testing:** Increasingly common/required due to storage conditions. Methods include culture systems or rapid tests
+
+## **Modifications to Platelet Units** {-}
+
+*   **Leukoreduced Platelets:** Standard for apheresis units, often performed by filtration for WBD pools. Reduces risk of FNHTRs, CMV transmission, and HLA alloimmunization
+*   **Irradiated Platelets:** Prevents TA-GVHD. Indicated for the same patient populations as irradiated RBCs. **Does not change the 5-day (or 7-day) expiration**
+*   **Washed Platelets:** Removes plasma proteins for patients with history of severe allergic reactions (e.g., anti-IgA). **Open system** shortens expiration to **4 hours**
+*   **Volume-Reduced Platelets:** Reduces plasma volume for patients at risk of TACO. Often an **open system**, shortening expiration to **4 hours**
+*   **Platelet Additive Solutions (PAS):** Solutions designed to replace a large portion (~60-70%) of the plasma used for platelet storage. Reduces plasma exposure and allergic reactions. May affect ABO compatibility considerations
+
+## **Administration** {-}
+
+*   **Compatibility**
+    *   **ABO:** While ABO antigens are present on platelets, compatibility is less critical than for RBCs due to lower antigen density and small plasma volume (in WBD pools). However, ABO-identical or compatible platelets are **preferred**, especially for apheresis units or PAS platelets which may contain more residual plasma containing anti-A/anti-B. Transfusing ABO-incompatible platelets can sometimes lead to mild hemolysis (due to incompatible plasma) or slightly lower platelet recovery
+    *   **Rh:** Platelets themselves don't express Rh antigens, but platelet products can contain small numbers of contaminating RBCs (~0.01-0.1 mL). Therefore, **Rh-negative females of childbearing potential should ideally receive Rh-negative platelets** (if available) to prevent sensitization to the D antigen. If Rh-positive platelets must be given, Rh Immune Globulin (RhIG) administration should be considered. Leukoreduction significantly minimizes the number of contaminating RBCs
+*   **Pooling:** Required for WBD units (4-6 units pooled into one bag for adult dose)
+*   **Filtration:** Must be administered through a standard blood filter (170-260 microns) or a specific platelet filter
+*   **Infusion Time:** Typically infused rapidly, often over 30-60 minutes per therapeutic dose. Must be completed within **4 hours** of pooling or spiking the bag
+*   **Expected Outcome:** A therapeutic dose should increase the platelet count in an average adult by ~30,000-60,000/µL (measured 1 hour post-transfusion). Poor increments may indicate **platelet refractoriness** (often due to HLA or platelet-specific antibodies)
+
+## **Potential Risks / Adverse Reactions** {-}
+
+*   **Bacterial Contamination / Sepsis:** The **most significant infectious risk** associated with platelet transfusion due to room temperature storage
+*   Febrile Non-Hemolytic Transfusion Reactions (FNHTRs)
+*   Allergic Reactions (Mild Urticaria to Anaphylaxis)
+*   Transfusion-Related Acute Lung Injury (TRALI) (associated with plasma)
+*   Transfusion-Associated Circulatory Overload (TACO)
+*   Alloimmunization (to HLA and platelet-specific antigens), potentially leading to platelet refractoriness
+
+## **Key Terms** {-}
+
+*   **Thrombocytopenia:** Low platelet count
+*   **Thrombocytopathia:** Abnormal platelet function
+*   **Hemostasis:** The process of stopping bleeding
+*   **Apheresis Platelets (SDP):** Platelets collected from a single donor using an apheresis machine (provides a full therapeutic dose)
+*   **Whole Blood Derived Platelets (WBD):** Platelets prepared by centrifuging whole blood (requires pooling for a therapeutic dose)
+*   **Pooling:** Combining multiple WBD platelet units into one container
+*   **Platelet Additive Solution (PAS):** A solution used to replace most of the plasma for platelet storage
+*   **Platelet Refractoriness:** Failure to achieve the expected increase in platelet count after transfusion, often due to antibodies
+*   **Corrected Count Increment (CCI):** A calculation used to assess the effectiveness of platelet transfusion, accounting for patient size and dose
+*   **Swirling:** The visible light-scattering phenomenon in viable, discoid platelets under agitation

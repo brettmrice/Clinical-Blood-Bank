@@ -1,0 +1,94 @@
+# Component Therapy {-}
+
+**Component Therapy** is really the cornerstone of modern transfusion practice. Gone are the days (mostly!) of just giving whole blood for everything. Now, we focus on giving the specific *part* of the blood the patient actually needs. Understanding these components, their functions, storage requirements, and indications is fundamental to providing safe and effective transfusion support!
+
+**The Big Idea: Targeted Replacement**
+
+Component therapy means separating donated whole blood into its constituent parts (Red Cells, Platelets, Plasma, Cryoprecipitate) and transfusing only the component(s) required to treat a specific deficiency or clinical problem
+
+**Why Component Therapy?**
+
+*   **Targeted Treatment:** Addresses the patient's specific need (e.g., oxygen-carrying capacity, clotting factors, platelets) without giving unnecessary components
+*   **Reduced Volume:** Avoids circulatory overload by not giving excess plasma or cells
+*   **Optimal Storage:** Different components require different storage conditions to maximize their shelf life and function
+*   **Efficient Use of Donations:** One whole blood donation can potentially help multiple patients
+
+Here's a comprehensive look at the major components:
+
+## **Red Blood Cells (RBCs)** {-}
+
+*   **What it is:** Primarily red cells remaining after plasma and platelets have been removed. Suspended in an anticoagulant-preservative solution (e.g., CPDA-1) and often an additive solution (e.g., AS-1, AS-3, AS-5) to extend shelf life and improve flow. Typically leukoreduced
+*   **What it Does:** Increases the oxygen-carrying capacity of the blood
+*   **Storage & Shelf Life**
+    *   Temperature: **1-6°C (Refrigerator)**
+    *   Shelf Life: Varies with solution (e.g., 21 days for CPDA-1, **42 days** for additive solutions)
+*   **Typical Volume:** ~300-350 mL per unit
+*   **Key Indications:** Symptomatic anemia (low hemoglobin/hematocrit causing symptoms like shortness of breath, angina, severe fatigue), acute blood loss
+*   **Dosage & Expected Effect:** One unit typically raises hemoglobin by ~1 g/dL or hematocrit by ~3% in an average, non-bleeding adult
+*   **Compatibility:** **MUST** be ABO compatible with recipient's plasma. Rh(D) type is critical; Rh(D)-negative recipients should receive Rh(D)-negative RBCs whenever possible, especially females of childbearing potential
+*   **Special Modifications**
+    *   **Leukoreduction:** Standard practice now; removes white blood cells to reduce febrile reactions, CMV transmission, and HLA alloimmunization
+    *   **Irradiation:** Prevents Transfusion-Associated Graft-vs-Host Disease (TA-GVHD) by inactivating donor T-lymphocytes. Indicated for immunocompromised patients, recipients of directed donations from relatives, etc. Reduces shelf life if done near expiry
+    *   **Washing:** Removes plasma proteins. Indicated for patients with history of severe allergic reactions (anaphylaxis) or IgA deficiency with anti-IgA. Reduces shelf life significantly (use within 24 hours)
+    *   **Volume Reduction:** Reduces volume for neonatal/pediatric patients or those at risk of volume overload
+    *   **Antigen-Negative:** Selected units lacking specific antigens for patients with corresponding clinically significant antibodies
+    *   **Sickle Cell Negative:** Units tested and found negative for Hemoglobin S, for patients with sickle cell disease
+    *   **CMV-Safe:** Either CMV-seronegative units or leukoreduced units (considered CMV-safe equivalent) for at-risk patients (e.g., CMV-negative transplant recipients, newborns)
+
+## **Platelets (PLTs)** {-}
+
+*   **What it is:** Platelets suspended in a small amount of plasma or a mixture of plasma and Platelet Additive Solution (PAS)
+*   **Sources**
+    *   **Apheresis Platelets:** Collected from a single donor using an apheresis machine. Equivalent to 4-6 units of whole blood-derived platelets. Preferred product
+    *   **Whole Blood-Derived (WBD) Platelets:** Prepared by pooling platelet concentrates from 4-6 different whole blood donations. Higher donor exposure
+*   **What it Does:** Essential for primary hemostasis (forming platelet plugs)
+*   **Storage & Shelf Life**
+    *   Temperature: **20-24°C (Room Temperature)** - CRITICAL!
+    *   Agitation: **Requires continuous gentle agitation** to maintain viability and prevent aggregation
+    *   Shelf Life: **5 days** (sometimes 7 days if bacterial detection testing is performed). Short shelf life due to risk of bacterial growth at room temp
+*   **Typical Volume:** Apheresis: ~200-400 mL; Pooled WBD: ~200-300 mL
+*   **Key Indications:** Prevent or treat bleeding due to thrombocytopenia (low count) or platelet dysfunction. Prophylactic (e.g., count <10,000/µL) or therapeutic (active bleeding)
+*   **Dosage & Expected Effect:** One unit (apheresis or pool) typically raises the platelet count by 30,000-60,000/µL in an average adult without consumption factors
+*   **Compatibility:** ABO compatibility is preferred (especially for plasma) but not strictly required if unavailable. Platelets have ABO antigens, and incompatible plasma can cause mild hemolytic reactions or poor platelet increments. **Rh(D) type matters** Rh(D)-negative females of childbearing potential should ideally receive Rh(D)-negative platelets to prevent anti-D formation from residual RBCs in the unit. If Rh(D)-positive platelets must be given, consider Rh Immune Globulin (RhIG)
+*   **Special Modifications:** Leukoreduction (standard), Irradiation (same indications as RBCs), Washing (rarely, significantly damages platelets)
+
+## **Plasma (FFP, PF24, Thawed Plasma)** {-}
+
+*   **What it is:** Plasma separated from whole blood and frozen to preserve coagulation factors
+    *   **FFP (Fresh Frozen Plasma):** Frozen within 8 hours of collection. Contains all coagulation factors, including labile factors V and VIII
+    *   **PF24 (Plasma Frozen within 24 hours):** Frozen within 8-24 hours. May have slightly reduced levels of Factors V and VIII compared to FFP, but generally clinically equivalent for most uses
+    *   **Thawed Plasma:** FFP or PF24 that has been thawed and stored at 1-6°C. Can be used for up to 5 days, but labile factors (V, VIII) decrease over time
+*   **What it Does:** Replaces multiple coagulation factors
+*   **Storage & Shelf Life**
+    *   Frozen: **≤ -18°C** (or colder) for **1 year**
+    *   Thawed: **1-6°C**. Use within **24 hours** (if considered FFP/PF24) or up to **5 days** (if relabeled as Thawed Plasma)
+*   **Typical Volume:** ~200-250 mL per unit
+*   **Key Indications:** Correction of multiple coagulation factor deficiencies (e.g., liver disease, DIC, massive transfusion, urgent warfarin reversal when PCCs unavailable). Replacement fluid in plasma exchange (e.g., TTP)
+*   **Dosage & Expected Effect:** Typically 10-15 mL/kg body weight. Aim is to increase factor levels by ~20-30%. Monitor coagulation tests (PT/INR, PTT)
+*   **Compatibility:** **MUST** be ABO compatible with the recipient's RED CELLS (opposite of RBCs!). Donor plasma antibodies must not react with recipient RBC antigens. Rh type is generally disregarded unless transfusing large volumes to Rh(D)-negative females of childbearing potential
+*   **Special Modifications:** Pathogen-Reduced Plasma (e.g., Solvent/Detergent treated) available in some regions
+
+## **Cryoprecipitate (Cryo)** {-}
+
+*   **What it is:** Cold-insoluble precipitate recovered when FFP is thawed slowly at 1-6°C and then resuspended in a small amount of residual plasma
+*   **What it Contains (Concentrated):** Fibrinogen (Factor I), Factor VIII, von Willebrand Factor (vWF), Factor XIII, Fibronectin
+*   **Storage & Shelf Life**
+    *   Frozen: **≤ -18°C** for **1 year**
+    *   Thawed: **20-24°C (Room Temperature)** - CRITICAL!
+    *   Shelf Life (Thawed): **6 hours** for single units. If units are pooled into one bag (common), must be used within **4 hours** of pooling due to increased risk of bacterial contamination (open system)
+*   **Typical Volume:** Very small, ~10-15 mL per single unit. Often pooled (e.g., 5-10 units)
+*   **Key Indications:** Primarily for **hypofibrinogenemia** (low fibrinogen levels) associated with bleeding. Also used for Factor XIII deficiency, and historically for Hemophilia A/vWD if factor concentrates are unavailable (concentrates strongly preferred now)
+*   **Dosage & Expected Effect:** Typically given as a pool of 5-10 units. Goal is to significantly raise fibrinogen levels (e.g., above 100-150 mg/dL)
+*   **Compatibility:** ABO compatibility generally not required due to small volume, but preferred if readily available, especially for neonates/infants
+*   **Special Modifications:** Pooling is common practice
+
+## **Key Terms** {-}
+
+*   **Component Therapy:** The transfusion practice of administering specific parts of blood (e.g., RBCs, platelets, plasma) based on the patient's specific needs, rather than transfusing whole blood
+*   **Leukoreduction:** The process of removing white blood cells from a blood component, primarily to reduce the risk of febrile non-hemolytic reactions, CMV transmission, and HLA alloimmunization
+*   **Irradiation:** The process of exposing a blood component to gamma rays or X-rays to inactivate donor T-lymphocytes, preventing Transfusion-Associated Graft-versus-Host Disease (TA-GVHD)
+*   **Washing:** The process of removing plasma and additive solutions from cellular blood components (RBCs or platelets) by repeated suspension and centrifugation in saline. Used primarily for patients with severe allergic reactions or IgA deficiency
+*   **Apheresis:** A collection method where whole blood is drawn from a donor, a specific component (e.g., platelets, plasma, RBCs) is separated and collected by a machine, and the remaining components are returned to the donor. Allows collection of a larger dose of a single component from one donor
+*   **Pooling:** Combining multiple single units of a blood component (e.g., whole blood-derived platelets, cryoprecipitate) into one container for transfusion as a single dose. Increases donor exposure
+*   **Platelet Additive Solution (PAS):** A buffered salt solution designed to replace a portion of the plasma used for platelet storage, potentially reducing allergic reactions related to plasma proteins
+*   **Compatibility:** Ensuring that the donor blood component will not cause a harmful immune reaction in the recipient. Primarily involves ABO and Rh(D) matching for RBCs, and ABO matching for plasma

@@ -1,0 +1,144 @@
+# Neutropenia {-}
+
+**Neutropenia** is the condition of having an abnormally low number of neutrophils in the blood. Neutrophils are the most abundant type of granulocyte and our primary defenders against **bacterial infections**. When their numbers drop significantly, patients become highly susceptible to potentially life-threatening infections
+
+We typically define neutropenia based on the **Absolute Neutrophil Count (ANC)**, which is calculated as:
+`ANC = Total White Blood Cell (WBC) Count × (% Segmented Neutrophils + % Band Neutrophils)`
+
+*   **Normal ANC:** Usually > 1500 cells/µL (or 1.5 x 10<sup>9</sup>/L)
+*   **Mild Neutropenia:** ANC 1000-1500/µL
+*   **Moderate Neutropenia:** ANC 500-1000/µL
+*   **Severe Neutropenia:** ANC < 500/µL
+*   **Agranulocytosis:** Refers to a virtual absence of neutrophils (often ANC < 100-200/µL)
+
+The risk of infection increases significantly as the ANC falls below 1000/µL, becoming critical below 500/µL
+
+Like other cytopenias, the causes can be broadly grouped into **Non-Immune** and **Immune** mechanisms
+
+## **Non-Immune Neutropenia: Production Problems or Overconsumption** {-}
+
+These causes involve issues with making neutrophils in the bone marrow or using them up too quickly, *without* a primary antibody-mediated attack
+
+### **Pathophysiology (How it Happens)** {-}
+
+*  **Decreased Neutrophil Production:** The bone marrow "factory" isn't producing enough
+    *   **Congenital Neutropenias (Inherited):** Genetic defects present from birth affecting neutrophil development (granulopoiesis)
+        *   *Severe Congenital Neutropenia (SCN, e.g., Kostmann Syndrome):* Various gene mutations (e.g., *ELANE*, *HAX1*) lead to profound, persistent neutropenia (ANC often < 200/µL) due to maturation arrest at the promyelocyte stage in the marrow. High risk of severe bacterial infections from infancy
+        *   *Cyclic Neutropenia:* Usually caused by *ELANE* mutations. Characterized by regular, periodic oscillations in neutrophil counts (typically ~21-day cycles), with ANC dropping to < 200/µL for 3-5 days during the nadir, leading to recurrent fevers, mouth sores, and infections during those low points
+        *   *Other rare syndromes:* Shwachman-Diamond syndrome, Chédiak-Higashi syndrome, etc., can include neutropenia
+    *   **Acquired Bone Marrow Failure/Suppression**
+        *   *Aplastic Anemia:* Global marrow failure affecting all cell lines
+        *   *Drug-Induced Suppression (Direct Toxicity):* **Chemotherapy** is the most common cause of severe acquired neutropenia. Many other drugs can suppress marrow (e.g., certain antibiotics like chloramphenicol, anti-thyroid drugs, phenothiazines, NSAIDs - idiosyncratic reactions)
+        *   *Radiation Therapy:* Damages hematopoietic stem cells
+        *   *Toxins:* Benzene, pesticides
+        *   *Alcohol Abuse:* Chronic heavy use suppresses marrow
+    *   **Bone Marrow Infiltration:** Malignant cells crowd out normal hematopoiesis (Leukemia, Lymphoma, Myeloma, Metastatic solid tumors)
+    *   **Nutritional Deficiencies:** Severe Vitamin B12 or Folate deficiency impairs DNA synthesis, affecting all rapidly dividing cells, including neutrophil precursors. Severe Copper deficiency can also cause neutropenia
+    *   **Certain Infections:** Some viral infections (Hepatitis, HIV, EBV, CMV, Parvovirus B19) can directly suppress marrow production
+
+*  **Increased Neutrophil Destruction or Consumption (Peripheral)**
+    *   **Overwhelming Infection (Sepsis):** During severe bacterial or fungal infections, neutrophils migrate rapidly to tissues and can be consumed faster than the bone marrow can replace them, leading to a paradoxical neutropenia (a poor prognostic sign)
+    *   **Hypersplenism:** An enlarged spleen traps neutrophils (along with RBCs and platelets), leading to mild or moderate neutropenia
+
+*  **Increased Margination (Pseudoneutropenia)**
+    *   Neutrophils shift from the circulating pool to the marginated pool (adhering temporarily to blood vessel walls), often due to stress, exercise, or endotoxemia. The total body neutrophil count isn't truly low, just redistributed. ANC typically normalizes quickly
+
+### **Detection (Finding the Cause)** {-}
+
+*   **Clinical Assessment:** Key is the **history**! Focus on: onset (acute vs. chronic), pattern (cyclic?), severity/frequency of infections (especially bacterial - skin, oral, respiratory, perianal), medication history (prescription, OTC, supplements), toxin exposure, alcohol use, family history, signs of underlying disease (autoimmune, malignancy)
+*   **Laboratory Tests**
+    *   **CBC with Differential & ANC Calculation:** **Essential first step.** Confirm low ANC. Note severity. Look for other cytopenias (pancytopenia? isolated neutropenia?)
+    *   **Serial CBCs:** Required if cyclic neutropenia is suspected (e.g., 2-3 times/week for 6-8 weeks)
+    *   **Peripheral Blood Smear Review:** Confirm automated differential. Assess neutrophil morphology (toxic changes? dysplastic features? blasts?). Examine other cell lines
+    *   **Bone Marrow Aspirate and Biopsy:** Crucial if decreased production is suspected or cause unclear. Assess:
+        *   *Cellularity:* Normal, hyper-, or hypo-cellular?
+        *   *Myeloid:Erythroid (M:E) Ratio:* Usually decreased in isolated neutropenia due to production defect, or normal/increased with maturation arrest
+        *   *Granulopoiesis:* Assess maturation sequence. Look for "maturation arrest" (common in SCN, AIN). Rule out infiltration (leukemia, etc.)
+        *   *Cytogenetics/Molecular Studies:* For suspected malignancy or congenital syndromes
+    *   **Specific Tests:** Vitamin B12/Folate/Copper levels, genetic testing for congenital neutropenias (*ELANE*, etc.), infectious workup (blood cultures, viral serologies) if indicated
+
+### **Treatment** {-}
+
+Focuses on treating the underlying cause and preventing/managing infections:
+
+*   **Treat Underlying Cause:** Stop offending drug, treat infection, manage malignancy, nutritional replacement, etc
+*   **Granulocyte Colony-Stimulating Factor (G-CSF):** Recombinant human G-CSF (Filgrastim, Pegfilgrastim - long-acting) stimulates the bone marrow to produce and release more neutrophils. **Mainstay therapy for**
+    *   Chemotherapy-induced neutropenia (prophylaxis or treatment)
+    *   Severe Congenital Neutropenia
+    *   Cyclic Neutropenia
+    *   Aplastic Anemia (adjunctive)
+    *   AIDS-related neutropenia
+*   **Infection Management:** **CRITICAL!**
+    *   **Febrile Neutropenia (Fever + ANC <500 or expected to fall <500):** Medical emergency! Requires prompt evaluation, cultures, and empiric broad-spectrum IV antibiotics
+    *   **Prophylactic Antibiotics/Antifungals:** Sometimes used for patients with prolonged severe neutropenia
+    *   **Patient Education:** Meticulous hygiene, avoiding sick contacts, prompt reporting of fever/symptoms
+*   **Hematopoietic Stem Cell Transplantation (HSCT):** Curative option for severe aplastic anemia, SCN unresponsive to G-CSF, leukemia
+*   **Granulocyte Transfusions:** **RARELY used.** Considered only in patients with severe neutropenia (<500), documented bacterial/fungal infection unresponsive to appropriate antimicrobials +/- G-CSF, *and* reasonable expectation of marrow recovery. Difficult to collect adequate doses, short neutrophil half-life, significant risks (alloimmunization, TRALI, CMV transmission, febrile reactions). Requires irradiated, crossmatch-compatible (if possible) granulocytes
+
+## **Immune Neutropenia: When Antibodies Attack** {-}
+
+Here, neutrophils are destroyed prematurely due to antibodies targeting neutrophil-specific antigens or other immune mechanisms
+
+### **Pathophysiology (How it Happens)** {-}
+
+*  **Autoimmune Neutropenia (AIN):** Antibodies directed against the patient's own neutrophil antigens
+    *   **Mechanism:** IgG (or sometimes IgM/IgA) antibodies bind to antigens on the neutrophil surface (e.g., Human Neutrophil Antigens - HNAs, like HNA-1, HNA-2). Antibody-coated neutrophils are cleared prematurely by the Mononuclear Phagocyte System (primarily spleen), or antibodies may interfere with function or cause complement activation
+    *   **Types**
+        *   *Primary AIN:* Occurs in isolation, most common cause of chronic benign neutropenia in infants/young children (typically presents 6-12 months old, often resolves spontaneously within 1-3 years)
+        *   *Secondary AIN:* Associated with other conditions:
+            *   *Autoimmune Diseases:* Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), Felty's Syndrome (RA + splenomegaly + neutropenia)
+            *   *Lymphoproliferative Disorders:* Chronic Lymphocytic Leukemia (CLL), Large Granular Lymphocyte (LGL) Leukemia
+            *   *Infections:* HIV, EBV, Hepatitis
+            *   *Post-Transplant*
+
+*  **Alloimmune Neutropenia:** Antibodies against non-self neutrophil antigens
+    *   **Neonatal Alloimmune Neutropenia (NAN):** Mother lacks an HNA expressed on fetal neutrophils (inherited from father). Maternal IgG anti-HNA crosses the placenta, destroying fetal/neonatal neutrophils. Presents with severe neutropenia and risk of infection in the first weeks/months of life. Resolves as maternal IgG declines. Analogous to HDFN/NAIT
+    *   **Transfusion-Related:** Antibodies in transfused plasma (e.g., from multiparous female donors) reacting with recipient neutrophils. This is the mechanism behind **Transfusion-Related Acute Lung Injury (TRALI)**, where neutrophil activation/sequestration in the lungs causes acute respiratory distress. While TRALI involves anti-neutrophil antibodies, it typically *doesn't* present as neutropenia on the recipient's CBC
+
+*  **Drug-Induced Immune Neutropenia (DIIN)**
+    *   **Mechanism:** Drug acts as a hapten or triggers antibodies that react with neutrophils only in the presence of the drug (similar to DIHA/DITP). Leads to rapid neutrophil destruction
+    *   **Onset:** Often abrupt, 7-14 days after starting a new drug
+    *   **Common culprits:** Many drugs implicated, including anti-thyroid drugs (propylthiouracil, methimazole), some antibiotics (beta-lactams, sulfonamides), anti-inflammatories, anti-convulsants, antipsychotics
+
+### **Detection (Finding the Immune Cause)** {-}
+
+*   **Clinical Assessment:** History is key (age of onset, infections, associated autoimmune disease, drugs, pregnancy/transfusion history for alloimmune causes)
+*   **Laboratory Tests**
+    *   **CBC/Smear:** Confirm isolated neutropenia (often moderate to severe). Other cell lines usually normal unless secondary cause
+    *   **Bone Marrow:** Typically shows **normal or increased myeloid cellularity** with adequate precursors, but often a **"maturation arrest"** pattern – meaning plenty of early forms (promyelocytes, myelocytes) but few mature neutrophils, suggesting peripheral destruction is outpacing release
+    *   **Neutrophil Antibody Testing:** **Specialized testing**, not always necessary for diagnosis (especially primary AIN). Can detect antibodies in serum or bound to neutrophils (direct test). Methods include:
+        *   *Granulocyte Agglutination Test (GAT)*
+        *   *Granulocyte Immunofluorescence Test (GIFT)* (indirect for serum Ab, direct for bound Ab)
+        *   *Monoclonal Antibody Immobilization of Granulocyte Antigens (MAIGA)*
+        *   Testing can be performed against panel neutrophils or paternal neutrophils (for NAN workup)
+        *   *Limitations:* Variable sensitivity/specificity, not standardized across labs
+    *   **HNA Typing:** Useful for NAN workup (mother, father, infant)
+    *   **Autoimmune Markers:** ANA, RF, etc., if secondary AIN suspected
+
+### **Treatment** {-}
+
+*   **Observation:** Many cases, especially primary AIN in infants, are benign and self-limiting. Focus on infection prevention and prompt antibiotic treatment if fever occurs
+*   **Stop Offending Drug:** Essential first step for DIIN. Recovery usually occurs within 1-2 weeks
+*   **Antibiotics:** Prompt treatment for any infections
+*   **G-CSF:** Often effective in raising neutrophil counts in AIN and NAN, used as needed based on ANC and infection frequency
+*   **Immunosuppression (for severe/persistent AIN)**
+    *   *Corticosteroids:* May be used, but often require long courses/high doses
+    *   *IVIg:* Can provide temporary increases in ANC
+    *   *Rituximab, Cyclosporine, Mycophenolate:* Other options for refractory cases
+*   **Splenectomy:** Can be effective in refractory AIN by removing the primary site of destruction, but carries risks (infection, thrombosis) and is less frequently performed now
+*   **NAN Management:** Supportive care, prompt antibiotics for infection, G-CSF if severe/prolonged. Usually resolves within weeks to months as maternal IgG fades. Washed maternal granulocytes very rarely considered
+
+## **Key Terms** {-}
+
+*   **Neutropenia:** Low absolute neutrophil count (ANC)
+*   **Absolute Neutrophil Count (ANC):** Total WBC x (% Segs + % Bands)
+*   **Agranulocytosis:** Severe neutropenia, near absence of neutrophils
+*   **Granulopoiesis:** The production of granulocytes (including neutrophils) in the bone marrow
+*   **Febrile Neutropenia:** Fever in a patient with neutropenia; a medical emergency
+*   **Granulocyte Colony-Stimulating Factor (G-CSF):** Growth factor that stimulates neutrophil production (e.g., Filgrastim)
+*   **Severe Congenital Neutropenia (SCN):** Inherited disorders causing profound neutropenia from birth
+*   **Cyclic Neutropenia:** Inherited disorder with periodic fluctuations in neutrophil counts
+*   **Autoimmune Neutropenia (AIN):** Neutropenia caused by autoantibodies against neutrophil antigens
+*   **Neonatal Alloimmune Neutropenia (NAN):** Neutropenia in a newborn caused by maternal IgG antibodies against fetal neutrophil antigens
+*   **Human Neutrophil Antigens (HNAs):** Antigens expressed on the surface of neutrophils
+*   **Maturation Arrest:** A pattern seen in bone marrow where hematopoietic precursors develop normally to a certain stage but fail to mature beyond it

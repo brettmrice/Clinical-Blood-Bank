@@ -1,0 +1,112 @@
+# Cytopenias {-}
+
+Cytopenias are conditions where one or more blood cell lines are low. We'll look at Anemia (low red cells/hemoglobin), Thrombocytopenia (low platelets), and Neutropenia (low neutrophils), focusing on *why* they happen (Pathophysiology), *how* we figure out the cause (Detection), and *what* we do about it (Treatment)
+
+## **Cytopenias: An Overview** {-}
+
+Cytopenias indicate a problem with blood cell production, survival, or loss. Identifying the specific cell line(s) affected and the underlying mechanism (immune vs. non-immune, production vs. destruction) is crucial for diagnosis and management
+
+| Cytopenia       | Cell Line Affected | Primary Consequence   |
+| :-------------- | :----------------- | :-------------------- |
+| **Anemia**      | Red Blood Cells (RBCs) / Hemoglobin (Hgb) | Tissue Hypoxia (Reduced O2 delivery) |
+| **Thrombocytopenia** | Platelets (Plt)    | Bleeding Risk         |
+| **Neutropenia** | Neutrophils (ANC)  | Infection Risk (Bacterial/Fungal) |
+
+---
+
+## **Anemia: Too Few Red Blood Cells / Too Little Hemoglobin** {-}
+
+### **Pathophysiology** {-}
+
+*   **Decreased Production**
+    *   *Non-Immune:* Nutritional deficiency (Iron, B12, Folate), Bone marrow failure/suppression (Aplastic anemia, CKD - low EPO, Anemia of Chronic Disease, Chemo/Radiation, Infiltration), Inherited defects (Thalassemia)
+*   **Increased Destruction (Hemolysis)**
+    *   *Non-Immune:* Intrinsic RBC defects (Membranopathies - Spherocytosis; Enzymopathies - G6PD def; Hemoglobinopathies - Sickle Cell), Extrinsic factors (MAHA - TTP/HUS/DIC, Mechanical valves, Infections, Toxins)
+    *   *Immune:* Antibodies +/- Complement destroy RBCs
+        *   *Alloimmune:* HTR, HDFN
+        *   *Autoimmune:* WAIHA (IgG), CAD (IgM+C3d), PCH (IgG+C3d)
+        *   *Drug-Induced:* Various mechanisms (Hapten, Immune Complex, Autoantibody induction)
+*   **Blood Loss**
+    *   *Acute:* Trauma, Surgery -> Hypovolemia initially
+    *   *Chronic:* Slow GI bleed, Menstruation -> Iron Deficiency Anemia
+
+### **Detection** {-}
+
+*   **CBC:** Low Hgb/Hct. **RBC Indices (MCV, MCHC)** classify as micro/normo/macrocytic, hypo/normochromic
+*   **Reticulocyte Count:** Key! High suggests destruction/loss; Low suggests production problem
+*   **Peripheral Smear:** Essential for morphology (size, shape, color, inclusions like schistocytes, spherocytes, sickle cells)
+*   **Specific Tests:** Iron studies, B12/Folate, Hemolysis markers (LDH, Bili, Haptoglobin), Hb Electrophoresis, Enzyme assays
+*   **Immunohematologic Tests:** **DAT** (detects *in vivo* coating - IgG/C3d), **IAT** (detects plasma Abs), **Elution** (identifies coating Ab) - Crucial for immune causes!
+*   **Bone Marrow Exam:** Assesses production, infiltration
+
+### **Treatment** {-}
+
+*   **Treat Underlying Cause:** Nutrient replacement, stop offending drug, manage chronic disease, immunosuppression for AIHA (steroids, Rituximab), Hydroxyurea for Sickle Cell
+*   **Supportive Care:** EPO for CKD/ACD
+*   **Red Blood Cell Transfusion:** Key supportive therapy for symptomatic anemia or critical Hgb levels. Requires careful compatibility testing, especially challenging in AIHA. **Antigen-negative blood essential for alloantibodies (HTR/HDFN)**
+
+---
+
+## **Thrombocytopenia: Too Few Platelets** {-}
+
+### **Pathophysiology** {-}
+
+*   **Decreased Production**
+    *   *Non-Immune:* Bone marrow failure/suppression (Aplastic anemia, Chemo/Radiation, Alcohol), Infiltration (Leukemia), Nutritional (severe B12/Folate), Inherited syndromes
+*   **Increased Destruction / Consumption**
+    *   *Non-Immune:* DIC, TTP, HUS, Mechanical destruction, Hypersplenism (Sequestration)
+    *   *Immune:* Antibodies destroy platelets
+        *   *Autoimmune:* ITP (primary or secondary)
+        *   *Alloimmune:* NAIT, PTP
+        *   *Drug-Induced:* DITP (various drugs), **HIT** (Heparin-PF4 complex Abs - **prothrombotic!**)
+*   **Pseudothrombocytopenia:** *In vitro* clumping artifact (EDTA-dependent)
+
+### **Detection** {-}
+
+*   **CBC:** Low platelet count
+*   **Peripheral Smear:** **Essential** to confirm low count, rule out clumping/pseudothrombocytopenia, assess size (giant platelets in ITP, Bernard-Soulier)
+*   **Coagulation Studies (PT/aPTT/Fibrinogen/D-dimer):** Important if DIC suspected
+*   **ADAMTS13 Activity:** For TTP diagnosis
+*   **Bone Marrow Exam:** Assess megakaryocytes if production defect suspected
+*   **Specialized Immune Testing:** HIT assays (Immunoassay & Functional), HPA antibody testing (NAIT/PTP). Platelet autoantibody tests for ITP generally not useful
+
+### **Treatment** {-}
+
+*   **Treat Underlying Cause:** Stop drug, treat infection/malignancy, Plasma Exchange (TTP!), Non-heparin anticoagulants (HIT!)
+*   **Immune Modulation (for ITP/NAIT/PTP):** Corticosteroids, IVIg, Rituximab, TPO-RAs, Splenectomy (ITP)
+*   **Platelet Transfusion:** For active bleeding or prophylaxis at very low counts (<10-20k). Transfused platelets rapidly destroyed in ITP. **Avoid in TTP/HIT unless life-threatening bleed.** Special requirements for NAIT/PTP (HPA-matched) or immune refractoriness (HLA-matched)
+
+---
+
+## **Neutropenia: Too Few Neutrophils** {-}
+
+### **Pathophysiology** {-}
+
+*   **Decreased Production**
+    *   *Non-Immune:* Congenital (SCN, Cyclic), Acquired marrow failure/suppression (Chemo/Radiation, Drugs, Aplastic anemia, Alcohol), Infiltration (Leukemia), Nutritional (severe B12/Folate/Copper)
+*   **Increased Destruction / Consumption / Margination**
+    *   *Non-Immune:* Overwhelming sepsis, Hypersplenism (Sequestration), Pseudoneutropenia (margination shift)
+    *   *Immune:* Antibodies destroy neutrophils
+        *   *Autoimmune:* AIN (primary in infants, secondary in SLE, RA, etc.)
+        *   *Alloimmune:* NAN
+        *   *Drug-Induced:* DIIN
+
+### **Detection** {-}
+
+*   **CBC w/ Differential:** Low **Absolute Neutrophil Count (ANC)**. Note severity (mild/mod/severe <500)
+*   **Serial CBCs:** If cyclic pattern suspected
+*   **Peripheral Smear:** Confirm differential, assess morphology
+*   **Bone Marrow Exam:** Assess cellularity, granulopoiesis (maturation arrest common in immune/congenital forms), rule out infiltration
+*   **Specialized Testing:** Neutrophil antibody testing (AIN/NAN), Genetic testing (congenital), Autoimmune markers
+
+### **Treatment** {-}
+
+*   **Treat Underlying Cause:** Stop drug, treat infection/malignancy
+*   **Infection Prevention/Management:** **Prompt broad-spectrum antibiotics for febrile neutropenia (medical emergency!)**. Prophylactic antimicrobials sometimes. Patient education
+*   **Granulocyte Colony-Stimulating Factor (G-CSF):** Mainstay for many causes (Chemo-induced, Congenital, AIN) to boost neutrophil production
+*   **Immunosuppression (for AIN):** Steroids, IVIg, Rituximab
+*   **Granulocyte Transfusion:** Very rarely used, specific indications/risks
+
+## **Overall Clinical Relevance** {-}
+
+Cytopenias are common laboratory findings requiring careful investigation. The clinical presentation (hypoxia symptoms vs. bleeding vs. infections), CBC results (indices, other cell lines), reticulocyte count, and peripheral smear morphology provide crucial initial clues. Specific testing, including immunohematology (DAT/IAT/Elution) and bone marrow evaluation, is often needed to pinpoint the cause. Treatment must be directed at the underlying pathophysiology, with blood component therapy (RBCs, Platelets, rarely Granulocytes) serving as vital supportive care

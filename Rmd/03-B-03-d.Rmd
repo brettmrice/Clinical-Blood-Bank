@@ -1,0 +1,77 @@
+# Prevention {-}
+
+This is truly one of the great success stories in transfusion medicine! Preventing Hemolytic Disease of the Fetus and Newborn (HDFN), particularly the severe form caused by anti-D, relies almost entirely on preventing the **mother** from becoming **alloimmunized** (sensitized) to the specific fetal red blood cell antigen in the first place
+
+## **The Cornerstone: Rh Immune Globulin (RhIG) Prophylaxis for Anti-D** {-}
+
+This strategy focuses specifically on preventing RhD-negative individuals from developing anti-D antibodies after exposure to RhD-positive red blood cells
+
+*   **What is RhIG?:** A sterile solution containing concentrated **IgG anti-D antibodies**, derived from the plasma of screened human donors who have high levels of anti-D. It's a form of **passive immunization**
+*   **Mechanism of Action (How it Prevents Sensitization):** The exact mechanism is complex, but the leading theory involves **immune clearance and suppression**:
+    1.  When RhD-positive fetal red blood cells enter the RhD-negative mother's circulation (Fetal-Maternal Hemorrhage - FMH), the injected RhIG antibodies (passive anti-D) quickly bind to the D antigens on these fetal cells
+    2.  These antibody-coated fetal cells are rapidly cleared from the maternal circulation, primarily by macrophages in the spleen, likely via Fc receptor interactions
+    3.  This rapid clearance occurs *before* the mother's own adaptive immune system (B cells and T cells) has a chance to fully recognize the foreign D antigen and mount its own active, long-lasting immune response (i.e., produce her own anti-D and form memory cells)
+    4.  Essentially, the passive antibody "masks" the antigen and facilitates its removal, preventing primary immunization
+*   **Crucial Point:** RhIG is **prophylactic**, meaning it *prevents* sensitization. It is **NOT effective** if the mother has *already* developed her own anti-D antibodies (i.e., is already alloimmunized)
+
+## **Standard Administration Protocols for RhIG** {-}
+
+To be effective, RhIG must be given strategically around times when FMH is likely to occur
+
+*   **Antenatal Prophylaxis (Routine)**
+    *   **When:** A standard dose (typically 300 µg in the US) is recommended for **ALL RhD-negative, unsensitized (anti-D negative) pregnant women** around **28 weeks of gestation**
+    *   **Why:** Recognizes that small, often silent, FMHs can occur during the third trimester, potentially sensitizing the mother before delivery. This dose provides passive protection for the remainder of the pregnancy
+
+*   **Postnatal Prophylaxis**
+    *   **When:** A standard dose (e.g., 300 µg) is given to the **RhD-negative, unsensitized mother** within **72 hours** after the delivery of an **RhD-positive infant**
+    *   **Why:** Delivery is associated with the highest risk and potentially largest volume of FMH. The 72-hour window is critical to intercept any fetal cells before the mother's immune response is fully initiated
+    *   **Confirmation:** The infant's RhD type is determined from cord blood testing at birth
+
+*   **After Other Potential Sensitizing Events:** RhIG is also recommended for RhD-negative, unsensitized women following any event during pregnancy that could potentially cause FMH, including:
+    *   Amniocentesis, Chorionic Villus Sampling (CVS), Fetal Blood Sampling (FBS)
+    *   Miscarriage, therapeutic abortion, ectopic pregnancy
+    *   Significant abdominal trauma
+    *   External cephalic version (attempting to turn a breech baby)
+    *   Antepartum bleeding
+    *   *Dose Consideration:* Smaller doses (e.g., 50 µg) may be sufficient for events occurring in the first trimester
+
+## **Detecting and Managing Excessive Fetal-Maternal Hemorrhage (FMH)** {-}
+
+*   **The Problem:** The standard 300 µg dose of RhIG reliably protects against sensitization from an FMH of approximately **15 mL of fetal RBCs** (or about 30 mL of fetal whole blood)
+*   **The Risk:** Occasionally, a much larger FMH can occur, especially during a complicated delivery or trauma. If the FMH exceeds 15 mL of fetal RBCs, the standard dose of RhIG may be insufficient, and the mother could still become sensitized
+*   **The Solution: Screening and Quantification**
+    *   **Screening Test (Qualitative): Rosette Test**
+        *   Performed on a post-delivery maternal blood sample (from an RhD-negative mother delivering an RhD-positive infant)
+        *   Principle: Maternal sample is incubated with reagent anti-D. If D-positive fetal cells are present, the anti-D coats them. Indicator D-positive cells are added, which bind to the antibody-coated fetal cells, forming visible clusters or "rosettes" around the fetal cells when viewed microscopically
+        *   Interpretation: A positive rosette test suggests an FMH potentially larger than 15 mL of RBCs and indicates the need for a quantitative test
+    *   **Quantitative Test: Kleihauer-Betke (KB) Stain or Flow Cytometry**
+        *   **Kleihauer-Betke (KB) Stain:** Classic method. Based on the principle that fetal hemoglobin (HbF) is resistant to acid elution, while adult hemoglobin (HbA) is not. A maternal blood smear is treated with acid buffer, lysing adult cells but leaving fetal cells intact. The smear is stained, and fetal cells (containing HbF) appear bright pink/red, while adult "ghost" cells are pale. The percentage of fetal cells is counted microscopically
+        *   **Flow Cytometry:** More accurate, objective, and reproducible method. Uses fluorescently labeled antibodies against HbF (or sometimes anti-D) to quantify the proportion of fetal cells in the maternal sample
+    *   **Calculating Additional RhIG Dose**
+        1.  Determine the percentage of fetal cells (from KB or flow)
+        2.  Calculate the volume of FMH (whole blood): `% Fetal Cells x Maternal Blood Volume (est. 5000 mL)`
+        3.  Calculate the volume of fetal RBCs: `Volume of FMH (WB) x Fetal Hct (estimated or use 0.5)` *[Simpler calculation often used: `% Fetal Cells x 50 = mL of Fetal WB]*
+        4.  Determine the number of 300 µg RhIG vials needed: `Volume of Fetal RBCs / 15 mL per vial` (or `Volume of Fetal WB / 30 mL per vial`)
+        5.  **Always round up** to the next whole vial and **add one extra vial** as a safety margin
+        *Example:* KB shows 1% fetal cells. FMH = 0.01 x 5000 mL = 50 mL WB. Vials needed = (50 mL WB / 30 mL per vial) = 1.67 -> Round up to 2 vials, add 1 extra = **3 vials total**
+    *   **Administration:** The calculated dose of RhIG should be given within 72 hours of the sensitizing event (delivery)
+
+## **Prevention of HDFN Due to Other Blood Group Antibodies** {-}
+
+*   **The Challenge:** Currently, **there is NO equivalent immune globulin prophylaxis** available to prevent sensitization to other clinically significant red cell antigens like K, c, E, Fy<sup>a</sup>, Jk<sup>a</sup>, etc
+*   **Preventative Strategies (Limited)**
+    *   **Transfusion Practices:** The most effective strategy is careful transfusion practice for women of childbearing potential:
+        *   Avoid unnecessary transfusions
+        *   If transfusion is required, provide **antigen-negative units** whenever possible, especially for highly immunogenic antigens like K (i.e., give K-negative blood to K-negative individuals) and potentially Rh antigens (c, E) for RhD-positive women. This reduces the chance of primary alloimmunization via transfusion
+    *   **Early Detection:** While not prevention of sensitization, early detection of these antibodies during routine prenatal antibody screening allows for appropriate monitoring and management of the pregnancy if the fetus is at risk
+
+## **Key Terms** {-}
+
+*   **Rh Immune Globulin (RhIG):** A solution of concentrated IgG anti-D antibodies used to prevent RhD alloimmunization in RhD-negative individuals
+*   **Alloimmunization (Sensitization):** The development of antibodies against foreign antigens from the same species
+*   **Prophylaxis:** Action taken to prevent disease
+*   **Passive Immunization:** Providing temporary immunity by administering pre-formed antibodies (like RhIG)
+*   **Fetal-Maternal Hemorrhage (FMH):** Leakage of fetal blood into the maternal circulation
+*   **Rosette Test:** A qualitative screening test used to detect FMH exceeding the coverage of a standard RhIG dose
+*   **Kleihauer-Betke (KB) Stain:** A quantitative test using acid elution to determine the percentage of fetal red blood cells (containing HbF) in a maternal blood sample
+*   **Flow Cytometry (for FMH):** An automated quantitative method using fluorescent antibodies to detect and quantify fetal cells in maternal blood

@@ -1,0 +1,76 @@
+# WBC-Reduced Components {-}
+
+This section focuses on a crucial modification applied to cellular blood components: **Leukocyte Reduction**. This process involves removing the vast majority of white blood cells (WBCs or leukocytes) from Red Blood Cell (RBC) and Platelet units before transfusion. It has become a standard of practice in many parts of the world due to its significant benefits in reducing certain transfusion-related complications
+
+## **What are Leukocyte-Reduced Components?** {-}
+
+*   **Definition:** Blood components (primarily RBCs and Platelets) that have undergone a process to significantly decrease the number of contaminating leukocytes (WBCs) present in the final product
+*   **Goal:** To minimize the adverse effects associated with transfusing donor WBCs along with the intended therapeutic cells (RBCs or platelets)
+
+## **Why Leukoreduce? (Rationale & Benefits)** {-}
+
+Transfusing donor leukocytes can lead to several undesirable outcomes. Leukoreduction aims to mitigate these risks:
+
+*  ****Reduce Febrile Non-Hemolytic Transfusion Reactions (FNHTRs):** This is one of the most common transfusion reactions. It's often caused by:
+    *   Cytokines (like IL-1, IL-6, TNF-α) released by WBCs accumulating *during storage*
+    *   Recipient antibodies reacting against donor HLA antigens or other antigens present on the transfused WBCs
+    *   *Benefit:* Removing WBCs significantly reduces the cytokine load and the antigenic stimulus, thus lowering the incidence of FNHTRs
+*  ****Reduce/Prevent HLA Alloimmunization:** Exposure to foreign HLA antigens present on donor leukocytes can cause the recipient to develop HLA antibodies. This is particularly problematic for:
+    *   Patients requiring long-term platelet support (can lead to platelet refractoriness)
+    *   Patients awaiting organ or hematopoietic progenitor cell (HPC) transplantation (can complicate matching and increase rejection risk)
+    *   *Benefit:* Reducing the number of transfused WBCs decreases the recipient's exposure to foreign HLA antigens, lowering the risk of developing HLA antibodies
+*  ****Reduce Risk of Transmitting Cell-Associated Viruses:** Certain viruses, most notably **Cytomegalovirus (CMV)**, primarily reside within leukocytes
+    *   *Benefit:* Removing WBCs significantly reduces the amount of transmissible CMV. Leukoreduction is considered largely equivalent to providing CMV-seronegative blood ("CMV safe") for preventing transfusion-transmitted CMV infection, especially for RBCs. (Note: For highest-risk patients like CMV-negative transplant recipients receiving cells from a CMV-positive donor, CMV-seronegative units might still be preferred by some clinicians if available.)
+*  ****Potential Other Benefits (Less definitively proven or primary indications)**
+    *   May reduce transfusion-associated immunomodulation (TRIM) - the subtle immunosuppressive effects sometimes attributed to transfusion
+    *   May reduce transmission of certain bacteria that can be carried by WBCs
+
+## **How is Leukoreduction Achieved? (Methods)** {-}
+
+*  **Filtration:** This is the most common method
+    *   **Pre-storage Leukoreduction (Preferred Method):** Filtration occurs at the **blood collection center** shortly after collection, *before* the component is stored. This is typically done using specialized filters integrated into the blood collection set or attached via sterile connection devices
+        *   *Advantages:* Removes WBCs before significant cytokine accumulation occurs; allows for better quality control by the blood center
+    *   **Post-storage / Laboratory Leukoreduction:** Filtration occurs in the **hospital transfusion service laboratory** just before the unit is issued. Less common now for routine LR
+    *   **Bedside Leukoreduction:** Filtration occurs during transfusion using a specific **leukoreduction filter** at the patient's bedside
+        *   *Disadvantages:* Less effective at preventing FNHTRs caused by pre-formed cytokines; quality control is more variable; requires specific bedside filters distinct from standard blood filters
+*  ****Apheresis Collection:** Many modern apheresis instruments are designed to collect platelet products (and sometimes RBCs) that are already significantly leukocyte-reduced as part of the automated collection process
+*  ****Buffy Coat Removal (Less Common in North America):** A processing method used in some regions where the WBC-rich buffy coat layer is physically removed during component preparation
+
+## **Standards and Quality Control** {-}
+
+To be labeled as "Leukocytes Reduced," a component must meet defined standards for residual WBC content:
+
+*   **AABB / US Standard:** Residual WBC count must be **< 5 x 10⁶** per final component (for RBCs and apheresis platelets)
+*   **Council of Europe Standard:** Often stricter, requiring **< 1 x 10⁶** residual WBCs per final component
+*   **Quality Control:** Blood centers must perform regular QC testing on a sample of units to ensure their leukoreduction processes consistently meet these standards
+
+## **Which Components are Leukoreduced?** {-}
+
+*   **Red Blood Cells (RBCs)**
+*   **Platelets:** (both Apheresis/SDP and pooled WBD units)
+
+**Note** Plasma and Cryoprecipitate are essentially leukocyte-free due to the centrifugation processes used in their preparation, so leukoreduction is not applicable. Granulocytes are *never* leukoreduced, as leukocytes are the intended therapeutic component
+
+## **Usage: Universal vs. Indicated Leukoreduction** {-}
+
+*   **Universal Leukoreduction (ULR):** This is the standard practice in many developed countries (including the US, Canada, UK, etc.). **Nearly all cellular components (RBCs, Platelets) are leukoreduced for all patients.** This approach simplifies inventory management and ensures the benefits are provided broadly without needing specific physician orders for LR
+*   **Indicated Leukoreduction:** In regions without ULR, leukoreduction might be specifically ordered for patients with known indications (e.g., history of FNHTRs, transplant candidates, chronically transfused patients)
+
+## **Impact on Product** {-}
+
+*   **Expiration Date:** If performed using a **closed system** (e.g., pre-storage filtration, sterile connection), leukoreduction **does not change the original expiration date** of the component
+*   **Cell Loss:** There is a minimal loss of RBCs or platelets during the filtration process, but it's generally not considered clinically significant
+*   **Cost:** Leukoreduction adds a small incremental cost to the blood component due to the filter and processing
+
+## **Key Terms** {-}
+
+*   **Leukocyte (WBC):** White blood cell
+*   **Leukoreduction (LR):** The process of removing leukocytes from cellular blood components
+*   **Febrile Non-Hemolytic Transfusion Reaction (FNHTR):** A common reaction characterized by fever, chills, and sometimes rigors, not caused by red cell destruction
+*   **HLA Alloimmunization:** Development of antibodies against Human Leukocyte Antigens from a non-self source (like a transfusion)
+*   **Platelet Refractoriness:** Poor platelet count increment after transfusion, often due to HLA antibodies
+*   **Cytokines:** Signaling proteins released by cells (including WBCs) that mediate inflammation and immune responses
+*   **CMV (Cytomegalovirus):** A virus commonly transmitted via leukocytes
+*   **Pre-storage Leukoreduction:** Removal of WBCs at the blood center before storage (preferred method)
+*   **Bedside Leukoreduction:** Removal of WBCs during transfusion using a bedside filter (least preferred method)
+*   **Universal Leukoreduction (ULR):** Policy of providing leukoreduced components to essentially all patients

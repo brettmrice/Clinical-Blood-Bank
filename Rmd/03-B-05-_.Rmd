@@ -1,0 +1,24 @@
+# Transplantation {-}
+
+Transplantation offers a life-saving solution for irreversible organ failure (Solid Organ Transplantation - SOT) or bone marrow/immune system dysfunction (Hematopoietic Progenitor Cell - HPC Transplant). While the surgical techniques differ, both fields grapple with the fundamental physiological challenge of the recipient's immune system recognizing the donor tissue or cells as foreign. The resulting pathophysiology manifests primarily as **rejection** in SOT, where the recipient attacks the graft, and uniquely includes **Graft-versus-Host Disease (GVHD)** in allogeneic HPC transplants, where donor immune cells attack the recipient. Understanding these immune interactions, driven largely by HLA incompatibility, is paramount for successful transplantation and managing complications
+
+##  **Solid Organ Transplantation (SOT)** {-}
+
+*   **Goal:** Replace a failing organ (kidney, liver, heart, lung, etc.) with a healthy donor organ (allograft)
+*   **Core Problem:** Recipient's immune system recognizes the donor organ as foreign (via HLA and ABO antigens) and attacks it (**Rejection**)
+*   **Rejection Types:** Hyperacute (immediate, pre-formed antibodies), Acute (days/weeks, T-cell or antibody mediated), Chronic (months/years, slow fibrosis/vascular damage)
+*   **Prevention Strategy:** **ABO compatibility is essential**. HLA matching is prioritized (especially kidney). Pre-transplant crossmatching detects donor-specific antibodies (DSA). Lifelong **immunosuppression** is required for the recipient
+*   **Key Complication Focus:** Preventing **rejection** of the graft by the recipient
+
+##  **Hematopoietic Progenitor Cell (HPC) Transplantation (Stem Cell/Bone Marrow Transplant)** {-}
+
+*   **Goal:** Replace a patient's diseased or damaged bone marrow and immune system (for leukemia, marrow failure, immune deficiencies, etc.)
+*   **Sources:** Bone Marrow, Peripheral Blood Stem Cells (PBSC, most common), Umbilical Cord Blood
+*   **Types:** Autologous (patient's own cells - no rejection/GVHD), Allogeneic (donor cells - risk of rejection/GVHD, potential for Graft-vs-Tumor effect)
+*   **Core Problems (Allogeneic)**
+    *   **Graft Rejection:** Recipient's immune system destroys donor cells
+    *   **Graft-versus-Host Disease (GVHD):** **Donor T-cells** attack the recipient's tissues (skin, gut, liver) - a major complication unique to allo-HPC
+    *   **Infection:** Due to intense pre-transplant conditioning (chemo/radiation) and immunosuppression
+*   **Prevention Strategy:** **High-resolution HLA matching is critical**. Conditioning regimen eradicates disease and suppresses recipient immunity. GVHD prophylaxis (immunosuppression) is standard for allogeneic. **ABO compatibility is NOT a barrier** to transplant but requires careful transfusion management
+*   **Key Complication Focus:** Preventing/managing **GVHD** and **infection**, ensuring **engraftment**
+*   **Blood Support:** **Irradiated** cellular blood products are mandatory for HPC recipients to prevent Transfusion-Associated GVHD

@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Reagent RBCs | Blood Bank</title>
+<meta name="author" content="Brett M. Rice">
+<meta name="description" content="Just like we need known antibodies (in our grouping sera) to find unknown antigens on patient cells, we need known red cells (with specific antigens) to find unknown antibodies in patient plasma!...">
+<meta name="generator" content="bookdown 0.42 with bs4_book()">
+<meta property="og:title" content="Reagent RBCs | Blood Bank">
+<meta property="og:type" content="book">
+<meta property="og:description" content="Just like we need known antibodies (in our grouping sera) to find unknown antigens on patient cells, we need known red cells (with specific antigens) to find unknown antibodies in patient plasma!...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Reagent RBCs | Blood Bank">
+<meta name="twitter:description" content="Just like we need known antibodies (in our grouping sera) to find unknown antigens on patient cells, we need known red cells (with specific antigens) to find unknown antibodies in patient plasma!...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><meta name="google-adsense-account" content="ca-pub-1344282930858290">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JERRQQFPF4"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JERRQQFPF4');
+    </script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="toc.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">Blood Bank</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">About</a></li>
+<li><a class="" href="content-areas.html">Content Areas</a></li>
+<li><a class="" href="author.html">Author</a></li>
+<li><a class="" href="ascp-boc.html">ASCP BOC</a></li>
+<li><a class="" href="reading-list.html">Reading List</a></li>
+<li class="book-part">Blood Products</li>
+<li><a class="" href="donors.html">Donors</a></li>
+<li><a class="" href="qualification.html">Qualification</a></li>
+<li><a class="" href="processing.html">Processing</a></li>
+<li><a class="" href="adverse-reactions-1.html">Adverse Reactions</a></li>
+<li><a class="" href="special-donations-1.html">Special Donations</a></li>
+<li><a class="" href="processing-1.html">Processing</a></li>
+<li><a class="" href="fda-aabb-requirements.html">FDA, AABB Requirements</a></li>
+<li><a class="" href="testing.html">Testing</a></li>
+<li><a class="" href="labeling.html">Labeling</a></li>
+<li><a class="" href="storage.html">Storage</a></li>
+<li><a class="" href="anticoagulantsadditives.html">Anticoagulants/Additives</a></li>
+<li><a class="" href="temperature-requirements.html">Temperature Requirements</a></li>
+<li><a class="" href="transportation.html">Transportation</a></li>
+<li><a class="" href="stored-products.html">Stored Products</a></li>
+<li><a class="" href="expiration.html">Expiration</a></li>
+<li><a class="" href="blood-components.html">Blood Components</a></li>
+<li><a class="" href="red-blood-cells.html">Red Blood Cells</a></li>
+<li><a class="" href="cryoprecipitated-ahf.html">Cryoprecipitated AHF</a></li>
+<li><a class="" href="platelets.html">Platelets</a></li>
+<li><a class="" href="plasma.html">Plasma</a></li>
+<li><a class="" href="granulocytes.html">Granulocytes</a></li>
+<li><a class="" href="wbc-reduced-components.html">WBC-Reduced Components</a></li>
+<li><a class="" href="frozendeglycerolized-rbcs.html">Frozen/Deglycerolized RBCs</a></li>
+<li><a class="" href="apheresis-products.html">Apheresis Products</a></li>
+<li><a class="" href="fractionation-products.html">Fractionation Products</a></li>
+<li><a class="" href="whole-blood.html">Whole Blood</a></li>
+<li><a class="" href="washed-rbcs.html">Washed RBCs</a></li>
+<li><a class="" href="rejuvenated-rbcs.html">Rejuvenated RBCs</a></li>
+<li><a class="" href="irradiated-components.html">Irradiated Components</a></li>
+<li><a class="" href="hematopoietic-progenitors.html">Hematopoietic Progenitors</a></li>
+<li><a class="" href="blood-component-qc.html">Blood Component QC</a></li>
+<li class="book-part">Blood Group Systems</li>
+<li><a class="" href="genetics.html">Genetics</a></li>
+<li><a class="" href="basic.html">Basic</a></li>
+<li><a class="" href="molecular.html">Molecular</a></li>
+<li><a class="" href="blood-group-inheritance.html">Blood Group Inheritance</a></li>
+<li><a class="" href="biochemistryantigens.html">Biochemistry/Antigens</a></li>
+<li><a class="" href="abo.html">ABO</a></li>
+<li><a class="" href="lewis.html">Lewis</a></li>
+<li><a class="" href="rh.html">Rh</a></li>
+<li><a class="" href="mns.html">MNS</a></li>
+<li><a class="" href="p1pkglobosidep.html">P1PK/Globoside(P)</a></li>
+<li><a class="" href="ii.html">Ii</a></li>
+<li><a class="" href="kell.html">Kell</a></li>
+<li><a class="" href="kidd.html">Kidd</a></li>
+<li><a class="" href="duffy.html">Duffy</a></li>
+<li><a class="" href="lutheran.html">Lutheran</a></li>
+<li><a class="" href="other-blood-groups.html">Other Blood Groups</a></li>
+<li><a class="" href="high-prevalence-antigens.html">High Prevalence Antigens</a></li>
+<li><a class="" href="low-prevalence-antigens.html">Low Prevalence Antigens</a></li>
+<li><a class="" href="hla.html">HLA</a></li>
+<li><a class="" href="platelet-specific.html">Platelet-Specific</a></li>
+<li><a class="" href="granulocyte-specific.html">Granulocyte-Specific</a></li>
+<li><a class="" href="role-of-blood-groups-in-transfusion.html">Role of Blood Groups in Transfusion</a></li>
+<li><a class="" href="immunogenicity.html">Immunogenicity</a></li>
+<li><a class="" href="antigen-prevalence.html">Antigen Prevalence</a></li>
+<li class="book-part">Immunology &amp; Physiology</li>
+<li><a class="" href="immunology.html">Immunology</a></li>
+<li><a class="" href="immune-response.html">Immune response</a></li>
+<li><a class="" href="primary-secondary.html">Primary &amp; Secondary</a></li>
+<li><a class="" href="b-t-cells-macrophages.html">B &amp; T cells, Macrophages</a></li>
+<li><a class="" href="genetics-1.html">Genetics</a></li>
+<li><a class="" href="immunoglobulins.html">Immunoglobulins</a></li>
+<li><a class="" href="classes-subclasses.html">Classes &amp; Subclasses</a></li>
+<li><a class="" href="structure.html">Structure</a></li>
+<li><a class="" href="properties.html">Properties</a></li>
+<li><a class="" href="ag-ab-interactions.html">Ag-Ab Interactions</a></li>
+<li><a class="" href="principles.html">Principles</a></li>
+<li><a class="" href="testing-1.html">Testing</a></li>
+<li><a class="" href="complement.html">Complement</a></li>
+<li><a class="" href="pathway-mechanisms.html">Pathway Mechanisms</a></li>
+<li><a class="" href="biologic-properties.html">Biologic Properties</a></li>
+<li><a class="" href="physiology-pathophysiology.html">Physiology &amp; Pathophysiology</a></li>
+<li><a class="" href="blood-physiology.html">Blood Physiology</a></li>
+<li><a class="" href="circulation-volume.html">Circulation &amp; Volume</a></li>
+<li><a class="" href="composition-function.html">Composition &amp; Function</a></li>
+<li><a class="" href="cell-survival.html">Cell Survival</a></li>
+<li><a class="" href="cell-metabolism.html">Cell Metabolism</a></li>
+<li><a class="" href="hemostasis-coagulation.html">Hemostasis &amp; Coagulation</a></li>
+<li><a class="" href="factors-disorders.html">Factors &amp; Disorders</a></li>
+<li><a class="" href="plt-functions-disorders.html">PLT Functions &amp; Disorders</a></li>
+<li><a class="" href="hdfn.html">HDFN</a></li>
+<li><a class="" href="pathophysiology.html">Pathophysiology</a></li>
+<li><a class="" href="detection.html">Detection</a></li>
+<li><a class="" href="treatment.html">Treatment</a></li>
+<li><a class="" href="prevention.html">Prevention</a></li>
+<li><a class="" href="cytopenias-1.html">Cytopenias</a></li>
+<li><a class="" href="anemia.html">Anemia</a></li>
+<li><a class="" href="thrombocytopenia.html">Thrombocytopenia</a></li>
+<li><a class="" href="neutropenia.html">Neutropenia</a></li>
+<li><a class="" href="transplantation-1.html">Transplantation</a></li>
+<li><a class="" href="solid-organ.html">Solid Organ</a></li>
+<li><a class="" href="hpc.html">HPC</a></li>
+<li class="book-part">Serology &amp; Molecular</li>
+<li><a class="" href="routine-tests.html">Routine Tests</a></li>
+<li><a class="" href="blood-grouping.html">Blood Grouping</a></li>
+<li><a class="" href="compatibility.html">Compatibility</a></li>
+<li><a class="" href="antibody-detection.html">Antibody Detection</a></li>
+<li><a class="" href="crossmatch.html">Crossmatch</a></li>
+<li><a class="" href="ab-id-significance.html">Ab ID &amp; Significance</a></li>
+<li><a class="" href="dat.html">DAT</a></li>
+<li><a class="" href="reagents.html">Reagents</a></li>
+<li><a class="" href="antiglobulin-sera.html">Antiglobulin Sera</a></li>
+<li><a class="" href="blood-grouping-sera.html">Blood Grouping Sera</a></li>
+<li><a class="active" href="reagent-rbcs.html">Reagent RBCs</a></li>
+<li><a class="" href="special-tests-reagents.html">Special Tests &amp; Reagents</a></li>
+<li><a class="" href="enzymes.html">Enzymes</a></li>
+<li><a class="" href="enhancement-media.html">Enhancement Media</a></li>
+<li><a class="" href="lectins.html">Lectins</a></li>
+<li><a class="" href="adsorptions.html">Adsorptions</a></li>
+<li><a class="" href="elutions.html">Elutions</a></li>
+<li><a class="" href="titrations-1.html">Titrations</a></li>
+<li><a class="" href="cell-separations.html">Cell Separations</a></li>
+<li><a class="" href="elisa.html">ELISA</a></li>
+<li><a class="" href="molecular-techniques.html">Molecular Techniques</a></li>
+<li><a class="" href="neutralization.html">Neutralization</a></li>
+<li><a class="" href="thiol-reagents.html">Thiol Reagents</a></li>
+<li><a class="" href="immunofluorescence.html">Immunofluorescence</a></li>
+<li><a class="" href="solid-phase.html">Solid Phase</a></li>
+<li><a class="" href="column-agglutination.html">Column Agglutination</a></li>
+<li><a class="" href="chloroquine-diphosphate.html">Chloroquine Diphosphate</a></li>
+<li><a class="" href="edta-glycine-acid.html">EDTA-Glycine Acid</a></li>
+<li><a class="" href="quality-assurance.html">Quality Assurance</a></li>
+<li><a class="" href="blood-samples.html">Blood Samples</a></li>
+<li><a class="" href="reagents-1.html">Reagents</a></li>
+<li><a class="" href="test-procedures.html">Test Procedures</a></li>
+<li class="book-part">Transfusion Practice</li>
+<li><a class="" href="indications.html">Indications</a></li>
+<li><a class="" href="component-therapy.html">Component Therapy</a></li>
+<li><a class="" href="adverse-effects.html">Adverse Effects</a></li>
+<li><a class="" href="immunologic.html">Immunologic</a></li>
+<li><a class="" href="nonimmunologic.html">Nonimmunologic</a></li>
+<li><a class="" href="ttds.html">TTDs</a></li>
+<li><a class="" href="apheresis-extracorporeal-circulation.html">Apheresis &amp; Extracorporeal Circulation</a></li>
+<li><a class="" href="blood-administration-patient-blood-management.html">Blood Administration &amp; Patient Blood Management</a></li>
+</ul>
+
+        <div class="book-extra" style="display:none;">
+          <p><a id="book-repo" href="https://github.com/brettmrice/Clinical-Blood-Bank/blob">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="reagent-rbcs" class="section level1 unnumbered">
+<h1>Reagent RBCs<a class="anchor" aria-label="anchor" href="#reagent-rbcs"><i class="fas fa-link"></i></a>
+</h1>
+<p>Just like we need known antibodies (in our grouping sera) to find unknown antigens on patient cells, we need known red cells (with specific antigens) to find unknown antibodies in patient plasma! They are the “bait” we use to catch those antibodies</p>
+<p>Think of them as our reference library of red blood cells, each carefully selected and characterized</p>
+<div id="what-are-reagent-red-blood-cells" class="section level2 unnumbered">
+<h2>
+<strong>What Are Reagent Red Blood Cells?</strong><a class="anchor" aria-label="anchor" href="#what-are-reagent-red-blood-cells"><i class="fas fa-link"></i></a>
+</h2>
+<p>These are suspensions of human red blood cells with <strong>known antigen profiles</strong>. They are commercially prepared and used in various tests to detect and identify red blood cell antibodies in a patient’s serum or plasma, or to confirm ABO grouping</p>
+</div>
+<div id="main-types-of-reagent-rbcs-and-their-uses" class="section level2 unnumbered">
+<h2>
+<strong>Main Types of Reagent RBCs and Their Uses</strong><a class="anchor" aria-label="anchor" href="#main-types-of-reagent-rbcs-and-their-uses"><i class="fas fa-link"></i></a>
+</h2>
+<p>We use different types of reagent RBCs for different jobs:</p>
+<div id="abo-reverse-grouping-cells-a1-cells-and-b-cells" class="section level3 unnumbered">
+<h3>
+<strong>ABO Reverse Grouping Cells (A1 Cells and B Cells)</strong><a class="anchor" aria-label="anchor" href="#abo-reverse-grouping-cells-a1-cells-and-b-cells"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Purpose:</strong> Used in <strong>Reverse Typing</strong> to detect the expected naturally occurring ABO antibodies (anti-A and anti-B) in patient plasma/serum, confirming the forward type</li>
+<li>
+<strong>Composition</strong>
+<ul>
+<li>
+<strong>A1 Cells:</strong> Red cells obtained from known Group A1 individuals. They possess the A antigen (specifically the A1 subtype, which reacts strongly with most anti-A)</li>
+<li>
+<strong>B Cells:</strong> Red cells obtained from known Group B individuals. They possess the B antigen</li>
+</ul>
+</li>
+<li>
+<strong>Why Use Them?:</strong> Landsteiner’s Rule! We expect individuals to have antibodies against the ABO antigens they <em>lack</em>. These cells confirm the presence (or absence) of those expected antibodies
+<ul>
+<li>Group A patient plasma should react with B cells (contains anti-B)</li>
+<li>Group B patient plasma should react with A1 cells (contains anti-A)</li>
+<li>Group O patient plasma should react with BOTH A1 and B cells (contains anti-A and anti-B)</li>
+<li>Group AB patient plasma should react with NEITHER A1 nor B cells (contains neither antibody)</li>
+</ul>
+</li>
+<li>
+<strong>Source:</strong> Pooled or single donor sources of known A1 and B phenotypes</li>
+</ul>
+</div>
+<div id="antibody-screening-cells" class="section level3 unnumbered">
+<h3>
+<strong>Antibody Screening Cells</strong><a class="anchor" aria-label="anchor" href="#antibody-screening-cells"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Purpose:</strong> Used in the <strong>Antibody Screen (Detection) Test</strong> to detect the presence of <em>unexpected</em>, clinically significant antibodies in patient plasma/serum</li>
+<li>
+<strong>Composition</strong>
+<ul>
+<li>Sets of <strong>2 or 3 different vials</strong>, each containing red cells from a single <strong>Group O</strong> donor</li>
+<li>
+<strong>Why Group O?:</strong> Crucial! This prevents reactions with the patient’s expected anti-A or anti-B, which would interfere with detecting the <em>unexpected</em> antibodies we’re looking for</li>
+<li>
+<strong>Antigen Profile:</strong> These cells are extensively phenotyped. Between the 2 or 3 vials in the set, they are selected to express (usually in homozygous form where possible, to enhance reactivity via dosage) the <strong>most common and clinically significant antigens</strong> from various blood group systems (e.g., D, C, c, E, e, K, k, Fya, Fyb, Jka, Jkb, Lea, Leb, P1, M, N, S, s)</li>
+<li>
+<strong>Antigram:</strong> Comes with a detailed sheet (<strong>antigram</strong>) listing the antigen profile of the cells in each vial</li>
+</ul>
+</li>
+<li>
+<strong>How They Work:</strong> If a patient’s plasma contains an antibody (like anti-K), and one of the screening cells has the K antigen, a reaction (agglutination/hemolysis) will occur during the IAT procedure, indicating a positive screen</li>
+</ul>
+</div>
+<div id="antibody-identification-panel-cells" class="section level3 unnumbered">
+<h3>
+<strong>Antibody Identification Panel Cells</strong><a class="anchor" aria-label="anchor" href="#antibody-identification-panel-cells"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Purpose:</strong> Used to <strong>determine the specificity</strong> of an unexpected antibody detected by the antibody screen</li>
+<li>
+<strong>Composition</strong>
+<ul>
+<li>Larger sets of reagent RBCs, typically <strong>11 to 20 different vials</strong>, each from a single <strong>Group O</strong> donor</li>
+<li>
+<strong>Why Group O?:</strong> Same reason as screening cells – avoids ABO interference</li>
+<li>
+<strong>Antigen Profile:</strong> Like screening cells, these are extensively phenotyped, but the key difference is the <strong>VARIETY</strong> of antigen patterns across the vials. Each vial has a unique combination of antigens present or absent. This variation is essential for the “rule-out” process used in identification</li>
+<li>
+<strong>Antigram:</strong> Accompanied by a comprehensive antigram detailing the phenotype of each cell vial. Often includes zygosity information (e.g., Jk(a+b-) vs Jk(a+b+)) which helps identify antibodies showing dosage</li>
+</ul>
+</li>
+<li>
+<strong>How They Work:</strong> By testing the patient’s plasma against all cells in the panel and comparing the pattern of positive/negative reactions to the known antigen profiles on the antigram, we can systematically rule out specificities and pinpoint the identity of the antibody(ies)</li>
+</ul>
+</div>
+<div id="less-common-routine-qc-specific" class="section level3 unnumbered">
+<h3>
+<strong>Less Common Routine / QC Specific</strong><a class="anchor" aria-label="anchor" href="#less-common-routine-qc-specific"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Known Typed Cells for QC:</strong> Vials of RBCs with known ABO/Rh types (e.g., A Pos, O Neg) used for daily quality control of blood grouping sera</li>
+<li>
+<strong>Specialized Cells:</strong> Sometimes used in reference labs, e.g., cord cells (lack I antigen), enzyme-treated cells, cells lacking high-frequency antigens</li>
+</ul>
+</div>
+</div>
+<div id="essential-characteristics-of-reagent-rbcs" class="section level2 unnumbered">
+<h2>
+<strong>Essential Characteristics of Reagent RBCs</strong><a class="anchor" aria-label="anchor" href="#essential-characteristics-of-reagent-rbcs"><i class="fas fa-link"></i></a>
+</h2>
+<ul>
+<li>
+<strong>Source:</strong> Human donors (screened for infectious diseases)</li>
+<li>
+<strong>Preservative Solution:</strong> Suspended in a special preservative solution designed to maintain red cell viability and antigen integrity for the duration of their shelf life. Contains buffers, nutrients, and often antibiotics/antifungals</li>
+<li>
+<strong>Expiration Date:</strong> Absolutely critical! Reagent RBCs have a limited shelf life (often 2-6 weeks) because antigens degrade over time. Using expired cells can lead to <strong>false-negative</strong> results (especially for weakly expressed or labile antigens like P1, Lewis, M)</li>
+<li>
+<strong>Storage:</strong> Must be stored under strict refrigerated conditions (usually 1-6°C or per manufacturer) to maintain stability. <strong>NEVER FREEZE!</strong> Freezing lyses red cells</li>
+<li>
+<strong>Appearance:</strong> Should be inspected visually before use for any signs of hemolysis (red supernatant) or bacterial contamination (clots, unusual turbidity), which would render them unsuitable</li>
+</ul>
+</div>
+<div id="the-antigram-your-roadmap" class="section level2 unnumbered">
+<h2>
+<strong>The Antigram: Your Roadmap</strong><a class="anchor" aria-label="anchor" href="#the-antigram-your-roadmap"><i class="fas fa-link"></i></a>
+</h2>
+<p>The antigram is the information sheet provided by the manufacturer that details the antigen profile of each vial of screening cells or panel cells. It’s essential for interpretation!</p>
+<ul>
+<li>
+<strong>Layout:</strong> Typically lists the vial numbers across the top and the antigens tested down the side</li>
+<li>
+<strong>Symbols:</strong> Usually uses “+” to indicate the antigen is present and “0” or “-” to indicate it’s absent</li>
+<li>
+<strong>Key Information:</strong> Lot number, expiration date, and the detailed phenotype are crucial pieces of data</li>
+</ul>
+<p>Reagent RBCs are indispensable for antibody detection and identification. Knowing which type to use for which test, understanding their characteristics, respecting expiration dates, and correctly interpreting results based on the antigram are all fundamental skills in the blood bank!</p>
+</div>
+<div id="key-terms-79" class="section level2 unnumbered">
+<h2>
+<strong>Key Terms</strong><a class="anchor" aria-label="anchor" href="#key-terms-79"><i class="fas fa-link"></i></a>
+</h2>
+<ul>
+<li>
+<strong>Reagent Red Blood Cells (RBCs):</strong> Commercially prepared suspensions of human red blood cells with known antigen phenotypes, used in various blood bank tests</li>
+<li>
+<strong>A1 Cells / B Cells:</strong> Reagent RBCs used in ABO reverse grouping to detect anti-A and anti-B in patient plasma/serum</li>
+<li>
+<strong>Screening Cells:</strong> Sets of 2 or 3 Group O reagent RBCs with known phenotypes for common, clinically significant antigens, used for antibody detection (antibody screen)</li>
+<li>
+<strong>Panel Cells:</strong> Larger sets (11-20+) of Group O reagent RBCs, each with a unique pattern of known antigens, used for antibody identification</li>
+<li>
+<strong>Group O:</strong> Blood group lacking A and B antigens. Screening and panel cells MUST be Group O to avoid interference from patient anti-A/anti-B</li>
+<li>
+<strong>Antigram:</strong> The profile sheet accompanying screening or panel cells that details the specific antigen makeup (+ or 0) of the cells in each vial</li>
+<li>
+<strong>Phenotype:</strong> The observable characteristics of a red blood cell, specifically the profile of antigens present on its surface as determined by testing</li>
+<li>
+<strong>Dosage Effect:</strong> A phenomenon where antibodies react more strongly with red cells having a double dose (homozygous) of an antigen compared to a single dose (heterozygous). Screening/panel cells often include homozygous expressions to aid detection</li>
+<li>
+<strong>Preservative Solution:</strong> The special medium reagent RBCs are suspended in to maintain viability and antigen integrity during storage</li>
+<li>
+<strong>Expiration Date:</strong> The date after which reagent RBCs should not be used due to potential degradation of antigens, leading to unreliable results</li>
+<li>
+<strong>Hemolysis:</strong> The rupture of red blood cells, releasing hemoglobin. Visible hemolysis in reagent RBCs indicates they are unsuitable for use</li>
+</ul>
+</div>
+</div>
+<!-- Scoll to TOC element -->
+<script defer>
+  // adjust TOC scroll to selected element/topic
+  function scroll_to_element() {
+    header_height = document.getElementsByTagName('header')[0].offsetHeight/2;
+    toc_element_position = document.querySelector('.book-toc > li > a.active').offsetTop;
+    if(document.querySelector('.book-toc > li > a.active').offsetLeft == 0) {
+      toc_element_position1 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetTop;
+      toc_element_position2 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetHeight;
+      toc_element_position = toc_element_position1 + toc_element_position2;
+    }
+    document.getElementsByTagName('header')[0].scrollTo(0, toc_element_position - header_height, 'smooth');
+  }
+  window.onload = scroll_to_element();
+  
+  // hide those labes that take up multiple lines
+  l = [];
+  function hide_label() {
+    document
+      .querySelectorAll('.book-toc > li')
+      .forEach(elem => {
+        window
+          .getComputedStyle(elem)
+          .textTransform === "uppercase" 
+          && 
+          !elem.classList
+          .contains('book-part') 
+          ? l.push(elem) 
+          : '';
+      });
+  }
+  hide_label();
+  head = document.getElementsByTagName('header')[0];
+  head.addEventListener('scroll', () => {
+    count = 0;
+    prev_elem = '';
+    l.forEach((elem) => {
+      if(count === 0) {
+        initial_y = elem.getBoundingClientRect().y + 20;
+        count = 1;
+      } else {
+        if(elem.getBoundingClientRect().y < initial_y) {
+          prev_elem.classList.add('hide_label');
+        } else {
+          prev_elem.classList.remove('hide_label');
+        }
+      }
+      prev_elem = elem;
+    });
+  });
+</script><div class="chapter-nav">
+<div class="prev"><a href="blood-grouping-sera.html">Blood Grouping Sera</a></div>
+<div class="next"><a href="special-tests-reagents.html">Special Tests &amp; Reagents</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#reagent-rbcs">Reagent RBCs</a></li>
+<li><a class="nav-link" href="#what-are-reagent-red-blood-cells">What Are Reagent Red Blood Cells?</a></li>
+<li>
+<a class="nav-link" href="#main-types-of-reagent-rbcs-and-their-uses">Main Types of Reagent RBCs and Their Uses</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#abo-reverse-grouping-cells-a1-cells-and-b-cells">ABO Reverse Grouping Cells (A1 Cells and B Cells)</a></li>
+<li><a class="nav-link" href="#antibody-screening-cells">Antibody Screening Cells</a></li>
+<li><a class="nav-link" href="#antibody-identification-panel-cells">Antibody Identification Panel Cells</a></li>
+<li><a class="nav-link" href="#less-common-routine-qc-specific">Less Common Routine / QC Specific</a></li>
+</ul>
+</li>
+<li><a class="nav-link" href="#essential-characteristics-of-reagent-rbcs">Essential Characteristics of Reagent RBCs</a></li>
+<li><a class="nav-link" href="#the-antigram-your-roadmap">The Antigram: Your Roadmap</a></li>
+<li><a class="nav-link" href="#key-terms-79">Key Terms</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/brettmrice/Clinical-Blood-Bank/blob/blob/main/Rmd/04-B-03.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/brettmrice/Clinical-Blood-Bank/blob/edit/main/Rmd/04-B-03.Rmd" target="_blank">Edit this page <i class="fab fa-github"></i></a></li>
+          <li><a id="buymeacoffee" href="https://buymeacoffee.com/bloodcellid" target="_blank">NEED Caffeine</a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3" style="text-align: center; flex: 100%; max-width: 100%;">
+    <p>Written by Brett M. Rice | Updated 2025-04-07 | Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
+  </div>
+
+  <!--div class="col-12 col-md-6 mt-3">
+    <p>Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
+  </div-->
+
+</div></div>
+</footer>
+</body>
+</html>

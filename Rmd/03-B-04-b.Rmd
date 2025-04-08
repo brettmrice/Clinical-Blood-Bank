@@ -1,0 +1,143 @@
+# Thrombocytopenia {-}
+
+**Thrombocytopenia** simply means having a lower-than-normal number of platelets circulating in the blood (typically defined as <150,000/µL or <150 x 10<sup>9</sup>/L). Platelets are our tiny "first responders" for stopping bleeding, so when their numbers drop, the primary risk is **bleeding**
+
+Just like with anemia, thrombocytopenia isn't a disease itself but a sign of an underlying issue. We need to figure out *why* the platelet count is low. The causes fall nicely into **non-immune** and **immune** categories
+
+## **Non-Immune Thrombocytopenia: When Antibodies Aren't the Main Culprit** {-}
+
+These causes involve problems with platelet production, non-antibody-mediated destruction or consumption, or platelets getting stuck somewhere
+
+### **Pathophysiology (How it Happens)** {-}
+
+*  **Decreased Platelet Production:** The bone marrow "factory" isn't making enough platelets
+    *   **Bone Marrow Failure/Suppression**
+        *   *Aplastic Anemia:* Failure of the marrow to produce all cell lines, including megakaryocytes (platelet precursors)
+        *   *Leukemia, Lymphoma, Myelodysplastic Syndromes (MDS):* Malignant cells infiltrate and crowd out normal marrow elements, including megakaryocytes
+        *   *Metastatic Cancer:* Cancer cells from elsewhere invade the marrow
+        *   *Chemotherapy/Radiation Therapy:* These treatments damage rapidly dividing cells, including hematopoietic stem cells and megakaryocytes
+        *   *Certain Viral Infections:* (e.g., HIV, Hepatitis C, CMV, EBV) can directly suppress marrow production
+        *   *Alcohol Toxicity:* Chronic heavy alcohol use suppresses marrow function
+    *   **Nutritional Deficiencies:** Severe Vitamin B12 or Folate deficiency can impair DNA synthesis, affecting megakaryocyte maturation and platelet production (often part of pancytopenia in megaloblastic anemia)
+    *   **Inherited Syndromes:** Rare genetic conditions affect megakaryocyte development (e.g., Congenital Amegakaryocytic Thrombocytopenia - CAMT, Thrombocytopenia Absent Radii - TAR syndrome)
+
+*  **Increased Platelet Destruction or Consumption (Non-Immune):** Platelets are being used up or destroyed too quickly by mechanisms not primarily involving anti-platelet antibodies
+    *   **Disseminated Intravascular Coagulation (DIC):** Widespread, uncontrolled activation of both coagulation and fibrinolysis. Platelets are consumed rapidly in the formation of microthrombi throughout the circulation
+    *   **Thrombotic Microangiopathies (TMAs):** Conditions characterized by platelet aggregation in small blood vessels, leading to consumption and organ damage
+        *   *Thrombotic Thrombocytopenic Purpura (TTP):* Usually due to deficiency (often autoimmune) of the enzyme ADAMTS13, which normally cleaves large von Willebrand Factor (vWF) multimers. Uncleaved large vWF multimers cause spontaneous platelet aggregation in the microvasculature
+        *   *Hemolytic Uremic Syndrome (HUS):* Often triggered by Shiga toxin-producing bacteria (like E. coli O157:H7). Toxin damages endothelial cells, leading to platelet activation and microthrombi formation, particularly affecting the kidneys
+    *   **Mechanical Destruction:** Physical shearing forces damage platelets (e.g., malfunctioning prosthetic heart valves, extracorporeal circuits like ECMO or cardiopulmonary bypass)
+    *   **Giant Hemangiomas (Kasabach-Merritt Syndrome):** Platelets become trapped and consumed within large vascular tumors
+
+*  **Sequestration:** Platelets get pooled or trapped, reducing the number in active circulation
+    *   **Hypersplenism:** An enlarged spleen (due to various causes like liver cirrhosis, portal hypertension, lymphoma, infections) traps an excessive proportion of platelets (normally holds ~1/3, can hold up to 90% when enlarged)
+
+### **Detection (Finding the Cause)** {-}
+
+*   **Clinical Assessment:** History (meds, alcohol, infections, bleeding pattern, family history), physical exam (petechiae, purpura, ecchymoses, splenomegaly, signs of underlying disease)
+*   **Laboratory Tests**
+    *   **Complete Blood Count (CBC) with Differential & Platelet Count:** Confirms thrombocytopenia. Check WBC and RBC lines for other cytopenias (pancytopenia suggests marrow failure)
+    *   **Peripheral Blood Smear Review:** **ESSENTIAL!**
+        *   Confirms low platelet count (visual estimate)
+        *   Rules out **pseudothrombocytopenia** (platelet clumping, usually EDTA-dependent artifact - redraw in sodium citrate tube!)
+        *   Assesses platelet morphology: Giant platelets (inherited syndromes like Bernard-Soulier, ITP), platelet fragments?
+        *   Looks for associated findings: Schistocytes (fragmented RBCs - hallmark of TTP/HUS/DIC), blasts (leukemia), teardrop cells (marrow infiltration), hypersegmented neutrophils (B12/folate deficiency)
+    *   **Coagulation Studies (PT, aPTT, Fibrinogen, D-dimer):** Crucial if DIC is suspected (prolonged PT/aPTT, low fibrinogen, high D-dimer)
+    *   **Liver Function Tests / Renal Function Tests:** Assess for underlying organ disease
+    *   **Bone Marrow Aspirate/Biopsy:** Indicated if decreased production is suspected or the cause remains unclear. Assesses cellularity, presence/morphology of megakaryocytes, infiltrative processes
+    *   **ADAMTS13 Activity:** Specific test for TTP (activity usually <10%)
+    *   **Infectious Disease Testing:** (HIV, HCV, etc., if suspected)
+
+### **Treatment** {-}
+
+Treatment MUST address the underlying cause:
+
+*   **Decreased Production:** Treat the underlying condition (e.g., leukemia chemo, B12/folate replacement, stop offending drug/alcohol). Thrombopoietin Receptor Agonists (TPO-RAs like Romiplostim, Eltrombopag) can stimulate platelet production in some settings (e.g., aplastic anemia, chemo-induced). Stem cell transplant for aplastic anemia/leukemia
+*   **Increased Destruction/Consumption**
+    *   *DIC:* Treat underlying trigger (sepsis, trauma), supportive care with blood components (FFP, Cryo, Platelets)
+    *   *TTP:* **Plasma Exchange (PEX)** is life-saving! Removes autoantibodies and large vWF multimers, replenishes ADAMTS13. Immunosuppression often added
+    *   *HUS:* Primarily supportive care (especially renal support). PEX less effective than in TTP. Eculizumab (anti-C5 antibody) for atypical HUS
+*   **Sequestration:** Treat underlying cause of splenomegaly if possible. Splenectomy is rarely done just for sequestration but may improve counts if done for another reason
+*   **Platelet Transfusion:** Key supportive measure when counts are critically low (<10-20,000/µL for prophylaxis against spontaneous bleeding) or if the patient has active, significant bleeding. **Transfusion treats the symptom (low count/bleeding), not the cause**
+
+## **Immune Thrombocytopenia: When the Immune System Attacks Platelets** {-}
+
+Here, antibodies are the primary drivers of platelet destruction
+
+### **Pathophysiology (How it Happens)** {-}
+
+*  **Immune Thrombocytopenia (ITP):** (Formerly Idiopathic Thrombocytopenic Purpura)
+    *   **Mechanism:** Autoantibodies (usually **IgG**) are produced against platelet surface glycoproteins (most commonly **GPIIb/IIIa** or **GPIb/IX**). These antibody-coated platelets are recognized by Fc receptors on macrophages, primarily in the **spleen**, leading to premature clearance (**opsonization and phagocytosis**). Some antibodies may also impair megakaryocyte function, contributing to reduced production
+    *   **Types**
+        *   *Primary ITP:* No identifiable underlying cause
+        *   *Secondary ITP:* Associated with other conditions (e.g., SLE, HIV, HCV, CLL, certain drugs)
+
+*  **Alloimmune Thrombocytopenia:** Antibodies against non-self platelet antigens
+    *   **Neonatal Alloimmune Thrombocytopenia (NAIT):** Mother lacks a specific Human Platelet Antigen (HPA, most commonly **HPA-1a**) that the fetus inherits from the father. Mother produces **IgG alloantibodies** against the fetal HPA during pregnancy. These antibodies cross the placenta and destroy fetal/neonatal platelets. Can cause severe thrombocytopenia and risk of intracranial hemorrhage in the fetus/newborn. Analogous to HDFN, but for platelets
+    *   **Post-Transfusion Purpura (PTP):** Rare but serious. Occurs ~1-2 weeks after transfusion. Patients (usually multiparous women negative for HPA-1a) develop high-titer **anti-HPA-1a** (or other HPA antibodies). Paradoxically, these antibodies destroy *both* transfused antigen-positive platelets *and* the patient's own antigen-negative platelets (mechanism unclear, possibly bystander destruction or immune complex formation). Results in sudden, severe thrombocytopenia
+
+*  **Drug-Induced Immune Thrombocytopenia (DITP):** (Excluding HIT)
+    *   **Mechanism:** Similar to DIHA. Drugs can act as haptens, trigger immune complex formation, or induce drug-dependent antibodies that bind platelet glycoproteins only when the drug is present. Leads to antibody-mediated platelet clearance
+    *   **Common culprits:** Quinine, Quinidine, Sulfonamides, Vancomycin, Rifampin, some NSAIDs
+
+*  **Heparin-Induced Thrombocytopenia (HIT):** **(CRITICAL TO RECOGNIZE!)**
+    *   **Mechanism:** A specific, dangerous form of DITP. Occurs 5-10 days after heparin exposure (or sooner if prior exposure). Patients develop **IgG antibodies** against complexes of **Platelet Factor 4 (PF4)** (a protein released from platelet alpha granules) and **heparin**
+    *   **The Paradox:** These PF4-heparin-IgG immune complexes bind to Fc receptors (FcγRIIa) on platelet surfaces, causing **massive platelet activation, aggregation, and degranulation**. This leads to:
+        1.  **Prothrombotic State** Release of procoagulant microparticles and further platelet consumption -> high risk of **venous and arterial thrombosis** (DVT, PE, limb ischemia, stroke, MI)
+        2.  **Thrombocytopenia** Activated platelets are rapidly cleared from circulation by the MPS
+    *   **Key Feature:** HIT is primarily a **prothrombotic disorder** where thrombocytopenia is a marker, not necessarily the main clinical problem
+
+### **Detection (Finding the Immune Cause)** {-}
+
+*   **Clinical Assessment:** History is paramount! (New drugs? Heparin exposure? Recent transfusion/pregnancy? Autoimmune symptoms?). Bleeding pattern (ITP, NAIT, PTP, DITP) vs. Thrombosis (HIT)
+*   **Laboratory Tests**
+    *   **CBC/Smear:** Confirm thrombocytopenia. Rule out pseudothrombocytopenia. Giant platelets common in ITP. Schistocytes should NOT be prominent (if present, consider TTP/HUS/DIC instead or concurrently)
+    *   **ITP Diagnosis:** Primarily a diagnosis of exclusion. Platelet autoantibody testing is generally **not recommended** due to poor sensitivity and specificity
+    *   **NAIT Diagnosis:** Test maternal serum for HPA antibodies; HPA genotype mother, father, and infant (if possible)
+    *   **PTP Diagnosis:** Test patient serum for HPA antibodies (usually anti-HPA-1a)
+    *   **DITP Diagnosis:** Requires high clinical suspicion and temporal association with drug initiation. Drug withdrawal leads to recovery. Specialized testing for drug-dependent antibodies is complex and not widely available
+    *   **HIT Diagnosis:** Requires BOTH clinical suspicion (using scoring systems like the "4Ts") AND laboratory confirmation:
+        *   *Immunoassays:* Detect antibodies binding to PF4/heparin complexes (e.g., ELISA). High sensitivity but moderate specificity (can be positive without clinical HIT)
+        *   *Functional Assays:* Detect platelet activation by patient serum in the presence of heparin (e.g., Serotonin Release Assay - SRA, Heparin-Induced Platelet Aggregation - HIPA). High specificity but technically demanding. Considered gold standard
+
+### **Treatment** {-}
+
+*   **ITP**
+    *   **Goal:** Raise platelet count to a safe level (prevent major bleeding), not necessarily normalize it
+    *   **First-line:** Corticosteroids (suppress antibody production/clearance), Intravenous Immune Globulin (IVIg - rapidly blocks Fc receptors on macrophages, temporary effect)
+    *   **Second-line:** Rituximab (anti-CD20, depletes B cells), TPO-RAs, Splenectomy (removes primary site of destruction and some antibody production), other immunosuppressants
+    *   **Platelet Transfusion:** Generally reserved for life-threatening bleeding, as transfused platelets are rapidly destroyed
+*   **NAIT**
+    *   **Antenatal:** If diagnosed prenatally in high-risk cases: Maternal IVIg +/- steroids
+    *   **Postnatal:** **HPA-matched platelets** (e.g., HPA-1a negative platelets if mother has anti-HPA-1a) are ideal but often unavailable emergently. **Washed, irradiated maternal platelets** are an alternative. IVIg for the infant. Exchange transfusion rarely needed
+*   **PTP**
+    *   **First-line:** **IVIg**. Plasma exchange may be considered
+    *   **Platelet Transfusion:** Generally avoided unless life-threatening bleeding. If needed, **HPA-matched platelets** (e.g., HPA-1a negative) are required
+*   **DITP**
+    *   **STOP THE OFFENDING DRUG!:** Platelet count usually recovers within days to weeks
+    *   Supportive care, platelet transfusion only if severe bleeding
+*   **HIT**
+    *   **STOP ALL HEPARIN EXPOSURE IMMEDIATELY:** (including flushes, coated catheters)!
+    *   **Initiate a non-heparin anticoagulant:** (e.g., Direct Thrombin Inhibitors like Argatroban or Bivalirudin; Fondaparinux in some cases) even if thrombosis is not yet evident
+    *   **DO NOT TRANSFUSE PLATELETS routinely,:** as this may "fuel the fire" and increase thrombotic risk. Only consider for life-threatening hemorrhage
+
+## **Key Terms** {-}
+
+*   **Thrombocytopenia:** Low platelet count (<150,000/µL)
+*   **Megakaryocyte:** Large bone marrow cell from which platelets bud off
+*   **Pseudothrombocytopenia:** Artificially low platelet count on automated analyzers due to *in vitro* platelet clumping (usually EDTA-dependent)
+*   **Petechiae:** Pinpoint skin hemorrhages characteristic of low platelets
+*   **Purpura:** Larger bruises/skin hemorrhages
+*   **Sequestration:** Trapping of platelets, typically in an enlarged spleen (hypersplenism)
+*   **Disseminated Intravascular Coagulation (DIC):** Pathological widespread activation of clotting and fibrinolysis, consuming platelets and factors
+*   **Thrombotic Thrombocytopenic Purpura (TTP):** TMA usually due to ADAMTS13 deficiency, causing microthrombi
+*   **Hemolytic Uremic Syndrome (HUS):** TMA often toxin-induced, causing microthrombi, primarily affecting kidneys
+*   **Immune Thrombocytopenia (ITP):** Autoimmune disorder with antibodies targeting platelet glycoproteins
+*   **Neonatal Alloimmune Thrombocytopenia (NAIT):** Alloimmune disorder where maternal IgG antibodies target fetal platelet antigens
+*   **Post-Transfusion Purpura (PTP):** Alloimmune disorder where antibodies develop post-transfusion, destroying transfused and autologous platelets
+*   **Heparin-Induced Thrombocytopenia (HIT):** Prothrombotic disorder caused by antibodies to PF4/heparin complexes, leading to platelet activation and consumption
+*   **Human Platelet Antigens (HPAs):** Polymorphic antigens expressed on platelet glycoproteins, targets in NAIT/PTP
+*   **Platelet Factor 4 (PF4):** Protein released from platelet alpha granules, target antigen in HIT
+*   **Plasma Exchange (PEX):** Therapeutic procedure to remove patient plasma and replace it with donor plasma or albumin
+*   **Intravenous Immune Globulin (IVIg):** Concentrated human IgG used to treat various immune cytopenias
+*   **Thrombopoietin Receptor Agonists (TPO-RAs):** Drugs that stimulate platelet production by mimicking thrombopoietin

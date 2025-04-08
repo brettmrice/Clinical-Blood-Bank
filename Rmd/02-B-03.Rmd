@@ -1,0 +1,119 @@
+# Rh {-}
+
+The **Rh blood group system (ISBT 004)** stands second only to ABO in clinical importance, largely due to the high immunogenicity of the **D antigen** and its role in severe Hemolytic Disease of the Fetus and Newborn (HDFN) and transfusion reactions. Unlike carbohydrate-based systems, Rh antigens (**D, C, c, E, e** being the most significant) are integral parts of complex **transmembrane proteins** encoded by the closely linked *RHD* and *RHCE* genes on chromosome 1. Understanding the biochemistry of these proteins and their variants is crucial for safe transfusion practice
+
+## **Genetics Recap: The Foundation** {-}
+
+Remember those two highly similar (homologous) and closely linked genes on **chromosome 1**?
+
+*   ***RHD* Gene:** Codes for the **RhD protein**. Determines RhD positive or negative status
+*   ***RHCE* Gene:** Codes for the **RhCE protein**. Polymorphisms (variations) in this gene determine the expression of C vs c and E vs e antigens
+*   **Linkage:** Because they are so close, we inherit them together as a **haplotype** (e.g., *DCe*, *dce*, *DcE*). We get one haplotype from each parent
+*   ***RHAG* Gene (Rh-Associated Glycoprotein):** Located on **chromosome 6**. This gene is crucial! It codes for a "coexpressor" or "support" protein (RhAG) that is essential for trafficking and integrating the RhD and RhCE proteins into the red blood cell membrane. No functional RhAG = no RhD/RhCE expression (one cause of the Rh<sub>null</sub> phenotype)
+
+## **Biochemistry: The Rh Proteins** {-}
+
+Unlike ABO and Lewis antigens which are carbohydrates built by enzymes, **Rh antigens are integral parts of proteins** that span the red blood cell membrane
+
+*   **RhD and RhCE Proteins**
+    *   Highly similar in structure (about 92% identical amino acid sequence)
+    *   Large, **transmembrane proteins** that loop through the RBC membrane 12 times
+    *   They are **not glycosylated** (no sugar chains attached), which is unusual for many red cell surface proteins
+    *   Function isn't fully confirmed, but they are thought to be involved in membrane integrity and potentially act as transporters (perhaps for ammonia or CO<sub>2</sub>), though this is still debated
+    *   They exist in the membrane as part of a **protein complex**, primarily associated with **RhAG**. Other proteins like LW, Glycophorin B, CD47, and Band 3 might also be part of this complex, which likely helps maintain RBC shape and structure
+
+*   **Rh-Associated Glycoprotein (RhAG)**
+    *   Also a transmembrane protein with 12 loops, structurally similar to RhD/RhCE but coded by a different gene (*RHAG*) on a different chromosome
+    *   It **IS glycosylated**
+    *   Essential for the expression of RhD and RhCE proteins on the cell surface. It acts like a scaffold or escort service to get them properly inserted into the membrane
+
+## **The Major Rh Antigens: D, C, c, E, e** {-}
+
+These five antigens are the most important serologically. Their presence or absence is determined by the specific RhD and RhCE proteins expressed
+
+*   **D Antigen**
+    *   The most immunogenic Rh antigen
+    *   Presence or absence determines **Rh positive (D+)** or **Rh negative (D-)** status
+    *   Located on the **RhD protein**. If the *RHD* gene is present and functional, the RhD protein is made, and the person is D+
+    *   If the *RHD* gene is absent (like the common deletion in Caucasians) or non-functional (due to mutations), no RhD protein is made, and the person is D-
+    *   **There is no "d" antigen.:** The lowercase "d" simply indicates the *absence* of the D antigen
+
+*   **C/c Antigens**
+    *   Antithetical pair (coded by different alleles at the same genetic locus within *RHCE*)
+    *   Located on the **RhCE protein**
+    *   Differ by a single amino acid change, determined by SNPs in the *RHCE* gene. Specifically, **Serine** at position 103 corresponds to **C**, while **Proline** at position 103 corresponds to **c**
+    *   An individual can be homozygous (*CC* or *cc*) or heterozygous (*Cc*)
+
+*   **E/e Antigens**
+    *   Another antithetical pair
+    *   Also located on the **RhCE protein**
+    *   Differ by a single amino acid change at a different location on the protein, determined by SNPs in the *RHCE* gene. Specifically, **Proline** at position 226 corresponds to **E**, while **Alanine** at position 226 corresponds to **e**
+    *   An individual can be homozygous (*EE* or *ee*) or heterozygous (*Ee*)
+
+*   **Combined Expression:** The RhCE protein expresses *either* C or c *and* *either* E or e on the same molecule, depending on the inherited *RHCE* allele (haplotype). For example:
+    *   The *DCe* haplotype codes for RhD protein and an RhCE protein expressing C and e
+    *   The *DcE* haplotype codes for RhD protein and an RhCE protein expressing c and E
+    *   The *dce* haplotype codes for *no* RhD protein and an RhCE protein expressing c and e
+
+## **Nomenclature Snippet** {-}
+
+*   **Fisher-Race (DCE):** Describes the antigens (D, C/c, E/e). Genotypes written based on haplotypes (e.g., *DCe/dce*)
+*   **Wiener (Rh-hr):** Postulated a single gene with multiple alleles. Uses shorthand (e.g., R<sub>1</sub> = *DCe*, r = *dce*, R<sub>2</sub> = *DcE*, R<sub>0</sub> = *Dce*). Less intuitive biochemically but still widely used in notation
+*   **ISBT Numerical:** Standardized system (Rh is 004). D=RH1, C=RH2, E=RH3, c=RH4, e=RH5
+
+## **Variations in D Antigen Expression: Weak D and Partial D** {-}
+
+This is where Rh gets particularly interesting and clinically critical! Not all D+ individuals express the D antigen equally strongly or completely
+
+*   **Weak D (Formerly D<sup>u</sup>)**
+    *   **Biochemistry/Genetics:** Usually caused by **missense mutations (SNPs)** in the *RHD* gene that change single amino acids. These changes often occur in the transmembrane or intracellular regions of the RhD protein
+    *   **Result:** Leads to **fewer D antigen sites** on the RBC surface (a *quantitative* difference). The D antigens present are generally structurally normal
+    *   **Serology:** React weakly or are non-reactive with some anti-D reagents in direct agglutination tests (IS), but usually react (sometimes weakly) at the AHG phase
+    *   **Clinical Significance**
+        *   **As Recipients:** Most Weak D individuals (especially Types 1, 2, 3 which are common) do *not* make anti-D if exposed to D+ blood. For safety, they are often managed as D-negative for transfusion
+        *   **As Donors:** Weak D blood units *are* considered D-positive because they can immunize D-negative recipients
+    *   Molecular testing is often needed to confirm Weak D type
+
+*   **Partial D**
+    *   **Biochemistry/Genetics:** Often caused by **gene rearrangements** where parts of the *RHD* gene are replaced with corresponding parts of the *RHCE* gene (creating *hybrid genes*), or by mutations causing significant changes in the *external* loops of the RhD protein
+    *   **Result:** The RhD protein is altered, meaning some **D epitopes (parts of the antigen recognized by antibodies) are missing** (a *qualitative* difference). The number of antigen sites might be normal or reduced
+    *   **Serology:** Reactivity with anti-D reagents can vary from strong positive to weak or negative, depending on which epitopes are missing and the clones used in the anti-D reagent
+    *   **Clinical Significance**
+        *   **HIGH RISK:** Partial D individuals *can* make **allo-anti-D** against the epitope(s) they are missing if exposed to D+ blood (containing the complete D antigen)
+        *   **Management:** Partial D individuals **must** be identified and transfused with **D-negative** blood. Pregnant Partial D women who are carrying a D+ fetus may need Rh Immune Globulin (RhIG)
+    *   Distinguishing Weak D from Partial D is crucial and often requires molecular genotyping
+
+## **Other Important Rh Antigens** {-}
+
+While D, C, c, E, e are the main players, others exist:
+
+*   **G Antigen:** Almost always present on cells that have **either D or C antigen** (or both). Anti-G reacts like a combination of anti-D + anti-C. Important in obstetric settings
+*   **f Antigen (ce):** Expressed when c and e are present on the *same* RhCE protein molecule (i.e., inherited in *cis*, from the same haplotype, like *dce*)
+*   **C<sup>w</sup> Antigen:** An alternative allele to C/c at the C/c locus. Low prevalence
+*   **V (RH10) and VS (RH20):** Low prevalence in Caucasians but higher prevalence in individuals of African descent. Associated with specific *RHCE* gene variants
+
+## **Rh<sub>null</sub> Syndrome** {-}
+
+A rare condition where individuals lack *all* Rh antigens (D, C, c, E, e, etc.) on their RBCs
+
+*   **Genetics**
+    *   **Regulator Type:** Mutations in the ***RHAG* gene**. No functional RhAG means RhD/RhCE proteins cannot get into the membrane, even if *RHD/RHCE* genes are normal
+    *   **Amorphic Type:** Have a deletion of the *RHD* gene *plus* mutations in both inherited *RHCE* alleles, along with a normal *RHAG* gene
+*   **Biochemistry:** Absence of the Rh protein complex (RhD, RhCE, RhAG)
+*   **Clinical Features:** Associated with **red blood cell membrane abnormalities** (e.g., stomatocytosis, increased osmotic fragility) leading to **mild-to-moderate chronic hemolytic anemia**
+*   **Transfusion:** Extremely difficult. These individuals can make antibodies to high-prevalence antigens related to the Rh complex (like anti-Rh29 - total Rh). They need blood from other Rh<sub>null</sub> donors, which is exceptionally rare
+
+## **Key Terms** {-}
+
+*   ***RHD* Gene:** Codes for the protein carrying the D antigen
+*   ***RHCE* Gene:** Codes for the protein carrying the C/c and E/e antigens
+*   ***RHAG* Gene:** Codes for the essential Rh-associated glycoprotein needed for Rh protein expression
+*   **RhD/RhCE Proteins:** Non-glycosylated, 12-pass transmembrane proteins forming the structural basis of Rh antigens
+*   **RhAG Protein:** Glycosylated transmembrane protein essential for RhD/RhCE membrane integration
+*   **Antithetical Antigens:** Antigens coded by alleles at the same locus (e.g., C and c, E and e)
+*   **Haplotype:** A set of linked genes inherited together on one chromosome (e.g., *DCe*)
+*   **Weak D:** Quantitative reduction in D antigen expression, usually due to mutations affecting protein transport or stability. Cells have fewer D sites
+*   **Partial D:** Qualitative alteration of the D antigen, with missing epitopes, often due to hybrid genes or mutations in external loops. Individuals can make allo-anti-D
+*   **Epitope:** The specific part of an antigen molecule recognized by an antibody
+*   **Rh<sub>null</sub>:** Absence of all Rh antigens due to defects in *RHAG* (regulator) or *RHD/RHCE* (amorphic). Associated with hemolytic anemia
+*   **Immunogenicity:** The ability of an antigen to provoke an immune response (antibody production). D is highly immunogenic

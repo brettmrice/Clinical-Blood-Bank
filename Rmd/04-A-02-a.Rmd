@@ -1,0 +1,84 @@
+# Antibody Detection {-}
+
+Before a blood transfusion, it's crucial to look for 'unexpected' trouble-makers in the patient's plasma: red blood cell antibodies beyond the naturally occurring anti-A and anti-B. The **Antibody Screen** is our routine search, designed to detect these clinically significant antibodies that could potentially cause harmful transfusion reactions or Hemolytic Disease of the Fetus and Newborn. Identifying these antibodies *before* transfusion is a key safety step, allowing us to select compatible, antigen-negative blood for the patient
+
+## **Purpose: Why Do We Screen for Antibodies?** {-}
+
+The primary goal of the antibody screen is to detect the presence of **clinically significant, *unexpected* red blood cell antibodies** in a patient's plasma or serum
+
+*   **What are "Unexpected" Antibodies?:** These are antibodies other than the naturally occurring anti-A and anti-B that we expect based on the ABO type. Examples include antibodies to antigens in the Rh system (like anti-D, anti-E, anti-c), Kell system (anti-K), Duffy system (anti-Fya), Kidd system (anti-Jka), MNS system (anti-S, anti-s), etc
+*   **Why "Clinically Significant"?:** We're primarily looking for antibodies (usually IgG) that can:
+    *   Cause **hemolytic transfusion reactions (HTRs)** by destroying transfused red blood cells possessing the corresponding antigen
+    *   Cause **Hemolytic Disease of the Fetus and Newborn (HDFN)** if a pregnant person has an antibody against an antigen their fetus has inherited from the father
+*   **Goal:** If we detect such an antibody, we must identify it and then select donor red blood cells that **LACK** the corresponding antigen for transfusion to prevent a reaction
+
+## **When is Antibody Detection Performed?** {-}
+
+*   **Pretransfusion Testing:** Essential for any patient who might receive red blood cell transfusion
+*   **Prenatal Testing:** Routinely performed on pregnant individuals to identify antibodies that could potentially harm the fetus (HDFN risk)
+*   **Donor Blood Testing:** While not always screening for *all* antibodies, donor centers perform tests to ensure safety
+*   **Transfusion Reaction Workup:** To help determine if an unexpected antibody played a role in an adverse reaction
+
+## **The Core Method: Indirect Antiglobulin Test (IAT)** {-}
+
+The antibody screen typically employs the **Indirect Antiglobulin Test (IAT)**. The "indirect" part means we're looking for the antibody *in vitro* (in the test tube/system) by seeing if it will react with reagent red cells
+
+###    **Components** {-}
+
+*  **Patient Sample:** Plasma or Serum (this is where the potential antibody resides)
+*  **Reagent Red Blood Cells ("Screening Cells"):** These are commercially prepared Group O red blood cells
+    *   **Why Group O?:** To avoid reactions with the patient's naturally occurring anti-A or anti-B
+    *   **Known Antigen Profile:** These cells come from donors phenotyped for a wide array of common, clinically significant antigens (D, C, E, c, e, K, k, Fya, Fyb, Jka, Jkb, Lea, Leb, M, N, S, s, P1, etc.)
+    *   **Sets:** Usually provided in sets of 2 or 3 different cell vials. Using multiple vials increases the chances of detecting antibodies because the combination of cells covers more antigen variations (e.g., homozygous vs. heterozygous expression)
+
+###   **Basic IAT Procedure (Tube Method Example)** {-}
+
+1.  **Mix & Incubate** Patient plasma/serum is mixed with each of the screening cells
+    *   **Enhancement Media (Optional but Common):** Reagents like LISS (Low Ionic Strength Saline) or PEG (Polyethylene Glycol) are often added. These reduce the incubation time and/or enhance the sensitivity by promoting antibody uptake onto the RBCs
+    *   **Temperature:** Incubated at **37°C** (body temperature). This is optimal for detecting most clinically significant IgG antibodies
+    *   **Sensitization:** If the patient's plasma contains an antibody corresponding to an antigen on the screening cells, the antibody will bind to the cells during incubation. This coating is *invisible* at this stage
+2.  **Washing** This is a CRITICAL step. The cells are washed thoroughly (usually 3-4 times) with saline
+    *   **Purpose:** To remove all unbound patient plasma proteins, especially unbound immunoglobulins. If left behind, these unbound antibodies would neutralize the AHG reagent added in the next step, leading to a **false-negative** result
+3.  **Add Anti-Human Globulin (AHG)** AHG reagent (also called Coombs' serum) is added. This reagent contains antibodies *against* human immunoglobulins (anti-IgG) and/or complement components (anti-C3d)
+4.  **Centrifuge & Read** The tube is centrifuged to facilitate agglutination
+    *   **Mechanism:** If the screening cells were coated with IgG during incubation (sensitization), the anti-IgG in the AHG reagent will bind to the Fc portion of the attached antibodies, forming bridges between adjacent red blood cells
+    *   **Observation:** This bridging results in visible **agglutination** (clumping) or, less commonly, **hemolysis** (red cell lysis, often complement-mediated), either of which indicates a **positive** reaction
+5.  **Add Check Cells (Coombs' Control Cells)** These are IgG-coated red blood cells. They are added to **ALL** negative AHG tests
+    *   **Purpose:** To validate the negative result. The check cells MUST agglutinate
+    *   **Validation:** If they agglutinate, it confirms that active AHG reagent was added and that the washing step was adequate (otherwise, the AHG would have been neutralized). If check cells *fail* to agglutinate, the test is invalid and must be repeated
+
+## **Interpretation** {-}
+
+*   **Positive Screen:** Agglutination or hemolysis observed with *any* of the screening cells (at any phase of testing, if applicable, but especially the AHG phase)
+    *   **Action:** Indicates the presence of one or more unexpected antibodies. The next step is **Antibody Identification** (using a panel of reagent RBCs with more detailed antigen profiles) to determine the specificity (e.g., is it anti-K? anti-Fya?)
+*   **Negative Screen:** No agglutination or hemolysis observed with *any* screening cell, AND the check cells give the appropriate positive reaction
+    *   **Action:** Suggests no *detectable* clinically significant antibodies are present against the common antigens on the screening cells. If the patient needs blood, ABO/Rh compatible units can typically be crossmatched (usually via immediate spin or computer crossmatch)
+
+## **Modern Methodologies** {-}
+
+While tube testing is the classic method, many labs use:
+
+*   **Column Agglutination Technology (Gel Test™):** Uses microtubes containing gel beads and pre-dispensed AHG. Patient plasma and screening cells are added. During centrifugation, unagglutinated cells pass through the gel to the bottom, while agglutinated cells are trapped within the gel matrix at various levels depending on reaction strength. Easy to read and standardize
+*   **Solid Phase Red Cell Adherence (SPRCA):** Uses microtiter plates with wells coated either with reagent RBC membranes (to capture antibodies from patient plasma) or with anti-IgG (to capture antibody-coated patient RBCs - more for DAT). Indicator cells are added, and adherence patterns after centrifugation determine the result. Highly automatable
+
+## **Key Takeaways & Clinical Significance** {-}
+
+*   The antibody screen is a safety net to detect potentially harmful red cell antibodies *before* transfusion
+*   It primarily uses the **Indirect Antiglobulin Test (IAT)** principle to detect IgG antibodies reactive at 37°C
+*   Screening cells are carefully selected Group O cells with known antigen profiles
+*   A positive screen necessitates **antibody identification** and the selection of **antigen-negative** donor blood
+*   A negative screen (with valid controls) generally indicates it's safe to proceed with ABO/Rh compatible crossmatching
+*   Proper technique (especially washing!) and controls (check cells) are crucial for accurate results
+
+##  **Key Terms** {-}
+
+*   **Antibody Screen (Antibody Detection Test):** A routine laboratory test performed on patient plasma or serum to detect the presence of unexpected, clinically significant red blood cell alloantibodies
+*   **Unexpected Antibody:** Any red blood cell antibody present in a patient's plasma/serum other than the naturally occurring ("expected") anti-A and/or anti-B consistent with their ABO type
+*   **Clinically Significant Antibody:** A red blood cell antibody capable of causing adverse *in vivo* events, such as decreased red cell survival (hemolytic transfusion reaction) or Hemolytic Disease of the Fetus and Newborn (HDFN). These are typically IgG antibodies reactive at 37°C
+*   **Indirect Antiglobulin Test (IAT):** The laboratory method used for antibody screening (and identification/crossmatching) to detect *in vitro* sensitization. It involves incubating patient plasma/serum with reagent red cells, washing away unbound antibodies, and adding Anti-Human Globulin (AHG) to detect bound IgG or complement
+*   **Screening Cells:** Commercially prepared Group O reagent red blood cells with known phenotypes for a wide array of common, clinically significant antigens. They are used in the antibody screen test to react with potential antibodies in the patient's plasma/serum
+*   **Anti-Human Globulin (AHG) Reagent (Coombs' Serum):** A reagent containing antibodies that bind to human immunoglobulins (anti-IgG) and/or complement components (anti-C3d) that may be coating red blood cells. It acts as a bridge to cause visible agglutination of sensitized cells
+*   **Sensitization:** The process where antibodies (and/or complement) present in the plasma/serum bind to corresponding antigens on the red blood cell surface. This coating step occurs during incubation *in vitro* (IAT) or *in vivo* (DAT)
+*   **Enhancement Media:** Solutions (like LISS or PEG) added during the incubation phase of antibody detection tests to promote or speed up the sensitization process (antibody binding to red cell antigens)
+*   **Check Cells (Coombs' Control Cells):** IgG-coated reagent red blood cells added to all negative AHG tests. Agglutination of check cells confirms the AHG reagent was active and added correctly, validating the negative test result
+*   **Alloantibody:** An antibody produced following exposure to foreign red blood cell antigens (not present on the individual's own cells), typically through transfusion or pregnancy. The antibody screen is designed primarily to detect these

@@ -1,0 +1,114 @@
+# Solid Organ {-}
+
+**Solid Organ Transplantation (SOT)** is a remarkable medical achievement where a failing organ is replaced with a healthy one from a donor. From a Blood Bank and Immunology perspective, the major challenge isn't just the surgery itself, but overcoming the body's natural defense system, which is primed to attack anything it sees as "foreign"—including that life-saving new organ!
+
+## **The Goal: Replacing Failing Organs** {-}
+
+*   **Why Transplant?:** SOT is typically performed for **end-stage organ failure**, when an organ is damaged beyond repair by disease or injury, and other medical therapies are no longer effective. The goal is to restore normal function, improve quality of life, and extend survival
+*   **Commonly Transplanted Organs:** Kidney (most common), Liver, Heart, Lung, Pancreas, Intestine. Sometimes multiple organs are transplanted together (e.g., heart-lung, kidney-pancreas)
+
+## **The Major Hurdle: The Immune System & Rejection** {-}
+
+Our immune system is brilliant at recognizing and eliminating foreign invaders (like bacteria or viruses). Unfortunately, it uses the same mechanisms to recognize a transplanted organ (the **allograft**) from another person (unless it's an identical twin) as foreign. This immune attack against the graft is called **rejection**
+
+*   **The Targets (Alloantigens):** The main molecules the recipient's immune system recognizes as foreign on the donor organ cells are:
+    *   **Major Histocompatibility Complex (MHC) Molecules:** In humans, these are called **Human Leukocyte Antigens (HLA)**. These proteins are found on the surface of most cells and are responsible for presenting antigens to T cells. They are highly **polymorphic**, meaning there are thousands of different versions (alleles) in the human population. Differences in HLA between donor and recipient are the *primary* trigger for rejection
+        *   **Class I HLA (HLA-A, HLA-B, HLA-C):** Found on almost all nucleated cells. Present antigens to CD8+ Cytotoxic T cells
+        *   **Class II HLA (HLA-DR, HLA-DQ, HLA-DP):** Found primarily on Antigen Presenting Cells (APCs like macrophages, dendritic cells, B cells) within the graft, but can be induced on other cells during inflammation. Present antigens to CD4+ Helper T cells
+    *   **ABO Blood Group Antigens:** These carbohydrate antigens are expressed not only on red blood cells but also on the vascular endothelium (lining of blood vessels) of the organ graft. ABO incompatibility is a major barrier
+    *   **Minor Histocompatibility Antigens:** Other polymorphic proteins that can elicit a weaker, slower immune response
+
+## **Pre-Transplant Evaluation: Minimizing the Risk** {-}
+
+To maximize the chances of graft survival, extensive laboratory testing is done *before* transplantation:
+
+*   **ABO Blood Group Typing:** **CRITICAL!** The donor and recipient *must* be ABO compatible (or identical). Transplants across ABO barriers (e.g., Group A donor organ into a Group O recipient) usually lead to **hyperacute rejection** because most people have pre-formed antibodies (isohemagglutinins like anti-A, anti-B) against the ABO antigens they lack. These antibodies attack the graft endothelium immediately
+    *   **Rule:** Donor organ must be compatible with recipient plasma (similar to RBC transfusion rules: O can give to A/B/AB; A can give to A/AB; B can give to B/AB; AB can only give to AB)
+*   **HLA Typing:** Determining the specific HLA-A, -B, -DR (and sometimes -C, -DQ, -DP) alleles of both the donor and recipient
+    *   **Goal:** Achieve the best possible HLA match, especially for kidney transplants. A "zero mismatch" (identical HLA-A, -B, -DR) offers the best long-term graft survival. However, due to HLA polymorphism, perfect matches are rare outside of sibling donors. Matching is less critical (but still considered) for liver and heart transplants
+*   **HLA Antibody Screening and Identification:** Detecting pre-formed **anti-HLA antibodies** in the recipient's serum is vital!
+    *   **Sensitization:** Recipients can develop anti-HLA antibodies through previous exposure to foreign HLA antigens via:
+        *   Pregnancy
+        *   Blood Transfusions (WBCs/platelets carry HLA)
+        *   Previous Transplants
+    *   **Testing Methods:** Usually involves testing recipient serum against panels of beads coated with known HLA antigens (Luminex platform)
+    *   **Panel Reactive Antibody (PRA):** Historically reported as a percentage, indicating the proportion of the population the recipient has antibodies against. Now often expressed as **calculated PRA (cPRA)** based on identified unacceptable antigens. A high PRA/cPRA indicates the recipient is highly sensitized and finding a compatible donor will be difficult
+    *   **Antibody Specificity:** It's crucial to identify the *specific* HLA antigens the recipient has antibodies against. These are considered "unacceptable antigens" for that recipient
+*   **Crossmatching:** The final compatibility check before transplant! Mixes recipient serum with donor lymphocytes (T cells and B cells) to detect pre-formed **Donor-Specific Antibodies (DSA)** – antibodies in the recipient that directly target the specific donor's HLA antigens
+    *   **Complement-Dependent Cytotoxicity (CDC) Crossmatch:** Traditional method. Recipient serum + donor lymphocytes + complement. If DSA are present, they bind, activate complement, and lyse the donor cells (positive crossmatch). **A positive CDC crossmatch is generally an absolute contraindication to transplantation due to high risk of hyperacute rejection.**
+    *   **Flow Cytometry Crossmatch:** More sensitive method. Uses fluorescently labeled anti-human IgG to detect recipient antibodies binding to donor lymphocytes, even if they don't fix complement strongly. Can detect lower levels of DSA. A positive flow crossmatch indicates increased risk of antibody-mediated rejection
+    *   **Virtual Crossmatch:** Based on comparing the recipient's identified unacceptable HLA antibody specificities with the donor's HLA type. If the donor has no antigens the recipient has antibodies against, the virtual crossmatch is negative
+
+## **Types of Rejection (Pathophysiology)** {-}
+
+Even with compatibility testing and immunosuppression, rejection can still occur:
+
+*   **Hyperacute Rejection**
+    *   **Timing:** Minutes to hours after transplant blood flow is restored
+    *   **Mechanism:** Caused by pre-formed **donor-specific antibodies (DSA)**, usually anti-ABO or anti-HLA, already present in the recipient. Antibodies bind to the vascular endothelium of the graft, activate complement and clotting cascades, leading to widespread thrombosis (clotting), ischemia (lack of blood flow), and rapid, irreversible graft destruction
+    *   **Prevention:** Primarily prevented by ABO compatibility and negative pre-transplant crossmatch
+*   **Acute Rejection**
+    *   **Timing:** Days to weeks (or even months) after transplant. Can occur suddenly
+    *   **Mechanisms:** Can be T-cell mediated, antibody-mediated, or both
+        *   **Acute Cellular Rejection (ACR):** Recipient **T lymphocytes** (primarily CD8+ cytotoxic T cells and CD4+ helper T cells) recognize donor HLA antigens (presented by donor APCs migrating from the graft or recipient APCs presenting donor peptides) and infiltrate the graft, causing inflammation and killing graft cells
+        *   **Antibody-Mediated Rejection (AMR):** Involves **antibodies** (often DSA, which can be pre-formed at low levels or develop *after* transplant - *de novo* DSA). Antibodies bind to graft endothelium, activating complement, attracting inflammatory cells (neutrophils, NK cells), causing endothelial injury, inflammation (endothelialitis, capillaritis), and microvascular thrombosis
+    *   **Detection:** Often suspected due to clinical signs of graft dysfunction (e.g., rising creatinine for kidney, abnormal liver enzymes for liver), confirmed by **biopsy** of the graft tissue
+    *   **Treatment:** Usually treatable with increased immunosuppression (e.g., high-dose steroids, anti-T cell antibodies for ACR; plasmapheresis, IVIg, Rituximab for AMR)
+*   **Chronic Rejection (Chronic Allograft Dysfunction)**
+    *   **Timing:** Months to years after transplant. Slow, progressive decline in graft function
+    *   **Mechanism:** Complex and multifactorial, not fully understood. Involves both immune factors (low-level chronic inflammation, possibly related to DSA or cellular responses) and non-immune factors (injury from hypertension, diabetes, drug toxicity, initial ischemia-reperfusion injury). Leads to characteristic changes like **fibrosis** (scarring), **vascular narrowing** (graft arteriosclerosis), and eventual graft failure
+    *   **Treatment:** Difficult to treat effectively. Focus is on optimizing immunosuppression, managing comorbidities (BP, lipids, glucose), and ultimately may require re-transplantation
+
+## **Immunosuppression: Keeping the Immune System in Check** {-}
+
+*   **Necessity:** Lifelong immunosuppressive medication is required for almost all transplant recipients to prevent rejection
+*   **Goal:** Suppress the recipient's immune response enough to prevent graft rejection, while minimizing side effects and maintaining enough immunity to fight infections and cancers. It's a delicate balancing act!
+*   **Drug Classes:** Typically involves a combination of drugs targeting different pathways:
+    *   **Calcineurin Inhibitors (e.g., Tacrolimus, Cyclosporine):** Block T cell activation signals
+    *   **Antiproliferative Agents (e.g., Mycophenolate Mofetil, Azathioprine):** Inhibit lymphocyte proliferation
+    *   **Corticosteroids (e.g., Prednisone):** Broad anti-inflammatory and immunosuppressive effects. Often used for induction and treating acute rejection, tapered over time
+    *   **mTOR Inhibitors (e.g., Sirolimus, Everolimus):** Inhibit cell growth and proliferation
+    *   **Biologics/Antibodies:** Used for induction (at time of transplant) or rejection treatment (e.g., anti-thymocyte globulin, anti-IL-2 receptor antibodies like Basiliximab, anti-CD20 like Rituximab)
+*   **Side Effects:** Immunosuppression increases the risk of:
+    *   **Infections:** Bacterial, viral (CMV, EBV, BK virus), fungal – especially opportunistic infections
+    *   **Malignancies:** Skin cancers, post-transplant lymphoproliferative disorder (PTLD, often EBV-related)
+    *   Organ toxicity (e.g., nephrotoxicity from calcineurin inhibitors), metabolic changes (diabetes, hyperlipidemia)
+
+## **Other Complications** {-}
+
+*   **Infection:** A major cause of morbidity and mortality due to immunosuppression
+*   **Malignancy:** Increased long-term risk
+*   **Graft-versus-Host Disease (GVHD):** RARE in SOT compared to stem cell transplant. Occurs if viable donor lymphocytes within the graft (especially liver or intestine, which are rich in lymphoid tissue) engraft and attack the recipient's tissues. Irradiation of blood products may be considered for SOT recipients in specific high-risk situations, although less routinely than for stem cell transplant
+
+## **Post-Transplant Monitoring** {-}
+
+*   **Graft Function Tests:** Regular monitoring (e.g., creatinine for kidney, LFTs for liver)
+*   **Therapeutic Drug Monitoring (TDM):** Measuring levels of immunosuppressants (Tacrolimus, Cyclosporine) to ensure they are within the target range (effective but not toxic)
+*   **Infection Surveillance:** Monitoring for CMV, EBV, BK virus, etc
+*   **Biopsy:** Performed routinely (protocol biopsy) or if rejection/dysfunction is suspected
+*   **DSA Monitoring:** Increasingly performed post-transplant to detect development of *de novo* DSA, which is associated with AMR and poor long-term outcomes
+
+## **Blood Bank Relevance** {-}
+
+*   **ABO/Rh Typing:** Essential for donor/recipient matching
+*   **Antibody Screening/ID:** Identifying pre-formed HLA antibodies in recipients
+*   **Crossmatching:** Performing CDC and/or flow crossmatches pre-transplant
+*   **Blood Product Support:** Providing ABO-compatible, potentially leukocyte-reduced, and sometimes irradiated blood components for transplant surgery and post-operative care. Ensuring antigen-negative units if recipient has red cell alloantibodies
+
+## **Key Terms** {-}
+
+*   **Allograft:** An organ or tissue transplanted between genetically non-identical individuals of the same species
+*   **Alloantigen:** An antigen that differs between members of the same species (e.g., HLA, ABO)
+*   **Rejection:** Immune response mounted by the recipient against the transplanted organ
+*   **HLA (Human Leukocyte Antigen):** Human MHC molecules, the primary targets in graft rejection
+*   **Polymorphism:** The existence of many different forms (alleles) of a gene (like HLA) in a population
+*   **Sensitization:** Development of antibodies against alloantigens (e.g., HLA) due to prior exposure (pregnancy, transfusion, transplant)
+*   **Panel Reactive Antibody (PRA) / Calculated PRA (cPRA):** Measure of the breadth of HLA sensitization in a potential recipient
+*   **Crossmatch:** Laboratory test mixing recipient serum with donor lymphocytes to detect pre-formed donor-specific antibodies (DSA)
+*   **Donor-Specific Antibody (DSA):** Antibodies in the recipient directed specifically against the HLA antigens of the organ donor
+*   **Hyperacute Rejection:** Immediate rejection (minutes/hours) due to pre-formed DSA
+*   **Acute Cellular Rejection (ACR):** Rejection mediated primarily by T lymphocytes infiltrating the graft (days/weeks)
+*   **Antibody-Mediated Rejection (AMR):** Rejection mediated primarily by antibodies (often DSA) targeting the graft endothelium (days/weeks/months)
+*   **Chronic Rejection / Chronic Allograft Dysfunction:** Slow, progressive graft damage and fibrosis occurring over months/years
+*   **Immunosuppression:** Use of medications to reduce the activity of the immune system and prevent rejection
+*   **Opportunistic Infection:** Infection caused by pathogens that do not normally cause disease in individuals with healthy immune systems

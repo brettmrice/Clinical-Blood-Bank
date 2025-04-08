@@ -1,0 +1,88 @@
+# Test Procedures {-}
+
+We've got a good sample, reliable reagents – now we need to make sure the *way* we perform the test is accurate, consistent, and follows the rules every single time. This is all about standardization and minimizing variables!
+
+Think of it like baking: even with the best ingredients (sample & reagents), if you don't follow the recipe (procedure) correctly – wrong oven temp, wrong mixing time – you won't get a good cake. Same principle here, but the stakes are much higher!
+
+Quality Assurance for test procedures ensures reliability and reproducibility, whoever is performing the test on whatever day. Here's how we ensure that:
+
+## **Standard Operating Procedures (SOPs): The Recipe Book** {-}
+
+*   **The Foundation:** Every test performed MUST have a detailed, written Standard Operating Procedure. This is the ultimate guide
+*   **Content is Key:** SOPs need to be comprehensive and include:
+    *   **Test Principle:** How does the test work?
+    *   **Specimen Requirements:** Acceptable sample types, collection, handling, storage, rejection criteria
+    *   **Reagents & Equipment:** List of all necessary materials, including preparation instructions if applicable
+    *   **Quality Control:** Required frequency, materials, expected results, corrective actions for failures
+    *   **Step-by-Step Instructions:** Clear, concise, unambiguous directions for performing the entire test from start to finish
+    *   **Result Interpretation:** Objective criteria for reading results (e.g., grading agglutination, gel patterns, solid phase patterns)
+    *   **Reporting:** How results are documented and reported (reference ranges, critical values, etc.)
+    *   **Procedural Limitations:** What can interfere with the test?
+    *   **References:** Supporting literature or manufacturer's package inserts
+*   **Accessibility & Updates:** SOPs must be readily available to all staff performing the tests. They need to be reviewed regularly (usually annually) and updated whenever there's a change in reagents, equipment, or procedure. Version control is essential!
+*   **Following the SOP:** Staff must follow the current SOP **exactly** as written. No shortcuts, no "this is how I've always done it." Consistency is crucial
+
+## **Personnel Training and Competency Assessment: The Skilled Chef** {-}
+
+*   **Initial Training:** Staff must be thoroughly trained on each procedure before performing it independently on patient samples. This includes understanding the principle, reading the SOP, hands-on practice, and demonstrating proficiency
+*   **Competency Assessment:** Regular assessment ensures staff maintain their skills and knowledge. This isn't just about training; it's *proving* they can still do it right. Methods include:
+    *   **Direct Observation:** Supervisor watches the technologist perform the test
+    *   **Monitoring QC Records:** Reviewing daily performance
+    *   **Review of Test Results:** Checking accuracy and interpretation over time
+    *   **Testing Blind/Previously Tested Samples:** Can they reproduce results?
+    *   **Proficiency Testing (PT):** Successful performance on external PT samples
+*   **Frequency:** Competency must be assessed after initial training, usually at 6 months, and then annually thereafter for each test the technologist performs
+*   **Documentation:** All training and competency assessments must be documented for each employee
+
+## **Equipment and Environment: The Right Kitchen Tools** {-}
+
+*   **Equipment Function Checks & Calibration:** Equipment used in the procedure must be properly maintained and monitored (as covered partly under Reagent/Sample QA):
+    *   **Centrifuges:** Correct speed (RPM) and time are critical for proper cell button formation and resuspension. Calibrated regularly, timers checked
+    *   **Incubators/Water Baths/Heat Blocks:** Accurate temperature is vital for antigen-antibody reactions (especially 37°C for IgG). Monitored daily, calibrated regularly
+    *   **Pipettes:** Must deliver accurate volumes. Regularly calibrated and maintained
+    *   **Timers:** Must be accurate
+    *   **Automated Systems:** Require validation, routine maintenance, and built-in QC checks per manufacturer
+*   **Work Environment:** Adequate lighting for reading reactions, sufficient bench space, organized workflow to prevent errors
+
+## **Test Performance - Adherence to Critical Steps** {-}
+
+*   **Following the SOP:** Worth repeating!
+*   **Correct Sample/Reagent Addition:** Using the right volumes, adding reagents in the correct sequence
+*   **Proper Mixing:** Ensuring adequate mixing of samples/reagents without causing hemolysis
+*   **Incubation Times & Temperatures:** Adhering precisely to the times and temperatures specified in the SOP is critical for allowing reactions to reach completion or avoiding unwanted reactions
+*   **Washing Steps (for AHG tests):** Performed correctly and thoroughly to remove unbound globulins – essential to prevent false negatives. Correct saline volume, number of washes, technique for decanting
+*   **Centrifugation:** Using the correct time and speed for the specific procedure/equipment. Too much/too little affects reading
+*   **Reading/Observation Technique:** Using a consistent, standardized technique for resuspending cell buttons or observing reactions in gel/solid phase. Using appropriate optical aids if needed. Good lighting is essential
+
+## **Result Interpretation and Reporting** {-}
+
+*   **Objective Criteria:** Using the grading system defined in the SOP consistently (e.g., 0-4+ for agglutination, gel patterns). Avoiding subjective bias
+*   **Controls:** Ensuring internal procedural controls (like Rh control, autocontrol, Check Cells for negative AHG tests) give the expected results before accepting patient results
+*   **Correlation:** Checking if results make sense in the context of other tests (e.g., forward vs. reverse type, screen vs. crossmatch)
+*   **Accurate Recording & Reporting:** Transcribing results accurately, reporting using standard terminology, and following procedures for critical value reporting
+
+## **Troubleshooting and Corrective Action** {-}
+
+*   **Recognizing Errors:** Identifying unexpected or discrepant results, QC failures, or procedural deviations
+*   **Following Protocols:** Having clear procedures for investigating errors or unexpected results
+*   **Corrective Action:** Implementing steps to fix the immediate problem
+*   **Preventive Action:** Analyzing the root cause to prevent recurrence
+*   **Documentation:** Recording all troubleshooting and corrective actions taken
+
+## **Proficiency Testing (PT) / External Quality Assessment (EQA)** {-}
+
+*   **External Check:** Regularly testing "blind" samples from an external agency (like CAP)
+*   **Purpose:** Assesses the laboratory's overall performance for a specific test procedure compared to peer labs. Confirms the entire system (personnel, reagents, equipment, procedure) is working correctly
+*   **Process:** PT samples must be integrated into the routine workflow and tested by personnel who normally perform the test, using the lab's standard procedures
+
+## **Key Terms** {-}
+
+*   **Standard Operating Procedure (SOP):** Detailed, written instructions for performing a specific test or task, ensuring consistency and standardization
+*   **Competency Assessment:** The evaluation of an individual's ability to perform a test or task correctly and according to procedure, conducted at regular intervals
+*   **Calibration:** The process of adjusting or verifying the accuracy of measuring equipment (e.g., centrifuges, pipettes, thermometers) against known standards
+*   **Critical Steps:** Specific points within a test procedure that must be performed precisely (e.g., incubation time/temp, washing, centrifugation) to ensure accurate results
+*   **Result Interpretation:** The process of evaluating the outcome of a test based on objective criteria defined in the SOP (e.g., grading agglutination)
+*   **Proficiency Testing (PT) / External Quality Assessment (EQA):** A program where laboratories test unknown samples provided by an external agency to assess their performance against peer laboratories
+*   **Corrective Action:** Steps taken to resolve an identified problem or error (e.g., QC failure, procedural deviation)
+*   **Preventive Action:** Steps taken to eliminate the cause of potential problems to prevent them from occurring
+*   **Version Control:** A system for managing changes to documents like SOPs, ensuring that only the current, approved version is in use

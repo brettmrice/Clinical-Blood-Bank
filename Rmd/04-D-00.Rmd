@@ -1,0 +1,37 @@
+# Quality Assurance {-}
+
+**Quality Assurance (QA)** in Serologic and Molecular testing isn't just about one thing – it's a comprehensive system ensuring accuracy and safety from start to finish. Think of it as a three-legged stool: if any leg is weak, the whole thing wobbles! Those legs are **Blood Samples**, **Reagents**, and **Test Procedures**
+
+Here’s an overview of how QA applies to each:
+
+## **Blood Samples: The Starting Material** {-}
+
+*   **Goal:** Ensure the sample unequivocally belongs to the correct patient and is suitable for testing. Errors here are often the most critical!
+*   **Key QA Checks**
+    *   **Positive Patient Identification:** Absolute cornerstone! Using at least two unique identifiers (Name, DOB/MRN) verified directly against the patient's ID band/information *before* collection
+    *   **Impeccable Labeling:** MUST be done at the bedside/chairside immediately after collection. Requires full patient name, second identifier, date/time of collection, phlebotomist ID. Must be legible and secure. **No pre-labeling!**
+    *   **Correct Tube & Collection:** Using the right tube (usually EDTA), proper fill volume, appropriate collection technique to avoid hemolysis or clots, and proper mixing
+    *   **Transport & Receipt:** Prompt transport, avoiding temperature extremes. Lab verification of label info vs. order, checking for hemolysis/clots/QNS, and documenting receipt time. Sample age limits must be respected
+    *   **Clear Acceptance/Rejection Criteria:** Defined rules for rejecting improperly identified, labeled, or compromised samples
+
+## **Reagents: The Testing Tools** {-}
+
+*   **Goal:** Guarantee that all reagents (antisera, reagent cells, AHG, etc.) are potent, specific, and perform exactly as expected
+*   **Key QA Checks**
+    *   **Receipt & Validation:** Checking shipment conditions, verifying order, inspecting vials, logging lot numbers/expiration dates. **Crucially, validating new lots/shipments** against current lots before use
+    *   **Proper Storage:** Maintaining required temperatures (usually 1-6°C) with continuous monitoring and alarms. Organized storage to prevent mix-ups
+    *   **Daily Quality Control (QC):** Testing *each day of use* with known positive and negative controls to confirm expected reactivity and specificity. Documenting all QC results meticulously
+    *   **Inventory Management:** Rotating stock (FIFO - First-In, First-Out), tracking usage, and promptly discarding expired reagents
+    *   **Troubleshooting:** Having clear procedures for investigating and documenting QC failures before using the reagent for patient testing
+
+## **Test Procedures: The Method** {-}
+
+*   **Goal:** Ensure every test is performed consistently, accurately, and precisely according to validated instructions, regardless of who performs it
+*   **Key QA Checks**
+    *   **Standard Operating Procedures (SOPs):** Detailed, up-to-date written procedures for every test, readily available and followed **exactly**
+    *   **Personnel Training & Competency:** Ensuring staff are initially trained and regularly assessed (annually) for their ability to perform each test correctly
+    *   **Equipment Maintenance & Calibration:** Regular checks, calibration, and maintenance of centrifuges, incubators, pipettes, automated systems, etc
+    *   **Adherence to Critical Steps:** Precisely following instructions for incubation times/temps, washing, centrifugation speeds/times, reagent/sample volumes
+    *   **Objective Interpretation & Reporting:** Using standardized criteria for reading/grading results and reporting them accurately. Utilizing procedural controls (Rh control, Check Cells, etc.)
+    *   **Proficiency Testing (PT):** Participating in external programs to assess overall laboratory performance against peers
+    *   **Troubleshooting & Corrective Action:** Documenting investigation and resolution of any errors or discrepancies

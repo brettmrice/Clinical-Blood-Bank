@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Classes &amp; Subclasses | Blood Bank</title>
+<meta name="author" content="Brett M. Rice">
+<meta name="description" content="Think of immunoglobulins, or antibodies, as the specialized tools your immune system creates to target specific threats. While they all share a basic structure, they come in different “models” –...">
+<meta name="generator" content="bookdown 0.42 with bs4_book()">
+<meta property="og:title" content="Classes &amp; Subclasses | Blood Bank">
+<meta property="og:type" content="book">
+<meta property="og:description" content="Think of immunoglobulins, or antibodies, as the specialized tools your immune system creates to target specific threats. While they all share a basic structure, they come in different “models” –...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Classes &amp; Subclasses | Blood Bank">
+<meta name="twitter:description" content="Think of immunoglobulins, or antibodies, as the specialized tools your immune system creates to target specific threats. While they all share a basic structure, they come in different “models” –...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><meta name="google-adsense-account" content="ca-pub-1344282930858290">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JERRQQFPF4"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JERRQQFPF4');
+    </script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="toc.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">Blood Bank</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">About</a></li>
+<li><a class="" href="content-areas.html">Content Areas</a></li>
+<li><a class="" href="author.html">Author</a></li>
+<li><a class="" href="ascp-boc.html">ASCP BOC</a></li>
+<li><a class="" href="reading-list.html">Reading List</a></li>
+<li class="book-part">Blood Products</li>
+<li><a class="" href="donors.html">Donors</a></li>
+<li><a class="" href="qualification.html">Qualification</a></li>
+<li><a class="" href="processing.html">Processing</a></li>
+<li><a class="" href="adverse-reactions-1.html">Adverse Reactions</a></li>
+<li><a class="" href="special-donations-1.html">Special Donations</a></li>
+<li><a class="" href="processing-1.html">Processing</a></li>
+<li><a class="" href="fda-aabb-requirements.html">FDA, AABB Requirements</a></li>
+<li><a class="" href="testing.html">Testing</a></li>
+<li><a class="" href="labeling.html">Labeling</a></li>
+<li><a class="" href="storage.html">Storage</a></li>
+<li><a class="" href="anticoagulantsadditives.html">Anticoagulants/Additives</a></li>
+<li><a class="" href="temperature-requirements.html">Temperature Requirements</a></li>
+<li><a class="" href="transportation.html">Transportation</a></li>
+<li><a class="" href="stored-products.html">Stored Products</a></li>
+<li><a class="" href="expiration.html">Expiration</a></li>
+<li><a class="" href="blood-components.html">Blood Components</a></li>
+<li><a class="" href="red-blood-cells.html">Red Blood Cells</a></li>
+<li><a class="" href="cryoprecipitated-ahf.html">Cryoprecipitated AHF</a></li>
+<li><a class="" href="platelets.html">Platelets</a></li>
+<li><a class="" href="plasma.html">Plasma</a></li>
+<li><a class="" href="granulocytes.html">Granulocytes</a></li>
+<li><a class="" href="wbc-reduced-components.html">WBC-Reduced Components</a></li>
+<li><a class="" href="frozendeglycerolized-rbcs.html">Frozen/Deglycerolized RBCs</a></li>
+<li><a class="" href="apheresis-products.html">Apheresis Products</a></li>
+<li><a class="" href="fractionation-products.html">Fractionation Products</a></li>
+<li><a class="" href="whole-blood.html">Whole Blood</a></li>
+<li><a class="" href="washed-rbcs.html">Washed RBCs</a></li>
+<li><a class="" href="rejuvenated-rbcs.html">Rejuvenated RBCs</a></li>
+<li><a class="" href="irradiated-components.html">Irradiated Components</a></li>
+<li><a class="" href="hematopoietic-progenitors.html">Hematopoietic Progenitors</a></li>
+<li><a class="" href="blood-component-qc.html">Blood Component QC</a></li>
+<li class="book-part">Blood Group Systems</li>
+<li><a class="" href="genetics.html">Genetics</a></li>
+<li><a class="" href="basic.html">Basic</a></li>
+<li><a class="" href="molecular.html">Molecular</a></li>
+<li><a class="" href="blood-group-inheritance.html">Blood Group Inheritance</a></li>
+<li><a class="" href="biochemistryantigens.html">Biochemistry/Antigens</a></li>
+<li><a class="" href="abo.html">ABO</a></li>
+<li><a class="" href="lewis.html">Lewis</a></li>
+<li><a class="" href="rh.html">Rh</a></li>
+<li><a class="" href="mns.html">MNS</a></li>
+<li><a class="" href="p1pkglobosidep.html">P1PK/Globoside(P)</a></li>
+<li><a class="" href="ii.html">Ii</a></li>
+<li><a class="" href="kell.html">Kell</a></li>
+<li><a class="" href="kidd.html">Kidd</a></li>
+<li><a class="" href="duffy.html">Duffy</a></li>
+<li><a class="" href="lutheran.html">Lutheran</a></li>
+<li><a class="" href="other-blood-groups.html">Other Blood Groups</a></li>
+<li><a class="" href="high-prevalence-antigens.html">High Prevalence Antigens</a></li>
+<li><a class="" href="low-prevalence-antigens.html">Low Prevalence Antigens</a></li>
+<li><a class="" href="hla.html">HLA</a></li>
+<li><a class="" href="platelet-specific.html">Platelet-Specific</a></li>
+<li><a class="" href="granulocyte-specific.html">Granulocyte-Specific</a></li>
+<li><a class="" href="role-of-blood-groups-in-transfusion.html">Role of Blood Groups in Transfusion</a></li>
+<li><a class="" href="immunogenicity.html">Immunogenicity</a></li>
+<li><a class="" href="antigen-prevalence.html">Antigen Prevalence</a></li>
+<li class="book-part">Immunology &amp; Physiology</li>
+<li><a class="" href="immunology.html">Immunology</a></li>
+<li><a class="" href="immune-response.html">Immune response</a></li>
+<li><a class="" href="primary-secondary.html">Primary &amp; Secondary</a></li>
+<li><a class="" href="b-t-cells-macrophages.html">B &amp; T cells, Macrophages</a></li>
+<li><a class="" href="genetics-1.html">Genetics</a></li>
+<li><a class="" href="immunoglobulins.html">Immunoglobulins</a></li>
+<li><a class="active" href="classes-subclasses.html">Classes &amp; Subclasses</a></li>
+<li><a class="" href="structure.html">Structure</a></li>
+<li><a class="" href="properties.html">Properties</a></li>
+<li><a class="" href="ag-ab-interactions.html">Ag-Ab Interactions</a></li>
+<li><a class="" href="principles.html">Principles</a></li>
+<li><a class="" href="testing-1.html">Testing</a></li>
+<li><a class="" href="complement.html">Complement</a></li>
+<li><a class="" href="pathway-mechanisms.html">Pathway Mechanisms</a></li>
+<li><a class="" href="biologic-properties.html">Biologic Properties</a></li>
+<li><a class="" href="physiology-pathophysiology.html">Physiology &amp; Pathophysiology</a></li>
+<li><a class="" href="blood-physiology.html">Blood Physiology</a></li>
+<li><a class="" href="circulation-volume.html">Circulation &amp; Volume</a></li>
+<li><a class="" href="composition-function.html">Composition &amp; Function</a></li>
+<li><a class="" href="cell-survival.html">Cell Survival</a></li>
+<li><a class="" href="cell-metabolism.html">Cell Metabolism</a></li>
+<li><a class="" href="hemostasis-coagulation.html">Hemostasis &amp; Coagulation</a></li>
+<li><a class="" href="factors-disorders.html">Factors &amp; Disorders</a></li>
+<li><a class="" href="plt-functions-disorders.html">PLT Functions &amp; Disorders</a></li>
+<li><a class="" href="hdfn.html">HDFN</a></li>
+<li><a class="" href="pathophysiology.html">Pathophysiology</a></li>
+<li><a class="" href="detection.html">Detection</a></li>
+<li><a class="" href="treatment.html">Treatment</a></li>
+<li><a class="" href="prevention.html">Prevention</a></li>
+<li><a class="" href="cytopenias-1.html">Cytopenias</a></li>
+<li><a class="" href="anemia.html">Anemia</a></li>
+<li><a class="" href="thrombocytopenia.html">Thrombocytopenia</a></li>
+<li><a class="" href="neutropenia.html">Neutropenia</a></li>
+<li><a class="" href="transplantation-1.html">Transplantation</a></li>
+<li><a class="" href="solid-organ.html">Solid Organ</a></li>
+<li><a class="" href="hpc.html">HPC</a></li>
+<li class="book-part">Serology &amp; Molecular</li>
+<li><a class="" href="routine-tests.html">Routine Tests</a></li>
+<li><a class="" href="blood-grouping.html">Blood Grouping</a></li>
+<li><a class="" href="compatibility.html">Compatibility</a></li>
+<li><a class="" href="antibody-detection.html">Antibody Detection</a></li>
+<li><a class="" href="crossmatch.html">Crossmatch</a></li>
+<li><a class="" href="ab-id-significance.html">Ab ID &amp; Significance</a></li>
+<li><a class="" href="dat.html">DAT</a></li>
+<li><a class="" href="reagents.html">Reagents</a></li>
+<li><a class="" href="antiglobulin-sera.html">Antiglobulin Sera</a></li>
+<li><a class="" href="blood-grouping-sera.html">Blood Grouping Sera</a></li>
+<li><a class="" href="reagent-rbcs.html">Reagent RBCs</a></li>
+<li><a class="" href="special-tests-reagents.html">Special Tests &amp; Reagents</a></li>
+<li><a class="" href="enzymes.html">Enzymes</a></li>
+<li><a class="" href="enhancement-media.html">Enhancement Media</a></li>
+<li><a class="" href="lectins.html">Lectins</a></li>
+<li><a class="" href="adsorptions.html">Adsorptions</a></li>
+<li><a class="" href="elutions.html">Elutions</a></li>
+<li><a class="" href="titrations-1.html">Titrations</a></li>
+<li><a class="" href="cell-separations.html">Cell Separations</a></li>
+<li><a class="" href="elisa.html">ELISA</a></li>
+<li><a class="" href="molecular-techniques.html">Molecular Techniques</a></li>
+<li><a class="" href="neutralization.html">Neutralization</a></li>
+<li><a class="" href="thiol-reagents.html">Thiol Reagents</a></li>
+<li><a class="" href="immunofluorescence.html">Immunofluorescence</a></li>
+<li><a class="" href="solid-phase.html">Solid Phase</a></li>
+<li><a class="" href="column-agglutination.html">Column Agglutination</a></li>
+<li><a class="" href="chloroquine-diphosphate.html">Chloroquine Diphosphate</a></li>
+<li><a class="" href="edta-glycine-acid.html">EDTA-Glycine Acid</a></li>
+<li><a class="" href="quality-assurance.html">Quality Assurance</a></li>
+<li><a class="" href="blood-samples.html">Blood Samples</a></li>
+<li><a class="" href="reagents-1.html">Reagents</a></li>
+<li><a class="" href="test-procedures.html">Test Procedures</a></li>
+<li class="book-part">Transfusion Practice</li>
+<li><a class="" href="indications.html">Indications</a></li>
+<li><a class="" href="component-therapy.html">Component Therapy</a></li>
+<li><a class="" href="adverse-effects.html">Adverse Effects</a></li>
+<li><a class="" href="immunologic.html">Immunologic</a></li>
+<li><a class="" href="nonimmunologic.html">Nonimmunologic</a></li>
+<li><a class="" href="ttds.html">TTDs</a></li>
+<li><a class="" href="apheresis-extracorporeal-circulation.html">Apheresis &amp; Extracorporeal Circulation</a></li>
+<li><a class="" href="blood-administration-patient-blood-management.html">Blood Administration &amp; Patient Blood Management</a></li>
+</ul>
+
+        <div class="book-extra" style="display:none;">
+          <p><a id="book-repo" href="https://github.com/brettmrice/Clinical-Blood-Bank/blob">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="classes-subclasses" class="section level1 unnumbered">
+<h1>Classes &amp; Subclasses<a class="anchor" aria-label="anchor" href="#classes-subclasses"><i class="fas fa-link"></i></a>
+</h1>
+<p>Think of immunoglobulins, or antibodies, as the specialized tools your immune system creates to target specific threats. While they all share a basic structure, they come in different “models” – called <strong>classes</strong> and <strong>subclasses</strong> – each designed for slightly different jobs and locations in the body. Understanding these is <em>super important</em> in blood banking because different antibody classes have vastly different clinical significance!</p>
+<p>The class (and subclass) of an immunoglobulin is determined by its <strong>heavy chain</strong> – the larger protein chains in its structure. There are five main types of heavy chains, corresponding to the five main Ig classes:</p>
+<ul>
+<li>
+<strong>Gamma (γ):</strong> heavy chains define <strong>IgG</strong>
+</li>
+<li>
+<strong>Mu (μ):</strong> heavy chains define <strong>IgM</strong>
+</li>
+<li>
+<strong>Alpha (α):</strong> heavy chains define <strong>IgA</strong>
+</li>
+<li>
+<strong>Epsilon (ε):</strong> heavy chains define <strong>IgE</strong>
+</li>
+<li>
+<strong>Delta (δ):</strong> heavy chains define <strong>IgD</strong>
+</li>
+</ul>
+<p>(Remember the mnemonic <strong>GAMED</strong> for the five classes!)</p>
+<p>Now, let’s look at each class and its subclasses (where applicable):</p>
+<div id="immunoglobulin-g-igg" class="section level2 unnumbered">
+<h2>
+<strong>Immunoglobulin G (IgG)</strong><a class="anchor" aria-label="anchor" href="#immunoglobulin-g-igg"><i class="fas fa-link"></i></a>
+</h2>
+<p>The workhorse of the adaptive immune response, especially in the blood!</p>
+<ul>
+<li>
+<strong>Heavy Chain:</strong> Gamma (γ)</li>
+<li>
+<strong>Structure:</strong> Monomer (a single Y-shaped unit)</li>
+<li>
+<strong>Concentration:</strong> Highest concentration in serum (~75-80% of total serum Ig). Found in blood, lymph, and tissue fluids</li>
+<li>
+<strong>Key Functions</strong>
+<ul>
+<li>
+<strong>Major player in secondary immune responses:</strong> Produced in large amounts upon re-exposure to an antigen</li>
+<li><strong>Neutralizes toxins and viruses.</strong></li>
+<li>
+<strong>Opsonization:</strong> Coats pathogens, making them easier for phagocytes (like macrophages) to engulf (binds via its Fc region to Fc receptors on phagocytes)</li>
+<li>
+<strong>Activates the classical complement pathway:</strong> But requires two IgG molecules close together</li>
+<li>
+<strong>Crosses the placenta:</strong> Provides passive immunity to the fetus and newborn. <em>Crucial point!</em>
+</li>
+<li>
+<strong>Long half-life:</strong> Persists in circulation for weeks (around 23 days)</li>
+</ul>
+</li>
+<li>
+<strong>Blood Bank Relevance</strong>
+<ul>
+<li>
+<strong>Most clinically significant alloantibodies:</strong> (antibodies against foreign red cell antigens like Rh, Kell, Duffy, Kidd) that cause <strong>hemolytic transfusion reactions (HTRs)</strong> and <strong>Hemolytic Disease of the Fetus and Newborn (HDFN)</strong> are IgG</li>
+<li>Many <strong>warm autoantibodies</strong> (reacting with self-antigens at 37°C) are IgG</li>
+<li>Detected best by the <strong>Indirect Antiglobulin Test (IAT)</strong> or <strong>Direct Antiglobulin Test (DAT)</strong> because they are often non-agglutinating on their own (“incomplete” antibodies)</li>
+</ul>
+</li>
+</ul>
+<div id="igg-subclasses" class="section level3 unnumbered">
+<h3>
+<strong>IgG Subclasses</strong><a class="anchor" aria-label="anchor" href="#igg-subclasses"><i class="fas fa-link"></i></a>
+</h3>
+<p>There are four subclasses of IgG (IgG1, IgG2, IgG3, IgG4), determined by slight variations in their gamma heavy chains. They differ primarily in their abundance and functional capabilities:</p>
+<ul>
+<li>
+<strong>IgG1:</strong> Most abundant (~65% of total IgG). Good all-around performer: crosses placenta well, activates complement, binds Fc receptors. Many Rh antibodies (like anti-D) are IgG1</li>
+<li>
+<strong>IgG2:</strong> Second most abundant (~23%). Primarily responds to polysaccharide antigens (like bacterial capsules). <em>Poor complement activator</em> and crosses the placenta less efficiently than IgG1 and IgG3</li>
+<li>
+<strong>IgG3:</strong> Less abundant (~8%). <em>Most effective complement activator</em> among IgG subclasses! Crosses the placenta well and binds Fc receptors effectively. Has a shorter half-life than other subclasses. Some potent alloantibodies (like certain anti-Jk<sup>a</sup>) can be IgG3</li>
+<li>
+<strong>IgG4:</strong> Least abundant (~4%). <em>Does not activate the classical complement pathway</em>. Can cross the placenta. Its role is complex, sometimes associated with allergy responses or immune tolerance. Rarely implicated alone in significant red cell hemolysis, but can be present in some autoimmune conditions</li>
+</ul>
+<p><strong>Key Subclass Takeaway</strong> Differences in <strong>complement activation</strong> (IgG3 &gt; IgG1 &gt;&gt; IgG2, None for IgG4) and <strong>placental transfer</strong> (all cross, IgG2 less so) are the most clinically relevant distinctions for blood bankers!</p>
+</div>
+</div>
+<div id="immunoglobulin-m-igm" class="section level2 unnumbered">
+<h2>
+<strong>Immunoglobulin M (IgM)</strong><a class="anchor" aria-label="anchor" href="#immunoglobulin-m-igm"><i class="fas fa-link"></i></a>
+</h2>
+<p>The “first responder” antibody!</p>
+<ul>
+<li>
+<strong>Heavy Chain:</strong> Mu (μ)</li>
+<li>
+<strong>Structure:</strong> Pentamer (five Y-shaped units joined together by a <strong>J-chain</strong>) in its secreted form. Looks like a snowflake! It also exists as a monomer on the surface of naive B cells as the B cell receptor (BCR)</li>
+<li>
+<strong>Concentration:</strong> About 5-10% of total serum Ig. Mostly confined to the bloodstream due to its large size</li>
+<li>
+<strong>Key Functions</strong>
+<ul>
+<li><strong>Predominant antibody in the primary immune response.</strong></li>
+<li>
+<strong>Excellent activator of the classical complement pathway:</strong> Its pentameric structure provides multiple binding sites for C1q, making it very efficient</li>
+<li>
+<strong>Efficient agglutinator:</strong> Its large size and multiple binding arms (10 potential binding sites, though usually only 5 are functional due to steric hindrance) make it great at clumping cells (like red blood cells)</li>
+<li>
+<strong>Does NOT cross the placenta:</strong> (generally too large)</li>
+<li>Shorter half-life than IgG (~5 days)</li>
+</ul>
+</li>
+<li>
+<strong>Blood Bank Relevance</strong>
+<ul>
+<li>
+<strong>Naturally occurring ABO antibodies (anti-A, anti-B):</strong> are primarily IgM. This is why ABO incompatibility can cause rapid intravascular hemolysis (due to potent complement activation)</li>
+<li>Many <strong>cold-reactive antibodies</strong> (reacting best below 37°C), both alloantibodies (like anti-M, -N, -P1) and autoantibodies (like anti-I, anti-i associated with Cold Agglutinin Disease), are IgM</li>
+<li>Often detected by <strong>immediate spin</strong> or room temperature phases of testing due to their agglutinating ability (“complete” antibodies)</li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="immunoglobulin-a-iga" class="section level2 unnumbered">
+<h2>
+<strong>Immunoglobulin A (IgA)</strong><a class="anchor" aria-label="anchor" href="#immunoglobulin-a-iga"><i class="fas fa-link"></i></a>
+</h2>
+<p>The guardian of mucosal surfaces!</p>
+<ul>
+<li>
+<strong>Heavy Chain:</strong> Alpha (α)</li>
+<li>
+<strong>Structure</strong>
+<ul>
+<li>
+<strong>Serum IgA:</strong> Primarily a monomer</li>
+<li>
+<strong>Secretory IgA (sIgA):</strong> Dimer (two units) joined by a <strong>J-chain</strong> and complexed with a <strong>Secretory Component</strong>. This component protects it from enzymatic digestion in harsh mucosal environments</li>
+</ul>
+</li>
+<li>
+<strong>Concentration:</strong> About 10-15% of total serum Ig, but it’s the <em>most abundant Ig overall</em> in the body due to its high concentration in secretions. Found in tears, saliva, mucus (respiratory, GI, GU tracts), sweat, and breast milk</li>
+<li>
+<strong>Key Functions</strong>
+<ul>
+<li>
+<strong>Mucosal Immunity:</strong> Prevents attachment of bacteria and viruses to mucous membranes (immune exclusion). Neutralizes toxins locally</li>
+<li>Does NOT typically activate the classical complement pathway</li>
+<li>Passed to newborns via breast milk, providing passive mucosal immunity</li>
+</ul>
+</li>
+<li>
+<strong>Blood Bank Relevance</strong>
+<ul>
+<li>Usually not directly involved in red cell destruction</li>
+<li>
+<strong>Clinically Significant:</strong> Patients who are <strong>IgA deficient</strong> (the most common primary immunodeficiency) can produce <strong>anti-IgA antibodies</strong> if exposed to IgA through plasma-containing blood products. Re-exposure can lead to severe <strong>anaphylactic transfusion reactions</strong>. These patients require IgA-deficient blood products (e.g., washed red cells/platelets or products from IgA-deficient donors)</li>
+</ul>
+</li>
+</ul>
+<div id="iga-subclasses" class="section level3 unnumbered">
+<h3>
+<strong>IgA Subclasses</strong><a class="anchor" aria-label="anchor" href="#iga-subclasses"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>IgA1:</strong> Predominant in serum and produced by bone marrow plasma cells</li>
+<li>
+<strong>IgA2:</strong> Predominant in secretions, especially in the colon. More resistant to bacterial proteases than IgA1</li>
+</ul>
+</div>
+</div>
+<div id="immunoglobulin-e-ige" class="section level2 unnumbered">
+<h2>
+<strong>Immunoglobulin E (IgE)</strong><a class="anchor" aria-label="anchor" href="#immunoglobulin-e-ige"><i class="fas fa-link"></i></a>
+</h2>
+<p>The allergy and parasite defender!</p>
+<ul>
+<li>
+<strong>Heavy Chain:</strong> Epsilon (ε)</li>
+<li>
+<strong>Structure:</strong> Monomer</li>
+<li>
+<strong>Concentration:</strong> Lowest concentration in serum. Most IgE is bound to the surface of <strong>mast cells</strong> and <strong>basophils</strong> via high-affinity Fc receptors (FcεRI)</li>
+<li>
+<strong>Key Functions</strong>
+<ul>
+<li>
+<strong>Allergic Reactions:</strong> When antigen (allergen) binds to IgE on mast cells/basophils, it triggers degranulation – the release of histamine, leukotrienes, and other inflammatory mediators, causing allergic symptoms (hives, asthma, anaphylaxis)</li>
+<li><strong>Defense against parasitic worms (helminths).</strong></li>
+</ul>
+</li>
+<li>
+<strong>Blood Bank Relevance</strong>
+<ul>
+<li>Responsible for <strong>allergic transfusion reactions</strong>, ranging from mild urticaria (hives) to potentially severe anaphylaxis (though anaphylaxis in transfusion is more commonly associated with anti-IgA)</li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="immunoglobulin-d-igd" class="section level2 unnumbered">
+<h2>
+<strong>Immunoglobulin D (IgD)</strong><a class="anchor" aria-label="anchor" href="#immunoglobulin-d-igd"><i class="fas fa-link"></i></a>
+</h2>
+<p>The mysterious one, mostly found on B cells</p>
+<ul>
+<li>
+<strong>Heavy Chain:</strong> Delta (δ)</li>
+<li>
+<strong>Structure:</strong> Monomer</li>
+<li>
+<strong>Concentration:</strong> Very low concentration in serum. Primarily found on the surface of <strong>naive B lymphocytes</strong>, often co-expressed with IgM, acting as a B cell receptor (BCR)</li>
+<li>
+<strong>Key Functions</strong>
+<ul>
+<li>Involved in <strong>B cell activation and differentiation</strong>. Signals when the naive B cell encounters its specific antigen</li>
+<li>Serum function is largely unknown</li>
+</ul>
+</li>
+<li>
+<strong>Blood Bank Relevance</strong>
+<ul>
+<li>No known direct role in transfusion reactions or routine blood bank testing</li>
+</ul>
+</li>
+</ul>
+<hr>
+</div>
+<div id="summary-table" class="section level2 unnumbered">
+<h2>
+<strong>Summary Table</strong><a class="anchor" aria-label="anchor" href="#summary-table"><i class="fas fa-link"></i></a>
+</h2>
+<div class="inline-table"><table class="table table-sm">
+<colgroup>
+<col width="9%">
+<col width="17%">
+<col width="19%">
+<col width="18%">
+<col width="17%">
+<col width="18%">
+</colgroup>
+<thead><tr class="header">
+<th align="left">Feature</th>
+<th align="left">IgG</th>
+<th align="left">IgM</th>
+<th align="left">IgA (Secretory)</th>
+<th align="left">IgE</th>
+<th align="left">IgD</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Heavy Chain</strong></td>
+<td align="left">Gamma (γ)</td>
+<td align="left">Mu (μ)</td>
+<td align="left">Alpha (α)</td>
+<td align="left">Epsilon (ε)</td>
+<td align="left">Delta (δ)</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Structure</strong></td>
+<td align="left">Monomer</td>
+<td align="left">Pentamer (+ J chain)</td>
+<td align="left">Dimer (+ J chain, Secretory Comp.)</td>
+<td align="left">Monomer</td>
+<td align="left">Monomer</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Serum Conc.</strong></td>
+<td align="left">Highest (~75%)</td>
+<td align="left">Moderate (~10%)</td>
+<td align="left">Lower (~15% serum, HIGH in secretions)</td>
+<td align="left">Lowest</td>
+<td align="left">Very Low</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Location</strong></td>
+<td align="left">Blood, Tissues</td>
+<td align="left">Blood</td>
+<td align="left">Secretions, Mucosa</td>
+<td align="left">Bound to Mast Cells/Basophils</td>
+<td align="left">B cell surface, Low serum</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Placental Transfer</strong></td>
+<td align="left">YES (esp. IgG1, IgG3)</td>
+<td align="left">NO</td>
+<td align="left">NO</td>
+<td align="left">NO</td>
+<td align="left">NO</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Complement (Classic)</strong></td>
+<td align="left">YES (IgG3&gt;IgG1&gt;&gt;IgG2, No IgG4)</td>
+<td align="left">YES (Very Effective)</td>
+<td align="left">NO</td>
+<td align="left">NO</td>
+<td align="left">NO</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Key Function</strong></td>
+<td align="left">Secondary Response, Opsonization, HDFN</td>
+<td align="left">Primary Response, Agglutination, ABO Abs</td>
+<td align="left">Mucosal Immunity</td>
+<td align="left">Allergy, Anti-Parasite</td>
+<td align="left">B cell Receptor/Activation</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>BB Significance</strong></td>
+<td align="left">HTR, HDFN, Warm AutoAbs</td>
+<td align="left">ABO Abs, Cold Agglutinins, Early AlloAbs</td>
+<td align="left">Anti-IgA -&gt; Anaphylaxis (if deficient)</td>
+<td align="left">Allergic Reactions (Urticaria)</td>
+<td align="left">Minimal</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div id="key-terms-51" class="section level2 unnumbered">
+<h2>
+<strong>Key Terms</strong><a class="anchor" aria-label="anchor" href="#key-terms-51"><i class="fas fa-link"></i></a>
+</h2>
+<ul>
+<li>
+<strong>Immunoglobulin (Ig) / Antibody:</strong> Glycoproteins produced by plasma cells (differentiated B lymphocytes) that specifically bind to antigens. They are key components of the humoral immune response</li>
+<li>
+<strong>Class (Isotype):</strong> The major categories of immunoglobulins (IgG, IgM, IgA, IgE, IgD) determined by the type of <strong>heavy chain</strong> (gamma, mu, alpha, epsilon, delta, respectively) present in the molecule. Each class has distinct structural characteristics and effector functions</li>
+<li>
+<strong>Subclass:</strong> Further divisions within certain immunoglobulin classes (specifically IgG and IgA), based on minor variations in their heavy chains (e.g., IgG1, IgG2, IgG3, IgG4; IgA1, IgA2). Subclasses can differ in their functional properties, such as complement activation or placental transfer efficiency</li>
+<li>
+<strong>Heavy Chain:</strong> The larger of the two types of polypeptide chains that make up an immunoglobulin molecule. The amino acid sequence of the constant region of the heavy chain determines the immunoglobulin’s class and subclass</li>
+<li>
+<strong>IgG (Immunoglobulin G):</strong> The most abundant immunoglobulin class in serum, existing as a monomer. It dominates secondary immune responses, readily crosses the placenta, and includes most clinically significant red blood cell alloantibodies responsible for HTR and HDFN</li>
+<li>
+<strong>IgM (Immunoglobulin M)</strong>
+<ul>
+<li>
+<strong>Definition:</strong> An immunoglobulin class existing as a large pentamer (in serum) joined by a J-chain. It is the first antibody produced in a primary immune response, is very efficient at activating complement, and includes naturally occurring ABO antibodies. It does not cross the placenta</li>
+</ul>
+</li>
+<li>
+<strong>IgA (Immunoglobulin A):</strong> An immunoglobulin class found as a monomer in serum but primarily as a dimer (secretory IgA) in mucosal secretions. Its main role is mucosal immunity. Clinically relevant in blood banking due to potential anti-IgA antibodies in IgA-deficient individuals causing anaphylactic reactions</li>
+<li>
+<strong>Placental Transfer:</strong> The ability of an immunoglobulin class, specifically IgG, to pass across the placental barrier from mother to fetus via active transport involving Fc receptors on placental cells. This provides passive immunity to the newborn but is also the mechanism by which maternal IgG antibodies cause HDFN</li>
+<li>
+<strong>Complement Activation (Classical Pathway):</strong> The ability of certain immunoglobulin classes (primarily IgM and some IgG subclasses, notably IgG3 and IgG1) to initiate the classical complement cascade upon binding to an antigen. This leads to inflammation, opsonization, and potentially cell lysis (e.g., intravascular hemolysis)</li>
+<li>
+<strong>J-Chain (Joining Chain):</strong> A small polypeptide chain that links immunoglobulin monomers together to form the polymeric structures of IgM (pentamer) and secretory IgA (dimer)</li>
+</ul>
+</div>
+</div>
+<!-- Scoll to TOC element -->
+<script defer>
+  // adjust TOC scroll to selected element/topic
+  function scroll_to_element() {
+    header_height = document.getElementsByTagName('header')[0].offsetHeight/2;
+    toc_element_position = document.querySelector('.book-toc > li > a.active').offsetTop;
+    if(document.querySelector('.book-toc > li > a.active').offsetLeft == 0) {
+      toc_element_position1 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetTop;
+      toc_element_position2 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetHeight;
+      toc_element_position = toc_element_position1 + toc_element_position2;
+    }
+    document.getElementsByTagName('header')[0].scrollTo(0, toc_element_position - header_height, 'smooth');
+  }
+  window.onload = scroll_to_element();
+  
+  // hide those labes that take up multiple lines
+  l = [];
+  function hide_label() {
+    document
+      .querySelectorAll('.book-toc > li')
+      .forEach(elem => {
+        window
+          .getComputedStyle(elem)
+          .textTransform === "uppercase" 
+          && 
+          !elem.classList
+          .contains('book-part') 
+          ? l.push(elem) 
+          : '';
+      });
+  }
+  hide_label();
+  head = document.getElementsByTagName('header')[0];
+  head.addEventListener('scroll', () => {
+    count = 0;
+    prev_elem = '';
+    l.forEach((elem) => {
+      if(count === 0) {
+        initial_y = elem.getBoundingClientRect().y + 20;
+        count = 1;
+      } else {
+        if(elem.getBoundingClientRect().y < initial_y) {
+          prev_elem.classList.add('hide_label');
+        } else {
+          prev_elem.classList.remove('hide_label');
+        }
+      }
+      prev_elem = elem;
+    });
+  });
+</script><div class="chapter-nav">
+<div class="prev"><a href="immunoglobulins.html">Immunoglobulins</a></div>
+<div class="next"><a href="structure.html">Structure</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#classes-subclasses">Classes &amp; Subclasses</a></li>
+<li>
+<a class="nav-link" href="#immunoglobulin-g-igg">Immunoglobulin G (IgG)</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#igg-subclasses">IgG Subclasses</a></li></ul>
+</li>
+<li><a class="nav-link" href="#immunoglobulin-m-igm">Immunoglobulin M (IgM)</a></li>
+<li>
+<a class="nav-link" href="#immunoglobulin-a-iga">Immunoglobulin A (IgA)</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#iga-subclasses">IgA Subclasses</a></li></ul>
+</li>
+<li><a class="nav-link" href="#immunoglobulin-e-ige">Immunoglobulin E (IgE)</a></li>
+<li><a class="nav-link" href="#immunoglobulin-d-igd">Immunoglobulin D (IgD)</a></li>
+<li><a class="nav-link" href="#summary-table">Summary Table</a></li>
+<li><a class="nav-link" href="#key-terms-51">Key Terms</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/brettmrice/Clinical-Blood-Bank/blob/blob/main/Rmd/03-A-02-a.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/brettmrice/Clinical-Blood-Bank/blob/edit/main/Rmd/03-A-02-a.Rmd" target="_blank">Edit this page <i class="fab fa-github"></i></a></li>
+          <li><a id="buymeacoffee" href="https://buymeacoffee.com/bloodcellid" target="_blank">NEED Caffeine</a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3" style="text-align: center; flex: 100%; max-width: 100%;">
+    <p>Written by Brett M. Rice | Updated 2025-04-07 | Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
+  </div>
+
+  <!--div class="col-12 col-md-6 mt-3">
+    <p>Built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package</p>
+  </div-->
+
+</div></div>
+</footer>
+</body>
+</html>

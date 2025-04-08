@@ -1,0 +1,78 @@
+# Crossmatch {-}
+
+Think of the **Crossmatch** as the final, crucial compatibility checkpoint before blood goes from the bag into the patient. Even after we've determined the ABO/Rh type and screened for unexpected antibodies, the crossmatch provides that extra layer of safety
+
+Its primary purpose is simple but vital: **To prevent a transfusion reaction by detecting potential incompatibilities between the patient's plasma/serum and the specific donor red blood cells selected for transfusion.**
+
+## **The Goal: What Are We Trying to Achieve?** {-}
+
+*   **Final ABO Compatibility Check:** It's the ultimate verification that the donor unit selected is ABO compatible with the patient. An incompatible crossmatch here often points to an ABO error somewhere in the process (sample labeling, testing, unit selection)
+*   **Detect Clinically Significant Antibodies:** It aims to detect antibodies in the *patient's* plasma/serum that react with antigens present on the *donor's* red blood cells. This is especially important if:
+    *   The patient has an antibody to a low-frequency antigen not present on the screening cells used in the antibody screen
+    *   The patient's antibody screen was negative, but there's a historical antibody or a very weak antibody that could still cause issues
+
+## **Key Components** {-}
+
+*   **Patient Sample:** Plasma or Serum (containing potential antibodies). Requirements for sample age vary by institution and patient history (e.g., must be ≤3 days old if recently transfused or pregnant)
+*   **Donor Red Blood Cells:** Taken from a segment of tubing attached to the actual donor unit selected for transfusion. This ensures we're testing the exact cells the patient will receive. These cells are usually washed or prepared as a 2-5% suspension in saline
+
+## **Types of Crossmatches** {-}
+
+The type of crossmatch performed depends largely on the results of the patient's antibody screen and their transfusion/antibody history
+
+### **Serologic Crossmatch** Involves physically mixing patient plasma/serum with donor RBCs {-}
+*   **Immediate Spin (IS) Crossmatch**
+    *   **When Used:** Typically performed when the patient has **NO** evidence of clinically significant antibodies (current negative antibody screen) and **NO** history of such antibodies
+    *   **Procedure:** Patient plasma/serum is mixed with donor RBC suspension in a tube, centrifuged immediately at room temperature, and observed for agglutination or hemolysis
+    *   **What it Detects:** Primarily detects **ABO incompatibility** (due to naturally occurring IgM antibodies like anti-A and anti-B reacting at room temp). It generally does *not* detect clinically significant IgG antibodies that react best at 37°C
+    *   **Interpretation:** No agglutination/hemolysis = Compatible (at IS). Agglutination/hemolysis = Incompatible; **DO NOT TRANSFUSE**; investigate immediately
+*   **Antiglobulin (AHG) Crossmatch (or "Full" Crossmatch)**
+    *   **When Used:** Required when the patient **HAS** a current clinically significant antibody, a **history** of one, or sometimes based on institutional policy (e.g., for specific patient populations like transplant recipients). Also used to investigate an incompatible IS crossmatch
+    *   **Procedure:** This follows the same steps as the **Indirect Antiglobulin Test (IAT)**, but uses *donor RBCs* instead of screening cells:
+        1.  (Optional IS phase)
+        2.  Mix patient plasma/serum + donor RBCs (+/- enhancement media like LISS/PEG)
+        3.  Incubate at 37°C
+        4.  Wash cells thoroughly (3-4 times)
+        5.  Add Anti-Human Globulin (AHG) reagent
+        6.  Centrifuge and read for agglutination/hemolysis
+        7.  Add Check Cells to all negative AHG tubes to validate the result
+    *   **What it Detects:** Detects ABO incompatibility **AND** clinically significant IgG antibodies in the patient's plasma that react with antigens on the donor cells at 37°C/AHG phase
+    *   **Interpretation:** No agglutination/hemolysis = Compatible. Agglutination/hemolysis = Incompatible; **DO NOT TRANSFUSE**; the donor unit likely possesses the antigen corresponding to the patient's antibody
+
+### **Electronic (Computer) Crossmatch** {-}
+*   **When Used:** A safe alternative to serologic crossmatching *only* under specific, strict conditions:
+    *   The facility must have a validated computer system
+    *   Critical patient/donor information must be entered accurately (often via barcode scanners)
+    *   The patient must have **TWO** identical ABO/Rh typing results on file (one from a current sample, one historical or from a second current sample)
+    *   The patient must have a current **NEGATIVE** antibody screen
+    *   The patient must have **NO** history of clinically significant antibodies
+*   **Procedure:** No physical mixing occurs. The computer system verifies the ABO/Rh compatibility between the patient's validated type and the donor unit's confirmed type. If all checks pass, the computer authorizes the release of the ABO/Rh compatible unit
+*   **Advantages:** Significantly faster, reduces reagent/supply usage, less hands-on technologist time
+*   **Limitations:** Cannot detect antibodies to low-frequency antigens or rare ABO incompatibilities missed by routine typing. Relies heavily on system validation and accurate data entry
+
+## **Interpretation Summary** {-}
+
+*   **Compatible Crossmatch:** No agglutination or hemolysis observed in the required phases of testing (IS or AHG, depending on method) or successful electronic crossmatch authorization. Indicates the specific donor unit is suitable for transfusion to that patient from an immunologic perspective
+*   **Incompatible Crossmatch:** Agglutination or hemolysis observed in any phase of serologic testing
+    *   **STOP! DO NOT TRANSFUSE THE UNIT.**
+    *   **Investigate the Cause:** Could be ABO incompatibility, an alloantibody reacting with a donor antigen (expected if patient has known antibody and antigen-negative unit wasn't available/selected, or unexpected if antibody wasn't previously detected), autoantibody interference, or procedural issues
+
+## **Important Considerations** {-}
+
+*   The crossmatch is a critical safety step but doesn't guarantee 100% prevention of all transfusion reactions (e.g., allergic reactions, febrile non-hemolytic reactions are not detected)
+*   It doesn't guarantee normal red cell survival in the patient (other factors can affect this)
+*   It doesn't prevent alloimmunization if the patient is exposed to an antigen they lack (unless antigen-negative units are specifically selected based on known antibodies)
+*   In **urgent, life-threatening situations**, blood may need to be released *before* crossmatch completion (e.g., Group O, Rh(D)-negative RBCs, or type-specific uncrossmatched blood). Documentation and completion of testing afterward are crucial
+
+## **Key Terms** {-}
+
+*   **Crossmatch:** A compatibility test performed before transfusion by mixing the recipient's plasma/serum with the donor's red blood cells to detect potential immunologic incompatibility
+*   **Compatibility Test:** The series of procedures including recipient identification, sample collection/labeling, ABO/Rh typing, antibody screening, and crossmatching, designed to ensure the safest possible transfusion
+*   **Serologic Crossmatch:** A crossmatch method involving the physical mixing of recipient plasma/serum and donor red blood cells in a test tube or other platform (e.g., gel, solid phase) to observe for agglutination or hemolysis
+*   **Immediate Spin (IS) Crossmatch:** A rapid serologic crossmatch phase performed at room temperature designed primarily to detect ABO incompatibility
+*   **Antiglobulin (AHG) Crossmatch (Full Crossmatch):** A serologic crossmatch that includes incubation at 37°C and an antiglobulin (AHG) phase to detect clinically significant IgG antibodies reactive with donor red blood cells
+*   **Electronic (Computer) Crossmatch:** A computer-assisted process that uses validated software to confirm ABO/Rh compatibility between recipient and donor unit, replacing the need for a serologic crossmatch under specific, controlled conditions
+*   **Compatible:** The result of a crossmatch indicating no detectable serologic reactivity (agglutination/hemolysis) between recipient plasma/serum and donor red blood cells, suggesting the unit is safe for transfusion from an immunologic standpoint
+*   **Incompatible:** The result of a crossmatch indicating the presence of agglutination or hemolysis, signifying a potential immunologic reaction; the unit should **not** be transfused
+*   **Donor Segment:** A sealed portion of the tubing attached to the blood collection bag containing red blood cells representative of the unit itself, used for crossmatching
+*   **Alloimmunization:** The process by which an individual develops antibodies (alloantibodies) against foreign antigens (like those on transfused red blood cells or fetal cells) that they lack

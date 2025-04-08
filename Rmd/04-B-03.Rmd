@@ -1,0 +1,79 @@
+# Reagent RBCs {-}
+
+Just like we need known antibodies (in our grouping sera) to find unknown antigens on patient cells, we need known red cells (with specific antigens) to find unknown antibodies in patient plasma! They are the "bait" we use to catch those antibodies
+
+Think of them as our reference library of red blood cells, each carefully selected and characterized
+
+## **What Are Reagent Red Blood Cells?** {-}
+
+These are suspensions of human red blood cells with **known antigen profiles**. They are commercially prepared and used in various tests to detect and identify red blood cell antibodies in a patient's serum or plasma, or to confirm ABO grouping
+
+## **Main Types of Reagent RBCs and Their Uses** {-}
+
+We use different types of reagent RBCs for different jobs:
+
+### **ABO Reverse Grouping Cells (A1 Cells and B Cells)** {-}
+*   **Purpose:** Used in **Reverse Typing** to detect the expected naturally occurring ABO antibodies (anti-A and anti-B) in patient plasma/serum, confirming the forward type
+*   **Composition**
+    *   **A1 Cells:** Red cells obtained from known Group A1 individuals. They possess the A antigen (specifically the A1 subtype, which reacts strongly with most anti-A)
+    *   **B Cells:** Red cells obtained from known Group B individuals. They possess the B antigen
+*   **Why Use Them?:** Landsteiner's Rule! We expect individuals to have antibodies against the ABO antigens they *lack*. These cells confirm the presence (or absence) of those expected antibodies
+    *   Group A patient plasma should react with B cells (contains anti-B)
+    *   Group B patient plasma should react with A1 cells (contains anti-A)
+    *   Group O patient plasma should react with BOTH A1 and B cells (contains anti-A and anti-B)
+    *   Group AB patient plasma should react with NEITHER A1 nor B cells (contains neither antibody)
+*   **Source:** Pooled or single donor sources of known A1 and B phenotypes
+
+### **Antibody Screening Cells** {-}
+*   **Purpose:** Used in the **Antibody Screen (Detection) Test** to detect the presence of *unexpected*, clinically significant antibodies in patient plasma/serum
+*   **Composition**
+    *   Sets of **2 or 3 different vials**, each containing red cells from a single **Group O** donor
+    *   **Why Group O?:** Crucial! This prevents reactions with the patient's expected anti-A or anti-B, which would interfere with detecting the *unexpected* antibodies we're looking for
+    *   **Antigen Profile:** These cells are extensively phenotyped. Between the 2 or 3 vials in the set, they are selected to express (usually in homozygous form where possible, to enhance reactivity via dosage) the **most common and clinically significant antigens** from various blood group systems (e.g., D, C, c, E, e, K, k, Fya, Fyb, Jka, Jkb, Lea, Leb, P1, M, N, S, s)
+    *   **Antigram:** Comes with a detailed sheet (**antigram**) listing the antigen profile of the cells in each vial
+*   **How They Work:** If a patient's plasma contains an antibody (like anti-K), and one of the screening cells has the K antigen, a reaction (agglutination/hemolysis) will occur during the IAT procedure, indicating a positive screen
+
+### **Antibody Identification Panel Cells** {-}
+*   **Purpose:** Used to **determine the specificity** of an unexpected antibody detected by the antibody screen
+*   **Composition**
+    *   Larger sets of reagent RBCs, typically **11 to 20 different vials**, each from a single **Group O** donor
+    *   **Why Group O?:** Same reason as screening cells – avoids ABO interference
+    *   **Antigen Profile:** Like screening cells, these are extensively phenotyped, but the key difference is the **VARIETY** of antigen patterns across the vials. Each vial has a unique combination of antigens present or absent. This variation is essential for the "rule-out" process used in identification
+    *   **Antigram:** Accompanied by a comprehensive antigram detailing the phenotype of each cell vial. Often includes zygosity information (e.g., Jk(a+b-) vs Jk(a+b+)) which helps identify antibodies showing dosage
+*   **How They Work:** By testing the patient's plasma against all cells in the panel and comparing the pattern of positive/negative reactions to the known antigen profiles on the antigram, we can systematically rule out specificities and pinpoint the identity of the antibody(ies)
+
+### **Less Common Routine / QC Specific** {-}
+*   **Known Typed Cells for QC:** Vials of RBCs with known ABO/Rh types (e.g., A Pos, O Neg) used for daily quality control of blood grouping sera
+*   **Specialized Cells:** Sometimes used in reference labs, e.g., cord cells (lack I antigen), enzyme-treated cells, cells lacking high-frequency antigens
+
+## **Essential Characteristics of Reagent RBCs** {-}
+
+*   **Source:** Human donors (screened for infectious diseases)
+*   **Preservative Solution:** Suspended in a special preservative solution designed to maintain red cell viability and antigen integrity for the duration of their shelf life. Contains buffers, nutrients, and often antibiotics/antifungals
+*   **Expiration Date:** Absolutely critical! Reagent RBCs have a limited shelf life (often 2-6 weeks) because antigens degrade over time. Using expired cells can lead to **false-negative** results (especially for weakly expressed or labile antigens like P1, Lewis, M)
+*   **Storage:** Must be stored under strict refrigerated conditions (usually 1-6°C or per manufacturer) to maintain stability. **NEVER FREEZE!** Freezing lyses red cells
+*   **Appearance:** Should be inspected visually before use for any signs of hemolysis (red supernatant) or bacterial contamination (clots, unusual turbidity), which would render them unsuitable
+
+## **The Antigram: Your Roadmap** {-}
+
+The antigram is the information sheet provided by the manufacturer that details the antigen profile of each vial of screening cells or panel cells. It's essential for interpretation!
+
+*   **Layout:** Typically lists the vial numbers across the top and the antigens tested down the side
+*   **Symbols:** Usually uses "+" to indicate the antigen is present and "0" or "-" to indicate it's absent
+*   **Key Information:** Lot number, expiration date, and the detailed phenotype are crucial pieces of data
+
+Reagent RBCs are indispensable for antibody detection and identification. Knowing which type to use for which test, understanding their characteristics, respecting expiration dates, and correctly interpreting results based on the antigram are all fundamental skills in the blood bank!
+
+## **Key Terms** {-}
+
+*   **Reagent Red Blood Cells (RBCs):** Commercially prepared suspensions of human red blood cells with known antigen phenotypes, used in various blood bank tests
+*   **A1 Cells / B Cells:** Reagent RBCs used in ABO reverse grouping to detect anti-A and anti-B in patient plasma/serum
+*   **Screening Cells:** Sets of 2 or 3 Group O reagent RBCs with known phenotypes for common, clinically significant antigens, used for antibody detection (antibody screen)
+*   **Panel Cells:** Larger sets (11-20+) of Group O reagent RBCs, each with a unique pattern of known antigens, used for antibody identification
+*   **Group O:** Blood group lacking A and B antigens. Screening and panel cells MUST be Group O to avoid interference from patient anti-A/anti-B
+*   **Antigram:** The profile sheet accompanying screening or panel cells that details the specific antigen makeup (+ or 0) of the cells in each vial
+*   **Phenotype:** The observable characteristics of a red blood cell, specifically the profile of antigens present on its surface as determined by testing
+*   **Dosage Effect:** A phenomenon where antibodies react more strongly with red cells having a double dose (homozygous) of an antigen compared to a single dose (heterozygous). Screening/panel cells often include homozygous expressions to aid detection
+*   **Preservative Solution:** The special medium reagent RBCs are suspended in to maintain viability and antigen integrity during storage
+*   **Expiration Date:** The date after which reagent RBCs should not be used due to potential degradation of antigens, leading to unreliable results
+*   **Hemolysis:** The rupture of red blood cells, releasing hemoglobin. Visible hemolysis in reagent RBCs indicates they are unsuitable for use

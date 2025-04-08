@@ -1,0 +1,180 @@
+# Anemia {-}
+
+This is a super common finding, but it's crucial to remember that **anemia itself isn't a disease**, but rather a sign or symptom of an underlying problem. Essentially, it means a reduction in the oxygen-carrying capacity of the blood
+
+Clinically, we define it by a decrease in one or more of these key measurements:
+*   **Hemoglobin (Hgb):** concentration
+*   **Hematocrit (Hct):** (the percentage of blood volume occupied by red cells)
+*   **Red Blood Cell (RBC):** count
+
+The consequence? **Tissue hypoxia** (lack of oxygen), which leads to those classic symptoms like fatigue, shortness of breath, pallor (paleness), dizziness, and headache
+
+We can broadly classify the causes of anemia into two main buckets: **Non-Immune** (problems with production, non-antibody destruction, or blood loss) and **Immune** (where the body's own immune system destroys RBCs). Understanding the specific cause is absolutely vital because it dictates how we investigate it in the lab and how the patient is treated
+
+## **Non-Immune Anemia: When the Problem Isn't Antibodies** {-}
+
+This category covers a wide range of conditions where RBCs are lost, underproduced, or destroyed by mechanisms *not* primarily involving an adaptive immune response (antibodies/complement) against the RBCs themselves
+
+### **Pathophysiology (How it Happens)** {-}
+
+We can think of non-immune causes in three main groups:
+
+*  **Decreased Red Blood Cell Production** The "factory" (bone marrow) isn't making enough RBCs
+    *   **Nutritional Deficiencies:** Lack of essential building blocks
+        *   *Iron Deficiency Anemia (IDA):* Most common type worldwide. Insufficient iron for hemoglobin synthesis -> small (microcytic), pale (hypochromic) RBCs. Caused by chronic blood loss (GI, menstruation), poor diet, malabsorption
+        *   *Megaloblastic Anemias (Vitamin B12 or Folate Deficiency):* Impaired DNA synthesis affects rapidly dividing cells, including RBC precursors. Leads to large (macrocytic), oval RBCs and often low WBC/platelet counts. Causes include pernicious anemia (lack of intrinsic factor for B12 absorption), poor diet, malabsorption, certain drugs
+    *   **Bone Marrow Failure/Suppression**
+        *   *Aplastic Anemia:* Bone marrow fails to produce all blood cell types (pancytopenia). Can be idiopathic, drug/toxin-induced, viral
+        *   *Anemia of Chronic Disease/Inflammation (ACD/AI):* Common in chronic infections, inflammation, malignancy. Complex mechanisms involving inflammatory cytokines that block iron utilization, suppress erythropoietin (EPO) response, and shorten RBC survival slightly. Often normocytic, but can be microcytic
+        *   *Anemia of Chronic Kidney Disease (CKD):* Kidneys don't produce enough EPO (hormone stimulating RBC production). Usually normocytic
+        *   *Bone Marrow Infiltration:* Leukemia, lymphoma, metastatic cancer crowd out normal hematopoietic cells
+    *   **Inherited Production Defects**
+        *   *Thalassemias:* Genetic defects in globin chain synthesis (alpha or beta) -> ineffective erythropoiesis, microcytic/hypochromic anemia, varying severity
+        *   *Congenital Sideroblastic Anemias:* Defects in heme synthesis pathway -> iron accumulation in mitochondria (ring sideroblasts)
+
+*  **Increased Red Blood Cell Destruction (Non-Immune Hemolysis)** RBCs are destroyed prematurely (<120 days) by non-antibody mechanisms
+    *   **Intrinsic RBC Defects (Inherited):** Problems within the RBC itself make it fragile
+        *   *Membranopathies:* Defects in membrane proteins -> abnormal shape, reduced deformability (e.g., Hereditary Spherocytosis, Elliptocytosis). Cells destroyed in the spleen
+        *   *Enzymopathies:* Deficiencies in key metabolic enzymes -> reduced ATP or protection from oxidation (e.g., G6PD Deficiency, Pyruvate Kinase Deficiency)
+        *   *Hemoglobinopathies:* Abnormal hemoglobin structure (e.g., Sickle Cell Disease - HbS polymerizes, causing sickling, hemolysis, vaso-occlusion)
+    *   **Extrinsic Factors (Acquired):** External forces destroy normal RBCs
+        *   *Mechanical Trauma:* Physical shearing forces (e.g., malfunctioning prosthetic heart valves; Microangiopathic Hemolytic Anemias - MAHA - seen in TTP, HUS, DIC where clots shred RBCs)
+        *   *Infections:* Direct invasion (Malaria) or toxin production (Clostridium perfringens)
+        *   *Chemicals/Drugs/Toxins:* Oxidative damage (especially in G6PD deficiency), lead poisoning, venoms
+        *   *Physical Agents:* Severe burns
+
+*  **Blood Loss (Hemorrhage)** Direct loss of RBCs from the circulation
+    *   **Acute:** Rapid loss (trauma, surgery, ruptured aneurysm). Leads initially to hypovolemia; anemia develops as volume is replaced by interstitial fluid or IV fluids. RBCs are normocytic initially
+    *   **Chronic:** Slow, persistent loss (e.g., slow GI bleed, heavy menstruation). Body compensates initially, but eventually leads to Iron Deficiency Anemia as iron stores are depleted
+
+### **Detection (Finding the Cause)** {-}
+
+Diagnosing the specific type of non-immune anemia involves integrating clinical information with laboratory tests:
+
+*   **Clinical Assessment:** Patient history (diet, medications, family history, bleeding symptoms, chronic diseases), physical exam (pallor, jaundice, splenomegaly)
+*   **Laboratory Tests**
+    *   **Complete Blood Count (CBC) with Differential**
+        *   **Hgb/Hct/RBC count:** Confirm anemia severity
+        *   **RBC Indices:** CRITICAL for initial classification!
+            *   *MCV (Mean Corpuscular Volume):* Size (Microcytic <80 fL; Normocytic 80-100 fL; Macrocytic >100 fL)
+            *   *MCH/MCHC (Mean Corpuscular Hgb/Concentration):* Color (Hypochromic = pale; Normochromic)
+            *   *RDW (Red Cell Distribution Width):* Variation in RBC size (anisocytosis). Often increased when different populations of cells are present (e.g., IDA)
+        *   *WBC & Platelet Count:* Assess for pancytopenia (aplastic anemia) or associated changes (e.g., reactive thrombocytosis in IDA)
+    *   **Reticulocyte Count:** Measures young RBCs released from marrow. **Crucial distinction**
+        *   *High Retic Count (Appropriate Response):* Suggests bone marrow is responding to loss/destruction (hemolysis, acute blood loss)
+        *   *Low/Normal Retic Count (Inadequate Response):* Suggests a production problem (nutritional deficiency, marrow failure, CKD, ACD)
+    *   **Peripheral Blood Smear Review:** Microscopic examination is essential! Look for:
+        *   *Size/Color variations:* Micro/macro/hypo/normo
+        *   *Shape abnormalities:* Spherocytes, elliptocytes, sickle cells, target cells, schistocytes (fragmented RBCs - hallmark of MAHA)
+        *   *Inclusions:* Basophilic stippling (lead poisoning), Howell-Jolly bodies (post-splenectomy), Heinz bodies (G6PD def - special stain needed)
+        *   *WBC/Platelet morphology*
+    *   **Specific Tests (Guided by initial findings)**
+        *   *Iron Studies:* Serum Iron, Ferritin (storage iron - best indicator for IDA), Transferrin, TIBC (Total Iron Binding Capacity)
+        *   *Vitamin B12 / Folate levels*
+        *   *Hemoglobin Electrophoresis / HPLC:* Detects hemoglobin variants (HbS, HbC) and quantifies HbA2/HbF (for Thalassemia)
+        *   *Tests for Hemolysis:* LDH (Lactate Dehydrogenase - increased), Indirect Bilirubin (increased), Haptoglobin (decreased - binds free Hgb)
+        *   *Enzyme Assays:* G6PD activity level, PK activity
+        *   *Bone Marrow Aspirate/Biopsy:* Assesses cellularity, morphology, iron stores, infiltrative processes
+        *   *EPO Level:* Assess if appropriate for degree of anemia (low in CKD)
+
+### **Treatment** {-}
+
+Treatment MUST target the underlying cause:
+
+*   **Nutritional Deficiencies:** Replace the missing nutrient (Iron supplements, Vitamin B12 injections, Folic acid)
+*   **Anemia of Chronic Disease/CKD:** Treat the underlying condition, consider EPO stimulating agents (ESAs), +/- iron
+*   **Bone Marrow Failure:** Immunosuppression, stem cell transplant
+*   **Hemolysis:** Treat underlying cause if possible (e.g., stop offending drug); supportive care; splenectomy may help in certain membranopathies (e.g., Spherocytosis). Hydroxyurea for Sickle Cell Disease
+*   **Blood Loss:** Stop the bleeding! Replace lost volume
+*   **Red Blood Cell Transfusion:** **Key supportive therapy!** Used to rapidly increase oxygen-carrying capacity in cases of:
+    *   Symptomatic anemia (regardless of Hgb level)
+    *   Acute, massive blood loss
+    *   Critically low hemoglobin levels (transfusion triggers vary, but often consider <7-8 g/dL in stable patients, higher thresholds in cardiac disease or active bleeding)
+    *   **Important:** Transfusion treats the *symptom* (anemia), not the underlying cause. Compatibility testing (Type & Screen, Crossmatch) is essential
+
+## **Immune-Mediated Hemolytic Anemia (IMHA): When the Immune System Attacks** {-}
+
+Here, RBC destruction is driven by antibodies and/or complement binding to the red cell surface. This is a major focus in the Blood Bank!
+
+### **Pathophysiology (How it Happens)** {-}
+
+Antibodies target either foreign (allo-) or self (auto-) antigens on RBCs:
+
+*  **Alloimmune Hemolysis** Antibodies formed against non-self RBC antigens encountered via transfusion or pregnancy
+    *   **Hemolytic Transfusion Reactions (HTRs):** Recipient antibodies react with donor RBC antigens
+        *   *Acute HTR:* Usually IgM (e.g., ABO incompatibility) or complement-fixing IgG -> rapid **intravascular hemolysis** (complement activation to MAC). Severe, life-threatening
+        *   *Delayed HTR:* Usually IgG (e.g., anti-Jk<sup>a</sup>, anti-Fy<sup>a</sup>) from previous sensitization -> antibody levels rise days/weeks post-transfusion -> coating of donor cells -> **extravascular hemolysis** by splenic macrophages. Less severe initially but can cause significant anemia
+    *   **Hemolytic Disease of the Fetus and Newborn (HDFN):** Maternal IgG crosses placenta, attacks fetal RBCs -> **extravascular hemolysis** in fetus/newborn
+
+*  **Autoimmune Hemolytic Anemia (AIHA)** Antibodies directed against the individual's own RBC antigens
+    *   **Warm AIHA (WAIHA):** Most common type. **IgG** antibodies (sometimes with complement C3d) react optimally at **37°C**. Cause **extravascular hemolysis** as IgG-coated (+/- C3d) cells are cleared by macrophages (mainly spleen). Can be idiopathic or secondary to other conditions (lymphoma, autoimmune diseases like lupus)
+    *   **Cold Agglutinin Disease (CAD):** **IgM** antibodies react optimally in the **cold** (extremities), binding RBCs and efficiently activating **complement**. As cells return to core body temp (37°C), IgM dissociates, but **C3d remains**. Hemolysis is primarily **extravascular** (macrophages recognize C3d), but severe complement activation can cause **intravascular hemolysis**. Often targets the 'I' antigen. Can be idiopathic or secondary (e.g., Mycoplasma infection, lymphoma)
+    *   **Paroxysmal Cold Hemoglobinuria (PCH):** Rare. Caused by a biphasic **IgG** antibody (Donath-Landsteiner antibody, usually anti-P). Binds RBCs in the cold, then causes potent **complement activation and intravascular hemolysis** upon warming to 37°C. Often seen post-virally in children
+    *   **Mixed-Type AIHA:** Features of both warm and cold AIHA (IgG + C3d and IgM present)
+
+*  **Drug-Induced Immune Hemolytic Anemia (DIHA)** Drugs trigger antibody production that leads to RBC destruction. Mechanisms vary:
+    *   *Drug Adsorption (Hapten):* Drug binds firmly to RBC; IgG antibody forms against drug-RBC complex (e.g., high-dose Penicillin). Extravascular hemolysis
+    *   *Immune Complex (Innocent Bystander):* Antibody forms against drug; Ab-drug complexes loosely attach to RBCs, activating complement -> often **intravascular hemolysis** (e.g., Quinidine)
+    *   *Autoantibody Induction:* Drug induces formation of a true autoantibody indistinguishable from WAIHA antibodies (e.g., Methyldopa). Extravascular hemolysis
+
+### **Detection (Finding the Immune Cause)** {-}
+
+Diagnosing IMHA requires specific immunohematologic testing:
+
+*   **Clinical Assessment:** Signs/symptoms of anemia PLUS signs of hemolysis (jaundice, dark urine - hemoglobinuria in intravascular cases, splenomegaly). History is critical (transfusions, pregnancies, drugs, underlying diseases)
+*   **Laboratory Tests**
+    *   **CBC/Retic/Smear:** Anemia, high reticulocyte count, spherocytes often prominent (especially in WAIHA and ABO HDFN), polychromasia. Agglutination may be seen on smear/in tube in CAD
+    *   **Hemolysis Markers:** Increased LDH, Indirect Bilirubin; Decreased Haptoglobin (especially low/absent in intravascular hemolysis)
+    *   **Direct Antiglobulin Test (DAT / Direct Coombs):** **THE CORNERSTONE TEST!** Detects *in vivo* coating of patient RBCs with IgG and/or C3d
+        *   *Polyspecific AHG:* Screens for IgG and C3d
+        *   *Monospecific AHG:* Differentiates coating (Anti-IgG, Anti-C3d). Patterns help classify IMHA:
+            *   IgG only OR IgG + C3d: Common in WAIHA, DIHA (some types), HDFN, delayed HTR
+            *   C3d only: Common in CAD, PCH, some DIHA (immune complex), some WAIHA
+            *   Negative DAT: Rules out *most* significant IMHA, but rare cases exist
+    *   **Indirect Antiglobulin Test (IAT / Antibody Screen):** Detects antibodies in patient *plasma*
+        *   May detect underlying alloantibodies (in HTR investigation)
+        *   Often positive in WAIHA because the autoantibody is also in the plasma, reacting with all screen/panel cells (panreactivity)
+        *   Usually negative in CAD at 37°C testing (unless underlying alloantibodies)
+    *   **Antibody Identification Panel:** Determines specificity of alloantibodies. Helps differentiate underlying alloantibodies from panreactive autoantibodies in WAIHA
+    *   **Elution:** Removes bound antibody (usually IgG) *from* the patient's DAT-positive RBCs. Testing the eluate helps determine the antibody specificity (confirms autoantibody reactivity or identifies alloantibody causing delayed HTR)
+    *   **Cold Agglutinin Titer:** Quantifies IgM cold autoantibody in suspected CAD. Performed at 4°C
+    *   **Donath-Landsteiner Test:** Specific test for PCH biphasic antibody
+
+### **Treatment** {-}
+
+Treatment depends heavily on the type of IMHA:
+
+*   **Alloimmune (HTR/HDFN)**
+    *   *HTR:* **STOP THE TRANSFUSION IMMEDIATELY!** Supportive care (maintain BP, renal function). Provide antigen-negative blood if further transfusion needed
+    *   *HDFN:* Antenatal (IUTs), Postnatal (Phototherapy, Exchange Transfusion, IVIg). Prevention with RhIG is key for anti-D
+*   **Autoimmune (AIHA)**
+    *   *WAIHA:* **Corticosteroids** (prednisone) are first-line therapy. Second-line: Rituximab (anti-CD20 antibody), splenectomy, other immunosuppressants (azathioprine, cyclosporine)
+    *   *CAD:* **Keep the patient warm!** Avoid cold exposure. Treat underlying condition if secondary. Rituximab may be effective. Steroids/splenectomy usually NOT effective. Plasma exchange for severe acute episodes?
+    *   *PCH:* Supportive care, keep warm, treat underlying infection. Usually self-limiting
+*   **Drug-Induced (DIHA):** **Stop the offending drug!** Hemolysis usually resolves, though autoantibody type may persist longer
+*   **Red Blood Cell Transfusion:** Can be life-saving but is often **very challenging**, especially in WAIHA where autoantibodies react with virtually all donor units
+    *   **Goal:** Find "least incompatible" units if transfusion is unavoidable (life-threatening anemia)
+    *   Requires careful pretransfusion testing, often including auto-adsorption or testing with rare antigen-negative cells if underlying alloantibodies are suspected
+    *   Transfuse slowly with close monitoring
+    *   For CAD, use a blood warmer
+    *   For alloantibodies (HTR/HDFN), providing **antigen-negative** units is essential
+
+## **Key Terms** {-}
+
+*   **Anemia:** Reduced oxygen-carrying capacity of blood (low Hgb/Hct/RBCs)
+*   **Hypoxia:** Deficiency in the amount of oxygen reaching the tissues
+*   **RBC Indices (MCV, MCH, MCHC, RDW):** Measures of red blood cell size, hemoglobin content, and size variation
+*   **Reticulocyte Count:** Measure of young red blood cells, indicating bone marrow response
+*   **Hemolysis:** Destruction of red blood cells
+*   **Intravascular Hemolysis:** RBC destruction within blood vessels
+*   **Extravascular Hemolysis:** RBC destruction outside blood vessels (by macrophages, mainly in spleen/liver)
+*   **Immune-Mediated Hemolytic Anemia (IMHA):** Group of disorders where antibodies +/- complement cause RBC destruction
+*   **Alloimmune:** Immune response to foreign antigens from the same species
+*   **Autoimmune:** Immune response directed against self-antigens
+*   **Direct Antiglobulin Test (DAT):** Detects IgG or C3d coating RBCs *in vivo*
+*   **Indirect Antiglobulin Test (IAT):** Detects antibodies in plasma/serum *in vitro*
+*   **Elution:** Procedure to remove antibodies bound to RBCs for identification
+*   **Warm AIHA (WAIHA):** AIHA caused by IgG autoantibodies reacting at 37°C
+*   **Cold Agglutinin Disease (CAD):** AIHA caused by IgM autoantibodies reacting in the cold and activating complement
+*   **Paroxysmal Cold Hemoglobinuria (PCH):** AIHA caused by biphasic IgG Donath-Landsteiner antibody activating complement
+*   **Drug-Induced Immune Hemolytic Anemia (DIHA):** IMHA triggered by medication

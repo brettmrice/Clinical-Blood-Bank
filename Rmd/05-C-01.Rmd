@@ -1,0 +1,98 @@
+# Immunologic {-}
+
+**Immunologic Adverse Effects of Transfusion** is where the recipient's immune system reacts inappropriately to the donor blood components. These reactions range from mild and common to severe and life-threatening, so recognizing them promptly and understanding the underlying mechanisms is absolutely critical!
+
+Remember, even with all our careful testing, the immune system can sometimes still recognize transfused cells or proteins as "foreign."
+
+We generally categorize these reactions based on timing: **Acute** (occurring within 24 hours of transfusion) and **Delayed** (occurring more than 24 hours after transfusion)
+
+## **Acute Immunologic Reactions (Within 24 Hours)** {-}
+
+These often require immediate attention!
+
+### **Acute Hemolytic Transfusion Reaction (AHTR)** {-}
+*   **The Big One:** This is the most feared acute reaction, often due to **ABO incompatibility** (e.g., giving Group A blood to a Group O patient). It's usually caused by a clerical error somewhere in the process!
+*   **Immunologic Cause:** Pre-formed recipient antibodies (typically IgM anti-A, anti-B) bind to donor RBC antigens -> activate the **complement cascade** -> rapid **intravascular hemolysis** (destruction of RBCs within blood vessels). Can also be caused by other complement-fixing antibodies (less common acutely)
+*   **Key Signs & Symptoms:** **Rapid onset** (often within minutes of starting transfusion). Fever, chills (often severe shaking), **back or flank pain**, **hemoglobinuria** (red/brown urine), hypotension (low blood pressure), tachycardia, shortness of breath, feeling of impending doom, pain along the infusion vein. Can rapidly progress to shock, Disseminated Intravascular Coagulation (DIC), and acute renal failure
+*   **Severity:** Potentially **life-threatening**. Requires immediate cessation of transfusion and aggressive supportive care
+
+### **Febrile Non-Hemolytic Transfusion Reaction (FNHTR)** {-}
+*   **Most Common:** One of the most frequently encountered reactions. Defined as a temperature rise of ≥1°C (or 2°F) associated with transfusion, without other explanation
+*   **Immunologic Cause:** Two main proposed mechanisms:
+    1.  Recipient antibodies reacting against antigens on donor **white blood cells (leukocytes)** or platelets
+    2.  Release of **cytokines** (inflammatory mediators) that accumulated in the blood component during storage (especially from leukocytes)
+*   **Key Signs & Symptoms:** Fever, chills, headache, malaise, sometimes mild shortness of breath. **Crucially, there is NO hemolysis.**
+*   **Severity:** Generally mild and self-limiting. Need to rule out more serious causes (like AHTR or sepsis). **Leukoreduction** of blood components significantly reduces the incidence of FNHTR
+
+### **Allergic Reaction (Urticarial)** {-}
+*   **Also Common:** Usually mild
+*   **Immunologic Cause:** Recipient's immune system (likely pre-existing IgE antibodies) reacts against soluble **donor plasma proteins**. This triggers mast cell degranulation, releasing histamine
+*   **Key Signs & Symptoms:** **Hives (urticaria)** and **itching (pruritus)**. Usually **no fever** or respiratory distress
+*   **Severity:** Mild. Often, the transfusion can be paused, antihistamines administered, and if symptoms resolve, the transfusion can be cautiously restarted (per institutional policy)
+
+### **Anaphylactic Reaction** {-}
+*   **Rare but Severe:** A severe, systemic allergic reaction
+*   **Immunologic Cause:** Classic example involves an **IgA-deficient recipient** who has developed **anti-IgA antibodies**. When transfused with plasma-containing components (RBCs, platelets, plasma), their anti-IgA reacts with the donor IgA, leading to massive mast cell and basophil degranulation. Can also involve other antigen-antibody systems
+*   **Key Signs & Symptoms:** **Rapid onset** (often after only a few mLs transfused). Hypotension/shock, bronchospasm (wheezing, difficulty breathing), angioedema (swelling of face, airways), urticaria, abdominal cramps, vomiting, loss of consciousness. **Usually NO fever.**
+*   **Severity:** **Life-threatening emergency.** Requires immediate cessation of transfusion and administration of epinephrine. Prevention involves using **washed** cellular components or components from IgA-deficient donors for known susceptible patients
+
+### **Transfusion-Related Acute Lung Injury (TRALI)** {-}
+*   **Serious Pulmonary Complication:** A leading cause of transfusion-related mortality. Characterized by acute respiratory distress and non-cardiogenic pulmonary edema
+*   **Immunologic Cause:** Most commonly attributed to **donor antibodies** (anti-HLA class I/II or anti-HNA - human neutrophil antigens) reacting with recipient **leukocytes** (especially neutrophils). This activates neutrophils, causing them to sequester in the pulmonary vasculature, release damaging substances, and increase capillary permeability -> fluid leaks into the alveoli. A "two-hit" model (recipient predisposition + component factor) is also proposed
+*   **Key Signs & Symptoms:** Occurs **within 6 hours** of transfusion. Acute onset of shortness of breath (dyspnea), hypoxia (low blood oxygen), hypotension (sometimes hypertension initially), fever. Chest X-ray shows bilateral pulmonary infiltrates characteristic of edema, but without signs of circulatory overload (like elevated central venous pressure)
+*   **Severity:** Ranges from moderate to severe respiratory failure; can be fatal. Management is primarily supportive respiratory care. Prevention strategies focus on deferring donors implicated in TRALI reactions and potentially screening female donors (especially multiparous women) for HLA antibodies
+
+## **Delayed Immunologic Reactions (>24 Hours)** {-}
+
+These can occur days, weeks, or even months later
+
+### **Delayed Hemolytic Transfusion Reaction (DHTR)** {-}
+*   **Subtle Destruction:** Occurs days to weeks after transfusion
+*   **Immunologic Cause:** Usually due to an **anamnestic response** in a recipient previously sensitized (via prior transfusion or pregnancy) to a red cell antigen (e.g., Kidd (Jka/Jkb), Duffy (Fya/Fyb), Kell (K), Rh (E, c)). The antibody level was too low to detect pre-transfusion but rises rapidly upon re-exposure to the antigen on transfused RBCs. The newly produced IgG antibody coats the transfused cells, leading primarily to **extravascular hemolysis** (RBC destruction by macrophages in the spleen and liver)
+*   **Key Signs & Symptoms:** Often milder than AHTR. May include unexplained drop in hemoglobin/hematocrit, fever, jaundice (due to bilirubin from RBC breakdown), sometimes hemoglobinuria (less common than in AHTR). A **positive Direct Antiglobulin Test (DAT)** is a key finding post-transfusion
+*   **Severity:** Usually less severe than AHTR, but can cause significant anemia and morbidity. Emphasizes the importance of checking patient history for antibodies!
+
+### **Transfusion-Associated Graft-versus-Host Disease (TA-GVHD)** {-}
+*   **Rare but Devastating:** Occurs when viable donor **T-lymphocytes** in the transfused component engraft in a susceptible recipient and attack the recipient's tissues (skin, liver, gut, bone marrow)
+*   **Immunologic Cause:** Failure of the recipient's immune system to recognize and destroy the donor lymphocytes, while the donor lymphocytes recognize the recipient tissues as foreign. High risk in:
+    *   Severely immunocompromised patients (e.g., congenital immunodeficiencies, stem cell transplant recipients)
+    *   Recipients receiving blood from blood relatives (donor may be homozygous for an HLA haplotype shared by the recipient, so recipient doesn't see donor as foreign, but donor sees recipient as foreign)
+*   **Key Signs & Symptoms:** Typically develops 1-2 weeks post-transfusion. Fever, characteristic skin rash, diarrhea, liver dysfunction (elevated enzymes, jaundice), and profound **bone marrow failure (pancytopenia)**
+*   **Severity:** Extremely high mortality rate (>90%). **Prevention is key** Requires **irradiation** of cellular blood components (RBCs, platelets, granulocytes) for at-risk patients to inactivate donor T-lymphocytes
+
+### **Post-Transfusion Purpura (PTP)** {-}
+*   **Platelet Destruction:** A rare complication characterized by abrupt onset of severe **thrombocytopenia** (low platelet count) typically 5-12 days after transfusion
+*   **Immunologic Cause:** Usually occurs in patients (often multiparous women) previously sensitized to a platelet-specific antigen they lack (most commonly HPA-1a). Upon re-exposure via transfusion, a powerful anamnestic response occurs. The resulting antibody destroys not only the transfused antigen-positive platelets but also, paradoxically, the patient's *own* antigen-negative platelets through complex mechanisms
+*   **Key Signs & Symptoms:** Severe thrombocytopenia, often <10,000/µL, leading to purpura (bruising), bleeding (mucosal, gastrointestinal, rarely intracranial)
+*   **Severity:** Can cause life-threatening hemorrhage. Management often involves IVIG. Future transfusions require antigen-negative platelets if possible
+
+### **Alloimmunization** {-}
+*   **Antibody Development:** Not truly a "reaction" in the acute sense, but an immunologic consequence. The recipient develops antibodies against foreign antigens on transfused RBCs, platelets, or WBCs (HLA)
+*   **Immunologic Cause:** Exposure to non-self antigens stimulates an immune response
+*   **Significance:** Puts the patient at risk for future **DHTRs**, **HDFN** (if female and becomes pregnant), or **platelet refractoriness** (poor response to platelet transfusions due to anti-HLA or anti-platelet antibodies)
+*   **Prevention:** Providing antigen-matched blood (beyond ABO/RhD) when possible, especially for chronically transfused patients (e.g., sickle cell disease). Leukoreduction reduces HLA alloimmunization
+
+## **General Principles & Prevention** {-}
+
+*   **Vigilance:** Meticulous patient identification and sample labeling are paramount to prevent AHTR
+*   **Compatibility Testing:** Thorough ABO/Rh typing, antibody screening, and crossmatching
+*   **Component Modification:** Using leukoreduced, irradiated, or washed components when indicated
+*   **Patient Monitoring:** Closely monitor patients during and after transfusion
+*   **Reporting & Investigation:** Promptly report suspected reactions and follow established investigation protocols
+
+## **Key Terms** {-}
+
+*   **Hemolysis:** The destruction of red blood cells. Can be intravascular (within blood vessels, often complement-mediated, seen in AHTR) or extravascular (by macrophages in spleen/liver, seen in DHTR)
+*   **Complement Cascade:** A series of plasma proteins that, when activated (e.g., by IgM antibodies), leads to inflammation, cell lysis, and other immune responses
+*   **Cytokines:** Small proteins released by cells that act as signaling molecules in the immune system (e.g., interleukins, TNF-alpha), involved in fever and inflammation (FNHTR)
+*   **Leukoreduction:** The process of removing white blood cells (leukocytes) from blood components. Reduces risk of FNHTR, CMV transmission, and HLA alloimmunization
+*   **Urticaria:** Hives; raised, itchy welts on the skin, characteristic of mild allergic reactions
+*   **Anaphylaxis:** A severe, potentially fatal systemic allergic reaction involving multiple organ systems
+*   **IgA Deficiency:** A condition where an individual lacks Immunoglobulin A. These individuals can develop anti-IgA antibodies, putting them at risk for anaphylactic reactions if transfused with IgA-containing plasma
+*   **TRALI (Transfusion-Related Acute Lung Injury):** Acute lung injury occurring within 6 hours of transfusion, often caused by donor antibodies against recipient leukocytes
+*   **Anamnestic Response:** A rapid and heightened immune response following re-exposure to an antigen to which the individual has been previously sensitized. Responsible for DHTRs
+*   **DAT (Direct Antiglobulin Test):** Detects antibody or complement coating red blood cells *in vivo*. Positive in AHTR (transiently), DHTR, AIHA, HDFN
+*   **TA-GVHD (Transfusion-Associated Graft-versus-Host Disease):** A rare but often fatal complication where viable donor T-lymphocytes attack recipient tissues. Prevented by irradiation
+*   **Irradiation:** Exposing cellular blood components to radiation to inactivate donor T-lymphocytes
+*   **PTP (Post-Transfusion Purpura):** Abrupt, severe thrombocytopenia occurring about a week after transfusion, due to platelet alloantibodies
+*   **Alloimmunization:** The development of antibodies in response to foreign antigens encountered through transfusion or pregnancy

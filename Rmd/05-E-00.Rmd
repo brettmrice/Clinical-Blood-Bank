@@ -1,0 +1,102 @@
+# Blood Administration & Patient Blood Management {-}
+
+This section considers the practical side of things: actually *giving* blood components and the broader strategy of **Patient Blood Management (PBM)**. Getting the blood administration process right is critical for immediate patient safety, while PBM is the proactive, system-wide approach to ensure transfusions are truly necessary and patient outcomes are optimized
+
+*   **PBM is a Team Effort:** Requires collaboration between surgeons, anesthesiologists, hematologists, transfusion medicine specialists, nurses, pharmacists, and hospital administration
+
+## **Blood Administration: The Hands-On Process** {-}
+
+This involves the steps taken from the moment the decision to transfuse is made until the transfusion is complete. Accuracy and vigilance at each step are non-negotiable!
+
+### **1. The Order and Consent** {-}
+*   **Physician's Order:** A clear, complete order is required, specifying:
+    *   Patient identifiers
+    *   Blood component type (e.g., RBCs, Platelets, FFP)
+    *   Number of units or specific dose/volume
+    *   Rate of infusion (or duration)
+    *   Any special requirements (e.g., irradiated, leukoreduced, CMV-safe, antigen-negative)
+    *   Premedication, if needed (e.g., antihistamines, antipyretics)
+*   **Informed Consent:** Except in emergencies, the patient (or legal representative) must understand the risks, benefits, and alternatives to transfusion and provide consent. This discussion should be documented
+
+### **2. Pre-Transfusion Verification (Safety Checks!)** {-}
+*   **At the Blood Bank (Issuing):** Final check of compatibility records, patient/unit identifiers, expiration date, special requirements met, visual inspection of the unit (leaks, clots, discoloration)
+*   **At the Bedside (CRITICAL!):** This is the **final and most important safety check** to prevent ABO incompatible transfusions. Performed by **two qualified individuals** (e.g., two RNs, RN and MD, or per institutional policy):
+    *   **Verify Patient Identity:** Match patient's wristband information (at least two unique identifiers like Name, DOB, MRN) *directly* against the blood component tag AND the transfusion order/requisition. **Actively involve the patient** if possible ("Please state your name and date of birth")
+    *   **Verify Unit Information:** Match the information on the blood component tag *exactly* with the information on the unit itself and the requisition:
+        *   Patient Name and Identifiers
+        *   Unit Number (unique donation identifier)
+        *   ABO/Rh type of the unit AND the recipient (must be compatible!)
+        *   Component Type
+        *   Expiration Date and Time
+        *   Any Special Modifications (Irradiated, Leukoreduced, etc.)
+    *   **Visual Inspection:** Re-check the unit for leaks, abnormal color, clots, or particulate matter
+    *   **Resolve ALL Discrepancies:** If *anything* doesn't match perfectly, **DO NOT TRANSFUSE**. Return the unit to the blood bank and resolve the issue
+
+### **3. Obtaining and Starting the Transfusion** {-}
+*   **Timeliness:** Blood components (especially RBCs) should generally be started within **30 minutes** of being issued from the blood bank's monitored storage to prevent warming and potential bacterial growth
+*   **IV Access:** Ensure patent venous access, preferably with a large-bore catheter (e.g., 18-20 gauge for adults) for RBCs to prevent hemolysis, though smaller gauges can be used with care
+*   **Tubing and Filter:** Use a sterile administration set with a **standard blood filter (170-260 microns)** designed to remove clots and debris. Use a *new* filter set for each transfusion episode or per manufacturer/policy (often good for 2-4 units or 4 hours)
+*   **Compatible Fluids:** The **ONLY** IV fluid that can be run concurrently or mixed with blood components is **0.9% Normal Saline (NaCl)**. **Never** add medications to the blood unit or line. Other IV solutions can cause hemolysis (hypotonic solutions like D5W) or clotting (calcium-containing solutions like Lactated Ringer's)
+*   **Baseline Vital Signs:** Record temperature, pulse, respiration rate, and blood pressure immediately before starting. Assess patient's baseline condition
+*   **Initiation:** Start the infusion **slowly** (e.g., 2 mL/min or 75-100 mL/hr) for the **first 15 minutes**
+
+### **4. Monitoring During Transfusion** {-}
+*   **Direct Observation:** Stay with the patient and monitor closely for the **first 15 minutes**. This is when severe acute reactions (like AHTR, anaphylaxis) are most likely to occur
+*   **Vital Signs:** Recheck vital signs after the first 15 minutes. Then monitor periodically throughout the transfusion according to institutional policy (e.g., hourly, at completion). Compare to baseline
+*   **Observe for Reactions:** Continuously assess the patient for any signs or symptoms of an adverse reaction (fever, chills, itching, hives, respiratory distress, back pain, anxiety, changes in vital signs). Educate the patient to report any unusual symptoms immediately
+*   **Infusion Rate:** After the initial 15 minutes (if no reaction), increase the rate to infuse the component within the prescribed time
+*   **Time Limit:** Transfusion of a single unit should generally be completed within **4 hours** from the time it was removed from controlled storage to minimize the risk of bacterial growth at room temperature
+
+### **5. Completing the Transfusion** {-}
+*   **Flush Line:** Once the component has infused, flush the IV line with normal saline to ensure the patient receives the full dose
+*   **Final Vital Signs:** Record vital signs upon completion
+*   **Disposal:** Dispose of the used blood bag and tubing according to biohazard waste procedures
+*   **Documentation:** Complete all required transfusion documentation meticulously
+
+### **6. Documentation (Crucial for Traceability and Safety)** {-}
+*   Record everything: Physician's order, patient consent, verification checks (including identifiers of staff performing check), component information (unit number, type, ABO/Rh), start and stop times, volume infused, baseline/intra-transfusion/post-transfusion vital signs, patient response, any adverse reactions noted, and actions taken
+
+## **Patient Blood Management (PBM): The Strategic Approach** {-}
+
+PBM is a patient-centered, evidence-based, multidisciplinary strategy designed to improve patient outcomes by managing and preserving a patient's own blood, promoting patient safety, and ensuring appropriate use of blood components. The goal is NOT simply to avoid transfusion, but to ensure transfusion is only used when truly indicated and beneficial
+
+##  **The Three Pillars of PBM** {-}
+
+### **Pillar 1: Optimize Erythropoiesis / Manage Anemia** {-}
+*   **Identify and Treat Pre-existing Anemia:** Before elective surgery or anticipated need for transfusion, diagnose the *cause* of anemia (iron deficiency is common!) and treat it effectively (e.g., oral/IV iron, Vitamin B12, folate, Erythropoiesis-Stimulating Agents - ESAs like epoetin alfa). Don't just wait and transfuse!
+*   **Stimulate Red Cell Production:** Use ESAs where appropriate (e.g., chronic kidney disease, chemotherapy-induced anemia, preoperative optimization)
+
+### **Pillar 2: Minimize Blood Loss** {-}
+*   **Surgical/Procedural Techniques**
+    *   Meticulous surgical hemostasis
+    *   Use of minimally invasive techniques
+    *   Topical hemostatic agents
+    *   Antifibrinolytic medications (e.g., Tranexamic Acid - TXA, Epsilon-Aminocaproic Acid - EACA) to reduce bleeding
+    *   Intraoperative Cell Salvage ("Cell Saver"): Collecting, washing, and reinfusing the patient's own shed blood during surgery
+    *   Acute Normovolemic Hemodilution (ANH): Removing whole blood before surgery, replacing volume with crystalloid/colloid, and reinfusing the blood later (less common now)
+    *   Hypotensive anesthesia (where appropriate and safe)
+*   **Reduce Diagnostic Blood Loss (Phlebotomy)**
+    *   Minimize routine lab draws
+    *   Use pediatric-sized collection tubes
+    *   Consider point-of-care testing
+
+### **Pillar 3: Harness and Optimize Tolerance to Anemia / Optimize Coagulation** {-}
+*   **Evidence-Based Transfusion Thresholds:** Adopt restrictive transfusion strategies. Transfuse based on clinical signs/symptoms of inadequate oxygenation, not just a hemoglobin number. For many stable hospitalized patients, a threshold of Hgb < 7 g/dL is evidence-based and safe. Higher thresholds may be needed for patients with active bleeding, acute coronary syndrome, etc
+*   **Optimize Coagulation**
+    *   Manage anticoagulants/antiplatelet agents appropriately pre-procedure
+    *   Use point-of-care coagulation testing (e.g., TEG, ROTEM) during active bleeding/massive transfusion to guide targeted component therapy (FFP, cryo, platelets)
+    *   Promptly reverse anticoagulation when necessary (Vitamin K, PCCs, protamine)
+*   **Single Unit Transfusions:** For stable, non-bleeding patients, transfuse one unit of RBCs at a time and then reassess the patient's clinical status and hemoglobin level before ordering more
+
+## **Key Terms** {-}
+
+*   **Blood Administration:** The process of infusing blood components into a patient's circulation
+*   **Verification (Bedside Check):** The critical final safety step performed at the patient's side by two qualified staff to confirm patient identity and component compatibility before starting a transfusion
+*   **Standard Blood Filter:** An inline filter (typically 170-260 microns) required for transfusing cellular and plasma components to remove clots and debris
+*   **0.9% Normal Saline (NaCl):** The only intravenous fluid compatible for concurrent administration or mixing with blood components
+*   **Patient Blood Management (PBM):** A comprehensive, patient-centered approach focused on managing anemia, minimizing blood loss, and optimizing transfusion practices to improve patient outcomes
+*   **Transfusion Threshold (Trigger):** A guideline hemoglobin level (e.g., <7 g/dL) below which transfusion might be considered, but clinical assessment is paramount
+*   **Restrictive Transfusion Strategy:** An evidence-based approach advocating for lower hemoglobin thresholds for transfusion in stable patients compared to more liberal strategies
+*   **Erythropoiesis-Stimulating Agents (ESAs):** Medications (e.g., epoetin alfa) that stimulate the bone marrow to produce more red blood cells
+*   **Antifibrinolytics:** Medications (e.g., Tranexamic Acid - TXA) that reduce bleeding by inhibiting the breakdown of fibrin clots
+*   **Cell Salvage (Intraoperative Autotransfusion):** Collecting a patient's shed blood during surgery, washing it, and reinfusing the red blood cells

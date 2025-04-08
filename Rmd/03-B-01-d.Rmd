@@ -1,0 +1,89 @@
+# Cell Metabolism {-}
+
+**Cell Metabolism** is the engine room of the Red Blood Cell! Understanding RBC metabolism is crucial because, even though it's relatively simple compared to other cells, it's perfectly tailored to its main jobs: carrying oxygen and surviving for about 120 days. Since mature RBCs have no nucleus or mitochondria (they ditch them during development!), they can't perform aerobic respiration or make new proteins. They rely entirely on anaerobic pathways using glucose as their fuel source
+
+Think of RBC metabolism having four main goals:
+
+1.  Generate **ATP** (energy currency) to maintain cell shape and flexibility
+2.  Generate **NADPH** (reducing power) to protect against oxidative damage
+3.  Maintain **Hemoglobin** iron in its functional (Fe<sup>2+</sup>) state
+4.  Modulate **Oxygen Affinity** of hemoglobin for efficient delivery
+
+Let's break down the key pathways that achieve these goals:
+
+## **Normal RBC Metabolism: Keeping the Engine Running** {-}
+
+### **Glycolysis (Embden-Meyerhof Pathway): The ATP Factory** {-}
+
+*   **The Goal:** Primary source of ATP for the RBC
+*   **The Process:** This is the main route for glucose breakdown. It's an **anaerobic** pathway (doesn't require oxygen). Glucose enters the cell (facilitated diffusion) and is broken down through a series of enzymatic steps into **pyruvate**. Since there are no mitochondria for further aerobic breakdown, pyruvate is primarily converted to **lactate**, which then exits the cell
+*   **The Payoff:** Yields a net gain of **2 ATP** molecules per molecule of glucose metabolized
+*   **Why ATP is Vital**
+    *   **Ion Pumps:** Powers the Na+/K+-ATPase and Ca2+-ATPase pumps in the cell membrane. These maintain the proper balance of ions (low intracellular Na+ and Ca2+, high K+), which is essential for cell volume regulation and membrane integrity
+    *   **Membrane Maintenance:** Helps maintain the phosphorylation state of membrane proteins (like spectrin), contributing to the RBC's characteristic biconcave shape and deformability (flexibility)
+    *   **Priming Glycolysis:** ATP is actually needed to start the process (phosphorylating glucose)
+
+### **Hexose Monophosphate Shunt (HMP Shunt) / Pentose Phosphate Pathway: The Antioxidant Shield** {-}
+
+*   **The Goal:** Generate **NADPH**, the cell's main defense against oxidative stress
+*   **The Process:** This pathway branches off from glycolysis at the Glucose-6-Phosphate step. The key regulatory enzyme is **Glucose-6-Phosphate Dehydrogenase (G6PD)**. It converts NADP+ to NADPH
+*   **Why NADPH is Vital**
+    *   **Glutathione Reduction:** NADPH is absolutely essential for the enzyme **glutathione reductase**. This enzyme keeps **glutathione** (a small peptide) in its reduced state
+    *   **Detoxification:** Reduced glutathione is then used by **glutathione peroxidase** to neutralize harmful **reactive oxygen species (ROS)**, such as hydrogen peroxide (H2O2), converting them to harmless water
+    *   **Protection:** This system protects vital cell components, especially hemoglobin (preventing its iron from oxidizing) and membrane lipids/proteins, from oxidative damage caused by ROS generated during normal metabolism or exposure to external oxidants
+
+### **Rapoport-Luebering Shunt: The Oxygen Release Lever** {-}
+
+*   **The Goal:** Produce **2,3-Diphosphoglycerate (2,3-DPG)**, formerly known as 2,3-Bisphosphoglycerate (2,3-BPG)
+*   **The Process:** This is a unique "bypass" loop within glycolysis. It takes an intermediate (1,3-DPG) and converts it to 2,3-DPG via the enzyme DPG mutase, before eventually rejoining the main glycolytic pathway
+*   **Why 2,3-DPG is Vital**
+    *   **Oxygen Affinity Regulator:** 2,3-DPG binds preferentially to **deoxygenated hemoglobin**. This binding stabilizes the "T" (tense) state of hemoglobin, which has a lower affinity for oxygen
+    *   **Facilitates O2 Release:** By reducing hemoglobin's oxygen affinity, 2,3-DPG promotes the **release of oxygen** from hemoglobin into the tissues where it's needed most. Without 2,3-DPG, hemoglobin would hold onto oxygen too tightly at tissue oxygen levels
+    *   **Trade-off:** This shunt bypasses one of the ATP-generating steps in glycolysis (the phosphoglycerate kinase step). So, making 2,3-DPG comes at the cost of slightly reduced overall ATP production
+
+### **Methemoglobin Reductase Pathway: Keeping Iron Happy** {-}
+
+*   **The Goal:** Maintain hemoglobin iron in the reduced **ferrous (Fe<sup>2+</sup>)** state, which is the *only* state capable of binding oxygen
+*   **The Problem:** Hemoglobin iron can spontaneously (or due to oxidative stress) oxidize to the **ferric (Fe<sup>3+</sup>)** state. Hemoglobin with iron in the Fe<sup>3+</sup> state is called **methemoglobin**, and it *cannot* transport oxygen. Normally, about 1% of hemoglobin auto-oxidizes daily
+*   **The Solution:** The RBC uses the enzyme **cytochrome b5 reductase** (also called NADH-methemoglobin reductase). This enzyme utilizes **NADH** (produced during the glyceraldehyde-3-phosphate dehydrogenase step of glycolysis) to reduce methemoglobin (Fe<sup>3+</sup>) back to functional hemoglobin (Fe<sup>2+</sup>)
+
+## **Abnormal Physiology (Pathophysiology): When Metabolism Fails** {-}
+
+Defects in these metabolic pathways lead directly to red blood cell dysfunction and shortened survival (hemolytic anemia):
+
+*   **Defects in Glycolysis (e.g., Pyruvate Kinase (PK) Deficiency)**
+    *   **Problem:** Impaired ATP production. Without sufficient ATP, the ion pumps fail, leading to loss of potassium and water, cell dehydration, and increased membrane rigidity. The cell cannot maintain its shape
+    *   **Result:** **Chronic nonspherocytic hemolytic anemia.** The rigid cells are prematurely destroyed by macrophages in the spleen (extravascular hemolysis). Severity varies widely
+*   **Defects in the HMP Shunt (e.g., G6PD Deficiency)**
+    *   **Problem:** Most common human enzyme deficiency! Reduced NADPH production leads to insufficient reduced glutathione. The RBC cannot protect itself adequately against oxidative stress
+    *   **Result:** Usually asymptomatic *until* exposed to oxidative stressors (certain drugs like sulfonamides or antimalarials, fava beans, infections). Oxidative stress overwhelms the weakened defense system -> hemoglobin denatures and precipitates (forming **Heinz bodies**) -> membrane damage -> **episodic hemolytic anemia**, which can be severe and involve both intravascular and extravascular hemolysis
+*   **Defects in Methemoglobin Reduction**
+    *   **Problem:** Deficiency in cytochrome b5 reductase or presence of abnormal hemoglobins (HbM) that are resistant to reduction leads to accumulation of methemoglobin
+    *   **Result:** **Methemoglobinemia.** Blood appears chocolate-brown. Although the RBC count might be normal, the oxygen-carrying capacity is reduced (functional anemia). Patients may appear cyanotic (bluish skin)
+
+## **Blood Storage & Metabolism: The "Storage Lesion" Revisited** {-}
+
+During storage in blood bags, RBC metabolism progressively declines even with optimal preservative solutions:
+
+*   **ATP levels decrease:** Affecting membrane integrity and deformability
+*   **2,3-DPG levels decrease:** Stored RBCs initially have *increased* oxygen affinity ("left shift"), potentially impairing immediate oxygen release upon transfusion (though levels recover within hours in the recipient)
+*   **Increased oxidative damage:** Despite antioxidants in storage solutions
+*   **Lactate increases, pH decreases:** Due to ongoing anaerobic glycolysis
+
+These metabolic changes contribute to the storage lesion, reducing the viability and function of transfused red cells over time
+
+## **Key Terms** {-}
+
+*   **Anaerobic Metabolism:** Metabolic processes that occur in the absence of oxygen
+*   **Glycolysis (Embden-Meyerhof Pathway):** The primary pathway for glucose breakdown in RBCs, generating ATP and NADH
+*   **ATP (Adenosine Triphosphate):** The main energy molecule used to power cellular processes like ion pumping and maintaining membrane shape
+*   **Hexose Monophosphate (HMP) Shunt / Pentose Phosphate Pathway:** Metabolic pathway generating NADPH for protection against oxidative stress
+*   **NADPH (Nicotinamide Adenine Dinucleotide Phosphate):** An essential electron carrier providing reducing power, primarily used to keep glutathione reduced
+*   **G6PD (Glucose-6-Phosphate Dehydrogenase):** The key regulatory enzyme of the HMP shunt. Deficiency causes hemolytic anemia upon oxidative stress
+*   **Glutathione:** A peptide crucial for detoxifying reactive oxygen species; kept in its active reduced state by NADPH
+*   **Reactive Oxygen Species (ROS):** Chemically reactive molecules containing oxygen (e.g., hydrogen peroxide) that can damage cell components
+*   **Rapoport-Luebering Shunt:** A bypass pathway in RBC glycolysis that produces 2,3-DPG
+*   **2,3-Diphosphoglycerate (2,3-DPG):** A molecule in RBCs that binds to hemoglobin and decreases its affinity for oxygen, facilitating oxygen release to tissues
+*   **Methemoglobin:** Hemoglobin in which the iron atom is in the oxidized ferric (Fe<sup>3+</sup>) state and cannot bind oxygen
+*   **Methemoglobin Reductase Pathway (Cytochrome b5 Reductase):** Enzymatic pathway using NADH to reduce methemoglobin (Fe<sup>3+</sup>) back to functional hemoglobin (Fe<sup>2+</sup>)
+*   **Heinz Bodies:** Precipitates of denatured hemoglobin seen within RBCs, typically in G6PD deficiency after oxidative stress

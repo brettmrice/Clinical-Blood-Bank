@@ -1,0 +1,99 @@
+# Transportation {-}
+
+**Transportation** is essentially an extension of **storage**, but with the added challenge of maintaining required conditions *outside* of a controlled refrigerator, freezer, or incubator. Proper transport is critical because failure to maintain the correct environment, even for relatively short periods, can compromise the safety and efficacy of the blood product
+
+## **Why is Controlled Transport Essential?** {-}
+
+The same reasons temperature control is vital for static storage apply during transport:
+
+*   **Preventing Bacterial Growth:** Temperature excursions, especially allowing refrigerated or room-temperature products to get too warm, can promote dangerous bacterial proliferation
+*   **Maintaining Cell Viability/Function**
+    *   **RBCs:** Must stay cool (but not freeze!) to preserve energy stores and membrane integrity
+    *   **Platelets:** Must stay at room temperature and avoid cold shock which renders them useless
+*   **Preserving Protein Function:** Frozen products must remain frozen solid to protect labile coagulation factors
+*   **Ensuring Product Integrity:** Physical damage (dropping, crushing) must also be avoided
+
+## **Core Principles of Blood Product Transportation** {-}
+
+Regardless of the specific component, several key principles apply:
+
+*   **Maintain Temperature:** Use appropriate, validated containers and packing materials designed to keep the component within its required temperature range for the expected duration of transport
+*   **Use Validated Containers:** Transport systems (coolers, boxes, bags) must be **validated** – meaning there's documented proof they can consistently maintain the required temperature range for a defined period under expected conditions
+*   **Secure Handling:** Components must be packed securely to prevent shifting and physical damage
+*   **Minimize Transit Time:** Transport should be efficient, minimizing the time products spend outside of continuously monitored storage units
+*   **Accurate Documentation:** Records must be kept detailing what was transported, when it left, when it arrived, the condition upon arrival, and who handled it (chain of custody)
+*   **Regulatory Compliance:** Transport procedures must meet FDA and AABB requirements
+
+## **Transport Requirements for Specific Components** {-}
+
+How you pack and transport depends heavily on what you're moving:
+
+*   **Red Blood Cells (RBCs) & Thawed Plasma (1°C to 6°C Storage)**
+    *   **Transport Goal:** Maintain temperature between **1°C and 10°C**. (Note: AABB allows this slightly wider range *during transport* compared to static storage)
+    *   **Container:** Validated coolers or insulated containers
+    *   **Coolant:** Use **wet ice** (contained in waterproof bags to prevent direct contact and waterlogging labels) or validated **coolant packs/gel packs**
+    *   **Critical Point:** **Never place RBCs directly against frozen packs or dry ice!** This can cause localized freezing and hemolysis. A barrier (cardboard, bubble wrap) is often used. Pack to ensure units stay cool but don't freeze
+
+*   **Platelets & Granulocytes (20°C to 24°C Storage)**
+    *   **Transport Goal:** Maintain temperature between **20°C and 24°C**. Protect from excessive heat AND cold
+    *   **Container:** Validated transport containers designed to maintain room temperature (may use phase-change materials or simply insulation, depending on validation)
+    *   **Coolant:** **None!** Do not use ice or cold packs
+    *   **Protection:** Must be protected from cold drafts (e.g., sitting near an A/C vent) or excessive heat (e.g., direct sunlight, near heaters)
+    *   **Agitation:** Platelets do *not* need to be agitated during transport for short periods, but should be placed on an agitator upon arrival if not transfused immediately
+
+*   **Frozen Components (FFP, Cryoprecipitate, Frozen RBCs) (≤ -18°C or ≤ -65°C Storage)**
+    *   **Transport Goal:** Maintain **solidly frozen** state
+    *   **Container:** Well-insulated containers (e.g., thick styrofoam or validated hard-shell coolers)
+    *   **Coolant:** **Dry Ice (Solid Carbon Dioxide)** is typically required, especially for longer transport times. Ensure enough dry ice is used for the expected duration. Handle dry ice safely (gloves, ventilation)
+    *   **Alternative:** Validated shippers using special phase-change materials capable of maintaining ultra-low temperatures might be used
+    *   **Critical Point:** Product must remain frozen solid; any signs of thawing usually mean the product cannot be refrozen and may need to be discarded or used within a very short timeframe if appropriate (e.g., thawed plasma)
+
+*   **Thawed Cryoprecipitate (Pooled or Unpooled) (20°C to 24°C Post-Thaw Storage)**
+    *   **Transport Goal:** Maintain **20°C to 24°C**
+    *   **Handling:** Transport similar to platelets (validated room-temperature container, no coolant)
+    *   **Urgency:** Due to the very short expiration after thawing/pooling (4-6 hours), transport must be rapid and coordinated with the time of use
+
+## **Validation of Transport Systems** {-}
+
+*   Blood banks and transfusion services must **validate** their transport containers and packing configurations
+*   This involves studies demonstrating that the system can maintain the required temperature for the maximum expected transport time under worst-case ambient conditions (e.g., simulating transport on a hot summer day or a cold winter day)
+*   Validation data must be documented and available for inspection
+
+## **Monitoring During Transport** {-}
+
+*   For critical shipments or longer distances, **temperature monitoring devices** might be included:
+    *   Min/Max thermometers
+    *   Chemical temperature indicators (show if a threshold was breached)
+    *   Electronic temperature data loggers
+*   Visual inspection upon arrival is always necessary (e.g., Are frozen products still solid? Is there hemolysis in RBCs?)
+
+## **Documentation and Chain of Custody** {-}
+
+*   Detailed records are essential:
+    *   Unique ID of units being transported
+    *   Time unit(s) removed from storage
+    *   Transport container ID
+    *   Method of packing/coolant used
+    *   Personnel releasing the units
+    *   Intended destination/recipient
+    *   Time of arrival/receipt
+    *   Condition upon receipt (temperature check, visual inspection)
+    *   Personnel receiving the units
+
+## **Receiving Transported Products** {-}
+
+*   Personnel receiving blood products must inspect them immediately
+*   Verify the product, check for any signs of damage or tampering
+*   Assess temperature (visual check for frozen items, potentially using surface temperature probes or checking included indicators)
+*   Document receipt and condition
+*   Place the product into appropriate monitored storage immediately if not for imminent transfusion
+
+## Key Terms {-}
+
+*   **Validated Container:** A transport box, bag, or cooler proven through documented studies to maintain a specific temperature range for a defined time
+*   **Coolant:** Material used to maintain cold temperatures (e.g., wet ice, gel packs)
+*   **Dry Ice:** Solid carbon dioxide (-78.5°C / -109.3°F), used for transporting frozen products
+*   **Temperature Indicator/Monitor:** A device included in a shipment to show if the temperature stayed within limits (can be simple chemical strips or electronic data loggers)
+*   **Temperature Excursion:** An event where a product's temperature goes outside its required storage or transport range
+*   **Chain of Custody:** A chronological documentation showing the handling, transfer, and control of a product from departure to arrival
+*   **Phase-Change Material:** Substances used in validated shippers that absorb or release heat at specific temperatures to help maintain a stable environment (e.g., keeping platelets at room temp)

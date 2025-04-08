@@ -1,0 +1,44 @@
+# (PART\*) Serology & Molecular {-}
+
+# Routine Tests {-}
+
+We start by identifying the patient's fundamental blood type (**ABO/Rh**). Then, we screen their plasma for unexpected "weapons" (**Antibody Screen**). If we find any, we identify them and assess their danger level (**Antibody ID/Significance**). Before *any* transfusion, we do a final check between the patient and the specific donor unit (**Crossmatch**). Separately, if we suspect red cells are *already* being attacked *in vivo*, we perform a **DAT**
+
+Each step builds on the last, creating a robust safety system. Keep practicing these concepts – they are the heart of safe transfusion practice!
+
+## **Blood Grouping Tests (ABO/Rh)** {-}
+*   **The Goal:** Establish the patient's (and donor's) identity in the two most critical blood group systems
+*   **What We Do**
+    *   **ABO:** Determine the ABO group (A, B, AB, or O). We do this two ways, and they **MUST** match:
+        *   **Forward Type:** Testing the patient's **Red Cells** with known **Anti-A and Anti-B** reagents to see which antigens (A or B) are present
+        *   **Reverse Type:** Testing the patient's **Plasma/Serum** with known **A1 and B Red Cells** to see which expected antibodies (Anti-A or Anti-B) are present (Landsteiner's Rule!)
+    *   **Rh(D):** Determine if the **D antigen** is present (+) or absent (-) on the patient's Red Cells using **Anti-D** reagent. Includes **Weak D testing** (an IAT procedure) if the initial D test is negative, especially crucial for donors and sometimes newborns
+*   **Why It Matters:** ABO incompatibility can cause rapid, severe intravascular hemolysis – potentially fatal. Rh(D) is highly immunogenic, and giving Rh(D)+ blood to an Rh(D)- person can easily stimulate anti-D production, causing issues with future transfusions or pregnancies (HDFN)
+
+## **Compatibility Tests (Antibody Screen & Crossmatch)** {-}
+*   **The Goal:** Ensure the patient's plasma won't attack the donor red cells we plan to transfuse. This is our pre-transfusion safety check
+*   **What We Do**
+    *   **Antibody Screen (Detection):** A broad search using the patient's **Plasma/Serum** against **Screening Cells** (Group O cells with a known profile of common, clinically significant antigens). We're looking for *unexpected* antibodies (beyond anti-A/anti-B). Usually performed using the **Indirect Antiglobulin Test (IAT)** principle (incubate at 37°C, wash, add AHG)
+        *   *Negative Screen:* Generally means no common antibodies detected
+        *   *Positive Screen:* An antibody is likely present; requires further investigation (Antibody ID)
+    *   **Crossmatch:** The *final* check. Mixes patient **Plasma/Serum** directly with red cells from the **specific Donor Unit** selected
+        *   *Types:* Can be Immediate Spin (IS - primarily ABO check), Antiglobulin (AHG - full IAT if antibodies are known/suspected), or Electronic (computer verification under strict criteria if screen is negative and other rules met)
+        *   *Result:* Compatible = Okay to transfuse. Incompatible = STOP, investigate!
+*   **Why It Matters:** Detects antibodies that could cause a hemolytic transfusion reaction. The crossmatch is the ultimate confirmation of ABO compatibility and detects patient antibodies reactive against the specific donor cells
+
+## **Antibody Identification & Clinical Significance** {-}
+*   **The Goal:** If the Antibody Screen is positive, we need to figure out *exactly which* antibody(ies) is/are present and whether they are likely to cause problems
+*   **What We Do**
+    *   **Identification:** Test patient **Plasma/Serum** against a larger **Panel** of reagent red cells with extensive, known antigen profiles. By matching the pattern of reactivity (positive and negative reactions) with the antigen profiles (using the "rule-out" method), we determine the antibody's specificity (e.g., anti-K, anti-Fya). May involve special techniques (enzymes, adsorption). An **Autocontrol** (patient plasma vs patient cells) helps distinguish allo- vs. autoantibodies
+    *   **Clinical Significance:** Assess if the identified antibody is capable of causing HTRs or HDFN. Key factors: Is it IgG? Does it react at 37°C? Is it known to cause hemolysis (e.g., Rh, Kell, Duffy, Kidd antibodies are usually significant; Lewis, P1, M often aren't)?
+*   **Why It Matters:** Identification is essential to select **antigen-negative** blood for transfusion. Assessing significance determines if this special selection is necessary
+
+## **Direct Antiglobulin Test (DAT)** {-}
+*   **The Goal:** Determine if the patient's red blood cells are coated with immunoglobulin (IgG) or complement components ***in vivo*** (inside their body *right now*)
+*   **What We Do:** Take patient **WASHED Red Blood Cells** and directly add **Anti-Human Globulin (AHG)** reagent (initially Polyspecific, then Monospecific anti-IgG and anti-C3d if positive). Agglutination indicates the cells were coated *before* the blood was drawn
+*   **Why It Matters:** This is NOT typically part of routine pre-transfusion testing but is crucial for investigating:
+    *   **Hemolytic Transfusion Reactions (HTRs)**
+    *   **Hemolytic Disease of the Fetus and Newborn (HDFN)**
+    *   **Autoimmune Hemolytic Anemias (AIHA)**
+    *   **Drug-Induced Hemolytic Anemias (DIHA)**
+    A positive DAT signals that something (antibody/complement) is attached to the red cells in the patient's circulation

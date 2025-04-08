@@ -1,0 +1,147 @@
+# Factors & Disorders {-}
+
+Think of **hemostasis and coagulation** as the body's emergency repair crew for blood vessels. When there's a breach, a complex process kicks in to form a stable plug (a clot) to stop bleeding. **Coagulation factors** are the specialized protein "workers" in this crew, acting in a precise sequence called the **coagulation cascade**. Understanding these factors, what happens when they're missing or dysfunctional (**disorders**), and how we measure their activity (**assay interpretation**) is absolutely vital in the lab and for patient care
+
+## **The Coagulation Factors: The Protein Crew** {-}
+
+These are mostly inactive enzyme precursors (**zymogens**) circulating in the plasma, produced primarily by the **liver**. When activated, they trigger the next step in the cascade. They are designated by Roman numerals (often assigned in order of discovery, not necessarily sequence of action)
+
+| Factor | Common Name(s)          | Key Characteristics                                    |
+| :----- | :---------------------- | :---------------------------------------------------- |
+| I      | Fibrinogen              | Precursor to fibrin; substrate for thrombin           |
+| II     | Prothrombin             | Zymogen precursor to thrombin (IIa); **Vit K dependent** |
+| III    | Tissue Factor (TF)      | Cellular receptor/cofactor; initiates extrinsic pathway |
+| IV     | Calcium (Ca++)          | Mineral cofactor required for multiple steps         |
+| V      | Proaccelerin, Labile Factor | Cofactor (Va) in the prothrombinase complex        |
+| VII    | Proconvertin, Stable Factor | Zymogen (VIIa activates X); **Vit K dependent**       |
+| VIII   | Antihemophilic Factor (AHF) | Cofactor (VIIIa) in the intrinsic tenase complex; carried by vWF |
+| IX     | Christmas Factor        | Zymogen (IXa activates X); **Vit K dependent**       |
+| X      | Stuart-Prower Factor    | Zymogen (Xa forms prothrombinase); **Vit K dependent** |
+| XI     | Plasma Thromboplastin Antecedent (PTA) | Zymogen (XIa activates IX)                       |
+| XII    | Hageman Factor          | Zymogen (contact activation); initiates intrinsic pathway *in vitro* |
+| XIII   | Fibrin Stabilizing Factor | Transglutaminase (XIIIa cross-links fibrin); zymogen |
+| -      | Prekallikrein (PK)      | Fletcher Factor; zymogen involved in contact activation |
+| -      | High Molecular Weight Kininogen (HMWK) | Fitzgerald Factor; cofactor in contact activation |
+
+**Key Points**
+
+*   **Vitamin K Dependency:** Factors **II, VII, IX, and X** (and regulatory proteins C & S) require Vitamin K for a post-translational modification (gamma-carboxylation) that allows them to bind calcium and phospholipid surfaces – essential for their function!
+*   **Liver Synthesis:** Most factors are made in the liver. Liver disease significantly impacts coagulation
+*   **Zymogens & Cofactors:** Most are zymogen proteases (inactive enzymes). Factors V, VIII, Tissue Factor, and HMWK are primarily cofactors that accelerate enzyme activity
+
+## **The Coagulation Cascade: A Simplified View** {-}
+
+Think of three intersecting pathways leading to the common goal: forming a stable fibrin clot
+
+*  **Extrinsic Pathway (Tissue Factor Pathway): The "Spark"**
+    *   **Initiation:** Triggered by damage exposing **Tissue Factor (Factor III)** on cells outside the blood vessels
+    *   TF binds to **Factor VII**, activating it to **VIIa**
+    *   The **TF/VIIa complex** is a potent activator of **Factor X** (to Xa) and, to a lesser extent, Factor IX
+    *   *Measured by:* **Prothrombin Time (PT)**
+*  **Intrinsic Pathway: The "Amplification Loop" (mainly in vitro)**
+    *   **Initiation (in vitro):** Activated when blood contacts a negatively charged surface (like the glass of a test tube), involving **Factor XII, Prekallikrein, and HMWK**
+    *   **Cascade:** XIIa -> XIa -> IXa
+    *   **Factor IXa**, along with its cofactor **VIIIa:** (activated by thrombin) and Ca++/phospholipids, forms the "intrinsic tenase" complex, which also activates **Factor X** to Xa
+    *   *Measured by:* **Activated Partial Thromboplastin Time (aPTT)**
+*  **Common Pathway: Where They Meet**
+    *   **Initiation:** Begins with the activation of **Factor X** to **Xa** (by either extrinsic or intrinsic pathways)
+    *   **Prothrombinase Complex:** Factor **Xa** combines with its cofactor **Va** (activated by thrombin), Ca++, and phospholipids on a platelet surface. This complex is incredibly efficient!
+    *   **Thrombin Generation:** The prothrombinase complex converts **Prothrombin (Factor II)** into active **Thrombin (Factor IIa)**. This is a MAJOR amplification step – a little Xa makes a lot of thrombin!
+    *   **Fibrin Formation:** Thrombin cleaves soluble **Fibrinogen (Factor I)** into insoluble **Fibrin monomers**, which spontaneously polymerize
+    *   **Clot Stabilization:** Thrombin also activates **Factor XIII** to **XIIIa**. Factor XIIIa cross-links the fibrin polymers, creating a strong, stable mesh clot
+    *   *Measured by:* Both **PT** and **aPTT** assess this pathway
+
+## **Coagulation Factor Disorders (Pathophysiology)** {-}
+
+These occur when one or more factors are deficient or dysfunctional, usually leading to bleeding (though sometimes thrombosis if regulatory factors are affected)
+
+*   **Inherited Disorders**
+    *   **Hemophilia A:** Deficiency of **Factor VIII**. X-linked recessive (mostly affects males). Severity correlates with factor level. Bleeding into joints (hemarthrosis), muscles
+    *   **Hemophilia B (Christmas Disease):** Deficiency of **Factor IX**. X-linked recessive. Clinically similar to Hemophilia A
+    *   **Von Willebrand Disease (vWD):** Deficiency or dysfunction of **von Willebrand Factor (vWF)**. Most common inherited bleeding disorder. vWF has two roles: 1) helps platelets adhere to injury sites, 2) carries and protects Factor VIII. Leads to platelet-type bleeding (mucocutaneous) *and* potentially Factor VIII deficiency symptoms. Various subtypes exist
+    *   **Other Factor Deficiencies:** Rare deficiencies of Factors I, II, V, VII, X, XI, XIII exist, with varying severity
+
+*   **Acquired Disorders**
+    *   **Liver Disease:** Decreased synthesis of most factors (except FVIII, which is also made elsewhere) and regulatory proteins. Leads to complex coagulopathy
+    *   **Vitamin K Deficiency:** Impaired synthesis of Factors II, VII, IX, X. Caused by poor diet, malabsorption, antibiotics, Warfarin therapy
+    *   **Disseminated Intravascular Coagulation (DIC):** Widespread activation of coagulation leads to consumption of factors and platelets -> bleeding AND thrombosis (clots in small vessels)
+    *   **Acquired Inhibitors (Antibodies):** Antibodies develop that neutralize specific factors (e.g., Factor VIII inhibitor) or interfere with tests (e.g., Lupus Anticoagulant - paradoxically associated with *thrombosis* despite prolonging aPTT)
+
+## **Coagulation Factor Assay Result Interpretation** {-}
+
+We use laboratory tests to screen for problems and pinpoint specific issues
+
+### **Screening Tests** {-}
+
+*   **Prothrombin Time (PT)**
+    *   **Measures:** Extrinsic (VII) and Common (X, V, II, I) pathways
+    *   **Reagent:** Thromboplastin (contains Tissue Factor and phospholipid) + Calcium
+    *   **Interpretation**
+        *   **Prolonged PT (with Normal aPTT):** Suggests **Factor VII deficiency/inhibitor**. Also prolonged by Vitamin K deficiency, Warfarin, liver disease (Factor VII has the shortest half-life)
+    *   **International Normalized Ratio (INR):** Standardized PT result used primarily for monitoring **Warfarin (Coumadin)** therapy. Calculated as `INR = (Patient PT / Mean Normal PT)^ISI` where ISI is the International Sensitivity Index specific to the reagent lot
+
+*   **Activated Partial Thromboplastin Time (aPTT)**
+    *   **Measures:** Intrinsic (XII, XI, IX, VIII, PK, HMWK) and Common (X, V, II, I) pathways. *Does NOT measure VII or XIII*
+    *   **Reagents:** An activator (e.g., silica, kaolin) + partial thromboplastin (phospholipid only, no TF) + Calcium
+    *   **Interpretation**
+        *   **Prolonged aPTT (with Normal PT):** Suggests deficiency/inhibitor in the Intrinsic pathway (**VIII, IX, XI, XII, PK, HMWK**). Common causes include Hemophilia A/B, Factor XI deficiency, presence of heparin, or a Lupus Anticoagulant. *Note: XII, PK, HMWK deficiency prolong aPTT but usually don't cause bleeding*
+*   **Thrombin Time (TT)**
+    *   **Measures:** Conversion of Fibrinogen (I) to Fibrin by Thrombin (IIa)
+    *   **Reagent:** Thrombin + Calcium
+    *   **Interpretation**
+        *   **Prolonged TT:** Suggests low fibrinogen (hypofibrinogenemia), abnormal fibrinogen (dysfibrinogenemia), or presence of **thrombin inhibitors** (like heparin or direct thrombin inhibitors)
+*   **Fibrinogen Assay**
+    *   **Measures:** Quantifies Factor I (Fibrinogen) level, usually functionally or immunologically
+    *   **Interpretation:** Low levels seen in DIC, severe liver disease, inherited deficiency
+
+### **Mixing Studies: Differentiating Deficiency vs. Inhibitor** {-}
+
+*   **This is CRUCIAL when PT or aPTT is prolonged!**
+*   **Principle:** Mix patient plasma 1:1 with Normal Pooled Plasma (NPP), which contains normal levels of all factors
+*   **Procedure:** Perform the prolonged test (PT or aPTT) on the mixture immediately and sometimes after incubation (e.g., 1-2 hours at 37°C)
+*   **Interpretation**
+    *   **Correction:** If the mixture result corrects into the normal range, it indicates a **Factor Deficiency**. The normal plasma supplied enough of the missing factor(s)
+    *   **No Correction / Partial Correction:** If the mixture result remains prolonged, it indicates the presence of an **Inhibitor** (e.g., an antibody like a factor inhibitor or Lupus Anticoagulant, or heparin). The inhibitor in the patient plasma is neutralizing the factors in the normal plasma
+    *   **Incubation Effect:** Some inhibitors (especially Factor VIII inhibitors) are time- and temperature-dependent. The mixing study might show initial correction but become prolonged again after incubation
+
+### **Specific Factor Assays** {-}
+
+*   **Principle:** Based on PT or aPTT. Patient plasma dilutions are added to plasma known to be *deficient* in only the specific factor being tested. The degree to which the patient plasma corrects the clotting time of the deficient plasma is proportional to the factor activity in the patient sample
+*   **Interpretation:** Results are reported as **% activity** compared to normal (100%). Helps pinpoint specific factor deficiencies identified by screening tests and mixing studies (e.g., confirming Hemophilia A with low Factor VIII activity)
+
+### **Summary Interpretation Patterns** {-}
+
+| PT Result    | aPTT Result  | Possible Causes                                                                                             | Next Steps Example              |
+| :----------- | :----------- | :---------------------------------------------------------------------------------------------------------- | :------------------------------ |
+| **Normal**   | **Normal**   | Usually rules out significant factor deficiencies in these pathways. Consider mild deficiency, **Factor XIII deficiency**, platelet disorder, mild vWD. | Factor XIII assay, PFA/platelet studies |
+| **Prolonged**| **Normal**   | **Factor VII deficiency/inhibitor**, early liver disease, early Vit K deficiency/Warfarin.                    | Mixing study (PT-based), Factor VII assay |
+| **Normal**   | **Prolonged**| **Factors VIII, IX, XI, XII deficiency/inhibitor**, vWD (if FVIII low), Heparin, Lupus Anticoagulant.          | Mixing study (aPTT-based), Factor assays (VIII, IX, XI, etc.), LA testing |
+| **Prolonged**| **Prolonged**| **Common pathway defect (X, V, II, I)**, combined pathway defects, severe liver disease, severe Vit K deficiency, DIC, supratherapeutic Warfarin/Heparin. | Mixing studies, Factor assays (X, V, II), Fibrinogen, D-dimer (for DIC) |
+| *TT Prolonged* | -          | Low/abnormal Fibrinogen, Heparin, Direct Thrombin Inhibitors.                                                | Fibrinogen assay, Reptilase time (not affected by heparin) |
+
+## **Blood Bank Relevance** {-}
+
+*   Understanding coagulation is essential for managing bleeding patients
+*   Blood components used to treat deficiencies include:
+    *   **Fresh Frozen Plasma (FFP):** Contains all coagulation factors
+    *   **Cryoprecipitate:** Concentrated source of Fibrinogen, Factor VIII, Factor XIII, vWF
+    *   **Factor Concentrates:** Specific purified factors (e.g., Factor VIII concentrate for Hemophilia A)
+    *   **Platelets:** Often needed in DIC or massive transfusion where platelet consumption occurs
+
+## **Key Terms** {-}
+
+*   **Hemostasis:** The physiological process that stops bleeding
+*   **Coagulation Factors:** Plasma proteins (mostly enzymes or cofactors) involved in the blood clotting cascade
+*   **Zymogen:** An inactive precursor of an enzyme
+*   **Coagulation Cascade:** A series of amplifying enzymatic reactions involving coagulation factors, leading to fibrin clot formation
+*   **Extrinsic Pathway:** Initiated by Tissue Factor; measured by PT
+*   **Intrinsic Pathway:** Initiated by contact activation (in vitro); measured by aPTT
+*   **Common Pathway:** Convergence point involving Factors X, V, II, I; measured by PT and aPTT
+*   **Prothrombin Time (PT):** Test measuring extrinsic and common pathways
+*   **International Normalized Ratio (INR):** Standardized PT result for Warfarin monitoring
+*   **Activated Partial Thromboplastin Time (aPTT):** Test measuring intrinsic and common pathways
+*   **Thrombin Time (TT):** Test measuring fibrinogen conversion to fibrin
+*   **Mixing Study:** Test using patient plasma mixed with normal plasma to differentiate factor deficiency (corrects) from inhibitor (does not correct)
+*   **Factor Assay:** Test quantifying the activity level of a specific coagulation factor
+*   **Inhibitor:** An antibody or substance that interferes with coagulation factor function or a coagulation test
+*   **Vitamin K Dependent Factors:** Factors II, VII, IX, X (require Vitamin K for synthesis/function)

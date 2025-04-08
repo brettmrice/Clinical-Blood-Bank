@@ -1,0 +1,113 @@
+# Composition & Function {-}
+
+Blood is a dynamic fluid tissue with diverse components working in concert. Plasma provides the transport medium and contains vital proteins for volume, clotting, and immunity. RBCs carry oxygen, WBCs fight infection, and platelets stop bleeding. Disruptions in the number or function of any of these components (pathophysiology) can lead to significant clinical problems, often necessitating the transfusion of specific blood products to restore normal physiological function
+
+## **Blood Composition: The Ingredients of Life's River** {-}
+
+Blood isn't just a simple red fluid; it's a complex connective tissue made up of two main parts:
+
+*  **Plasma (~55% of Blood Volume): The Liquid Matrix**
+    *   Think of plasma as the "broth" or the transport medium. It's mostly:
+        *   **Water (~92%):** Acts as the solvent, dissolves substances, and is crucial for maintaining blood volume and pressure
+        *   **Plasma Proteins (~7%):** These are vital!
+            *   **Albumin:** Most abundant protein, made by the liver. Key function is maintaining **oncotic pressure** (keeping fluid inside blood vessels). Also acts as a transport protein for various molecules (hormones, fatty acids, bilirubin)
+            *   **Globulins:** Diverse group including:
+                *   **Immunoglobulins (Antibodies):** Crucial for immune defense (made by plasma cells)
+                *   Transport Globulins: Carry specific molecules (e.g., transferrin carries iron, haptoglobin binds free hemoglobin)
+            *   **Fibrinogen:** Essential soluble precursor protein for blood clotting; converted to insoluble fibrin threads
+            *   **Other Clotting Factors:** Various proteins needed for the coagulation cascade
+            *   **Complement Proteins:** Part of the immune system cascade
+        *   **Other Solutes (~1%)**
+            *   **Electrolytes:** Ions like sodium (Na+), potassium (K+), chloride (Cl-), bicarbonate (HCO3-). Essential for osmotic balance, pH buffering, nerve and muscle function
+            *   **Nutrients:** Glucose, amino acids, lipids, vitamins – absorbed from digestion or released from storage, transported to cells
+            *   **Hormones:** Chemical messengers transported from glands to target organs
+            *   **Waste Products:** Urea, creatinine, bilirubin, CO2 – transported to organs for excretion (kidneys, liver, lungs)
+
+*  **Formed Elements (~45% of Blood Volume): The Cellular Components**
+    *   These are the cells and cell fragments suspended in the plasma:
+        *   **Red Blood Cells (RBCs / Erythrocytes):** By far the most numerous
+            *   **Structure:** Biconcave disc shape (increases surface area for gas exchange, allows flexibility), anucleated (lack a nucleus) in mature mammals
+            *   **Key Component:** **Hemoglobin (Hgb)**, the iron-containing protein that binds and transports oxygen
+        *   **White Blood Cells (WBCs / Leukocytes):** The immune defense force. Much less numerous than RBCs. There are several types:
+            *   **Granulocytes:** (Contain visible granules) Neutrophils (phagocytosis, bacterial defense), Eosinophils (parasite defense, allergic reactions), Basophils (histamine release, inflammation)
+            *   **Agranulocytes:** (Lack visible granules) Lymphocytes (specific immunity – T cells, B cells -> plasma cells, NK cells), Monocytes (mature into macrophages for phagocytosis and antigen presentation)
+        *   **Platelets (Thrombocytes):** Small, irregular-shaped cell fragments derived from large bone marrow cells (megakaryocytes). Not true cells
+
+## **Normal Function: What Blood Does Day-to-Day** {-}
+
+Blood has three overarching functions: Transport, Regulation, and Protection
+
+*  **Transport**
+    *   **Oxygen Delivery:** RBCs pick up O2 in the lungs and deliver it to tissues
+    *   **Carbon Dioxide Removal:** Blood carries CO2 (dissolved in plasma, bound to Hgb, or as bicarbonate ions) from tissues back to the lungs for exhalation
+    *   **Nutrient Distribution:** Plasma transports glucose, amino acids, fats, etc., from the digestive tract/liver to cells
+    *   **Hormone Transport:** Carries hormones from endocrine glands to target cells
+    *   **Waste Transport:** Moves metabolic wastes (urea, etc.) to the kidneys for excretion
+    *   **Heat Distribution:** Helps distribute heat throughout the body
+
+*  **Regulation**
+    *   **Temperature:** Absorbs and distributes heat, helping maintain core body temperature
+    *   **pH Balance:** Plasma proteins and bicarbonate buffer system help maintain blood pH within a narrow range (typically 7.35-7.45)
+    *   **Fluid Volume:** Plasma proteins (especially albumin) maintain oncotic pressure, preventing excessive fluid loss from capillaries into tissues. Total blood volume is key for maintaining blood pressure
+
+*  **Protection**
+    *   **Hemostasis (Preventing Blood Loss):** Platelets form a temporary plug at injury sites, and plasma clotting factors (like fibrinogen) create a stable fibrin clot
+    *   **Immunity (Fighting Infection):** WBCs defend against pathogens (bacteria, viruses, fungi, parasites) through phagocytosis, antibody production, and cell-mediated killing. Complement proteins assist
+
+## **Abnormal Physiology (Pathophysiology): When Things Go Wrong** {-}
+
+Deviations from normal composition and function lead to various disease states, many directly relevant to blood banking:
+
+*  **Plasma Abnormalities**
+    *   **Hypovolemia:** Reduced plasma volume (due to hemorrhage, dehydration) leads to low blood pressure, poor tissue perfusion. *Need for volume replacement (crystalloids, plasma)*
+    *   **Hypervolemia:** Excess plasma volume (kidney failure, heart failure, *transfusion overload*) leads to high blood pressure, edema, risk of TACO
+    *   **Low Plasma Proteins (e.g., low albumin):** Reduces oncotic pressure -> edema. Impaired transport
+    *   **Clotting Factor Deficiencies (e.g., Hemophilia, Liver Disease, DIC):** Impaired coagulation -> excessive bleeding. *Need for plasma products (FFP, Cryoprecipitate) or factor concentrates*
+    *   **Presence of Abnormal Proteins (Paraproteins):** Seen in conditions like Multiple Myeloma. Can cause rouleaux (RBC stacking interfering with testing), hyperviscosity
+    *   **Presence of Pathological Antibodies**
+        *   **Alloantibodies:** Against foreign antigens (e.g., anti-D, anti-K from previous transfusion/pregnancy) -> risk of HTR, HDFN. *Need for antigen-negative blood*
+        *   **Autoantibodies:** Against self-antigens (e.g., in AIHA) -> destruction of own RBCs, compatibility testing challenges
+
+*  **Red Blood Cell Abnormalities**
+    *   **Anemia (Low RBC count / Low Hemoglobin):** Reduced oxygen-carrying capacity. Symptoms: fatigue, pallor, shortness of breath
+        *   **Causes**
+            *   *Blood Loss:* Acute (trauma, surgery) or Chronic (GI bleed). *Need for RBC transfusion*
+            *   *Decreased Production:* Iron/B12/Folate deficiency, Aplastic anemia, Kidney disease (low erythropoietin), Bone marrow disorders. *May need RBC transfusion*
+            *   *Increased Destruction (Hemolysis):*
+                *   **Immune:** AIHA, HTR, HDFN. *May need RBC transfusion (compatible units crucial)*
+                *   **Non-Immune:** Mechanical heart valves, Infections (malaria), Inherited defects (Sickle Cell Disease, Thalassemia, Spherocytosis). *Sickle cell/Thalassemia may need chronic transfusion therapy*
+    *   **Polycythemia (High RBC Count):** Increased blood viscosity, risk of clotting (thrombosis)
+
+*  **White Blood Cell Abnormalities**
+    *   **Leukopenia (Low WBC Count)**
+        *   *Neutropenia:* Increased risk of severe bacterial infections. *May rarely require granulocyte transfusion in specific severe cases*
+    *   **Leukocytosis (High WBC Count):** Often indicates infection or inflammation. Very high counts (leukemia) can cause hyperviscosity
+    *   **Leukemias/Lymphomas:** Cancers of WBCs, leading to abnormal cell production and function. Can cause anemia and thrombocytopenia due to bone marrow crowding
+
+*  **Platelet Abnormalities**
+    *   **Thrombocytopenia (Low Platelet Count):** Increased risk of bleeding (petechiae, purpura, severe hemorrhage)
+        *   **Causes**
+            *   *Decreased Production:* Bone marrow failure, chemotherapy
+            *   *Increased Destruction:* Immune Thrombocytopenia (ITP), Heparin-Induced Thrombocytopenia (HIT), Disseminated Intravascular Coagulation (DIC), Thrombotic Thrombocytopenic Purpura (TTP), Alloimmune (Post-Transfusion Purpura-PTP, Neonatal Alloimmune Thrombocytopenia-NAIT)
+            *   *Sequestration:* Enlarged spleen
+        *   *Need for platelet transfusion if count is critically low or patient is bleeding*
+    *   **Thrombocytosis (High Platelet Count):** Increased risk of thrombosis
+    *   **Platelet Function Disorders (Thrombocytopathy):** Normal platelet count but abnormal function -> bleeding risk. *May need platelet transfusion*
+## **Key Terms** {-}
+
+*   **Plasma:** The liquid component of blood, containing water, proteins, electrolytes, nutrients, hormones, and waste products
+*   **Formed Elements:** The cellular components of blood: red blood cells, white blood cells, and platelets
+*   **Red Blood Cells (RBCs/Erythrocytes):** Anucleated, biconcave cells containing hemoglobin, responsible for oxygen transport
+*   **Hemoglobin (Hgb):** The iron-containing protein within RBCs that binds oxygen
+*   **White Blood Cells (WBCs/Leukocytes):** Diverse group of immune cells involved in defending the body against pathogens
+*   **Platelets (Thrombocytes):** Small cell fragments involved in blood clotting (hemostasis)
+*   **Albumin:** The most abundant plasma protein, crucial for maintaining oncotic pressure
+*   **Immunoglobulins (Antibodies):** Plasma proteins produced by B cells/plasma cells for specific immune defense
+*   **Fibrinogen:** A soluble plasma protein precursor that is converted to insoluble fibrin during blood clotting
+*   **Hemostasis:** The process of stopping bleeding, involving platelet plug formation and coagulation
+*   **Anemia:** A condition characterized by a deficiency in red blood cells or hemoglobin, resulting in reduced oxygen transport
+*   **Hemolysis:** The destruction of red blood cells
+*   **Thrombocytopenia:** A condition characterized by an abnormally low number of platelets in the blood
+*   **Neutropenia:** A condition characterized by an abnormally low number of neutrophils (a type of WBC)
+*   **Oncotic Pressure:** The pressure exerted by plasma proteins (mainly albumin) that tends to pull water into the circulatory system
+*   **Pathophysiology:** The study of the functional changes associated with or resulting from disease or injury

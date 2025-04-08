@@ -1,0 +1,70 @@
+# EDTA-Glycine Acid {-}
+
+**EDTA-Glycine Acid**, often shortened to **EGA**, is another reagent in our special toolkit, quite similar in purpose to Chloroquine Diphosphate (CDP), but using a different approach to achieve the same main goal: removing IgG antibodies stuck to red blood cells so we can phenotype them!
+
+Think of EGA as a quick "acid wash" designed to pop off those bound IgG antibodies without destroying the underlying red cell antigens we need to identify
+
+## **The Core Purpose: IgG Removal for Phenotyping (Primarily)** {-}
+
+Like CDP, the **main reason** we use EGA is to **dissociate bound IgG antibodies from red blood cells *in vitro***. This allows us to perform accurate **red blood cell phenotyping** on cells that originally had a **positive Direct Antiglobulin Test (DAT)** due to IgG coating
+
+Why? Because that IgG coating interferes with phenotyping, potentially causing false positives or blocking antigen sites. EGA treatment aims to create DAT-negative (or at least weaker) cells suitable for testing
+
+A secondary, less common use, is as an **elution method** itself. Since it works by lowering pH to dissociate antibody, the supernatant fluid after treatment contains the eluted antibody and can potentially be tested (after neutralization) – essentially performing an acid elution
+
+## **Mechanism of Action: Low pH Dissociation + EDTA** {-}
+
+EGA leverages two components:
+
+*  **Glycine-Acid:** This provides a **low pH environment** (acidic). Similar to acid elution techniques, this low pH disrupts the electrostatic and hydrogen bonds holding the IgG antibody to the red cell antigen, causing the antibody to detach
+*  **EDTA (Ethylenediaminetetraacetic acid):** This component is a **chelating agent**, meaning it binds calcium ions (Ca++). While the primary action is the low pH, EDTA's presence helps prevent any *in vitro* complement activation during the procedure (though this is less critical here than in sample collection, as we're usually starting with already-coated cells) and may contribute slightly to destabilizing certain interactions
+
+**Key Difference from CDP** CDP works near neutral pH, while EGA relies on a temporary drop to acidic pH to achieve dissociation
+
+## **The Procedure (Simplified)** {-}
+
+1.  **Wash Patient Cells** As always with these techniques, start by **thoroughly washing** the patient's EDTA red blood cells to remove all unbound plasma proteins
+2.  **Incubation with EGA** Mix the washed packed cells with the EGA reagent solution
+3.  **Incubation** Incubate the mixture, usually for a **short period** (often just 1-2 minutes, sometimes longer depending on protocol) at room temperature. The low pH works relatively quickly
+4.  **NEUTRALIZATION (CRITICAL STEP!)**: Immediately after the short incubation, the acidic reaction **must be stopped and neutralized** by adding a buffer solution (like Tris buffer or a specialized buffer). This brings the pH back up to physiological levels (~7.0) and is essential to prevent damage to the red cell antigens by prolonged acid exposure
+5.  **WASH Patient Cells (Extensively!)**: After neutralization, wash the EGA-treated cells thoroughly (e.g., 4-6 times) with saline to remove the EGA reagent, the buffer, and any dissociated antibody
+6.  **Quality Control (ESSENTIAL!)**: Before phenotyping:
+    *   **Check the DAT:** Perform a DAT (using Anti-IgG) on the treated cells. Aim for a negative result. If still positive, treatment may have been insufficient
+    *   **Check Antigen Integrity:** Test treated cells with known antisera to ensure common antigens weren't damaged by the acid treatment or inadequate neutralization
+7.  **Phenotyping** Use the washed, neutralized, DAT-negative (or weakly positive), QC-passed treated cells for antigen typing
+
+## **When Might EGA Be Chosen?** {-}
+
+*   As an **alternative to CDP** for removing IgG when phenotyping DAT-positive cells
+*   Some labs find it **faster** than the typical 2-hour incubation for CDP
+*   May sometimes be more effective than CDP at removing certain strongly bound IgG antibodies
+*   When preservation of Kell, Duffy, MNS, Kidd, and Rh antigens is needed (similar to CDP, unlike ZZAP)
+
+## **Advantages** {-}
+
+*   **Rapid:** Often requires shorter incubation times than CDP
+*   **Effective IgG Dissociation:** Generally good at removing bound IgG
+*   **Preserves Most Antigens:** Like CDP, it avoids the enzyme/thiol destruction seen with ZZAP, preserving Kell, Duffy, MNS, etc
+*   **Can Double as Elution:** The supernatant can potentially be used as an eluate
+
+## **Limitations and Disadvantages** {-}
+
+*   **Requires Rapid & Effective Neutralization:** This is the most critical step unique to EGA. Failure to neutralize properly after the acid exposure *will* damage red cell antigens, leading to false-negative typing results
+*   **Potential for Antigen Damage:** Even with proper neutralization, the brief exposure to low pH might subtly affect some antigens more than CDP treatment does, although it's generally considered safe for most common antigens
+*   **Incomplete Antibody Removal:** Like CDP, may not remove all IgG if it's very strongly bound
+*   **Extensive Washing Required:** Both before and after treatment
+*   **QC is Paramount:** Validating DAT negativity and antigen integrity post-treatment is non-negotiable
+*   **Less Effective for Complement:** Primarily targets IgG dissociation
+
+## **Comparison to CDP and ZZAP** {-}
+
+*   **EGA vs. CDP:** Both gently remove IgG, preserving most antigens. EGA is faster but requires a critical neutralization step due to low pH. CDP is slower but avoids the acid step. Choice often depends on lab preference, protocols, and sometimes which one works better for a specific stubborn antibody
+*   **EGA vs. ZZAP:** EGA preserves Kell, MNS, Duffy; ZZAP destroys them. ZZAP is better for complete antibody/complement removal regardless of antigen integrity; EGA is used when phenotyping for those specific antigen systems is required on DAT-positive cells
+
+## **Key Terms** {-}
+
+*   **EDTA-Glycine Acid (EGA):** A reagent solution used to dissociate IgG antibodies from red blood cells *in vitro* primarily through temporary exposure to low pH
+*   **Low pH Dissociation:** Using an acidic environment to break the non-covalent bonds between antibodies and antigens
+*   **Neutralization:** The critical step after EGA treatment where a buffer is added to restore the mixture to a physiological pH, preventing acid damage to antigens
+*   **Phenotyping DAT-positive Cells:** The main application for EGA and CDP – determining the red cell antigen profile when cells are coated with IgG
+*   **Antigen Preservation:** Maintaining the integrity of red cell antigens during treatment so they can be accurately typed afterwards

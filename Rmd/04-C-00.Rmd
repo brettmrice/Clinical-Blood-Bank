@@ -1,0 +1,85 @@
+# Special Tests & Reagents {-}
+
+These "special forces" – the specialized tests and reagents are tools we call upon when things get complex or we need deeper insights. These tools help us solve puzzles that routine testing might not fully address
+
+Here's an overview of these special tests and reagents:
+
+##  **Enzymes (e.g., Ficin, Papain)** {-}
+*   **Purpose:** Modify red cell surface antigens to enhance or destroy antibody reactivity
+*   **How:** Proteolytic enzymes cleave proteins/sialic acid residues
+*   **Why Use It:** Helps separate mixtures of antibodies (by destroying some antigens like MNS, Duffy) and enhances others (like Rh, Kidd, Lewis), aiding identification. *Crucial:* Always run in parallel with non-enzyme methods!
+
+##  **Enhancement Media (LISS, PEG, Albumin)** {-}
+*   **Purpose:** Increase speed and/or sensitivity of antibody-antigen reactions (IAT)
+*   **How:** Reduce zeta potential (Albumin), reduce ionic cloud (LISS), or exclude water to concentrate antibodies (PEG)
+*   **Why Use It:** Allows for shorter incubation times (LISS, PEG) and detection of weaker antibodies (especially PEG). *Crucial:* PEG can cause non-specific aggregation; don't read macroscopically before washing/AHG!
+
+##  **Lectins (e.g., Anti-A1 - *Dolichos*, Anti-H - *Ulex*)** {-}
+*   **Purpose:** Bind specifically to certain carbohydrate antigens
+*   **How:** Plant proteins act like highly specific antibodies for sugars
+*   **Why Use It:** Differentiating ABO subgroups (A1 vs. A2), identifying Bombay phenotype (Oh lacks H)
+
+##  **Adsorptions (Auto-, Allo-, RESt)** {-}
+*   **Purpose:** Remove specific antibodies ("sponges") from serum/plasma
+*   **How:** Incubate serum with RBCs possessing the target antigen(s)
+*   **Why Use It:** Primarily to remove interfering autoantibodies to detect underlying clinically significant alloantibodies. Auto-adsorption uses patient cells (if not recently transfused); Allo-adsorption uses selected donor cells
+
+##  **Elutions (Acid, Heat, Freeze-Thaw)** {-}
+*   **Purpose:** Recover antibodies bound to RBCs *in vivo* (positive DAT)
+*   **How:** Disrupt antigen-antibody bonds using pH changes, heat, or freezing
+*   **Why Use It:** To identify the specificity of the antibody coating the cells in HDFN, HTRs, or AIHA. *Crucial:* Thoroughly wash cells *before* elution! Test the *eluate*
+
+##  **Titrations** {-}
+*   **Purpose:** Semi-quantify the concentration (strength) of a known antibody
+*   **How:** Test serial dilutions of serum against antigen-positive cells (IAT)
+*   **Why Use It:** Primarily to monitor antibody levels in pregnant patients at risk for HDFN. Also helps characterize HTLA antibodies. *Crucial:* Parallel testing with previous sample is essential for monitoring
+
+##  **Cell Separations (Differential Centrifugation)** {-}
+*   **Purpose:** Isolate patient vs. donor RBCs from a mixed post-transfusion sample
+*   **How:** Centrifuge based on RBC density differences (age-related)
+*   **Why Use It:** Allows separate testing (DAT, phenotyping) of patient-enriched vs. donor-enriched cell fractions, vital in transfusion reaction workups
+
+##  **ELISA (Enzyme-Linked Immunosorbent Assay)** {-}
+*   **Purpose:** Highly sensitive detection of antigens or antibodies
+*   **How:** Uses enzyme-linked antibodies and substrate conversion to produce a measurable signal (color change) in microplate wells
+*   **Why Use It:** Primarily for mandatory infectious disease screening of donor blood (HIV, Hepatitis, etc.)
+
+##  **Molecular Techniques (Genotyping)** {-}
+*   **Purpose:** Predict RBC phenotype by analyzing the patient's DNA
+*   **How:** PCR amplification of blood group genes followed by various detection methods (probes, sequencing, microarrays)
+*   **Why Use It:** Overcomes serology limitations (positive DAT, recent transfusion), fetal genotyping (non-invasive), high-throughput donor typing, resolving discrepancies
+
+##  **Neutralization/Inhibition** {-}
+*   **Purpose:** Confirm antibody identity by inhibiting its reactivity with a soluble antigen "decoy."
+*   **How:** Add soluble antigen substance (e.g., Lewis substance, P1 substance, urine for Sda) to serum
+*   **Why Use It:** Confirms specificity of antibodies like anti-Lewis, anti-P1, anti-Sda, anti-Ch/Rg
+
+##  **Use of Thiol Reagents (DTT, 2-ME)** {-}
+*   **Purpose:** Differentiate IgM from IgG antibodies; destroy Kell system antigens
+*   **How:** Break disulfide bonds, dismantling IgM pentamers and denaturing Kell antigens
+*   **Why Use It:** Determine antibody class (clinical significance), remove IgM interference, identify Kell system antibodies
+
+##  **Immunofluorescence (IF)** {-}
+*   **Purpose:** Visualize antibody-antigen binding using fluorescent labels
+*   **How:** Fluorophore-labeled antibodies detected via fluorescence microscope or flow cytometer
+*   **Why Use It:** Primarily for platelet and granulocyte antibody testing, flow cytometry crossmatching (highly sensitive). Not routine for RBC serology
+
+##  **Solid Phase Red Cell Adherence (SPRCA)** {-}
+*   **Purpose:** Detect antibody-antigen reactions on a fixed surface (microplate well)
+*   **How:** Antigens or antibodies are coated on wells; adherence pattern of indicator cells determines result (diffuse layer = positive for Ab screen/ID)
+*   **Why Use It:** Alternative platform for antibody screen/ID, DAT, crossmatch; sensitive and automatable
+
+##  **Column Agglutination Test (CAT / Gel Test™)** {-}
+*   **Purpose:** Detect agglutination within a gel/bead matrix in a microtube
+*   **How:** Agglutinates get trapped during centrifugation; unagglutinated cells pellet at bottom
+*   **Why Use It:** Alternative platform for most routine tests (ABO/Rh, Screen, ID, DAT, XM); standardized, stable results
+
+##  **Chloroquine Diphosphate (CDP)** {-}
+*   **Purpose:** Gently remove IgG from DAT-positive RBCs *in vitro*
+*   **How:** Dissociates IgG near neutral pH
+*   **Why Use It:** To allow phenotyping of DAT-positive cells while preserving most antigens (including Kell, Duffy, MNS)
+
+##  **EDTA-Glycine Acid (EGA)** {-}
+*   **Purpose:** Remove IgG from DAT-positive RBCs *in vitro* using low pH
+*   **How:** Acidic environment dissociates IgG
+*   **Why Use It:** Alternative to CDP for phenotyping DAT-positive cells, often faster but requires critical neutralization step to prevent antigen damage

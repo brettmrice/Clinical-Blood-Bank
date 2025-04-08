@@ -1,0 +1,49 @@
+# Blood Physiology {-}
+
+This section covers the fundamentals of blood: how it moves (**Circulation**), how much there is (**Volume**), what it's made of (**Composition**), what it does (**Function**), and specifically how its main cellular component, the Red Blood Cell (RBC), generates energy (**Metabolism**) and stays viable (**Survival**). Understanding this normal physiology is essential for recognizing the **Pathophysiology** (abnormal function) that often necessitates blood transfusion
+
+## **The Big Picture: Blood Flow and Content** {-}
+
+*  **Circulation & Blood Volume**
+    *   Blood constantly circulates in a closed loop driven by the **heart** through **blood vessels** (arteries -> arterioles -> capillaries -> venules -> veins). This delivers O2/nutrients and removes CO2/waste
+    *   **Blood Volume:** is the total amount of blood (plasma + cells), normally around 5L in adults (or ~7-8% body weight). It's tightly regulated by kidneys and hormones (ADH, Aldosterone, ANP)
+    *   **Pathophysiology**
+        *   **Hypovolemia:** (low volume): Caused by hemorrhage, dehydration. Leads to low BP, poor perfusion, shock. *Requires volume/RBCs*
+        *   **Hypervolemia:** (high volume): Caused by fluid overload, kidney/heart failure. Leads to high BP, edema. *Risk of Transfusion-Associated Circulatory Overload (TACO)*
+
+*  **Blood Composition & Function**
+    *   **Plasma (~55%):** Mostly water, plus vital **proteins** (albumin for oncotic pressure; globulins/antibodies for immunity; fibrinogen/clotting factors for hemostasis), electrolytes, nutrients, hormones, waste
+    *   **Formed Elements (~45%)**
+        *   **Red Blood Cells (RBCs):** Most numerous; contain **hemoglobin** for O2 transport
+        *   **White Blood Cells (WBCs):** Immune defense (neutrophils, lymphocytes, etc.)
+        *   **Platelets:** Initiate clotting (hemostasis)
+    *   **Normal Functions:** Transport (O2, CO2, nutrients, waste), Regulation (pH, temp, fluid balance), Protection (clotting, immunity)
+    *   **Pathophysiology**
+        *   **Anemia:** Low RBCs/Hgb -> poor O2 delivery. *May need RBC transfusion*
+        *   **Clotting Disorders:** Factor deficiencies, low platelets (thrombocytopenia) -> bleeding. *Need plasma/platelets*
+        *   **Immune Issues:** Low WBCs (neutropenia -> infection risk); presence of allo/autoantibodies -> HTR/HDFN/AIHA
+
+## **Focus on the Red Blood Cell: Survival & Energy** {-}
+
+*  **RBC Survival**
+    *   Normal lifespan is **~120 days**. Limited because mature RBCs are **anucleated** (no nucleus) and can't repair themselves
+    *   Progressive decline in metabolism and membrane flexibility leads to removal by macrophages (Mononuclear Phagocyte System) in the **spleen** (**Extravascular Hemolysis**)
+    *   **Pathophysiology (Shortened Survival = Hemolytic Anemia)**
+        *   *Intrinsic Defects:* Membrane problems (Spherocytosis), Enzyme issues (G6PD, PK deficiency), Hemoglobin problems (Sickle Cell, Thalassemia)
+        *   *Extrinsic Factors:* **Immune** (HTR, HDFN, AIHA - causing extra- or intravascular hemolysis via antibodies/complement), Mechanical trauma, Infections, Toxins
+        *   *Storage Lesion:* Stored RBCs undergo changes (low ATP/2,3-DPG, membrane damage) reducing post-transfusion survival
+
+*  **RBC Metabolism**
+    *   RBCs rely on **anaerobic metabolism** using glucose
+    *   **Glycolysis:** Main pathway -> generates **2 ATP** per glucose. ATP powers ion pumps (Na+/K+) and maintains membrane shape/flexibility
+    *   **HMP Shunt:** Generates **NADPH**. NADPH fuels glutathione reductase -> protects against **oxidative damage** (ROS)
+    *   **Rapoport-Luebering Shunt:** Produces **2,3-DPG**. 2,3-DPG binds deoxyhemoglobin -> **decreases O2 affinity**, facilitating O2 release to tissues
+    *   **Methemoglobin Reductase:** Uses NADH (from glycolysis) to keep hemoglobin iron reduced (Fe2+), ensuring it can bind O2
+    *   **Pathophysiology**
+        *   *PK Deficiency:* Low ATP -> rigid cells -> hemolysis
+        *   *G6PD Deficiency:* Low NADPH -> vulnerable to oxidative stress -> episodic hemolysis
+        *   *Low 2,3-DPG (Storage):* Increased O2 affinity initially post-transfusion
+
+## **Connecting the Dots for Blood Banking** {-}
+
+This physiology underpins transfusion medicine: We transfuse components (RBCs, platelets, plasma) to correct deficits in composition or function caused by pathophysiology (e.g., anemia, bleeding). We must consider the recipient's circulatory status (volume) to avoid overload (TACO). We need transfused cells (especially RBCs) to survive adequately, which depends on their intrinsic health and metabolic state (affected by storage) and the recipient's immune system (risk of immune-mediated hemolysis). Understanding normal and abnormal blood physiology allows us to make safe and effective transfusion decisions

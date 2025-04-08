@@ -1,0 +1,93 @@
+# Temperature Requirements {-}
+
+One of the most critical aspects of maintaining blood product quality. Getting this right is absolutely non-negotiable, as deviations can quickly render a life-saving product useless or even harmful
+
+Think of it this way: each blood component is like a specific type of produce. Some need refrigeration, some need freezing, and some need to stay at room temperature – but *all* need their specific environment to stay "fresh" and safe
+
+## **Why is Temperature So Critical?** {-}
+
+*   **Preventing Bacterial Growth:** This is a major safety concern. While blood is collected aseptically, contamination *can* occur. Incorrect temperatures, especially storing refrigerated products too warm or room-temp products without proper care, can allow bacteria to proliferate to dangerous levels, potentially causing sepsis in the recipient
+*   **Maintaining Cell Viability & Function**
+    *   **Red Blood Cells (RBCs):** Need to stay metabolically active enough to survive but slow enough to last the storage period. Too warm, and they burn through energy too fast (accelerating the "storage lesion"). Too cold (freezing), and the cells lyse (hemolysis)
+    *   **Platelets:** Are very sensitive. Cold temperatures cause irreversible activation and shape changes, destroying their ability to function in clotting
+*   **Preserving Protein Function**
+    *   **Plasma (Coagulation Factors):** Freezing is essential to halt the degradation of delicate proteins, especially the labile coagulation factors (Factor V and Factor VIII) needed for clotting
+*   **Ensuring Product Potency & Efficacy:** If stored incorrectly, the component simply won't work as intended when transfused
+
+## **Specific Temperature Requirements for Major Components** {-}
+
+These ranges are mandated by the FDA and AABB standards:
+
+*   **Red Blood Cells (RBCs) - Liquid State**
+    *   **Temperature:** **1°C to 6°C**
+    *   **Rationale:** This narrow range is optimal for slowing RBC metabolism (preserving ATP and 2,3-DPG) without causing freezing or significant hemolysis. It also inhibits the growth of most bacteria
+    *   **Storage Device:** Monitored blood bank refrigerator
+
+*   **Platelets (Apheresis or Whole Blood Derived)**
+    *   **Temperature:** **20°C to 24°C** (Controlled Room Temperature)
+    *   **Critical Addition:** Requires **continuous gentle agitation** (on specialized rotators/flatbed agitators)
+    *   **Rationale:** Prevents cold-induced activation/aggregation. Agitation facilitates gas exchange (O₂ in, CO₂ out) and prevents clumping. This temperature *does* allow bacterial growth, making screening/detection crucial and limiting shelf life (typically 5-7 days)
+    *   **Storage Device:** Monitored platelet incubator/agitator
+
+*   **Plasma Components (Frozen State)**
+    *   **Includes:** Fresh Frozen Plasma (FFP), Plasma Frozen within 24 hours (PF24), Cryoprecipitate-Reduced Plasma
+    *   **Temperature:** **≤ -18°C** (FDA minimum requirement)
+    *   **Often Stored At:** **≤ -30°C** (Many centers prefer colder temps for better long-term preservation of labile factors)
+    *   **Rationale:** Freezing effectively stops enzymatic degradation, preserving coagulation factor activity for extended periods (typically 1 year or longer depending on the specific product and storage temp)
+    *   **Storage Device:** Monitored laboratory freezer (manual or auto-defrost protocols must be carefully managed)
+
+*   **Cryoprecipitated AHF (Antihemophilic Factor) - Frozen State**
+    *   **Temperature:** **≤ -18°C**
+    *   **Rationale:** Derived from FFP, this concentrate of Factor VIII, fibrinogen, Factor XIII, and von Willebrand factor requires freezing to maintain the potency of these specific proteins
+    *   **Storage Device:** Monitored laboratory freezer
+
+*   **Granulocytes**
+    *   **Temperature:** **20°C to 24°C** (Controlled Room Temperature)
+    *   **Critical Note:** **Do NOT agitate**. Store undisturbed
+    *   **Rationale:** Like platelets, granulocyte function is impaired by cold. Storage is very short-term (typically 24 hours) due to rapid loss of function and high risk of bacterial growth
+    *   **Storage Device:** Designated room temperature storage area (no special device needed beyond temperature control)
+
+*   **Frozen Red Blood Cells (Glycerolized)**
+    *   **Temperature:** **≤ -65°C** (Often stored in specialized ultra-low temperature freezers)
+    *   **Rationale:** Requires very low temperatures due to the cryoprotectant (glycerol) used. Allows for very long-term storage (10 years or more) for rare units or special circumstances
+    *   **Storage Device:** Monitored ultra-low temperature freezer
+
+## **Thawed Component Storage** {-}
+
+Once frozen products are thawed, their storage requirements and expiration times change drastically:
+
+*   **Thawed Plasma (FFP, PF24, etc.)**
+    *   **Temperature:** **1°C to 6°C**
+    *   **Expiration:** Typically **24 hours** from thawing. Can be relabeled as "Thawed Plasma" and stored for up to 5 days, but labile factors (V, VIII) will decrease significantly
+*   **Thawed Cryoprecipitate**
+    *   **Temperature:** **20°C to 24°C** (Room Temperature)
+    *   **Expiration:** Very short!
+        *   **Unpooled:** 6 hours from thawing
+        *   **Pooled (Open System):** 4 hours from pooling/thawing
+
+## **Monitoring and Alarms: The Safety Net** {-}
+
+Ensuring these temperatures are maintained isn't passive. It requires:
+
+*   **Calibrated Thermometers:** Continuously monitoring the *internal* temperature of storage units
+*   **Recording Devices:** Chart recorders or, more commonly now, electronic data logging systems that provide a continuous record of temperatures
+*   **Alarm Systems:** Audible and visual alarms that trigger *immediately* if the temperature goes outside the acceptable range (high or low)
+*   **Regular Checks:** Staff visually checking and manually recording temperatures at defined intervals (e.g., every 4-8 hours)
+*   **Emergency Procedures:** Backup power for critical units, action plans for equipment failures, and criteria for determining product suitability after a temperature deviation
+
+## **Temperature Deviations** {-}
+
+*   Any time a component is exposed to temperatures outside its required range, it's a **deviation**
+*   Clear policies must define how long a unit can be out and what temperature extremes are acceptable/unacceptable
+*   Investigation is required: How long was it out? What temperature did it reach?
+*   Outcome: Often results in the unit being **discarded** to ensure patient safety. Consultation with a medical director may be needed
+
+## Key Terms {-}
+
+*   **Storage Lesion:** The sum of biochemical and morphological changes occurring in stored Red Blood Cells (affected by temperature)
+*   **Hemolysis:** The rupture or destruction of red blood cells
+*   **Labile Factors:** Coagulation factors that degrade relatively quickly at warmer temperatures or during storage (esp. Factors V and VIII)
+*   **Agitation:** Continuous gentle mixing required for platelet storage
+*   **Cryoprotectant:** A substance (like glycerol) used to protect cells from damage during freezing and thawing
+*   **Validation:** Documented process confirming that equipment (like refrigerators, freezers, incubators) consistently operates within specified limits
+*   **Calibration:** Process of adjusting measuring devices (like thermometers) to ensure accuracy against a known standard
