@@ -35,7 +35,7 @@ This section covers the components derived from whole blood or apheresis
     *   **What:** RBCs or Platelets processed (usually by filtration) to remove most WBCs
     *   **Purpose:** Reduce febrile reactions (FNHTRs), HLA alloimmunization, and CMV transmission. Standard practice in many regions (Universal Leukoreduction)
     *   **Key:** Does not change expiry if done via closed system
-v**Irradiated Components**
+*   **Irradiated Components**
     *   **What:** Cellular components (RBCs, Platelets, Granulocytes) exposed to radiation
     *   **Purpose:** Inactivate donor T-lymphocytes to prevent Transfusion-Associated Graft-vs-Host Disease (TA-GVHD) in at-risk recipients
     *   **Key:** Mandatory for granulocytes, directed donations from relatives, immunocompromised pts. Shortens RBC expiry (original OR 28 days post-irradiation, whichever is first); does not change platelet expiry
