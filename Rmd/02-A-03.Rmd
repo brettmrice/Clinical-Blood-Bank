@@ -1,28 +1,28 @@
 # Blood Group Inheritance {-}
 
-Okay, let's tie together the basic genetics and molecular concepts to see how blood groups are actually passed down through families. Understanding inheritance patterns is fundamental to predicting phenotypes, resolving discrepancies, and understanding population frequencies
+Let's tie together the basic genetics and molecular concepts to see how blood groups are actually passed down through families. Understanding inheritance patterns is fundamental to predicting phenotypes, resolving discrepancies, and understanding population frequencies
 
-## Inheritance of Blood Groups: Passing the Torch {-}
+## **Inheritance of Blood Groups: Passing the Torch** {-}
 
 Inheritance in blood group systems follows the fundamental principles established by Gregor Mendel. We inherit one set of chromosomes (and thus, one allele for each gene locus) from our mother via the egg, and one set from our father via the sperm
 
-**1. Mendel's First Law: Law of Segregation**
+## **Mendel's First Law: Law of Segregation**
 *   **Concept:** During gamete formation (sperm and egg production), the two alleles for a trait separate (segregate) from each other, so each gamete carries only *one* allele for that trait
 *   **Blood Bank Relevance:** If a parent has the genotype *AO*, they don't pass on *AO* to their child. They will pass on *either* the *A* allele *or* the *O* allele in their sperm or egg. The other parent does the same. The combination determines the child's genotype
 
-**2. Mendel's Second Law: Law of Independent Assortment**
+## **Mendel's Second Law: Law of Independent Assortment**
 *   **Concept:** Alleles for *different* traits (genes located on different chromosomes or very far apart on the same chromosome) are inherited independently of one another
 *   **Blood Bank Relevance:** The inheritance of your ABO type (gene on chromosome 9) is independent of your RhD type (gene on chromosome 1). Getting an *A* allele doesn't make you more or less likely to get a *D* allele
 *   **Important Exception - Linkage:** This law doesn't strictly apply to genes located *close together* on the same chromosome. These are called **linked genes**
 
-**3. Linked Genes and Haplotypes**
+## **Linked Genes and Haplotypes**
 *   **Concept:** Genes physically close together on the same chromosome tend to be inherited together as a block because the chance of a crossover (recombination) event happening between them during meiosis is low
 *   **Haplotype:** A set of linked alleles inherited together on the same chromosome
 *   **Blood Bank Relevance**
     *   **Rh System:** The *RHD* and *RHCE* genes are very tightly linked on chromosome 1. We inherit a block of Rh alleles from each parent. For example, a common haplotype in Caucasians is *DCe*. Someone might inherit *DCe* from one parent and *dce* from the other. Their genotype is often written as *DCe/dce*. They pass on *either* the *DCe* combination *or* the *dce* combination to their children
     *   **MNS System:** The *GYPA* (coding for M/N antigens) and *GYPB* (coding for S/s antigens) genes are closely linked on chromosome 4. Common haplotypes include *MS*, *Ms*, *NS*, and *Ns*. Someone with genotype *MS/Ns* inherited *MS* from one parent and *Ns* from the other
 
-**4. Predicting Inheritance: The Punnett Square**
+## **Predicting Inheritance: The Punnett Square**
 *   A Punnett square is a simple grid used to predict the possible genotypes of offspring based on the genotypes of the parents
 *   **How it works**
     1.  Determine the possible alleles each parent can contribute in their gametes (based on their genotype and the Law of Segregation)
@@ -65,12 +65,12 @@ Inheritance in blood group systems follows the fundamental principles establishe
     *   **Predicted Offspring Genotypes:** 50% MM, 50% MN
     *   **Predicted Offspring Phenotypes:** 50% M, 50% MN
 
-**5. Dominance, Recessiveness, and Codominance in Inheritance**
+## **Dominance, Recessiveness, and Codominance in Inheritance**
 *   How alleles interact (as discussed in Basic Genetics) determines the resulting phenotype from the inherited genotype
 *   **Codominance (e.g., A and B, M and N):** If alleles like *A* and *B* are inherited (*AB* genotype), both are expressed (AB phenotype)
 *   **Dominance/Recessiveness (e.g., RhD, ABO O):** If a dominant allele (*D*) is inherited with a recessive one (*d*), the dominant phenotype (RhD Pos) is expressed (*Dd* genotype). The recessive phenotype (RhD Neg) only appears when two recessive alleles are inherited (*dd* genotype). The *O* allele is recessive to *A* and *B*
 
-**6. Why Understanding Inheritance Matters in Blood Bank**
+## **Why Understanding Inheritance Matters in Blood Bank**
 *   **Family Studies:** Helps resolve complex antibody problems or identify compatible family members for transfusion, especially for patients with multiple antibodies or antibodies to high-prevalence antigens
 *   **Predicting HDFN Risk:** Knowing the parental genotypes (especially for RhD, Kell, etc.) helps predict the likelihood of the fetus inheriting an antigen the mother lacks, potentially leading to HDFN. Fetal genotyping directly assesses this
 *   **Understanding Antibody Likelihood:** A person will generally only make antibodies to antigens they *lack*. Inheritance patterns dictate which antigens are present or absent. For example, an O person inherited *O* from both parents and thus lacks A and B antigens, making them capable of forming anti-A and anti-B
@@ -79,7 +79,7 @@ Inheritance in blood group systems follows the fundamental principles establishe
 
 In essence, the inheritance patterns dictated by basic Mendelian genetics, combined with our understanding of dominance/codominance and linkage, provide the framework for understanding how blood group diversity arises and is maintained within families and populations
 
-## Key Terms {-}
+## **Key Terms** {-}
 
 *   **Law of Segregation:** Mendel's first law, stating that the two alleles for a trait separate during gamete formation, so each gamete receives only one allele
 *   **Law of Independent Assortment:** Mendel's second law, stating that alleles for different traits (on different chromosomes or far apart on the same chromosome) are inherited independently of each other
